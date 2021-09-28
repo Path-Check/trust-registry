@@ -1,7 +1,9 @@
 import sslRedirect from 'heroku-ssl-redirect';
 import express from 'express';
-
 const app = express();
+
+// enable ssl redirect
+app.use(sslRedirect.default());
 
 const port = process.env.PORT || "8000";
 
