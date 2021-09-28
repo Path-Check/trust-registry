@@ -1,6 +1,8 @@
-# Trust Registry for COVID Credentials by the PathCheck Foundation
+# Trust Registry by the PathCheck Foundation
 
-This is an implemenation of [ToIP's Trust Registry Protocol V1 Specification](https://wiki.trustoverip.org/display/HOME/ToIP+Trust+Registry+Protocol+Specification).
+This is an implemenation of [ToIP's Trust Registry Protocol V1 Specification](https://wiki.trustoverip.org/display/HOME/ToIP+Trust+Registry+Protocol+Specification) to serve as main repository of trusted issuers of COVID Credentials using multiple standards (EU's DCC, DIVOC, Smart Health Cards, Good Health Pass, etc). 
+
+Entities selected to be in this server have been validated by the PathCheck Foundation or one of its partners. 
 
 # Development Overview
 
