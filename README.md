@@ -18,9 +18,11 @@ To run, do:
 
 ## Testing 
 
-Create a new QR code using the following command
+Check an issuer with the following command
 
-`curl http://localhost:8000/query/issuer?governanceFrameworkURI=SmartHealthCards&identifier=https://myvaccinerecord.cdph.ca.gov/creds&credentialType=https://smarthealth.cards%23immunization`
+````
+curl http://localhost:8000/query/issuer?governanceFrameworkURI=SmartHealthCards&identifier=https://myvaccinerecord.cdph.ca.gov/creds&credentialType=https://smarthealth.cards%23immunization
+```
 
 
 ## Generating new Version
