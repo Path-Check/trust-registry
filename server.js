@@ -26,7 +26,9 @@ const DBIssuers = {
     "SmartHealthCards": {
         "https://myvaccinerecord.cdph.ca.gov/creds": {
             "https://smarthealth.cards#immunization" : {
-                displayName: "State of California",
+                displayName: {
+                    en: "State of California"
+                },
                 entityType: "issuer",
                 status: "current",   
                 validFromDT: new Date(), 
