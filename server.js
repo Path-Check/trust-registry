@@ -20,6 +20,9 @@ const port = process.env.PORT || "8000";
  *  status:                 One of [current, expired, terminated, revoked]
  *  validFromDT:            date-time
  *  validUntilDT:           date-time
+ * 
+ *  extras: 
+ *  displayName:            i18n Display Names
  */
 
 const DBIssuers = {
