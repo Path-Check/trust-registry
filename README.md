@@ -4,6 +4,13 @@ This is an implemenation of [ToIP's Trust Registry Protocol V1 Specification](ht
 
 Entities selected to be in this server have been validated by the PathCheck Foundation or one of its partners. 
 
+# Live API Server
+
+Check an issuer live on our databases: 
+```
+https://registry.pathcheck.org/query/issuer?governanceFrameworkURI=SmartHealthCards&identifier=https://myvaccinerecord.cdph.ca.gov/creds&credentialType=https://smarthealth.cards%23immunization
+```
+
 # Development Overview
 
 This is a NodeJS + Express app
@@ -20,7 +27,7 @@ To run, do:
 
 Check an issuer with the following command
 
-````
+```
 curl http://localhost:8000/query/issuer?governanceFrameworkURI=SmartHealthCards&identifier=https://myvaccinerecord.cdph.ca.gov/creds&credentialType=https://smarthealth.cards%23immunization
 ```
 
