@@ -1,9 +1,7 @@
-const express = require("express");
-const app = express();
+import sslRedirect from 'heroku-ssl-redirect';
+import express from 'express';
 
-var bodyParser = require("body-parser");
-app.use(bodyParser.urlencoded({extended: true}));
-app.use(bodyParser.json());
+const app = express();
 
 const port = process.env.PORT || "8000";
 
