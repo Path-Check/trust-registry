@@ -1,0 +1,30 @@
+{
+  "name": "@pathcheck/simple-trust-registry",
+  "version": "0.0.1",
+  "description": "A Simple Trust Registry Server for COVID Credentials",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon ./server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Path-Check/simple-trust-registry"
+  },
+  "bugs": {
+    "url": "https://github.com/Path-Check/simple-trust-registry/issues"
+  },
+  "keywords": [],
+  "author": "Vitor Pamplona",
+  "license": "GPL-3.0-only",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cross-fetch": "^3.1.4",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
