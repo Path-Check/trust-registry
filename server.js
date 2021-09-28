@@ -3,6 +3,9 @@ import express from 'express';
 
 const app = express();
 
+// enable ssl redirect
+app.use(sslRedirect());
+
 const port = process.env.PORT || "8000";
 
 // Trust Over IP Trust Registry Protocol (RESTful API)
