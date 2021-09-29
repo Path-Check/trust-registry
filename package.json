@@ -5,6 +5,7 @@
   "main": "server.mjs",
   "scripts": {
     "dev": "nodemon --experimental-json-modules ./server.mjs",
+    "test": "mocha --experimental-json-modules tests/*.mjs --exit"
   },
   "repository": {
     "type": "git",
@@ -17,10 +18,13 @@
   "author": "Vitor Pamplona",
   "license": "GPL-3.0-only",
   "dependencies": {
+    "chai-http": "^4.3.0",
     "express": "^4.17.1",
     "heroku-ssl-redirect": "^0.1.1"
   },
   "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.4.0",
     "nodemon": "^2.0.12"
   },
   "engines": {
