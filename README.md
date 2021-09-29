@@ -31,6 +31,9 @@ Check an issuer with the following command
 curl http://localhost:8000/query/issuer?governanceFrameworkURI=SmartHealthCards&identifier=https://myvaccinerecord.cdph.ca.gov/creds&credentialType=https://smarthealth.cards%23immunization
 ```
 
+To run all tests, do: 
+
+`npm tests`
 
 ## Generating new Version
 
