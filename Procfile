@@ -1,1 +1,1 @@
-web: node server.js
+web: node --experimental-json-modules server.mjs

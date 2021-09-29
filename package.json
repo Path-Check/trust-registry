@@ -2,10 +2,9 @@
   "name": "@pathcheck/simple-trust-registry",
   "version": "0.0.1",
   "description": "A Simple Trust Registry Server for COVID Credentials",
-  "type": "module",
-  "main": "server.js",
+  "main": "server.mjs",
   "scripts": {
-    "dev": "nodemon ./server.js"
+    "dev": "nodemon --experimental-json-modules ./server.mjs",
   },
   "repository": {
     "type": "git",
