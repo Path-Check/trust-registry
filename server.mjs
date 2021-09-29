@@ -18,8 +18,13 @@ const port = process.env.PORT || "8000";
  *  DIDDocument:            Provides a URI that resolves to the DID Document for the Identifier.
  *  entityType:             One of [issuer, verifier, trustregistry]
  *  status:                 One of [current, expired, terminated, revoked]
- *  validFromDT:            date-time
- *  validUntilDT:           date-time
+ *    Current (active)
+ *    Expired (not renewed after the previous valid registration period)
+ *    Terminated (voluntary termination by the registered party)
+ *    Revoked (involuntary termination by the governing authority)
+ *  statusDetail            Optional free text that expands on the status parameter.
+ *  validFromDT:            Indicates that the Identifier status applies at the indicated time. 
+ *  validUntilDT:           Indicates the the Identifier validity ends/ended at this date and time. 
  *
  *  extras:
  *  displayName:            i18n Display Names
