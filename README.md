@@ -25,12 +25,10 @@ Entities selected to be in this server have been validated by the PathCheck Foun
 - [x] Government of Czechia
 - [x] Government of Denmark
 - [x] Government of Estonia
-- [x] Government of Faroe Islands
 - [x] Government of Finland
 - [x] Government of France
 - [x] Government of Germany
 - [x] Government of Greece
-- [x] Government of Holy See (Vatican City State)
 - [x] Government of Hungary
 - [x] Government of Iceland
 - [x] Government of India
@@ -44,7 +42,6 @@ Entities selected to be in this server have been validated by the PathCheck Foun
 - [x] Government of Malta
 - [x] Government of Monaco
 - [x] Government of Morocco
-- [x] Government of Netherlands
 - [x] Government of North Macedonia
 - [x] Government of Norway
 - [x] Government of Panama
@@ -59,9 +56,12 @@ Entities selected to be in this server have been validated by the PathCheck Foun
 - [x] Government of Sri Lanka
 - [x] Government of Sweden
 - [x] Government of Switzerland
+- [x] Government of the Faroe Islands
+- [x] Government of the Holy See (Vatican City State)
+- [x] Government of the Netherlands
+- [x] Government of the United Kingdom
 - [x] Government of Turkey
 - [x] Government of Ukraine
-- [x] Government of United Kingdom
 - [x] Government of Uruguay
 - [x] Adventist Health
 - [x] Advocate Aurora Health
