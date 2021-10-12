@@ -1049,14 +1049,24 @@
         "didDocument": "-----BEGIN CERTIFICATE-----\nMIIHUTCCBQmgAwIBAgIQTrNSYxxkgkYkdCLUyN9QuTA9BgkqhkiG9w0BAQowMKANMAsGCWCGSAFlAwQCA6EaMBgGCSqGSIb3DQEBCDALBglghkgBZQMEAgOiAwIBQDBbMQswCQYDVQQGEwJERTEVMBMGA1UEChMMRC1UcnVzdCBHbWJIMRwwGgYDVQQDExNELVRSVVNUIENBIDItMiAyMDE5MRcwFQYDVQRhEw5OVFJERS1IUkI3NDM0NjAeFw0yMTA2MDMxMDUyNTNaFw0yMzA2MDcxMDUyNTNaMIHrMQswCQYDVQQGEwJERTEdMBsGA1UEChMUUm9iZXJ0IEtvY2gtSW5zdGl0dXQxJDAiBgNVBAsTG0VsZWt0cm9uaXNjaGVyIEltcGZuYWNod2VpczEdMBsGA1UEAxMUUm9iZXJ0IEtvY2gtSW5zdGl0dXQxDzANBgNVBAcTBkJlcmxpbjEOMAwGA1UEEQwFMTMzNTMxFDASBgNVBAkTC05vcmR1ZmVyIDIwMRkwFwYDVQRhExBEVDpERS0zMDIzNTMxNDQ1MRUwEwYDVQQFEwxDU00wMjYzODI5NjgxDzANBgNVBAgTBkJlcmxpbjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABIDIaTpLXww+1Z+1pvgZR2mxW6TrNlJgla7SKXDhaSJa/PtsBz+f1UlGbJRMUqNvOH6cLqCeXinIw7r5Qj42TYWjggLpMIIC5TAfBgNVHSMEGDAWgBRxEDKudHF7VI7x1qtiVK78PsC7FjAtBggrBgEFBQcBAwQhMB8wCAYGBACORgEBMBMGBgQAjkYBBjAJBgcEAI5GAQYCMIH+BggrBgEFBQcBAQSB8TCB7jA3BggrBgEFBQcwAYYraHR0cDovL2QtdHJ1c3QtY2EtMi0yLTIwMTkub2NzcC5kLXRydXN0Lm5ldDBCBggrBgEFBQcwAoY2aHR0cDovL3d3dy5kLXRydXN0Lm5ldC9jZ2ktYmluL0QtVFJVU1RfQ0FfMi0yXzIwMTkuY3J0MG8GCCsGAQUFBzAChmNsZGFwOi8vZGlyZWN0b3J5LmQtdHJ1c3QubmV0L0NOPUQtVFJVU1QlMjBDQSUyMDItMiUyMDIwMTksTz1ELVRydXN0JTIwR21iSCxDPURFP2NBQ2VydGlmaWNhdGU/YmFzZT8wcAYDVR0gBGkwZzAJBgcEAIvsQAEBMFoGCysGAQQBpTQCgRYFMEswSQYIKwYBBQUHAgEWPWh0dHA6Ly93d3cuZC10cnVzdC5uZXQvaW50ZXJuZXQvZmlsZXMvRC1UUlVTVF9DU01fUEtJX0NQUy5wZGYwgfAGA1UdHwSB6DCB5TCB4qCB36CB3IZpbGRhcDovL2RpcmVjdG9yeS5kLXRydXN0Lm5ldC9DTj1ELVRSVVNUJTIwQ0ElMjAyLTIlMjAyMDE5LE89RC1UcnVzdCUyMEdtYkgsQz1ERT9jZXJ0aWZpY2F0ZXJldm9jYXRpb25saXN0hjJodHRwOi8vY3JsLmQtdHJ1c3QubmV0L2NybC9kLXRydXN0X2NhXzItMl8yMDE5LmNybIY7aHR0cDovL2Nkbi5kLXRydXN0LWNsb3VkY3JsLm5ldC9jcmwvZC10cnVzdF9jYV8yLTJfMjAxOS5jcmwwHQYDVR0OBBYEFOUf3iWd2Hum+D068MgwNqU55MGHMA4GA1UdDwEB/wQEAwIGwDA9BgkqhkiG9w0BAQowMKANMAsGCWCGSAFlAwQCA6EaMBgGCSqGSIb3DQEBCDALBglghkgBZQMEAgOiAwIBQAOCAgEAgNEC7rkQnh/72wrtGhZx/A5dHXieX5Kp4VM6uAS+AnZE/WHsDsg6tOB/8jD6hAAHOAemg0GgUHrpM/A4uwTX/9lJtXF/p+3Eiv54keF2qnv9cZybLmZL6rC7OytA7x3ElhFxfV1SumRqikW5ddb7H/zAeykKTckomWNG2PEDwB3F5HF5L8MGOYmqEI1X+mdI8d7L+4E2z5OXYjB0vh6n+R05MD23LM8EEfN/WkV44toLVAp/tLpln4MmE6sVhXkx2p7LqyRzzOyBI46lccBqGgriWm5rJre9YYO0Il7jAFC1SJNxmTtGxwK9VebxzNeqlVE9lVv/iRSQu+1FwJ5yqUGLjYUbbWTA1U6TV5kgLg7MO3ThBrUVkJDw7f5xewuXfWXueFDW94lS7Er+xsXiHPqsOqDrbDqc+GwcZK5lCKTt/df2W6lWWXR+TFyqI6CEcjFLnzV1t+BuRnyhZcIYcUyNDPUVw7cuh81eN4jORCKXwvThRd3CAFIn8F28/C487aAQDPXTFCL0xpPbbNaN/AqUY5LWGfCuUWrVnVCaOCPfmCijHbKMYjbebybicostdndQl2PfWdCxNSIV2QSTvgiOSYnL8LcV1crE9eoeXN0CYFgj+phNveOwXrA4N8mXIe2uQfW7gKW4vqS0um0fdPeu539Hhpp8sI2LdsEh7EA=\n-----END CERTIFICATE-----"
       }
     },
-    "25QCxBrBJvA=": {
+    "0oCvyNKB210=": {
       "ALL": {
-        "displayName": { "en": "Gov of Croatia" },
+        "displayName": { "en": "Gov of France" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-05-20T13:17:46",
-        "validUntilDT": "2023-05-20T13:17:45",
-        "didDocument": "-----BEGIN CERTIFICATE-----\nMIICwDCCAmagAwIBAgIIPR9jkXY7CPEwCgYIKoZIzj0EAwIwPTELMAkGA1UEBhMCSFIxEzARBgNVBAoMCkFLRCBkLm8uby4xGTAXBgNVBAMMEENyb2F0aWEgREdDIENTQ0EwHhcNMjEwNTIwMTMxNzQ2WhcNMjMwNTIwMTMxNzQ1WjA/MQswCQYDVQQGEwJIUjETMBEGA1UECgwKQUtEIGQuby5vLjEbMBkGA1UEAwwSQ3JvYXRpYSBER0MgRFMgMDAxMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEt5hwD0cJUB5TeQIAaE7nLjeef0vV5mamR30kjErGOcReGe37dDrmFAeOqILajQTiBXzcnPaMxWUd9SK9ZRexzaOCAUwwggFIMB8GA1UdIwQYMBaAFDErHKPIgGXhH70EktAlPHyGj1LRMC8GA1UdEgQoMCaBEkNyb2F0aWEuREdDQGRnYy5ocqQQMA4xDDAKBgNVBAcMA0hSVjAvBgNVHREEKDAmgRJDcm9hdGlhLkRHQ0BkZ2MuaHKkEDAOMQwwCgYDVQQHDANIUlYwZwYDVR0fBGAwXjAtoCugKYYnaHR0cDovL2RnYzEuZGdjLmhyL2Nyb2F0aWEtZGdjLWNzY2EuY3JsMC2gK6AphidodHRwOi8vZGdjMi5kZ2MuaHIvY3JvYXRpYS1kZ2MtY3NjYS5jcmwwHQYDVR0OBBYEFB55yLnz+T3ShQFs345mxQEJZb7TMCsGA1UdEAQkMCKADzIwMjEwNTIwMTMxNzQ2WoEPMjAyMTExMTYxMzE3NDZaMA4GA1UdDwEB/wQEAwIHgDAKBggqhkjOPQQDAgNIADBFAiANYlqMzCo7P6/FbwxS88MCB43CIBgfpJDmQ+D120Ov0gIhALJNQbk8HdHnkd31GV88U1N4YghHSZslLY8eZX8wSYR/\n-----END CERTIFICATE-----"
+        "validFromDT": "2021-12-14T23:00:00",
+        "validUntilDT": "2023-12-14T23:00:00",
+        "didDocument": "-----BEGIN CERTIFICATE-----\nMIIEGzCCAgOgAwIBAgIUftzSPzs3lKyxin4HzGAPSInAlHwwDQYJKoZIhvcNAQELBQAwMjELMAkGA1UEBhMCRlIxDTALBgNVBAoMBEdvdXYxFDASBgNVBAMMC0NTQ0EtRlJBTkNFMB4XDTIxMTIxNDIzMDAwMFoXDTIzMTIxNDIzMDAwMFowRTELMAkGA1UEBhMCRlIxDTALBgNVBAoMBENOQU0xEjAQBgNVBAsMCTE4MDAzNTAyNDETMBEGA1UEAwwKRFNDX0ZSXzAyNjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABLhhqjLnNzSt2PXyPNqm61gIjSiiimJupy6Ym4i/gwUSC1tvuXBV2dfRy32ysLQMclTrL9jesdlUvM5JWErRxhKjgeAwgd0wHQYDVR0OBBYEFJRMukUQrFVGUPhjzucJOPTIs0uEMB8GA1UdIwQYMBaAFL6KLtbJ+SBOOicDCJdN7P3ZfcXmMAwGA1UdEwEB/wQCMAAwDgYDVR0PAQH/BAQDAgeAMC0GA1UdHwQmMCQwIqAgoB6GHGh0dHA6Ly9hbnRzLmdvdXYuZnIvY3NjYV9jcmwwGAYDVR0gBBEwDzANBgsqgXoBgUgfAwkBATA0BggrBgEFBQcBAQQoMCYwJAYIKwYBBQUHMAKGGGh0dHBzOi8vYW50LmdvdXYuZnIvY3NjYTANBgkqhkiG9w0BAQsFAAOCAgEAsalnKHPbwm0FnkhrFHCfZt79nvNRML5k/gPI0Ab70inRKqqTETv/T+l0xtSBNbU5cOu2SdymWqaYZDiDdfKhmw1MBJsieP/+Q7yIAHt/RYlhOwMoPcxsTHtrSpW9kRYH77OYX6Ou9davXN7Pd4sv0Itl33FYxoXhHv1lPA2IEf19zCxgqeStforkAqm3jD6tlEc+gfCUnKsqJetIdAeKVYt5qcz/hmCFnl+GgSVswG9SqogySJD1F9Uesvi0k1laWphmU5IkxHymJqy7W57FgayiIrG1cUtuVcPaCxZ9eNWYoM03p6NdVcSr7qkGuglzkgtzxk5ncruJ2+NRUeUEBlwTtzI5QIcW1w0lnOXbLrvx40VyhJhY3ixZcd3+TiHhMxohPTA5ECg35u3q5/xBA0XF9nyiJ66Zr0WUy722QlGzOQyChGLeE/yHsBahNEq1Kc3L4IrqZu/TB54qM6xYKMllli7CCyzYH6NzMYJeHrrjNyeakX0riniPpKvuW08mwReqsuZ8uS05JoR93z5eSxJewvdUlirrBQPZEjA6f/+3fkMT21JJp4nuGDJQSwYXWTlxOI8jwzi0k887yNFIeTgu6PVRqzOGQF7JR/n0VbwKASOAvOnvG8nNWhAhdYyzDfQ71KAcDkx+rRu0mgmdtgbEUA//B++J5sZjHUlb8Ig=\n-----END CERTIFICATE-----"
+      }
+    },
+    "14QQ1b6JFLk=": {
+      "ALL": {
+        "displayName": { "en": "Gov of France" },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2022-01-14T23:00:00",
+        "validUntilDT": "2024-01-14T23:00:00",
+        "didDocument": "-----BEGIN CERTIFICATE-----\nMIIEGzCCAgOgAwIBAgIUeVVanArVip2h9V4zfLC4CgjqA/MwDQYJKoZIhvcNAQELBQAwMjELMAkGA1UEBhMCRlIxDTALBgNVBAoMBEdvdXYxFDASBgNVBAMMC0NTQ0EtRlJBTkNFMB4XDTIyMDExNDIzMDAwMFoXDTI0MDExNDIzMDAwMFowRTELMAkGA1UEBhMCRlIxDTALBgNVBAoMBENOQU0xEjAQBgNVBAsMCTE4MDAzNTAyNDETMBEGA1UEAwwKRFNDX0ZSXzAyNzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABBfv7EtNm+8yBRoAbuFMHXQXqLDYbvs7wEWvskinitkXdgCccdZZ51IH5A9DB5Tu9pFBMIWHan0We4EoBRIHRJGjgeAwgd0wHQYDVR0OBBYEFPSGVTQu85GTEXtAynAWYMIEdyb0MB8GA1UdIwQYMBaAFL6KLtbJ+SBOOicDCJdN7P3ZfcXmMAwGA1UdEwEB/wQCMAAwDgYDVR0PAQH/BAQDAgeAMC0GA1UdHwQmMCQwIqAgoB6GHGh0dHA6Ly9hbnRzLmdvdXYuZnIvY3NjYV9jcmwwGAYDVR0gBBEwDzANBgsqgXoBgUgfAwkBATA0BggrBgEFBQcBAQQoMCYwJAYIKwYBBQUHMAKGGGh0dHBzOi8vYW50LmdvdXYuZnIvY3NjYTANBgkqhkiG9w0BAQsFAAOCAgEAFl1G9mpI4FDpwyx7oXu1bY3IXUrUslXJo0Bmv3ayqQ1jCVXOqz0ZemN5lOIVwUMDynZLngsHmKz+fTR8K3CI6PaSxeDy0Rw/CsyWQgt1CWUR6q296z1DaPMsDGfO7dKDqKTGgoge3K4IPCjtQixVYgylfo6kxBHutIWAIgFV+cXxx+fn3K828SMoS7DkvKtAkvEQAXGGk6pbP3EdAtUJbDSbOufxS0W45a34C6tKiDAOJiXlCZjhtNHyTxSXDDmiyoabxxICNLmKJ5IMEe45pOwwZC5uPr9q0Qc72+jVsF9VeutV/ybocLY8Mi9GRJFKP5HQ/yQY5aYTstbV2V9pSDP8bVgdkzYSbmEVTgJ6W6Io1B9OFrbkeeOQzwugumUDjV4aA7NM4kX1Hh0WRtGnrVqo0Lfy0Rbj10goEb6BidecOUMq9iBuD7OsGIBqCO/p77xBC4TPt2rdaO2hDddFt0KLzesFgNrHJzMRH67MUHTDUaPVq0s3vu18XurOerivE5d7EJWboGelIWLNGkhOV0rza+4slR56wqve4I/A+Qhf7FwPZofZuPk8JvE3gxXQyktH1wzWGYBUUFYIbScJbHMb0hTecaPye0gGcKtQ1Y2VR7JA5NldYZ3cRMcdH4WNqYfu7qKl0NeQ1hqp1+pL7iWsOLG24zr0Yi8/Mm/xE5k=\n-----END CERTIFICATE-----"
       }
     },
     "26Fcjnjuf2s=": {
@@ -1097,6 +1107,26 @@
         "validFromDT": "2021-10-14T22:00:00",
         "validUntilDT": "2023-10-14T22:00:00",
         "didDocument": "-----BEGIN CERTIFICATE-----\nMIIEGzCCAgOgAwIBAgIUbjokPqcsK9BPa9UdWexJeyEqilowDQYJKoZIhvcNAQELBQAwMjELMAkGA1UEBhMCRlIxDTALBgNVBAoMBEdvdXYxFDASBgNVBAMMC0NTQ0EtRlJBTkNFMB4XDTIxMTAxNDIyMDAwMFoXDTIzMTAxNDIyMDAwMFowRTELMAkGA1UEBhMCRlIxDTALBgNVBAoMBENOQU0xEjAQBgNVBAsMCTE4MDAzNTAyNDETMBEGA1UEAwwKRFNDX0ZSXzAyMzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABILv1iQZ9UPkQjn0MdzS0+aCBlAh7KkkV7ruxGbKn6mTeT7x5OvxPvvPML49nzK35gKbZObVZXdsQR+D+LUbPCWjgeAwgd0wHQYDVR0OBBYEFFmAYyEK7sVvsDvIY+w6fmNz2BT4MB8GA1UdIwQYMBaAFL6KLtbJ+SBOOicDCJdN7P3ZfcXmMAwGA1UdEwEB/wQCMAAwDgYDVR0PAQH/BAQDAgeAMC0GA1UdHwQmMCQwIqAgoB6GHGh0dHA6Ly9hbnRzLmdvdXYuZnIvY3NjYV9jcmwwGAYDVR0gBBEwDzANBgsqgXoBgUgfAwkBATA0BggrBgEFBQcBAQQoMCYwJAYIKwYBBQUHMAKGGGh0dHBzOi8vYW50LmdvdXYuZnIvY3NjYTANBgkqhkiG9w0BAQsFAAOCAgEApMhsApIqDdjtJiC6mOsvI8L9Uwf+gw/dv06vVIwTQ7y+4AgtfZ2HTWeqW7IlXvNYs0m44U4VyL43pnoV167rwBOAMGTrYqT+83Hl5adOtl5ui0RxVHzNdUPiVPL2dV/OgZQKq/TFjm8wuJOxhjGIx2CFVKX2PpcbHAZ/IawdJjhOsisBZpfYuBpKFV8hBj9/SF/EwCrbswB81IrOjNEl9MkG6JrYarO/uztKHv9OIFy5SC6BaKkO4OItM2xx4H1w2cl7Cqt32n94WLxP0HLeAKqUA8/7Ttoa98x04iLElhkg8Fd+aL6Foi1mWlWBRlgHz7iHxZ7zYDmi8NksxnKECSwBm4FpP2Guz7CWY/tsREyGvrzZ2DjYFtNtIOHW15xr7aTPRJ0yD0DYtmZ6l9aYlFVGUgNWypUuNOe3BJh25X2re7nIwSvUWZeAnUFbJ+2YYt9xQfjgSll/DByUG/SfT6EqstPWlbVFVLljs6azzxQyozRB8JYPVG1Kny8WSl3YokIDLVofulJqYpi+ac2DDFCA1L6Mtnfw/go7Rq7uiorduqZi3FL8vKwy0M6S3ckP06pWjpJdOyKaLk1cbHJR4fuzY+PrhvDkKmSSlEzsWCIKe6B//ErN64MJ5xJxc6HnP2KvXV4hf7XbFsNat5ETxb3VdQhVDyHzgbqSpVo9BIM=\n-----END CERTIFICATE-----"
+      }
+    },
+    "5IJmAxfUwrM=": {
+      "ALL": {
+        "displayName": { "en": "Gov of France" },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2022-03-14T23:00:00",
+        "validUntilDT": "2024-03-14T23:00:00",
+        "didDocument": "-----BEGIN CERTIFICATE-----\nMIIEGzCCAgOgAwIBAgIUV/o7xkGXd5ZK2x7x5++zZSO6I/0wDQYJKoZIhvcNAQELBQAwMjELMAkGA1UEBhMCRlIxDTALBgNVBAoMBEdvdXYxFDASBgNVBAMMC0NTQ0EtRlJBTkNFMB4XDTIyMDMxNDIzMDAwMFoXDTI0MDMxNDIzMDAwMFowRTELMAkGA1UEBhMCRlIxDTALBgNVBAoMBENOQU0xEjAQBgNVBAsMCTE4MDAzNTAyNDETMBEGA1UEAwwKRFNDX0ZSXzAyOTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABLz43vidDXxxw0ndnopUv75T37xcoNhqmkHubg3H20TcF1edSWakPW56PhTp8PgBay3fWjr7KlpLx+qILCh5NuqjgeAwgd0wHQYDVR0OBBYEFNNslXmB1flUg6kCQdJEDjP5T+rhMB8GA1UdIwQYMBaAFL6KLtbJ+SBOOicDCJdN7P3ZfcXmMAwGA1UdEwEB/wQCMAAwDgYDVR0PAQH/BAQDAgeAMC0GA1UdHwQmMCQwIqAgoB6GHGh0dHA6Ly9hbnRzLmdvdXYuZnIvY3NjYV9jcmwwGAYDVR0gBBEwDzANBgsqgXoBgUgfAwkBATA0BggrBgEFBQcBAQQoMCYwJAYIKwYBBQUHMAKGGGh0dHBzOi8vYW50LmdvdXYuZnIvY3NjYTANBgkqhkiG9w0BAQsFAAOCAgEAYRbsqQL82TwM6rQ75T0D/ZDzIHz2VP5rGoUBUGMvoqXYBFVZT5DbpjHjmb438xzeMFFUe64JRm5vkvyliwZrDK1WJD9W2A12mzIXx5DDakYh4JUkRUQSmpFynP3zrpr+P0hOZmDjC/UPUbSVRkFAwa8OieTSppv1GkNXTyDK/nZC/5+z0tzSWcg+xnR5ryKSov+oelpM4lGfSbOjJOXlEe/Vum7jt8dOkbCMyXCxKM/GGtOCVFmEUwieDe6vXmxRbkQHWyPclYB+RsNTct7vD+V04mXaO2M/EPdp7uN6r/4gI3e1UiJgQzh6Fntp9pDe9nkAQRjaotmokiakWGILMcJNMjKXTcWGtGECR2jIHCvvH7j/HSZxEQe6TXddnnMzLovH72RFnNQ2ZarK2hXcc+o+Rh8sGDlyZddTTJYzVm5lxQr1BtEMT8eNfc2Xd2VxaFaAp7abyKX0TaY8/WKkab+VgFgGoTf72LV6mUyWSSvm3U6578RCPgf21RVfIuE5J42Aq1eeYkkw0jCF9cVSq1ZQ7oLZzyk/qPI+LXcwgh02eaEwgZaimDb6GTXvNGLiG/UPVMXlVYdLTGBWr4BaIgk+pFwzx+4Zmwj85hHBSNObw6SJBETnK2K8nuD65IzfIevB1j+Mv28l5oBD714/o2ctSVcBYmxwFp0CzjG16Zg=\n-----END CERTIFICATE-----"
+      }
+    },
+    "768E5xdq4Eg=": {
+      "ALL": {
+        "displayName": { "en": "Gov of France" },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2022-05-14T22:00:00",
+        "validUntilDT": "2024-05-14T22:00:00",
+        "didDocument": "-----BEGIN CERTIFICATE-----\nMIIEGzCCAgOgAwIBAgIUWplIUjX5w9eTfcPRQLG1AUcIeI0wDQYJKoZIhvcNAQELBQAwMjELMAkGA1UEBhMCRlIxDTALBgNVBAoMBEdvdXYxFDASBgNVBAMMC0NTQ0EtRlJBTkNFMB4XDTIyMDUxNDIyMDAwMFoXDTI0MDUxNDIyMDAwMFowRTELMAkGA1UEBhMCRlIxDTALBgNVBAoMBENOQU0xEjAQBgNVBAsMCTE4MDAzNTAyNDETMBEGA1UEAwwKRFNDX0ZSXzAzMTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABLHZJF6sIb1DnEWqNxDCHC5w8GTYgfO6HycC7sKsyJUITjme53X/H/35X88c6IDezoHpIjTTKTxozsufDGUOyqejgeAwgd0wHQYDVR0OBBYEFJ27qMfQU5fnLnX4wi76bSxJ6QboMB8GA1UdIwQYMBaAFL6KLtbJ+SBOOicDCJdN7P3ZfcXmMAwGA1UdEwEB/wQCMAAwDgYDVR0PAQH/BAQDAgeAMC0GA1UdHwQmMCQwIqAgoB6GHGh0dHA6Ly9hbnRzLmdvdXYuZnIvY3NjYV9jcmwwGAYDVR0gBBEwDzANBgsqgXoBgUgfAwkBATA0BggrBgEFBQcBAQQoMCYwJAYIKwYBBQUHMAKGGGh0dHBzOi8vYW50LmdvdXYuZnIvY3NjYTANBgkqhkiG9w0BAQsFAAOCAgEAlzY0s3UVOuyqTJGhyBVb3cfkrD4Hyqy0QSrB2shuv5JjGudzjSuGqurDp09Ozyg97+PuNm9F6JqxiZbz+IhmzZX2yyYwBEOKv8KnN57DEIY65qOLn1o6yJEJpNWVhCjqW5MnhND7CGxcvTGF3FHeEB5OfxnSZaC5aDkNauMoI8pUddONpYwrtHiaIsxsYce/k7w3RctO+8ZcYJ/BE1Urc/rpmcV1FWpBC6FzFG1rbu1vXMkfPmKLXFCPZv9Pzu5u9/et2h8TFWS7DyMnWiSBcuJiF635CccYfzlQLeBBeGKFR00IqTOiSVQZPccB6PC7/g6Vlm9ZSrYQwBwraQIXIYRwMpIkOifn4bT3xNLlGp6b0k9xj12HKYR4MSg9GZHj8ctFCqHiajdjG6s5azH7wOAEyvzA047/RSjNyoX5hcLZE+6SIfDjZPDY8ZVE2IF1LBj1TW1mHWOeXnYD2ss3nC6nUXYByEekN+6pn62zlzwv+BnNPCZa+MqUJMvfRa7IC2qCF6VIB4KHhWH8Ev/3JiimdmmnqS9xgb7Go+r8h3iXbmR/wjucS5tuDJSkkEJDG+5VcEzKdxrIrmbTLIlDf84gpcaH2EYFn2a5VsYyybGndNl0Q7qICVJGax3CPZe1gQaVNqhtEDLbfh0iXttV5F+UdxrO2rQ/AH+fOrV0Q0Q=\n-----END CERTIFICATE-----"
       }
     },
     "AX/m4PDDCXE=": {
@@ -1179,6 +1209,16 @@
         "didDocument": "-----BEGIN CERTIFICATE-----\nMIIEGTCCAgGgAwIBAgIUF0n80rrBMJH3PxQUQLM+vM20uCgwDQYJKoZIhvcNAQELBQAwMjELMAkGA1UEBhMCRlIxDTALBgNVBAoMBEdvdXYxFDASBgNVBAMMC0NTQ0EtRlJBTkNFMB4XDTIxMDgzMTIyMDAwMFoXDTIzMDgzMTIyMDAwMFowQzELMAkGA1UEBhMCRlIxDDAKBgNVBAoMA0RHUzESMBAGA1UECwwJMTIwMDM2MDE3MRIwEAYDVQQDDAlEU0NfRlJfMTkwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARFJBneYhqb2xqCAz/PVsJbb7AY9YXrI0k3uquxMsee3ES7Ymk8lE8/zrqAlUiweYgypT8qD8GdDVtvqJxjGlxOo4HgMIHdMB0GA1UdDgQWBBQZBTK8TIaJS4alif7cZXMDRas7UzAfBgNVHSMEGDAWgBS+ii7WyfkgTjonAwiXTez92X3F5jAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDAtBgNVHR8EJjAkMCKgIKAehhxodHRwOi8vYW50cy5nb3V2LmZyL2NzY2FfY3JsMBgGA1UdIAQRMA8wDQYLKoF6AYFIHwMJAQEwNAYIKwYBBQUHAQEEKDAmMCQGCCsGAQUFBzAChhhodHRwczovL2FudC5nb3V2LmZyL2NzY2EwDQYJKoZIhvcNAQELBQADggIBAEqB7XsEFQ1yVxI4+qUO1wYS3j5CY32bvzlbL5TfH04VsS1UJvMnzU1gR5m90bncj4z+sqe4m0cHygP5VncDt/Hjfat4FBu7EfxIlBYTF08iBVClMxbnA64ak9XXibT6QlGDNGnLPK6FaadJosV8pkVUYKhgkIaR/5bz8CzOR1pECkQnpeAjZddHM21YfbGDlawwnMbjLJx6Zi2//RLLlCwmE8lv1VfAyG5fvJOcrx/9QgrIyLO9BmPwMBgxK9BXBv7fePFpYktbmhgpf7oLbUdmREbfweVNodmB7VjN4FiidTbL+m4EFsi0Su/l0YgXdcKCRZgS0OZn3lqR+KuYAsNxw6EbGAub8FuXrw+5BQ+WJ2ECxMN8fmi1yWMj5Lr2oHV3K30m15HTcRWuWZw1gYnfNf0z1NNPUK8LeyMDqJoPG/Oc55zrd+BkCecHQEbaa6sj1cdKwYabXOjCgTLVBxXV0XwHoB2qLjyXVjGoRHO1dwAEgnozfaUWB01Sh9Fe+xuSfHAS8cNaIBCMBCKktly7Rs+8bDTf8SNSuPlWqiXi5DY8a5UEEjj/iVFxmS8jheF4EQAA9j+WEFNyEn6szw5FH0zJO/nYhBS6y24l6aGanes3KcOL53tz1H+pGw58HDiWVhUpTDLWCFk+JGbTu92nRVxA0axLsimfhPR0lVLA\n-----END CERTIFICATE-----"
       }
     },
+    "Of6ltPMXuJo=": {
+      "ALL": {
+        "displayName": { "en": "Gov of France" },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-12-14T23:00:00",
+        "validUntilDT": "2023-12-14T23:00:00",
+        "didDocument": "-----BEGIN CERTIFICATE-----\nMIIEGzCCAgOgAwIBAgIUAsAQyVk0S89PuVooonmdBhY5tSMwDQYJKoZIhvcNAQELBQAwMjELMAkGA1UEBhMCRlIxDTALBgNVBAoMBEdvdXYxFDASBgNVBAMMC0NTQ0EtRlJBTkNFMB4XDTIxMTIxNDIzMDAwMFoXDTIzMTIxNDIzMDAwMFowRTELMAkGA1UEBhMCRlIxDTALBgNVBAoMBENOQU0xEjAQBgNVBAsMCTE4MDAzNTAyNDETMBEGA1UEAwwKRFNDX0ZSXzAzMjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABKqnr7/iNeBK9GqetqcibDZ1pIqcTLrqIFUUfeDkotmYCHunowef/F58O1EUSZGHxGosTOp8+mOofcR0+K0Dl3KjgeAwgd0wHQYDVR0OBBYEFNsZf6xdKlAdeMErziNj3zg4kqzNMB8GA1UdIwQYMBaAFL6KLtbJ+SBOOicDCJdN7P3ZfcXmMAwGA1UdEwEB/wQCMAAwDgYDVR0PAQH/BAQDAgeAMC0GA1UdHwQmMCQwIqAgoB6GHGh0dHA6Ly9hbnRzLmdvdXYuZnIvY3NjYV9jcmwwGAYDVR0gBBEwDzANBgsqgXoBgUgfAwkBATA0BggrBgEFBQcBAQQoMCYwJAYIKwYBBQUHMAKGGGh0dHBzOi8vYW50LmdvdXYuZnIvY3NjYTANBgkqhkiG9w0BAQsFAAOCAgEAmHRGMyQKn86+JFT66yII52aBFp5199r13R+pMhCpTPdibTDItLAdehLwyZBCW88PpdCu5fUzVZOSbBQJt3ocTQY07AO4E/4bdW/A9vXYCvL2eKgRuu9pgyDeWFFDh5u9us7SMW1WSGC8TBGoQTizjeP6gQ/iznZG19TG9+G5FtoCobzGm/kMGtyX9s988LijLRAc2UBa4mk1E1MLkXGOnbzVHoIhxeFVWgXwBzCwCoO5ta2jF8e2AQggj+6uJCHnoeHwOS9JTxBanFag9LIilMZnFrZ1dyEYQtBzZUf3gfzNziNdYwv8oGbye3qFCS3YAwO/QCBGLAuzMiN6iJTL7+ivw06lpkwbCnREMRcNuBd8nSzzh/AJODVK0Zbm7elKitAfOl9xJ552kSCIpw3DRljsAvidhjP8ylgTKsfVhwb2bK9HEHSgo/MRc3ImWlYun1IipPwAfhp4uQfqcP0T8FLFfSBCK9sLN3F1jby5dcURpfYSi5BQvIgbgiiHpnxjueOStAGoof7ebmfFaehRnc7KoGlCfkAFrbBgRrLMsRbYv2xl47TOh+xPAjdbiZylD3wlzKD0ZDGpAfq6P0ovYoTZGRzzalw4Fuo5RW+S7SlDQCsdkNEKgAmFpGVnLed3YKhmLKJFmljlZXdeZVjul8KshpP6//HW3ceY5GXvXv4=\n-----END CERTIFICATE-----"
+      }
+    },
     "Qe8D6lfZ5/Y=": {
       "ALL": {
         "displayName": { "en": "Gov of France" },
@@ -1187,6 +1227,16 @@
         "validFromDT": "2021-11-14T23:00:00",
         "validUntilDT": "2023-11-14T23:00:00",
         "didDocument": "-----BEGIN CERTIFICATE-----\nMIIEGzCCAgOgAwIBAgIUQGT66i1j72Yd+CXVZxgaJFhLGKcwDQYJKoZIhvcNAQELBQAwMjELMAkGA1UEBhMCRlIxDTALBgNVBAoMBEdvdXYxFDASBgNVBAMMC0NTQ0EtRlJBTkNFMB4XDTIxMTExNDIzMDAwMFoXDTIzMTExNDIzMDAwMFowRTELMAkGA1UEBhMCRlIxDTALBgNVBAoMBENOQU0xEjAQBgNVBAsMCTE4MDAzNTAyNDETMBEGA1UEAwwKRFNDX0ZSXzAyNDBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABOweCJfmmAWZPIbNTCNvB+GeBhdh2Ql4F/w0k8b1KAjFc3uMaeOPViS25Ugil63hnYk9DMnIHr6OK1mFRm8LVMajgeAwgd0wHQYDVR0OBBYEFOkihiD6srcZ+6gH9LiQNVc6QwQ8MB8GA1UdIwQYMBaAFL6KLtbJ+SBOOicDCJdN7P3ZfcXmMAwGA1UdEwEB/wQCMAAwDgYDVR0PAQH/BAQDAgeAMC0GA1UdHwQmMCQwIqAgoB6GHGh0dHA6Ly9hbnRzLmdvdXYuZnIvY3NjYV9jcmwwGAYDVR0gBBEwDzANBgsqgXoBgUgfAwkBATA0BggrBgEFBQcBAQQoMCYwJAYIKwYBBQUHMAKGGGh0dHBzOi8vYW50LmdvdXYuZnIvY3NjYTANBgkqhkiG9w0BAQsFAAOCAgEAg1Vrsxtjk49QaxQ/LWFLC1WmRTNO/8XeLyASVHjPZXWfvrl9ft+SlKqlhIom7sYbxiYF5+g0qRjwBWMVqfFkYPpJkeuri2awLQo9Hr8oiPNVSHpFi3zjr4gMLEv2buQ6LUbvAT2U6eOW17AiNhT/3XzND8tILs++7JKU675p46YtKNguJhJVPEO+9cMdBdeJUM8d0RRV40AlkY/ThVI6BzqxmiD6jAka4bWJFztR8xkBs3RBxcumGXPIJIpC8cJ9dqnnsBdLJfDlWLfvpn9k03QIU9/XObnw3wLGwFWnxdr6sQMNxJCMpk3U2tT6og6DGylD4OQbGQvqFzm1x+5X11DQIdhQhBbbz+ymVBhVjVTm6D5JsEHYOcXi00aIs5zuDs0AYJhWZW/eimBgkRy2WE/6eH49pBSl80OmNAcxboqZHQS1jmLqZ9yptJ3pbSOXZS1ABgsGOYXCyHTPy5OQA5zHIt+zakgyvcFJm4YcIOD9gKzrpyiB7qJLbzliTHcimuIoMfKfzMi82K2rsFZ18glgRnm0/G1I8Cgnol2qXjkJTJq3BgI46+aA2ad8sMWB+3L7J9dj/nQJrNaZcYZ5IMhyHxeZRxpo9brURgzt9J/Qj2hF5gv2ovJXo+FgjMiLusVpsi3HKcYyUS36dKj+f4ty0kPdUklcdx52ogQ7K44=\n-----END CERTIFICATE-----"
+      }
+    },
+    "UcuKeuV1sys=": {
+      "ALL": {
+        "displayName": { "en": "Gov of France" },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2022-04-14T22:00:00",
+        "validUntilDT": "2024-04-14T22:00:00",
+        "didDocument": "-----BEGIN CERTIFICATE-----\nMIIEGzCCAgOgAwIBAgIUAj1HEBf1NelaSBuczWgaH5Ch36UwDQYJKoZIhvcNAQELBQAwMjELMAkGA1UEBhMCRlIxDTALBgNVBAoMBEdvdXYxFDASBgNVBAMMC0NTQ0EtRlJBTkNFMB4XDTIyMDQxNDIyMDAwMFoXDTI0MDQxNDIyMDAwMFowRTELMAkGA1UEBhMCRlIxDTALBgNVBAoMBENOQU0xEjAQBgNVBAsMCTE4MDAzNTAyNDETMBEGA1UEAwwKRFNDX0ZSXzAzMDBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABM7lpKUiRm1bKfhNlDX9/PRcjiPktaBNlOPGXYJZTUUKOSifUwpiy/lPnkVZiHfXrPqI9wUv61n0EdXyobOk85yjgeAwgd0wHQYDVR0OBBYEFA6IIFDXpLz5r7sQnjnVOJ0MgUafMB8GA1UdIwQYMBaAFL6KLtbJ+SBOOicDCJdN7P3ZfcXmMAwGA1UdEwEB/wQCMAAwDgYDVR0PAQH/BAQDAgeAMC0GA1UdHwQmMCQwIqAgoB6GHGh0dHA6Ly9hbnRzLmdvdXYuZnIvY3NjYV9jcmwwGAYDVR0gBBEwDzANBgsqgXoBgUgfAwkBATA0BggrBgEFBQcBAQQoMCYwJAYIKwYBBQUHMAKGGGh0dHBzOi8vYW50LmdvdXYuZnIvY3NjYTANBgkqhkiG9w0BAQsFAAOCAgEAUeglZ3THwmpehcaD5UTX7ZRYeq7cpC0+jkir+N8Y09cA2S39ZF2DZBbE1UaVNDfLCICb4TkW9vHk+YEBjkykz4tSH0tkGUX2acNX3inHIDykff4mkRqwjYRInylc/MD9wrUwtIOslp0gW6CcJta6SMw9wcjaG4/tv5SddMvWUDs5UZyylY8Q4O0rpbxAcQ/wkF1R4S4XZ5KFD7nodJz3ig7b1dF08X47pOYjBmcNBePNq4nf3IS6x63LhWmDfpVc4+75NKwelBrLTErnVhd9EorlUWPHYvhfjalFanUxQmQdlJpcVhAh/BZEyGKb38ECMoHWzat66SDBVHGrM23uliXxDM6sC06ulab/6HWr5DjzUcgwx7UJU5lvGP1Et1b1MJNNd3D1Do7QoWwphwT81BUr5wB9CJSG+iOjRfv9pT85iYcNfpqtit//3H23Duw3K2EwSPGvxpQqSZlwxDCLhLfm49doBeVItCU1qDlncH3ky/D2XgV6ENCMZaQTcyWHeKOzbTMuwINsfc7VfgygaVySmGQjfyNukvx6ywI7Tg4H20gogMStLaj+yPPnsul4N+EOBHsSKCenfwlaTe141+nfKB9eUA1kSApybWY7E4pflmTaDmuHEBYb2sz8nq2lD3DkdiFYe60v45ZOsYwzACyM5L7j3Vu1/my6EQBb074=\n-----END CERTIFICATE-----"
       }
     },
     "Xo78qgBEx8k=": {
@@ -1279,6 +1329,16 @@
         "didDocument": "-----BEGIN CERTIFICATE-----\nMIIEGzCCAgOgAwIBAgIUPUAmrN9wBn+eVuHqMp8b/blfPPMwDQYJKoZIhvcNAQELBQAwMjELMAkGA1UEBhMCRlIxDTALBgNVBAoMBEdvdXYxFDASBgNVBAMMC0NTQ0EtRlJBTkNFMB4XDTIxMDgxNDIyMDAwMFoXDTIzMDgxNDIyMDAwMFowRTELMAkGA1UEBhMCRlIxDTALBgNVBAoMBENOQU0xEjAQBgNVBAsMCTE4MDAzNTAyNDETMBEGA1UEAwwKRFNDX0ZSXzAyMTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABNTwKU0P5xQOiXGFLqOxoD/oD0in/fAUIfPCChzrf8jUvGa48Yy/pVWOhB+MskHW0GRqkvXdknuXcTcMeQt48ZCjgeAwgd0wHQYDVR0OBBYEFIRbucEIacei+qS6DFsuclGQo2o7MB8GA1UdIwQYMBaAFL6KLtbJ+SBOOicDCJdN7P3ZfcXmMAwGA1UdEwEB/wQCMAAwDgYDVR0PAQH/BAQDAgeAMC0GA1UdHwQmMCQwIqAgoB6GHGh0dHA6Ly9hbnRzLmdvdXYuZnIvY3NjYV9jcmwwGAYDVR0gBBEwDzANBgsqgXoBgUgfAwkBATA0BggrBgEFBQcBAQQoMCYwJAYIKwYBBQUHMAKGGGh0dHBzOi8vYW50LmdvdXYuZnIvY3NjYTANBgkqhkiG9w0BAQsFAAOCAgEAhYhTafMjVKmyAFJhTx703KE211fPRx3YlWid6JeUNDIuYTQfIC0yPlvtaFM4Z9TVioHcTwweEfqNi10sGVNbWmWAk1RZhay01VCzzsCVscNmi2/7n+qAIHZWgLyAOjJZ2jVDidC8MWGQjb/qdpu1zh46AIiVmfUfhyvBfXP7dQKgx+nPrV+HhxwuaVGci/KccFIHoOu0rttjuUfg2HCQCr4CjLKZ+RHXny6zjfD3R9T1scndEkJot2L/f0lIIZez+oTx/Wo8ivNoy9C9T3py6as2AChlz1rXSNPsdJZ9M2pcCk8z1I8fAspOu+uEevXPig20cxBz1kJzHrAmvYPTB9JTwZHqek2wriAQ/7Oy92hWxr/6tnkdPC5aKUz0nEYBvJWWq3qO4O1GBXCBt8VdXklgPHvZCym2Yc1XKMdhtMVNpOOOZV6SoSTjoi6R3Eu2VSMQCd8RKYc7DjLss0FF6y5qYjBqmizjV5MKTxtxKFA62QUF0jI/9DypU1Pk3Vias9RpFkLiHE3UcVdGMbTvAc4hwH/bkOtg0W7lqnGsJTWdc8MbnZ3blVtrXylveHA/IXgERhyI3J0YCg3pWjJbEwnEqltUa0n93o0S6sDv78lt1uKAMre1+JUQ0lNNHldtljV6dvcQ7R+ebs3GEZUyDI20fmhIcNZCtmOehZm5fyM=\n-----END CERTIFICATE-----"
       }
     },
+    "oGix7vDtlq4=": {
+      "ALL": {
+        "displayName": { "en": "Gov of France" },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2022-02-14T23:00:00",
+        "validUntilDT": "2024-02-14T23:00:00",
+        "didDocument": "-----BEGIN CERTIFICATE-----\nMIIEGzCCAgOgAwIBAgIUPtrkrg2WkDHMSTavB6nBxxSKE2kwDQYJKoZIhvcNAQELBQAwMjELMAkGA1UEBhMCRlIxDTALBgNVBAoMBEdvdXYxFDASBgNVBAMMC0NTQ0EtRlJBTkNFMB4XDTIyMDIxNDIzMDAwMFoXDTI0MDIxNDIzMDAwMFowRTELMAkGA1UEBhMCRlIxDTALBgNVBAoMBENOQU0xEjAQBgNVBAsMCTE4MDAzNTAyNDETMBEGA1UEAwwKRFNDX0ZSXzAyODBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABAxS/yXwueMOQ4WnBJM1FNZ4u0AC3nvOj2DfqS7aNFfglwkXIfY+eHg0GoK/8RnMj91AU4QVJ6arRBvwrQR7xMajgeAwgd0wHQYDVR0OBBYEFEK7//liPw35XcS3wODcluwZM1CNMB8GA1UdIwQYMBaAFL6KLtbJ+SBOOicDCJdN7P3ZfcXmMAwGA1UdEwEB/wQCMAAwDgYDVR0PAQH/BAQDAgeAMC0GA1UdHwQmMCQwIqAgoB6GHGh0dHA6Ly9hbnRzLmdvdXYuZnIvY3NjYV9jcmwwGAYDVR0gBBEwDzANBgsqgXoBgUgfAwkBATA0BggrBgEFBQcBAQQoMCYwJAYIKwYBBQUHMAKGGGh0dHBzOi8vYW50LmdvdXYuZnIvY3NjYTANBgkqhkiG9w0BAQsFAAOCAgEAdxpY/iCo8yx9FLLRjfApnDHj6yQJ9yTEtGNRCVcPoUtFQyM3fv1Ep9oRUpTcHYD2Kt857fLENbV+C8lwAYjl+QpFViyGXSDLdyLHN6ua/qQXiKG29bT9nmRZIn3QWUrpagVcPySSpztw7d0/sfAFi05VmuQZ2UUTEhsKiR/+eoM2JOPM/m27xwsKo4g4ffSDEOqb4VCGwtKTBrKg64MHcXC0zWsaouFZNeZEOUOyXCsSjDc0zvvYj4llgC5bafbivgSRLGjO1M21vhQHr2FZDh1lokIbIo/PHGDunxVe6rbnIZMMrrhLzgBwUQP1Ihco1AG6NPFwKAxDEyt/dVPxIu5xDUjDujk2L+yf7c3tcMCXjktS8QG0y46FftIKY4ZTzPE67iWYDtRszqX6eNzkUhANjDs6nQJiSKbQLgQn/kalj/qZDZC9u/Xfpv5LDlhVZraDJ6vOXFMko9PlpOHWelN/UQL0yp4XIKfZNBZPq9lzZP6beujHyz6dMdDczXy9Xo+PZ3rNtci9UYCrpdhljifQaj5Q76cPXpJUCXFsM9JyQ4uXuGA0Q+gCzED87eOjEsKd+NFQQGpMqdEUdzZnc7veoyqOwUiwSGXaWDaWISPNNnKBQ4sAUtLIlQAYiQ/hxQtZu6DBgW2c4I3ecryp/PpJB1+m1Hvzf5TNJgHEeag=\n-----END CERTIFICATE-----"
+      }
+    },
     "pe6raiG2dWE=": {
       "ALL": {
         "displayName": { "en": "Gov of France" },
@@ -1307,6 +1367,16 @@
         "validFromDT": "2021-09-10T22:00:00",
         "validUntilDT": "2023-09-10T22:00:00",
         "didDocument": "-----BEGIN CERTIFICATE-----\nMIIEIDCCAgigAwIBAgIUIxJMjNw3dr88EcIE+hNISSiImkwwDQYJKoZIhvcNAQELBQAwMjELMAkGA1UEBhMCRlIxDTALBgNVBAoMBEdvdXYxFDASBgNVBAMMC0NTQ0EtRlJBTkNFMB4XDTIxMDkxMDIyMDAwMFoXDTIzMDkxMDIyMDAwMFowSjELMAkGA1UEBhMCRlIxDTALBgNVBAoMBEFQSFAxFzAVBgNVBAsMDjI2NzUwMDQ1MjAwMDExMRMwEQYDVQQDDApEU0NfRlJfMDA0MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEzL6Rlb4x8PsN6Knac1E+85lkIce+1Zn53WIrFVIAAaXOd4P6Zpvd+MLOLzdJbxhMPF4851s9qxXzMBIMevSLMKOB4DCB3TAdBgNVHQ4EFgQUW8d5IrarC3lBI/Bj5O53KmwrwI0wHwYDVR0jBBgwFoAUvoou1sn5IE46JwMIl03s/dl9xeYwDAYDVR0TAQH/BAIwADAOBgNVHQ8BAf8EBAMCB4AwLQYDVR0fBCYwJDAioCCgHoYcaHR0cDovL2FudHMuZ291di5mci9jc2NhX2NybDAYBgNVHSAEETAPMA0GCyqBegGBSB8DCQEBMDQGCCsGAQUFBwEBBCgwJjAkBggrBgEFBQcwAoYYaHR0cHM6Ly9hbnQuZ291di5mci9jc2NhMA0GCSqGSIb3DQEBCwUAA4ICAQCalwjJDDOjgInZboNfXmrdZjrxA7i65O84bWW1rnOSGZwBpdMcdKrNDiizyjklB6tSKuLH0fllMPUCMd2Umz9zTTKJG1usxQ5Yaf9BBW+g8Pwgn/mNRprogPK/VXFdLCOCmxr1/y1FEPgnecD3oBFhm4ojZywwWVrcUoPnRvqIfJLEvzvYais7y9PqkaFqW0TNyvaRq9tBYyFkvZUQuizKK10nmIXLzg6JYnSXR6awtRcZJs1eF53UQynv0dQmVZbMl/JM01y+sard38byiKzQc+v/ANI24zLHWw9iJm2/jlFTch8S2eazMEAe8EvpMqzzSOcIrmgrL/r9CQo00cFFkCGCIZWnHhHEKv+uuEPVilSJC7ijM8p5npt1PwqCCB4HWcdZEY1oCu3zjjOIIRIySZmKoailNEV4iZeAw0D++wkR1+OyywIebkaRVWKk/irrToYuvQYiTDlh1yIh7mmrL0/lULdONjsawOh/s0/vxKSyD+gkMVRzxBax7BhT3DLzj2L7E/Tw5DNL87k7zmlxcHGW8Oa6sIJwKRsTg/76frIf21u99FhfqeWkhfhZ5yTzGiJR6FquZ/tTrlq216MqICXO4QN8/p8OrP9foTS2+3FvWRWxk0pBEVZget0CtMP3PpZ+IC7gwp3wALhWtZwwY/64FUl9ZLZqId8RtbQBEQ==\n-----END CERTIFICATE-----"
+      }
+    },
+    "25QCxBrBJvA=": {
+      "ALL": {
+        "displayName": { "en": "Gov of Croatia" },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-05-20T13:17:46",
+        "validUntilDT": "2023-05-20T13:17:45",
+        "didDocument": "-----BEGIN CERTIFICATE-----\nMIICwDCCAmagAwIBAgIIPR9jkXY7CPEwCgYIKoZIzj0EAwIwPTELMAkGA1UEBhMCSFIxEzARBgNVBAoMCkFLRCBkLm8uby4xGTAXBgNVBAMMEENyb2F0aWEgREdDIENTQ0EwHhcNMjEwNTIwMTMxNzQ2WhcNMjMwNTIwMTMxNzQ1WjA/MQswCQYDVQQGEwJIUjETMBEGA1UECgwKQUtEIGQuby5vLjEbMBkGA1UEAwwSQ3JvYXRpYSBER0MgRFMgMDAxMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEt5hwD0cJUB5TeQIAaE7nLjeef0vV5mamR30kjErGOcReGe37dDrmFAeOqILajQTiBXzcnPaMxWUd9SK9ZRexzaOCAUwwggFIMB8GA1UdIwQYMBaAFDErHKPIgGXhH70EktAlPHyGj1LRMC8GA1UdEgQoMCaBEkNyb2F0aWEuREdDQGRnYy5ocqQQMA4xDDAKBgNVBAcMA0hSVjAvBgNVHREEKDAmgRJDcm9hdGlhLkRHQ0BkZ2MuaHKkEDAOMQwwCgYDVQQHDANIUlYwZwYDVR0fBGAwXjAtoCugKYYnaHR0cDovL2RnYzEuZGdjLmhyL2Nyb2F0aWEtZGdjLWNzY2EuY3JsMC2gK6AphidodHRwOi8vZGdjMi5kZ2MuaHIvY3JvYXRpYS1kZ2MtY3NjYS5jcmwwHQYDVR0OBBYEFB55yLnz+T3ShQFs345mxQEJZb7TMCsGA1UdEAQkMCKADzIwMjEwNTIwMTMxNzQ2WoEPMjAyMTExMTYxMzE3NDZaMA4GA1UdDwEB/wQEAwIHgDAKBggqhkjOPQQDAgNIADBFAiANYlqMzCo7P6/FbwxS88MCB43CIBgfpJDmQ+D120Ov0gIhALJNQbk8HdHnkd31GV88U1N4YghHSZslLY8eZX8wSYR/\n-----END CERTIFICATE-----"
       }
     },
     "2eCjZcuOoEo=": {
@@ -1928,6 +1998,195 @@
         "validUntilDT": "2023-05-24T18:35:25",
         "didDocument": "-----BEGIN CERTIFICATE-----\nMIICBjCCAaygAwIBAgIUKhlB7j/znUbHbqEQfJErud8AyPMwCgYIKoZIzj0EAwIwIDELMAkGA1UEBhMCR1IxETAPBgNVBAMMCGdybmV0LmdyMB4XDTIxMDUyNDE4MzUyNVoXDTIzMDUyNDE4MzUyNVowIDELMAkGA1UEBhMCR1IxETAPBgNVBAMMCGdybmV0LmdyMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEaI7Y+lpY9cv5h5gKDrAzpkhl5bFPen/ohAMuJXU4uFfQu0UnSDCFt/bHTWcqKxYcik8YfnF+UZSWOKE3MsllEaOBwzCBwDAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0OBBYEFKfRIrjTBVN2/tmTt8I32yrVl3DRMB8GA1UdIwQYMBaAFHAWm9K/JxbEXkf7XcqhKPGmpDK9MDkGA1UdHwQyMDAwLqAsoCqGKGh0dHBzOi8vY3JsLmRnYy5zZXJ2aWNlcy5nb3YuZ3IvQ1NDQS5jcmwwMwYDVR0lBCwwKgYMKwYBBAEAjjePZQEBBgwrBgEEAQCON49lAQIGDCsGAQQBAI43j2UBAzAKBggqhkjOPQQDAgNIADBFAiBdWbGhPUZmHxMV9eXlVEkLRY+zGdCsKVxgAMk2JYqU8AIhANkXZhiDVPD5IDiEw3Z3r0MdBxx7jy6rQzBj/K4OSgCl\n-----END CERTIFICATE-----"
       }
+    },
+    "S2V5MVJF": {
+      "ALL": {
+        "displayName": { "en": "Gov of United Kingdom" },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtWokvmqrJOv/0PO9Vy8lpb6SgWw+rao0qIXntO/Bf7ExryL3yyKRI73IqAh38Lk4joqHrZK8XLZV9PMclgmTVg==\n-----END PUBLIC KEY-----"
+      }
+    },
+    "26YSc5g0nG8=": {
+      "ALL": {
+        "displayName": { "en": "Gov of United Kingdom" },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEr9bj163kKNBLl5bxWhZBlyJv3pHa2QMb24OAdXZwJN6xx2CR03VG4DhQmd9wzVuPmw164+T7/sDmoRNOh4QbQQ==\n-----END PUBLIC KEY-----"
+      }
+    },
+    "S2V5MlJF": {
+      "ALL": {
+        "displayName": { "en": "Gov of United Kingdom" },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEAauvVllnjXm0toiI2cUQfCTdZiDQ6kvtoo1bSnl8W3Rq7WyOeHWYKhBaQ4rEBceqNl5+v1ZLGj0WfnIhXh246Q==\n-----END PUBLIC KEY-----"
+      }
+    },
+    "S2V5M1JF": {
+      "ALL": {
+        "displayName": { "en": "Gov of United Kingdom" },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE2ZpDNa1VV6g2PkmyKoL1INO0MtTqE5WT45i3QhY9FFMjbF9ieqnHV4R814wrN3f3vzkx0VN/YJZH4rI1GDlfqw==\n-----END PUBLIC KEY-----"
+      }
+    },
+    "S2V5NFJF": {
+      "ALL": {
+        "displayName": { "en": "Gov of United Kingdom" },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE8g5iFLRT7NyRmKp7pcP8uEgoHFhfmcXOLLD4RUtX50/Rh4Cz7l/faAiODNMmCkcWLA1Z8WOZoNFQsdmeDjXuLQ==\n-----END PUBLIC KEY-----"
+      }
+    },
+    "S2V5NVJF": {
+      "ALL": {
+        "displayName": { "en": "Gov of United Kingdom" },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEOFOUp1+SLuaM3NnV+OMZKZOoPg76T7D+vqRCasD0BrRZmlUH2gD+aVlpKvp+u7h8ywTR7T6Z6/iI2Qe6F5begg==\n-----END PUBLIC KEY-----"
+      }
+    },
+    "S2V5MVBSTw==": {
+      "ALL": {
+        "displayName": { "en": "Gov of United Kingdom" },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEyfUqlGg4hfyPYgZJzl1KepkfTaX+F3592syCJ0ylVOHA4fE6vavLXE4cG+Whz/eqyW/rFuZ0HBHHEskmpCngOA==\n-----END PUBLIC KEY-----"
+      }
+    },
+    "S2V5MlBSTw==": {
+      "ALL": {
+        "displayName": { "en": "Gov of United Kingdom" },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEP6P6ZlbhcW1xZpp91qagUY+iLIyuu+CynzAlrqiiseqmOYH8uJ71CkbEYhbVh8TemnbaR0unE2j9EPK7Y/x7Vg==\n-----END PUBLIC KEY-----"
+      }
+    },
+    "S2V5M1BSTw==": {
+      "ALL": {
+        "displayName": { "en": "Gov of United Kingdom" },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAErltiOh3nmU+x4p5r249O/2fBSnHkjJpas23lhMAtEYeQutHiw0G+zeEUNZ/n++/XbFoY5hH68d27cGaGW6uoxw==\n-----END PUBLIC KEY-----"
+      }
+    },
+    "S2V5NFBSTw==": {
+      "ALL": {
+        "displayName": { "en": "Gov of United Kingdom" },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEEfIefhjjacwZ+xxKudJGqdHr0j95tWtYIUGPeWV2XWmduygfe3oIFJu/A2kYGmeZ4u/ERSTNM2ZXuE9k19xVJQ==\n-----END PUBLIC KEY-----"
+      }
+    },
+    "S2V5NVBSTw==": {
+      "ALL": {
+        "displayName": { "en": "Gov of United Kingdom" },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE+4ukUdmm9f4AmyQBwTLQFKPPCQj4fP2BpQkIl2hb4p6FxPGDP9z3JkIo2w2xkoxqs2JrTHn2MCdyh3aeyZWD4A==\n-----END PUBLIC KEY-----"
+      }
+    },
+    "1J9pb87ndV0=": {
+      "ALL": {
+        "displayName": { "en": "Gov of United Kingdom" },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEZ+fdcTa4UWA/6PT5V4a0+0j1/s++4JQEsW/HvGnxxP7mGfuQDfn/FRdUMGQtTkoCGaky1gpYVZXkkoYu9ZjlUw==\n-----END PUBLIC KEY-----"
+      }
+    },
+    "c3ByZGtleTE=": {
+      "ALL": {
+        "displayName": { "en": "Gov of United Kingdom" },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEPtYvyfeF/2VvzK7yZFtTzzZjvIzmdDCCHqeQi7/R/PiKJ9HL3exOeVzabVvBkW5uP/+5RnwfSvyxYW/xIhooNg==\n-----END PUBLIC KEY-----"
+      }
+    },
+    "c3ByZGtleTI=": {
+      "ALL": {
+        "displayName": { "en": "Gov of United Kingdom" },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAELv/LGmc0H46LwmLHIRD89CmSRlW8aiFyniNkOgkpjpJ+sApFzfQScbmLlRJx1vZ+PYhWeL5Ktb6w+5ajWj8h5Q==\n-----END PUBLIC KEY-----"
+      }
+    },
+    "d3ByZGtleTE=": {
+      "ALL": {
+        "displayName": { "en": "Gov of United Kingdom" },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEzQtHAcVujgAyvWzHOx9mrtIW3muUpB0sCl22Kt3vMbTMN81yZnEoqkOyOBu3UHE9ifr+RoEVCgMZ7GcDF9Ix1A==\n-----END PUBLIC KEY-----"
+      }
+    },
+    "d3ByZGtleTI=": {
+      "ALL": {
+        "displayName": { "en": "Gov of United Kingdom" },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEPJq53/TUr83Jx/KibQsq/FsKOdUBogz9YsH157l/mlrmjEmdToz6vDFMxvvWfdRIvNL0LoRuTSg5XjIvoAYqZA==\n-----END PUBLIC KEY-----"
+      }
+    },
+    "osFRFyFIWdU=": {
+      "ALL": {
+        "displayName": { "en": "Gov of United Kingdom" },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE17Mn/OPO2RQfYEZM62rPQcvhfRd6ZTWo1MZnPvSBMCzjuY0ZdmtsXwDHH7wDOVcTs1NSylkb+/EmC1t/7XV0Ow==\n-----END PUBLIC KEY-----"
+      }
+    },
+    "I0+qkOLr2e0=": {
+      "ALL": {
+        "displayName": { "en": "Gov of United Kingdom" },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEsrcO+nNM8OkcO7IhbRh4D4D++Tgr3PyGt9q6vXkSwIY6vctXRXke4WdrRtWbYzB8xGREifNxSgd6Fdik+bg44g==\n-----END PUBLIC KEY-----"
+      }
+    },
+    "jeetFC69E6o=": {
+      "ALL": {
+        "displayName": { "en": "Gov of United Kingdom" },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEUQjAzEd62FL4s5OTPEOo7v0k//MUI3L99/10QFBMHH42q30Q8IrtpqgPGjgesWZFWWsoqGdXa1vHEsFGNtZNvw==\n-----END PUBLIC KEY-----"
+      }
+    },
+    "lYkujLws7SE=": {
+      "ALL": {
+        "displayName": { "en": "Gov of United Kingdom" },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEKrPl/bqJRA4on2AtNgXUOhCwjkr8kUkeol8ZMH8d6+ILPJCgc3y4d2AnGcNMIxwk/JWVjD2V0lkxSB2Hh7shtA==\n-----END PUBLIC KEY-----"
+      }
+    },
+    "1PtilTAMiyk=": {
+      "ALL": {
+        "displayName": { "en": "Gov of United Kingdom" },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEORjyQk/KOoCEJWGfLLyqyEcOqRRreyVdSH+ELi4GqqS17W4aYeOl2cvm/5unZwgCQUzB09uxYESXGmBJ3xgsEg==\n-----END PUBLIC KEY-----"
+      }
     }
   },
   "SmartHealthCards": {
@@ -2074,7 +2333,7 @@
         "displayName": { "en": "Baptist Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:32.548202",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -2097,7 +2356,7 @@
         "displayName": { "en": "Sutter Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:33.143900",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -2120,7 +2379,7 @@
         "displayName": { "en": "Virginia Department of Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:33.301649",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -2143,7 +2402,7 @@
         "displayName": { "en": "Southeast Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:33.530458",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -2166,7 +2425,7 @@
         "displayName": { "en": "OhioHealth" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:33.889270",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -2189,7 +2448,7 @@
         "displayName": { "en": "Virginia Hospital Center" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:34.129659",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -2212,7 +2471,7 @@
         "displayName": { "en": "eHealth Saskatchewan" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:34.407701",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -2235,7 +2494,7 @@
         "displayName": { "en": "Cedars-Sinai Medical Center" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:35.006969",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -2258,7 +2517,7 @@
         "displayName": { "en": "State of New York" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:35.206829",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -2281,7 +2540,7 @@
         "displayName": { "en": "Franciscan Alliance" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:35.519522",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -2304,7 +2563,7 @@
         "displayName": { "en": "UC Davis Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:36.251660",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -2327,7 +2586,7 @@
         "displayName": { "en": "Riverside Health System" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:36.483101",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -2350,7 +2609,7 @@
         "displayName": { "en": "Golden Valley Health Centers" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:36.926068",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -2373,7 +2632,7 @@
         "displayName": { "en": "Cottage Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:37.485155",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -2396,7 +2655,7 @@
         "displayName": { "en": "Methodist Health System" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:37.960309",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -2419,7 +2678,7 @@
         "displayName": { "en": "University of Texas Medical Branch" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:38.270297",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -2442,7 +2701,7 @@
         "displayName": { "en": "UNC Health Care System" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:38.641579",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -2465,7 +2724,7 @@
         "displayName": { "en": "Centura Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:39.090782",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -2488,7 +2747,7 @@
         "displayName": { "en": "City of Hope" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:39.685357",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -2511,7 +2770,7 @@
         "displayName": { "en": "UC Health (Cincinnati)" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:39.928718",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -2534,7 +2793,7 @@
         "displayName": { "en": "Spectrum Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:40.278595",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -2557,7 +2816,7 @@
         "displayName": { "en": "Advocate Aurora Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:40.674526",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -2580,7 +2839,7 @@
         "displayName": { "en": "Mt Sinai - FL" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:40.970090",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -2603,7 +2862,7 @@
         "displayName": { "en": "Presbyterian Healthcare Services" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:41.251099",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -2626,7 +2885,7 @@
         "displayName": { "en": "UnityPoint Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:41.655368",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -2649,7 +2908,7 @@
         "displayName": { "en": "QuadMed" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:41.995002",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -2674,7 +2933,7 @@
         },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:42.521175",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -2697,7 +2956,7 @@
         "displayName": { "en": "CentraCare" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:42.800183",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -2720,7 +2979,7 @@
         "displayName": { "en": "Johns Hopkins Medicine" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:43.049133",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -2743,7 +3002,7 @@
         "displayName": { "en": "Allegheny Health Network" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:43.302178",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -2766,7 +3025,7 @@
         "displayName": { "en": "Parkview Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:43.563879",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -2791,7 +3050,7 @@
         },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:43.826346",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -2814,7 +3073,7 @@
         "displayName": { "en": "New York Consortium" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:44.087141",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -2839,7 +3098,7 @@
         },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:44.356814",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -2864,7 +3123,7 @@
         },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:44.617460",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -2889,7 +3148,7 @@
         },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:44.880902",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -2912,7 +3171,7 @@
         "displayName": { "en": "UMass Memorial Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:45.159766",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -2935,7 +3194,7 @@
         "displayName": { "en": "UConn Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:45.484677",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -2958,7 +3217,7 @@
         "displayName": { "en": "South Georgia Medical Center" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:45.814928",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -2981,7 +3240,7 @@
         "displayName": { "en": "EPIC Management" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:46.134763",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -3004,7 +3263,7 @@
         "displayName": { "en": "Premise Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:46.381004",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -3027,7 +3286,7 @@
         "displayName": { "en": "Molina Healthcare" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:46.656280",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -3050,7 +3309,7 @@
         "displayName": { "en": "Montage Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:51.449527",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -3073,7 +3332,7 @@
         "displayName": { "en": "Englewood Hospital and Medical Center" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:51.774880",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -3096,7 +3355,7 @@
         "displayName": { "en": "Kennedy Krieger Institute" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:52.045053",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -3119,7 +3378,7 @@
         "displayName": { "en": "AltaMed" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:52.443100",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -3142,7 +3401,7 @@
         "displayName": { "en": "Middlesex Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:52.729217",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -3165,7 +3424,7 @@
         "displayName": { "en": "Phelps Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:52.981501",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -3190,7 +3449,7 @@
         },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:53.246287",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -3213,7 +3472,7 @@
         "displayName": { "en": "Hartford HealthCare" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:53.598830",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -3236,7 +3495,7 @@
         "displayName": { "en": "UW Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:54.048541",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -3259,7 +3518,7 @@
         "displayName": { "en": "Mercyhealth" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:54.317289",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -3282,7 +3541,7 @@
         "displayName": { "en": "The University of Vermont Medical Center" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:54.492540",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -3305,7 +3564,7 @@
         "displayName": { "en": "Froedtert Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:54.792463",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -3328,7 +3587,7 @@
         "displayName": { "en": "Carle Foundation Hospital" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:55.041844",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -3351,7 +3610,7 @@
         "displayName": { "en": "Stormont-Vail" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:55.347806",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -3374,7 +3633,7 @@
         "displayName": { "en": "Community Medical Centers" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:55.845977",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -3397,7 +3656,7 @@
         "displayName": { "en": "St. Luke\u2019s Health System (Idaho)" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:56.698340",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -3420,7 +3679,7 @@
         "displayName": { "en": "Greater Baltimore Medical Center" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:57.974128",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -3443,7 +3702,7 @@
         "displayName": { "en": "Texas Health Resources" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:58.345255",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -3466,7 +3725,7 @@
         "displayName": { "en": "MediSys Health Network" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:58.480834",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -3489,7 +3748,7 @@
         "displayName": { "en": "Mercy Medical Center" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:58.720199",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -3512,7 +3771,7 @@
         "displayName": { "en": "Aspirus" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:59.117538",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -3535,7 +3794,7 @@
         "displayName": { "en": "Community Health Network" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:59.374152",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -3558,7 +3817,7 @@
         "displayName": { "en": "Alaska Tribal Health System" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:59.683418",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -3581,7 +3840,7 @@
         "displayName": { "en": "CarolinaEast Medical Center" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:46:59.894397",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -3604,7 +3863,7 @@
         "displayName": { "en": "Tenet HealthSystem Medical Inc." },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:00.089797",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -3627,7 +3886,7 @@
         "displayName": { "en": "My VCU Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:00.750164",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -3650,7 +3909,7 @@
         "displayName": { "en": "Charleston Area Medical Center" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:00.960508",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -3673,7 +3932,7 @@
         "displayName": { "en": "Blanchard Valley Health System" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:01.394385",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -3696,7 +3955,7 @@
         "displayName": { "en": "Margaret Mary Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:01.605432",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -3719,7 +3978,7 @@
         "displayName": { "en": "Westchester Medical Center Health Network" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:01.923247",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -3742,7 +4001,7 @@
         "displayName": { "en": "Dignity Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:02.244159",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -3765,7 +4024,7 @@
         "displayName": { "en": "San Joaquin General Hospital" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:02.441802",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -3788,7 +4047,7 @@
         "displayName": { "en": "Chinese Hospital" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:02.628032",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -3811,7 +4070,7 @@
         "displayName": { "en": "Indiana Regional Medical Center" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:02.987905",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -3834,7 +4093,7 @@
         "displayName": { "en": "University of Alabama Hospital" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:03.254086",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -3857,7 +4116,7 @@
         "displayName": { "en": "Silver Cross Hospital" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:03.647533",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -3880,7 +4139,7 @@
         "displayName": { "en": "Surgery Partners - Nashville" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:03.917503",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -3903,7 +4162,7 @@
         "displayName": { "en": "LifeBridge Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:04.109822",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -3926,7 +4185,7 @@
         "displayName": { "en": "Hamilton Health Care System" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:04.301311",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -3949,7 +4208,7 @@
         "displayName": { "en": "Urology Partners of North Texas" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:04.664495",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -3972,7 +4231,7 @@
         "displayName": { "en": "Magruder Hospital" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:04.999777",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -3995,7 +4254,7 @@
         "displayName": { "en": "Crittenton Hospital Medical Center" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:05.192290",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -4018,7 +4277,7 @@
         "displayName": { "en": "Emory Healthcare GOLD Patient Portal" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:05.535777",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -4043,7 +4302,7 @@
         },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:05.730715",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -4066,7 +4325,7 @@
         "displayName": { "en": "Adventist Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:05.940889",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -4089,7 +4348,7 @@
         "displayName": { "en": "Methodist Health System" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:06.153091",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -4112,7 +4371,7 @@
         "displayName": { "en": "South Central Regional Medical Center" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:06.503430",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -4135,7 +4394,7 @@
         "displayName": { "en": "First Choice Community HealthCare" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:06.729459",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -4158,7 +4417,7 @@
         "displayName": { "en": "Tenet Healthcare Corporation" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:07.055478",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -4181,7 +4440,7 @@
         "displayName": { "en": "University Medical Center" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:07.425321",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -4204,7 +4463,7 @@
         "displayName": { "en": "San Juan Regional Medical Center" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:07.749460",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -4227,7 +4486,7 @@
         "displayName": { "en": "Mission Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:08.155873",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -4250,7 +4509,7 @@
         "displayName": { "en": "Yavapai Regional Medical Center" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:08.564084",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -4275,7 +4534,7 @@
         },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:08.747751",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -4298,7 +4557,7 @@
         "displayName": { "en": "Mineola District Hospital" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:08.952262",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -4321,7 +4580,7 @@
         "displayName": { "en": "Barnabas Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:09.587992",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -4344,7 +4603,7 @@
         "displayName": { "en": "Covenant Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:09.943154",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -4367,7 +4626,7 @@
         "displayName": { "en": "Doctors Hospital at Renaissance" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:10.133032",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -4392,7 +4651,7 @@
         },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:10.487440",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -4415,7 +4674,7 @@
         "displayName": { "en": "Hudson Physicians, S.C" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:10.874848",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -4438,7 +4697,7 @@
         "displayName": { "en": "Katherine Shaw Bethea Hospital" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:11.232507",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -4461,7 +4720,7 @@
         "displayName": { "en": "Ellis Medicine" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:11.714634",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -4484,7 +4743,7 @@
         "displayName": { "en": "Central Maine Healthcare" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:12.086592",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -4507,7 +4766,7 @@
         "displayName": { "en": "Logansport Memorial Hospital" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:12.455048",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -4530,7 +4789,7 @@
         "displayName": { "en": "Boca Raton Regional Hospital" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:12.865364",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -4553,7 +4812,7 @@
         "displayName": { "en": "University of Tennessee Medical Center" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:13.198625",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -4576,7 +4835,7 @@
         "displayName": { "en": "University Medical Center of El Paso" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:13.390343",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -4599,7 +4858,7 @@
         "displayName": { "en": "SoutheastHEALTH" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:13.787488",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -4622,7 +4881,7 @@
         "displayName": { "en": "Memorial Hospital" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:13.993192",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -4645,7 +4904,7 @@
         "displayName": { "en": "Broward Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:14.191756",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -4668,7 +4927,7 @@
         "displayName": { "en": "My Ascension Seton" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:14.589722",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -4691,7 +4950,7 @@
         "displayName": { "en": "University of New Mexico" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:15.015250",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -4714,7 +4973,7 @@
         "displayName": { "en": "Pomona Valley Hospital Medical Center" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:15.224169",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -4737,7 +4996,7 @@
         "displayName": { "en": "My Health Kaweah Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:15.527918",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -4760,7 +5019,7 @@
         "displayName": { "en": "Medical Associates Clinic" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:15.718533",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -4783,7 +5042,7 @@
         "displayName": { "en": "Roper St. Francis Healthcare" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:15.952531",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -4806,7 +5065,7 @@
         "displayName": { "en": "Capital Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:16.220802",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -4829,7 +5088,7 @@
         "displayName": { "en": "Health Quest" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:16.756219",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -4852,7 +5111,7 @@
         "displayName": { "en": "Community HealthCare System" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:16.942311",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -4875,7 +5134,7 @@
         "displayName": { "en": "Stony Brook Business Ventures, LLC" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:17.371901",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -4898,7 +5157,7 @@
         "displayName": { "en": "Fairfield Memorial Hospital" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:17.671951",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -4921,7 +5180,7 @@
         "displayName": { "en": "Penn State Health St. Joseph" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:18.001672",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -4944,7 +5203,7 @@
         "displayName": { "en": "St. Joseph's Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:18.498024",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -4967,7 +5226,7 @@
         "displayName": { "en": "Rutland Regional Medical Center" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:18.877303",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -4990,7 +5249,7 @@
         "displayName": { "en": "Tenet HealthSystem Medical Inc." },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:19.079272",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -5013,7 +5272,7 @@
         "displayName": { "en": "Clara Barton Hospital" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:19.624822",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -5036,7 +5295,7 @@
         "displayName": { "en": "Baptist Health South Florida" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:20.240095",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -5059,7 +5318,7 @@
         "displayName": { "en": "Maury Regional Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:20.439143",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -5082,7 +5341,7 @@
         "displayName": { "en": "Pagosa Springs Medical Center" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:20.641130",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -5105,7 +5364,7 @@
         "displayName": { "en": "Asquam Community Health Collaborative" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:20.831352",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -5128,7 +5387,7 @@
         "displayName": { "en": "Missouri Delta Medical Center" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:21.170300",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -5151,7 +5410,7 @@
         "displayName": { "en": "Georgia Regents Health System" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:21.527242",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -5174,7 +5433,7 @@
         "displayName": { "en": "East Jefferson General Hospital" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:21.751592",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -5197,7 +5456,7 @@
         "displayName": { "en": "UHS of Delaware, Inc - Central" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:22.092376",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -5220,7 +5479,7 @@
         "displayName": { "en": "Union General Hospital" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:22.491572",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -5243,7 +5502,7 @@
         "displayName": { "en": "University of South Alabama Medical Center" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:22.705941",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -5266,7 +5525,7 @@
         "displayName": { "en": "Cook County Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:23.008708",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -5289,7 +5548,7 @@
         "displayName": { "en": "Stony Brook Medicine" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:23.301844",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -5312,7 +5571,7 @@
         "displayName": { "en": "LifePoint Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:23.503774",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -5335,7 +5594,7 @@
         "displayName": { "en": "Columbus Regional Healthcare System" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:23.986833",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -5358,7 +5617,7 @@
         "displayName": { "en": "Kaleida Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:24.207100",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -5381,7 +5640,7 @@
         "displayName": { "en": "Moffitt Cancer Center" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:24.420046",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -5404,7 +5663,7 @@
         "displayName": { "en": "Olathe Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:24.818045",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -5427,7 +5686,7 @@
         "displayName": { "en": "Ascension" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:25.026022",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -5450,7 +5709,7 @@
         "displayName": { "en": "CoxHealth" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:25.219339",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -5473,7 +5732,7 @@
         "displayName": { "en": "Doctors Care" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:25.436029",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -5496,7 +5755,7 @@
         "displayName": { "en": "Tenet HealthSystem Medical Inc." },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:25.820145",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -5519,7 +5778,7 @@
         "displayName": { "en": "Centra Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:26.142745",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -5542,7 +5801,7 @@
         "displayName": { "en": "Regional Medical Center" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:26.587312",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -5565,7 +5824,7 @@
         "displayName": { "en": "Trinity Health North Dakota" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:26.953465",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -5588,7 +5847,7 @@
         "displayName": { "en": "Methodist Le Bonheur Healthcare" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:27.406952",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -5611,7 +5870,7 @@
         "displayName": { "en": "Sarah Bush Lincoln Health Center" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:27.590851",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -5634,7 +5893,7 @@
         "displayName": { "en": "West Tennessee Healthcare" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:27.905977",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -5657,7 +5916,7 @@
         "displayName": { "en": "Holland Hospital" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:28.394500",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -5680,7 +5939,7 @@
         "displayName": { "en": "Baptist Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:28.715682",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -5703,7 +5962,7 @@
         "displayName": { "en": "St. John's Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:29.147354",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -5726,7 +5985,7 @@
         "displayName": { "en": "MedStar Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:29.559098",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -5749,7 +6008,7 @@
         "displayName": { "en": "MIT Medical" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:29.758881",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -5772,7 +6031,7 @@
         "displayName": { "en": "Lafayette General Medical Center" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:29.958307",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -5795,7 +6054,7 @@
         "displayName": { "en": "Midwest Medical Center" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:30.173126",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -5820,7 +6079,7 @@
         },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:30.525893",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -5843,7 +6102,7 @@
         "displayName": { "en": "Einstein Healthcare Network" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:30.719386",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -5866,7 +6125,7 @@
         "displayName": { "en": "Lowell General Hospital" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:30.921674",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -5889,7 +6148,7 @@
         "displayName": { "en": "United Medical Physicians" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:31.340728",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -5912,7 +6171,7 @@
         "displayName": { "en": "Plumas District Hospital" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:31.810682",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -5935,7 +6194,7 @@
         "displayName": { "en": "Fisher-Titus Medical Center" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:32.000898",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -5958,7 +6217,7 @@
         "displayName": { "en": "Conway Medical Center" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:32.210463",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -5981,7 +6240,7 @@
         "displayName": { "en": "Munson Healthcare" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:32.406660",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -6004,7 +6263,7 @@
         "displayName": { "en": "Northside Hospital" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:32.606072",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -6027,7 +6286,7 @@
         "displayName": { "en": "Western Connecticut Health Network" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:33.039302",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -6050,7 +6309,7 @@
         "displayName": { "en": "Torrance Memorial" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:33.228730",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -6073,7 +6332,7 @@
         "displayName": { "en": "Wyoming Medical Center" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:33.420777",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -6096,7 +6355,7 @@
         "displayName": { "en": "Tenet HealthSystem Medical Inc." },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:33.858403",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -6119,7 +6378,7 @@
         "displayName": { "en": "Monongalia General Hospital" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:34.370526",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -6142,7 +6401,7 @@
         "displayName": { "en": "Keck Medicine of USC" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:34.701303",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -6165,7 +6424,7 @@
         "displayName": { "en": "Henry Community Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:34.897874",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -6188,7 +6447,7 @@
         "displayName": { "en": "Huntsville Hospital Health System" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:35.104045",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -6211,7 +6470,7 @@
         "displayName": { "en": "Dignity Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:35.335669",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -6234,7 +6493,7 @@
         "displayName": { "en": "Children's Hospital Los Angeles" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:35.538572",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -6257,7 +6516,7 @@
         "displayName": { "en": "Lakeland Regional Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:35.906646",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -6280,7 +6539,7 @@
         "displayName": { "en": "Truman Medical Centers" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:36.215755",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -6303,7 +6562,7 @@
         "displayName": { "en": "Winona Health Services" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:36.476485",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -6326,7 +6585,7 @@
         "displayName": { "en": "Columbia St. Mary's" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:36.871541",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -6349,7 +6608,7 @@
         "displayName": { "en": "Lawrence Memorial Hospital" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:37.412218",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -6372,7 +6631,7 @@
         "displayName": { "en": "Children's Mercy Hospital" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:37.656868",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -6395,7 +6654,7 @@
         "displayName": { "en": "Borgess Health Alliance Inc." },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:38.090166",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -6418,7 +6677,7 @@
         "displayName": { "en": "Wood County Hospital" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:38.488329",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -6441,7 +6700,7 @@
         "displayName": { "en": "Memorial Hermann" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:38.936745",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -6464,7 +6723,7 @@
         "displayName": { "en": "Aultman" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:39.208961",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -6489,7 +6748,7 @@
         },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:39.464508",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -6512,7 +6771,7 @@
         "displayName": { "en": "Children's National Hospital" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:39.856277",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -6535,7 +6794,7 @@
         "displayName": { "en": "Billings Clinic" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:40.250213",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -6558,7 +6817,7 @@
         "displayName": { "en": "MyNCH Health Portal" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:40.505751",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -6581,7 +6840,7 @@
         "displayName": { "en": "Riverside Medical Group" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:40.765299",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -6604,7 +6863,7 @@
         "displayName": { "en": "NorthBay Healthcare" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:41.243992",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -6627,7 +6886,7 @@
         "displayName": { "en": "University of Missouri Health Care" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:41.685886",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -6650,7 +6909,7 @@
         "displayName": { "en": "San Antonio Regional Hospital" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:42.012365",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -6673,7 +6932,7 @@
         "displayName": { "en": "Marcus Daly Memorial Hospital" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:42.313294",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -6696,7 +6955,7 @@
         "displayName": { "en": "Barnabas Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:42.900499",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -6719,7 +6978,7 @@
         "displayName": { "en": "Banner Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:43.169476",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -6742,7 +7001,7 @@
         "displayName": { "en": "Detroit Medical Center" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:43.630298",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -6767,7 +7026,7 @@
         },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:44.003934",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -6790,7 +7049,7 @@
         "displayName": { "en": "The Guthrie Clinic" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:44.364229",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -6813,7 +7072,7 @@
         "displayName": { "en": "Spectrum Health Lakeland" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:44.714726",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -6836,7 +7095,7 @@
         "displayName": { "en": "MaineHealth" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:45.028669",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -6859,7 +7118,7 @@
         "displayName": { "en": "MemorialCare" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:45.557155",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -6882,7 +7141,7 @@
         "displayName": { "en": "Renown Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:46.045551",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -6905,7 +7164,7 @@
         "displayName": { "en": "Seattle Children\u2019s" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:46.507020",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -6928,7 +7187,7 @@
         "displayName": { "en": "SSM Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:46.893562",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -6953,7 +7212,7 @@
         },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:47.238418",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -6976,7 +7235,7 @@
         "displayName": { "en": "Scripps Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:47.709641",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -6999,7 +7258,7 @@
         "displayName": { "en": "Sparrow Health System" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:48.122544",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -7022,7 +7281,7 @@
         "displayName": { "en": "Providence St. Joseph Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:48.716546",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -7045,7 +7304,7 @@
         "displayName": { "en": "Providence St. Joseph Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:49.401445",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -7068,7 +7327,7 @@
         "displayName": { "en": "Providence St. Joseph Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:50.045675",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -7091,7 +7350,7 @@
         "displayName": { "en": "Kaiser Permanente" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:50.465143",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -7222,7 +7481,7 @@
         "displayName": { "en": "Kaiser Permanente" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:50.695314",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -7353,7 +7612,7 @@
         "displayName": { "en": "Hennepin Healthcare" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:51.057060",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -7376,7 +7635,7 @@
         "displayName": { "en": "Bronson Healthcare Group" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:51.503253",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -7399,7 +7658,7 @@
         "displayName": { "en": "Atrius Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:51.701047",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -7422,7 +7681,7 @@
         "displayName": { "en": "Contra Costa Health Services" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:52.235634",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -7445,7 +7704,7 @@
         "displayName": { "en": "LCMC Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:52.676148",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -7468,7 +7727,7 @@
         "displayName": { "en": "WellSpan Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:53.277370",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -7493,7 +7752,7 @@
         },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:53.648323",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -7516,7 +7775,7 @@
         "displayName": { "en": "Hackensack Meridian Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:53.886486",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -7539,7 +7798,7 @@
         "displayName": { "en": "Memorial Healthcare System" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:54.167972",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -7562,7 +7821,7 @@
         "displayName": { "en": "North Memorial Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:54.417535",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -7585,7 +7844,7 @@
         "displayName": { "en": "Austin Regional Clinic" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:54.749565",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -7608,7 +7867,7 @@
         "displayName": { "en": "Beaumont Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:55.225146",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -7631,7 +7890,7 @@
         "displayName": { "en": "Ochsner Health System" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:55.558156",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -7654,7 +7913,7 @@
         "displayName": { "en": "UCHealth" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:55.839976",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -7677,7 +7936,7 @@
         "displayName": { "en": "State of California" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:56.144927",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -7700,7 +7959,7 @@
         "displayName": { "en": "United Healthcare Services, Inc." },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:56.441640",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -7725,7 +7984,7 @@
         },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:56.624498",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -7748,7 +8007,7 @@
         "displayName": { "en": "Salem Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:57.121085",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -7771,7 +8030,7 @@
         "displayName": { "en": "Lehigh Valley Health Network" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:57.811126",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -7794,7 +8053,7 @@
         "displayName": { "en": "Government of Yukon" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:58.289195",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -7822,7 +8081,7 @@
         "displayName": { "en": "BioReference Laboratories" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:58.976585",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -7853,7 +8112,7 @@
         "displayName": { "en": "Premier Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:59.373736",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -7876,7 +8135,7 @@
         "displayName": { "en": "Baptist Memorial Health Care" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:47:59.687058",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -7899,7 +8158,7 @@
         "displayName": { "en": "Baylor Scott & White Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:48:00.034609",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -7922,7 +8181,7 @@
         "displayName": { "en": "Beth Israel Lahey Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:48:00.262210",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -7945,7 +8204,7 @@
         "displayName": { "en": "Gundersen Health System" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:48:00.707677",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -7968,7 +8227,7 @@
         "displayName": { "en": "St. Elizabeth Healthcare" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:48:01.030247",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -7991,7 +8250,7 @@
         "displayName": { "en": "eHealth Saskatchewan" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:48:01.219869",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -8014,7 +8273,7 @@
         "displayName": { "en": "Sydney Local Health District" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:48:01.483672",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -8037,7 +8296,7 @@
         "displayName": { "en": "ProHealth" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:48:01.779297",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -8060,7 +8319,7 @@
         "displayName": { "en": "South Shore Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:48:02.037323",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -8083,7 +8342,7 @@
         "displayName": { "en": "OSF HealthCare" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:48:02.264236",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -8106,7 +8365,7 @@
         "displayName": { "en": "Penn Medicine" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:48:02.439859",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -8129,7 +8388,7 @@
         "displayName": { "en": "Kelsey-Seybold Clinic" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:48:02.801886",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -8154,7 +8413,7 @@
         },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:48:03.077020",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -8177,7 +8436,7 @@
         "displayName": { "en": "UCSF Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:48:04.087899",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -8200,7 +8459,7 @@
         "displayName": { "en": "Monroe Clinic" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:48:04.452873",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -8223,7 +8482,7 @@
         "displayName": { "en": "Denver Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:48:04.758948",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -8246,7 +8505,7 @@
         "displayName": { "en": "Hawaii Pacific Health" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:48:05.356809",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
@@ -8269,7 +8528,7 @@
         "displayName": { "en": "Government of the Northwest Territories" },
         "entityType": "issuer",
         "status": "current",
-        "validFromDT": "2021-10-12T09:48:06.094850",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
         "didDocument": {
           "jwks": {
             "keys": [
