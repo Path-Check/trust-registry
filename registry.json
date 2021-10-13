@@ -9488,6 +9488,256 @@
           }
         }
       }
+    },
+    "https://epicproxy.et0905.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC": {
+      "https://smarthealth.cards#immunization": {
+        "displayName": {
+          "en": "Atrium Health"
+        },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": {
+          "jwks": {
+            "keys": [
+              {
+                "x": "KYdL9zueHGWamYV4nm_uuk57NSUWLWJP4HQSfuoVxGE",
+                "y": "YzrRFHWk_geHIKjhz58ioleH-xwDVQu7oJXeBvtzqnY",
+                "kid": "TaGRfZOTc7scC1KB9280fu3O8bMTPX8WzDbpsfV3Ug4",
+                "use": "sig",
+                "kty": "EC",
+                "alg": "ES256",
+                "crv": "P-256"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "https://api.utmsa.com/fhir/api/epic/2021/Security/Open/EcKeys/32001/SHC": {
+      "https://smarthealth.cards#immunization": {
+        "displayName": {
+          "en": "UT Health San Antonio"
+        },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": {
+          "jwks": {
+            "keys": [
+              {
+                "x": "Cc2HY0MEHwGpZJKhLL4_vUpXQhSB2W7_i_-vi2xBvPU",
+                "y": "RBqkWEyBcQPvXNDYBGCbSjzfgf5F_ulvPFhF09ZTcCA",
+                "kid": "0jzWwbsnyP2wrDPYMCe96n0DztcJBVZLNwAq0VghGG4",
+                "use": "sig",
+                "kty": "EC",
+                "alg": "ES256",
+                "crv": "P-256"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "https://epicproxy.et0883.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC": {
+      "https://smarthealth.cards#immunization": {
+        "displayName": {
+          "en": "One Brooklyn Health System"
+        },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": {
+          "jwks": {
+            "keys": [
+              {
+                "x": "hbxBveM0XZRWXOA5JXmIB_W2XTx1L5Uzf9qhJ1HpwJA",
+                "y": "gLiUDv1slzzsRO3MQvuYZahGObEwOU7blMEzlBOseqY",
+                "kid": "bbODBOYLJ30uqUYEfA8rVrNHxnCt8YaYrWjOv65aozk",
+                "use": "sig",
+                "kty": "EC",
+                "alg": "ES256",
+                "crv": "P-256"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "https://eprp.deaconess.com/FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC": {
+      "https://smarthealth.cards#immunization": {
+        "displayName": {
+          "en": "Deaconess Health System"
+        },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": {
+          "jwks": {
+            "keys": [
+              {
+                "x": "Qj7SHlQPIryzwPYnfd2Q7Bu0J6j3pewApT2Yee8arho",
+                "y": "kr5KmpXx7Dho8FMYcqRTfrgagiVDZ4kozKeabgFZfi4",
+                "kid": "uA6TeO7UAz5zTA_jijEBpNSLFFyA9I23nNALQyZFWNo",
+                "use": "sig",
+                "kty": "EC",
+                "alg": "ES256",
+                "crv": "P-256"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "https://soap.uhcs.org/IC-FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC": {
+      "https://smarthealth.cards#immunization": {
+        "displayName": {
+          "en": "University Health Care System"
+        },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": {
+          "jwks": {
+            "keys": [
+              {
+                "x": "aOxEqNnR-C6boWr8xf6_mMLp2sNjGYPX_K6Oi_VCkGA",
+                "y": "pJfGGA8nxvktLL-aOjaQCaSdT1LOiHvKaaDTGtlR0_w",
+                "kid": "m_Iqa--J0odnT7cyJiObD1px1jxmm0x5v00ETHXM1VM",
+                "use": "sig",
+                "kty": "EC",
+                "alg": "ES256",
+                "crv": "P-256"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "https://epicproxy.et1055.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC": {
+      "https://smarthealth.cards#immunization": {
+        "displayName": {
+          "en": "Mary Washington Healthcare"
+        },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": {
+          "jwks": {
+            "keys": [
+              {
+                "x": "Vq30HUDldZ3b9NLK2qG9e1vYJddxchZFuPWjkA-oMto",
+                "y": "jYqm-qrCcOOtH4HQuzMyle0gzSpANsuI0UWgZwjpv_c",
+                "kid": "9GbJ5qM1XwrYTwDDe0HIgjEbimkzRiVo1-bX7srZUfk",
+                "use": "sig",
+                "kty": "EC",
+                "alg": "ES256",
+                "crv": "P-256"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "https://ws-interconnect-fhir.partners.org/Interconnect-FHIR-MU-PRD/api/epic/2021/Security/Open/EcKeys/32001/SHC": {
+      "https://smarthealth.cards#immunization": {
+        "displayName": {
+          "en": "Mass General Brigham"
+        },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": {
+          "jwks": {
+            "keys": [
+              {
+                "x": "gWIQRQQbhxhXn8UaDRIW-FO8U93YAJfK9qx2KPNymFQ",
+                "y": "T2LjgmPCSogtYWLnEE68JQ7eS7ZyrRfb9wR4HgygQwk",
+                "kid": "imnTqWDx_qeAsWg9OE-_hojNlEGxcU4RIsVa1lv1r-w",
+                "use": "sig",
+                "kty": "EC",
+                "alg": "ES256",
+                "crv": "P-256"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "https://www.express-scripts.com/frontendservice/mobilepatient-proxy/1/shc": {
+      "https://smarthealth.cards#immunization": {
+        "displayName": {
+          "en": "Express Scripts"
+        },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": {
+          "jwks": {
+            "keys": [
+              {
+                "use": "sig",
+                "kty": "EC",
+                "kid": "eOYMUyNJAF4a6iiPbwcOV2a3b6n_YjuKko-4mROkRYg",
+                "crv": "P-256",
+                "alg": "ES256",
+                "x": "kpAIrua3dSS4xCMfCh7PEkE0vln-64gN2Z9aibywsV4",
+                "y": "nOkShRZU4BheXkoxYMsXr4I7_7wLJGAKqyF_SBYA0CE"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "https://fhir-myrecord.cerner.com/r4/82392e44-ab37-416a-9704-84edeee58386": {
+      "https://smarthealth.cards#immunization": {
+        "displayName": {
+          "en": "Emory BLUE Patient Portal"
+        },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": {
+          "jwks": {
+            "keys": [
+              {
+                "crv": "P-256",
+                "kty": "EC",
+                "x": "DNo1BEwoRPNRDYsulhhxu9jOxkvCuEVU4IaCs3H6PJ0",
+                "y": "zB_HLKrE_n5Xi9I7yMIION-IQpzH5MEZoP2GvRftSsI",
+                "kid": "N2maG8qOhITe_zyPqcrCa6LT_mW18ZtFPy09cGAB24w",
+                "use": "sig",
+                "alg": "ES256"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "https://healthcard.walgreens.com": {
+      "https://smarthealth.cards#immunization": {
+        "displayName": {
+          "en": "Walgreens"
+        },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": {
+          "jwks": {
+            "keys": [
+              {
+                "kty": "EC",
+                "kid": "HU_oQtpaUSKgrD7QzeQ9TxED9BtPRFGcD8MqI6og_8A",
+                "use": "sig",
+                "alg": "ES256",
+                "crv": "P-256",
+                "x": "eQMHPLfZIzZtG5hlAdvFXai9IEV8ErWOFCEWVS-17sw",
+                "y": "iEVhblcB6V4i0EeVht3f9460Br2jUHVNfhVLKjNAGOA"
+              }
+            ]
+          }
+        }
+      }
     }
   }
 }
