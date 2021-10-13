@@ -17,7 +17,7 @@ describe("Trust Registry", () => {
       displayName: { en: "State of California" },
       entityType: "issuer",
       status: "current",
-      validFromDT: "2021-09-29T09:44:39.981409",
+      validFromDT: "2021-01-01T01:00:00.000Z",
       didDocument: {
         jwks: {
           keys: [
