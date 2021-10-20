@@ -9738,6 +9738,381 @@
           }
         }
       }
+    },
+    "https://docket.care/ut": {
+      "https://smarthealth.cards#immunization": {
+        "displayName": {
+          "en": "State of Utah"
+        },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": {
+          "jwks": {
+            "keys": [
+              {
+                "kty": "EC",
+                "use": "sig",
+                "crv": "P-256",
+                "kid": "sBHR4URZTz8cq2kIV_JhTXwicbqp1tHtodItRSx0O0Q",
+                "x": "uyzHUWf8EVXtlFW9nssxa1Z002rpc-GUw-YrZOZtmqo",
+                "y": "oFofHWIlPqfqCCU9R3fJOaUoWdzVzTcSNgmtF0Qgb6w",
+                "alg": "ES256"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "https://docket.care/nj": {
+      "https://smarthealth.cards#immunization": {
+        "displayName": {
+          "en": "State of New Jersey"
+        },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": {
+          "jwks": {
+            "keys": [
+              {
+                "kty": "EC",
+                "use": "sig",
+                "crv": "P-256",
+                "kid": "HvlLNClY2JAEhIhsZZ_CfRaxF5jdooWgaKAbLajhv2I",
+                "x": "FssCyCxGTEuKiKqo-MwLDQlxz1vdKll4YFMkQaXVOkY",
+                "y": "A3nNMWC8IEQsZqH8Mp83qVLTA_X9eYwzr46o4-3YyRE",
+                "alg": "ES256"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "https://immunizationcard.manitoba.ca/api/national": {
+      "https://smarthealth.cards#immunization": {
+        "displayName": {
+          "en": "Government of Manitoba"
+        },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": {
+          "jwks": {
+            "keys": [
+              {
+                "alg": "ES256",
+                "kty": "EC",
+                "crv": "P-256",
+                "x": "E2mScyP_Iwm0gn1nAYldT0MbWFUeapIsuh9ebqCJgkQ",
+                "y": "AePVDo-_XxQDJ_25BW4txoLPzuu7CQ65C2oLJIN4DxI",
+                "kid": "YnYeVk1pCtYvnmOytVTq09igCGdu_SyJM2Wn29AV7AQ",
+                "use": "sig"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "https://epicproxy.et1082.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC": {
+      "https://smarthealth.cards#immunization": {
+        "displayName": {
+          "en": "San Francisco Department of Public Health"
+        },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": {
+          "jwks": {
+            "keys": [
+              {
+                "x": "U2-0PvR9VHD1YEAl-jZcUvDCEC-gZJNzwNH-40RuWM8",
+                "y": "T_0TY3x8SkgwaKoTnDpAHqSPqa9o7ckSyu_4AQioDuo",
+                "kid": "SvP1FzmaBl52-Ty6dl80yEk6LH41plr_lKWzOoGbj-4",
+                "use": "sig",
+                "kty": "EC",
+                "alg": "ES256",
+                "crv": "P-256"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "https://m.essentiahealth.org/FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC": {
+      "https://smarthealth.cards#immunization": {
+        "displayName": {
+          "en": "Essentia Health"
+        },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": {
+          "jwks": {
+            "keys": [
+              {
+                "x": "M081Bm1gznxO_-nqS_JGqzYcWdq_uWcZ9GhN8DWlcbk",
+                "y": "0KJ4M6lTIGM8GrjTrIzs-lGVk82TL8xLVOVq8u4sd5w",
+                "kid": "j3YAS_YwqLBY9TEosFzQ6VFRpGrC4HwYG5UJj2k7W00",
+                "use": "sig",
+                "kty": "EC",
+                "alg": "ES256",
+                "crv": "P-256"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "https://epic-arr.pinnaclehealth.org/PRD-FHIR-ARR/api/epic/2021/Security/Open/EcKeys/32001/SHC": {
+      "https://smarthealth.cards#immunization": {
+        "displayName": {
+          "en": "UPMC Central PA"
+        },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": {
+          "jwks": {
+            "keys": [
+              {
+                "x": "sLIcGKOviGZDsvMAzDkp1KA51TE3pSi1WtOMgp5hZeY",
+                "y": "9X24YDgjWaXuTO9iPb_AjY7HDVrdDZb7TUdq4A55gK8",
+                "kid": "Pjy4Qg73qkUFnK7pU02Od1c8szuA3Sf9MBqkW1_WeOA",
+                "use": "sig",
+                "kty": "EC",
+                "alg": "ES256",
+                "crv": "P-256"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "https://fhir.samhealth.org/fhir-arr/api/epic/2021/Security/Open/EcKeys/32001/SHC": {
+      "https://smarthealth.cards#immunization": {
+        "displayName": {
+          "en": "Samaritan Health Services"
+        },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": {
+          "jwks": {
+            "keys": [
+              {
+                "x": "4T-xGp0ES6dLtxLMMIMocZ9QtEpJx2gkIHATP0EDsbo",
+                "y": "J917ueQlegALyc96N_W3fYrbPx9GBOoCXIO5tvK-xCE",
+                "kid": "g3e0Mc14ryLe1pHUHkPwFMQRFRy5JeYXooUwECYo7kg",
+                "use": "sig",
+                "kty": "EC",
+                "alg": "ES256",
+                "crv": "P-256"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "https://soapproxy.umc.edu/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC": {
+      "https://smarthealth.cards#immunization": {
+        "displayName": {
+          "en": "University of Mississippi Medical Center"
+        },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": {
+          "jwks": {
+            "keys": [
+              {
+                "x": "CZVVWbJVE4CwcgAfeC-7NxmxH32PZY-3Z9HJuy6lCDA",
+                "y": "jYaSu6yO6QMZwZ9CVMwmQM2MsuuPJ2jDeVRBiAoWWlI",
+                "kid": "mxF4Ps18ovCh05dnazqw08rXkdDXqWCzpuUdG73PlvA",
+                "use": "sig",
+                "kty": "EC",
+                "alg": "ES256",
+                "crv": "P-256"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "https://soapprod.hattiesburgclinic.com/FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC": {
+      "https://smarthealth.cards#immunization": {
+        "displayName": {
+          "en": "Hattiesburg Clinic and Forrest Health"
+        },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": {
+          "jwks": {
+            "keys": [
+              {
+                "x": "pm70khqILVU2lPCSOJfwPTc25vbs7mQUYoM2KXLOYjY",
+                "y": "H_nDrLyyqV4Q0oZSq4PyKac8TPuQSJYAM0p3EXRH1Q",
+                "kid": "GACNzwRcDYM2QYg7JZs-0MNr3zwuGP6buRsZZalT0uU",
+                "use": "sig",
+                "kty": "EC",
+                "alg": "ES256",
+                "crv": "P-256"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "https://epicproxy.et1144.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC": {
+      "https://smarthealth.cards#immunization": {
+        "displayName": {
+          "en": "Catholic Health System"
+        },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": {
+          "jwks": {
+            "keys": [
+              {
+                "x": "-yQf1rgvHGEI5xWuWVg-PoKBF0YwIY7PvKj481ivzhA",
+                "y": "WYual5DaLjI_SyH0-MHkLY7h1G1rqOCZVE9uuSbqDJI",
+                "kid": "BvZy98sZVulgVwK2D_-LcT2akKpadjH5AvCeMkdyiFc",
+                "use": "sig",
+                "kty": "EC",
+                "alg": "ES256",
+                "crv": "P-256"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "https://epicfhir.nyumc.org/FHIRPRD/api/epic/2021/Security/Open/EcKeys/32001/SHC": {
+      "https://smarthealth.cards#immunization": {
+        "displayName": {
+          "en": "NYU Langone Health System"
+        },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": {
+          "jwks": {
+            "keys": [
+              {
+                "x": "HpBBnZ2qtxCsxdSWhSGOjGYiU_edmB6mQJZiGeTMvIM",
+                "y": "1z8YT9iDwgaMy6CxenXBdspik2MthRppvv5QmWZhcYk",
+                "kid": "zSv8wWkGzIPKpuwXHSPJ-4qJY5jkSa-oKvLUyC421uo",
+                "use": "sig",
+                "kty": "EC",
+                "alg": "ES256",
+                "crv": "P-256"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "https://epicproxy.et1031.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC": {
+      "https://smarthealth.cards#immunization": {
+        "displayName": {
+          "en": "Bryan Health"
+        },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": {
+          "jwks": {
+            "keys": [
+              {
+                "x": "4wvT5TuE6u100kTBW2PcmDQoWdWfrMgOWcD3d_bdBcQ",
+                "y": "9eWYuCoQjU-c47KDqy4QoKI00I3_wVb4kTOBKl3rqls",
+                "kid": "cO572tjdVSjz6zxwDVN44pQllfvi0-4HCIKlNgzU5Ts",
+                "use": "sig",
+                "kty": "EC",
+                "alg": "ES256",
+                "crv": "P-256"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "https://soapproxy.peacehealth.org/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC": {
+      "https://smarthealth.cards#immunization": {
+        "displayName": {
+          "en": "PeaceHealth"
+        },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": {
+          "jwks": {
+            "keys": [
+              {
+                "x": "ngootpZ2sOG4s1g4zRPce6Hs-IxHCPWoXJaFWhj_dK8",
+                "y": "d76RhNJS8fCn1iYcG87R55JezJJ8SPXZNUtwiegPaxI",
+                "kid": "dtvI30LBfmPBc8KH47PpgJpDGMBQhnTJn01IGmG6t68",
+                "use": "sig",
+                "kty": "EC",
+                "alg": "ES256",
+                "crv": "P-256"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "https://fhirdev.hfhs.org/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC": {
+      "https://smarthealth.cards#immunization": {
+        "displayName": {
+          "en": "Henry Ford Health System"
+        },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": {
+          "jwks": {
+            "keys": [
+              {
+                "x": "uz-dQksuEayP4lmcxAF3AC097xrYTLWM396U2UA3L8M",
+                "y": "lPfkDKYmRizvIrKlWs7Q8YNznRfFBvxpi_yA2DW7eCM",
+                "kid": "znu0_C4OX1ljgyAOThvnlfypXxfut9_Hv1hDPu_Ped8",
+                "use": "sig",
+                "kty": "EC",
+                "alg": "ES256",
+                "crv": "P-256"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "https://epicsoap.readinghospital.org/FHIR-PRD/api/epic/2021/Security/Open/EcKeys/32001/SHC": {
+      "https://smarthealth.cards#immunization": {
+        "displayName": {
+          "en": "Tower Health"
+        },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": {
+          "jwks": {
+            "keys": [
+              {
+                "x": "S8lFgku9abbaJWJz9eekk_NZMhxzFiS7mUWDx714pYs",
+                "y": "KVPpmIYG9stHnR0VxKtRRyzQkURUZel-K-cpBStGhjU",
+                "kid": "FjbTXpsFm8Wo24V_NIyJf7DKCMa1NsbNDuGOsdbQyMw",
+                "use": "sig",
+                "kty": "EC",
+                "alg": "ES256",
+                "crv": "P-256"
+              }
+            ]
+          }
+        }
+      }
     }
   }
 }
