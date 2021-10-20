@@ -8,8 +8,11 @@ Entities selected to be in this server have been validated by the PathCheck Foun
 - [x] State of California
 - [x] State of Louisiana
 - [x] State of Massachusetts
+- [x] State of New Jersey
 - [x] State of New York
+- [x] State of Utah
 - [x] Province of British Columbia
+- [x] Province of Manitoba
 - [x] Province of Nova Scotia
 - [x] Province of Quebec
 - [x] Province of the Northwest Territories
@@ -71,6 +74,7 @@ Entities selected to be in this server have been validated by the PathCheck Foun
 - [x] Ascension
 - [x] Aspirus
 - [x] Asquam Community Health Collaborative
+- [x] Atrium Health
 - [x] Atrius Health
 - [x] Aultman
 - [x] Austin Regional Clinic
@@ -90,10 +94,12 @@ Entities selected to be in this server have been validated by the PathCheck Foun
 - [x] Borgess Health Alliance Inc.
 - [x] Bronson Healthcare Group
 - [x] Broward Health
+- [x] Bryan Health
 - [x] Cabell Huntington Hospital and Marshall Health
 - [x] Capital Health
 - [x] Carle Foundation Hospital
 - [x] CarolinaEast Medical Center
+- [x] Catholic Health System
 - [x] Cedars-Sinai Medical Center
 - [x] Centra Health
 - [x] CentraCare
@@ -119,6 +125,7 @@ Entities selected to be in this server have been validated by the PathCheck Foun
 - [x] CoxHealth
 - [x] Crittenton Hospital Medical Center
 - [x] CVS Health
+- [x] Deaconess Health System
 - [x] Denver Health
 - [x] Detroit Medical Center
 - [x] Dignity Health
@@ -129,9 +136,12 @@ Entities selected to be in this server have been validated by the PathCheck Foun
 - [x] eHealth Saskatchewan
 - [x] Einstein Healthcare Network
 - [x] Ellis Medicine
+- [x] Emory BLUE Patient Portal
 - [x] Emory Healthcare GOLD Patient Portal
 - [x] Englewood Hospital and Medical Center
 - [x] EPIC Management
+- [x] Essentia Health
+- [x] Express Scripts
 - [x] Fairfield Memorial Hospital
 - [x] First Choice Community HealthCare
 - [x] Fisher-Titus Medical Center
@@ -146,10 +156,12 @@ Entities selected to be in this server have been validated by the PathCheck Foun
 - [x] Hackensack Meridian Health
 - [x] Hamilton Health Care System
 - [x] Hartford HealthCare
+- [x] Hattiesburg Clinic and Forrest Health
 - [x] Hawaii Pacific Health
 - [x] Health Quest
 - [x] Hennepin Healthcare
 - [x] Henry Community Health
+- [x] Henry Ford Health System
 - [x] Holland Hospital
 - [x] Hudson Physicians, S.C
 - [x] Huntsville Hospital Health System
@@ -175,6 +187,8 @@ Entities selected to be in this server have been validated by the PathCheck Foun
 - [x] MaineHealth
 - [x] Marcus Daly Memorial Hospital
 - [x] Margaret Mary Health
+- [x] Mary Washington Healthcare
+- [x] Mass General Brigham
 - [x] Maury Regional Health
 - [x] Medical Associates Clinic
 - [x] MediSys Health Network
@@ -210,13 +224,16 @@ Entities selected to be in this server have been validated by the PathCheck Foun
 - [x] North Memorial Health
 - [x] NorthBay Healthcare
 - [x] Northside Hospital
+- [x] NYU Langone Health System
 - [x] Ochsner Health System
 - [x] OhioHealth
 - [x] Olathe Health
+- [x] One Brooklyn Health System
 - [x] OSF HealthCare
 - [x] Pagosa Springs Medical Center
 - [x] Parkview Health
 - [x] PathCheck Foundation
+- [x] PeaceHealth
 - [x] Pediatric Physicians' Organization at Children's
 - [x] Penn Medicine
 - [x] Penn State Health St. Joseph
@@ -237,7 +254,9 @@ Entities selected to be in this server have been validated by the PathCheck Foun
 - [x] Roper St. Francis Healthcare
 - [x] Rutland Regional Medical Center
 - [x] Salem Health
+- [x] Samaritan Health Services
 - [x] San Antonio Regional Hospital
+- [x] San Francisco Department of Public Health
 - [x] San Joaquin General Hospital
 - [x] San Juan Regional Medical Center
 - [x] Sarah Bush Lincoln Health Center
@@ -271,6 +290,7 @@ Entities selected to be in this server have been validated by the PathCheck Foun
 - [x] The University of Texas Health Science Center at Houston
 - [x] The University of Vermont Medical Center
 - [x] Torrance Memorial
+- [x] Tower Health
 - [x] Trinity Health North Dakota
 - [x] Truman Medical Centers
 - [x] UC Davis Health
@@ -287,19 +307,24 @@ Entities selected to be in this server have been validated by the PathCheck Foun
 - [x] United Healthcare Services, Inc.
 - [x] United Medical Physicians
 - [x] UnityPoint Health
+- [x] University Health Care System
 - [x] University Medical Center
 - [x] University Medical Center of El Paso
 - [x] University of Alabama Hospital
+- [x] University of Mississippi Medical Center
 - [x] University of Missouri Health Care
 - [x] University of New Mexico
 - [x] University of South Alabama Medical Center
 - [x] University of Tennessee Medical Center
 - [x] University of Texas Medical Branch
 - [x] University of Texas Southwestern Medical Center
+- [x] UPMC Central PA
 - [x] Urology Partners of North Texas
+- [x] UT Health San Antonio
 - [x] UW Health
 - [x] Virginia Department of Health
 - [x] Virginia Hospital Center
+- [x] Walgreens
 - [x] WellSpan Health
 - [x] West Tennessee Healthcare
 - [x] Westchester Medical Center Health Network
