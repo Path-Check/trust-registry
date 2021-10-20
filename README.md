@@ -19,6 +19,7 @@ Entities selected to be in this server have been validated by the PathCheck Foun
 - [x] Province of Yukon
 - [x] Government of Albania
 - [x] Government of Andorra
+- [x] Government of Australia
 - [x] Government of Austria
 - [x] Government of Barbados
 - [x] Government of Belgium
