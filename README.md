@@ -17,7 +17,7 @@ Entities selected to be in this server have been validated by the PathCheck Foun
 - [x] Province of Newfoundland and Labrador
 - [x] Province of Nova Scotia
 - [x] Province of Ontario
-- [x] Province of Quebec
+- [x] Province of Québec - Province of Quebec (2 keys)
 - [x] Province of the Northwest Territories
 - [x] Province of Yukon
 - [x] Government of Albania
@@ -29,44 +29,44 @@ Entities selected to be in this server have been validated by the PathCheck Foun
 - [x] Government of Bulgaria
 - [x] Government of Croatia
 - [x] Government of Cyprus
-- [x] Government of Czechia
+- [x] Government of Czechia (2 keys)
 - [x] Government of Denmark
 - [x] Government of Estonia
 - [x] Government of Finland
-- [x] Government of France
-- [x] Government of Germany
+- [x] Government of France (32 keys)
+- [x] Government of Germany (57 keys)
 - [x] Government of Greece
 - [x] Government of Hungary
-- [x] Government of Iceland
+- [x] Government of Iceland (2 keys)
 - [x] Government of India
-- [x] Government of Ireland
+- [x] Government of Ireland (2 keys)
 - [x] Government of Israel
 - [x] Government of Italy
-- [x] Government of Latvia
-- [x] Government of Liechtenstein
-- [x] Government of Lithuania
-- [x] Government of Luxembourg
-- [x] Government of Malta
-- [x] Government of Monaco
+- [x] Government of Latvia (2 keys)
+- [x] Government of Liechtenstein (3 keys)
+- [x] Government of Lithuania (2 keys)
+- [x] Government of Luxembourg (6 keys)
+- [x] Government of Malta (6 keys)
+- [x] Government of Monaco (2 keys)
 - [x] Government of Morocco
-- [x] Government of North Macedonia
-- [x] Government of Norway
+- [x] Government of North Macedonia (2 keys)
+- [x] Government of Norway (3 keys)
 - [x] Government of Panama
 - [x] Government of Philippines
-- [x] Government of Poland
+- [x] Government of Poland (3 keys)
 - [x] Government of Portugal
 - [x] Government of Romania
 - [x] Government of San Marino
 - [x] Government of Slovakia
 - [x] Government of Slovenia
-- [x] Government of Spain
+- [x] Government of Spain (21 keys)
 - [x] Government of Sri Lanka
 - [x] Government of Sweden
-- [x] Government of Switzerland
-- [x] Government of the Faroe Islands
+- [x] Government of Switzerland (7 keys)
+- [x] Government of the Faroe Islands (2 keys)
 - [x] Government of the Holy See (Vatican City State)
-- [x] Government of the Netherlands
-- [x] Government of the United Kingdom
+- [x] Government of the Netherlands (12 keys)
+- [x] Government of the United Kingdom (21 keys)
 - [x] Government of Turkey
 - [x] Government of Ukraine
 - [x] Government of Uruguay
@@ -83,10 +83,10 @@ Entities selected to be in this server have been validated by the PathCheck Foun
 - [x] Aultman
 - [x] Austin Regional Clinic
 - [x] Banner Health
-- [x] Baptist Health
+- [x] Baptist Health (2 keys)
 - [x] Baptist Health South Florida
 - [x] Baptist Memorial Health Care
-- [x] Barnabas Health
+- [x] Barnabas Health (2 keys)
 - [x] Baylor Scott & White Health
 - [x] Beaumont Health
 - [x] Beth Israel Lahey Health
@@ -133,12 +133,12 @@ Entities selected to be in this server have been validated by the PathCheck Foun
 - [x] Delaware Immunization Program
 - [x] Denver Health
 - [x] Detroit Medical Center
-- [x] Dignity Health
+- [x] Dignity Health (2 keys)
 - [x] Doctors Care
 - [x] Doctors Hospital at Renaissance
 - [x] DuPage Medical Group and Edward-Elmhurst Health
 - [x] East Jefferson General Hospital
-- [x] eHealth Saskatchewan
+- [x] eHealth Saskatchewan (2 keys)
 - [x] Einstein Healthcare Network
 - [x] Ellis Medicine
 - [x] Emory BLUE Patient Portal
@@ -173,7 +173,7 @@ Entities selected to be in this server have been validated by the PathCheck Foun
 - [x] Huntsville Hospital Health System
 - [x] Indiana Regional Medical Center
 - [x] Johns Hopkins Medicine
-- [x] Kaiser Permanente
+- [x] Kaiser Permanente (26 keys)
 - [x] Kaleida Health
 - [x] Katherine Shaw Bethea Hospital
 - [x] Keck Medicine of USC
@@ -206,7 +206,7 @@ Entities selected to be in this server have been validated by the PathCheck Foun
 - [x] MemorialCare
 - [x] Mercy Medical Center
 - [x] Mercyhealth
-- [x] Methodist Health System
+- [x] Methodist Health System (2 keys)
 - [x] Methodist Le Bonheur Healthcare
 - [x] Middlesex Health
 - [x] Midwest Medical Center
@@ -252,7 +252,7 @@ Entities selected to be in this server have been validated by the PathCheck Foun
 - [x] Presbyterian Healthcare Services
 - [x] ProHealth
 - [x] ProMedica
-- [x] Providence St. Joseph Health
+- [x] Providence St. Joseph Health (3 keys)
 - [x] QuadMed
 - [x] Regional Medical Center
 - [x] Renown Health
@@ -292,7 +292,7 @@ Entities selected to be in this server have been validated by the PathCheck Foun
 - [x] Sutter Health
 - [x] Sydney Local Health District
 - [x] Tenet Healthcare Corporation
-- [x] Tenet HealthSystem Medical Inc.
+- [x] Tenet HealthSystem Medical Inc. (4 keys)
 - [x] Texas Health Resources
 - [x] The Guthrie Clinic
 - [x] The University of Texas Health Science Center at Houston
@@ -304,7 +304,7 @@ Entities selected to be in this server have been validated by the PathCheck Foun
 - [x] Truman Medical Centers
 - [x] UC Davis Health
 - [x] UC Health (Cincinnati)
-- [x] UC Health (San Diego / Irvine / Riverside) and Affiliates
+- [x] UC Health (San Diego / Irvine / Riverside) and Affiliates (2 keys)
 - [x] UCHealth
 - [x] UConn Health
 - [x] UCSF Health
