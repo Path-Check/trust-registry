@@ -11,9 +11,12 @@ Entities selected to be in this server have been validated by the PathCheck Foun
 - [x] State of New Jersey
 - [x] State of New York
 - [x] State of Utah
+- [x] Province of Alberta
 - [x] Province of British Columbia
 - [x] Province of Manitoba
+- [x] Province of Newfoundland and Labrador
 - [x] Province of Nova Scotia
+- [x] Province of Ontario
 - [x] Province of Quebec
 - [x] Province of the Northwest Territories
 - [x] Province of Yukon

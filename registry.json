@@ -3339,6 +3339,26 @@
         "https://smarthealth.cards#immunization"
       ]
     },
+    "https://prd.pkey.dhdp.ontariohealth.ca#Nlgwb6GUrU_f0agdYKc77sXM9U8en1gBu94plufPUj8": {
+      "displayName": {
+        "en": "Prov of Ontario"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:25:35.057Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "Nlgwb6GUrU_f0agdYKc77sXM9U8en1gBu94plufPUj8",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "ibapbMkHMlkR3D-AU0VTFDsiidQ49oD9Ha7VY8Gao3s",
+        "y": "arXU5frZGOvTZpvg045rHC7y0fqVOS3dKqJbUYhW5gw"
+        },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
     "https://pvc.novascotia.ca/issuer#UJrT9jU8vOCUl4xsI1RZjOPP8hFUv7n9mhVtolqH9qw": {
       "displayName": {
         "en": "Prov of Nova Scotia"
@@ -3474,6 +3494,47 @@
         "kty": "EC",
         "alg": "ES256",
         "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://www.gov.nl.ca/covid-19/life-during-covid-19/vaccination-record/prod#UboztS3pE1mr0dnG7Rv24kRNqlYbHrbxd-qBFerpZvI": {
+      "displayName": {
+        "en": "Prov of Newfoundland and Labrador"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kid": "UboztS3pE1mr0dnG7Rv24kRNqlYbHrbxd-qBFerpZvI",
+        "alg": "ES256",
+        "kty": "EC",
+        "crv": "P-256",
+        "use": "sig",
+        "x": "mB0PKTVRnr3JCtyucEjCHXkXW3COg5KP0y4gKCNJxWc",
+        "y": "PTpxiYECNiuyRwpwqjme8OIFdG7N-HwN2XH02phdZCs"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+
+    "https://covidrecords.alberta.ca/smarthealth/issuer#JoO-sJHpheZboXdsUK4NtfulfvpiN1GlTdNnXN3XAnM": {
+      "displayName": {
+        "en": "Prov of Alberta"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument":  {
+        "kid": "JoO-sJHpheZboXdsUK4NtfulfvpiN1GlTdNnXN3XAnM",
+        "alg": "ES256",
+        "kty": "EC",
+        "crv": "P-256",
+        "use": "sig",
+        "x": "GsriV0gunQpl2X9KgrDZ4EDCtIdfOmdzhdlosWrMqKk",
+        "y": "S99mZMCcJRsn662RaAmk_elvGiUs8IvSA7qBh04kaw0"
       },
       "credentialType": [
         "https://smarthealth.cards#immunization"
