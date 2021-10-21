@@ -2742,7 +2742,8 @@
                 "crv": "P-256",
                 "x": "XSxuwW_VI_s6lAw6LAlL8N7REGzQd_zXeIVDHP_j_Do",
                 "y": "88-aI4WAEl4YmUpew40a9vq_w5OcFvsuaKMxJRLRLL0"
-              },{
+              },
+              {
                 "kty": "EC",
                 "kid": "2XlWk1UQMqavMtLt-aX35q_q9snFtGgdjH4-Y1gfH1M",
                 "use": "sig",
@@ -10126,6 +10127,131 @@
                 "x": "S8lFgku9abbaJWJz9eekk_NZMhxzFiS7mUWDx714pYs",
                 "y": "KVPpmIYG9stHnR0VxKtRRyzQkURUZel-K-cpBStGhjU",
                 "kid": "FjbTXpsFm8Wo24V_NIyJf7DKCMa1NsbNDuGOsdbQyMw",
+                "use": "sig",
+                "kty": "EC",
+                "alg": "ES256",
+                "crv": "P-256"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "https://epicproxy.et1127.epichosted.com/FHIRproxy/api/epic/2021/Security/Open/EcKeys/32001/SHC": {
+      "https://smarthealth.cards#immunization": {
+        "displayName": {
+          "en": "United Health Services"
+        },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": {
+          "jwks": {
+            "keys": [
+              {
+                "x": "vzuCvPQFhjFIEJVjsf1aLzWm0kUby-PfYcHlPc4tn0M",
+                "y": "_iyzBLy69fhEps56N_UyaKZ5WIL0GMtbzPoXK8g8TFM",
+                "kid": "8fh6q6S2ASUK1AD9uz5FtPxNsxoMJsor8iMrE8puvho",
+                "use": "sig",
+                "kty": "EC",
+                "alg": "ES256",
+                "crv": "P-256"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "https://fhir.promedica.org/FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC": {
+      "https://smarthealth.cards#immunization": {
+        "displayName": {
+          "en": "ProMedica"
+        },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": {
+          "jwks": {
+            "keys": [
+              {
+                "x": "Hty2sTB8Apkrr-Zvi7nuchk-U9dey3nS5wZxxsP6ZeY",
+                "y": "3zXcnWpnWc6jJEvVUuHph2SZ4h7KSJm8HSnL3HoFAuk",
+                "kid": "uPWKKpoWI3OIa11UbV9xdoRHdf5ZsYsAyvczK79L3RE",
+                "use": "sig",
+                "kty": "EC",
+                "alg": "ES256",
+                "crv": "P-256"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "https://fhir.mdanderson.org/FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC": {
+      "https://smarthealth.cards#immunization": {
+        "displayName": {
+          "en": "The University of Texas MD Anderson Cancer Center"
+        },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": {
+          "jwks": {
+            "keys": [
+              {
+                "x": "77K07EhwPGJ-HbndHQalVHtz9z_DSI6crc-mU9EytrE",
+                "y": "2hP4-EzBdsV7VHyADayWEiYLhghilQPVI9AKyps3Pxk",
+                "kid": "WG_qC2lsWHa2WgqHa_dcCG27Tic7kyNi8WulJ3DUbNQ",
+                "use": "sig",
+                "kty": "EC",
+                "alg": "ES256",
+                "crv": "P-256"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "https://epicproxy.et0958.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC": {
+      "https://smarthealth.cards#immunization": {
+        "displayName": {
+          "en": "Mayo Clinic"
+        },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": {
+          "jwks": {
+            "keys": [
+              {
+                "x": "xn2lXUje1oEtdXpeN2cJAatuPKukPAT5c7cMR6rxufU",
+                "y": "QvV3rnwnLld4QJEv0nD2gEE1z235Bva9hpbMZtp9SCE",
+                "kid": "Akfcd16Qc_fhbPsoep3rbEcPlOXGKn9mIDVcb8c2kyo",
+                "use": "sig",
+                "kty": "EC",
+                "alg": "ES256",
+                "crv": "P-256"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "https://fhir.genesishcs.org/api/epic/2021/Security/Open/EcKeys/32001/SHC": {
+      "https://smarthealth.cards#immunization": {
+        "displayName": {
+          "en": "Genesis Healthcare System"
+        },
+        "entityType": "issuer",
+        "status": "current",
+        "validFromDT": "2021-01-01T01:00:00.000Z",
+        "didDocument": {
+          "jwks": {
+            "keys": [
+              {
+                "x": "lvNUQrSwjIVf2XyfffOFqvvSdI6Qt5nEDv1i_PuwleE",
+                "y": "DQArVvEDp0Hga4fFx1b9b2xEopMfW4Sr2EopFbkvDc8",
+                "kid": "YUhLaxhyu1Rl7fiLLxXEP0Sort3tLH9aiSawcQMxjBA",
                 "use": "sig",
                 "kty": "EC",
                 "alg": "ES256",

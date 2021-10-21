@@ -149,6 +149,7 @@ Entities selected to be in this server have been validated by the PathCheck Foun
 - [x] Franciscan Alliance
 - [x] Franciscan Missionaries of Our Lady Health System, Inc.
 - [x] Froedtert Health
+- [x] Genesis Healthcare System
 - [x] Georgia Regents Health System
 - [x] Golden Valley Health Centers
 - [x] Greater Baltimore Medical Center
@@ -191,6 +192,7 @@ Entities selected to be in this server have been validated by the PathCheck Foun
 - [x] Mary Washington Healthcare
 - [x] Mass General Brigham
 - [x] Maury Regional Health
+- [x] Mayo Clinic
 - [x] Medical Associates Clinic
 - [x] MediSys Health Network
 - [x] MedStar Health
@@ -245,6 +247,7 @@ Entities selected to be in this server have been validated by the PathCheck Foun
 - [x] Premise Health
 - [x] Presbyterian Healthcare Services
 - [x] ProHealth
+- [x] ProMedica
 - [x] Providence St. Joseph Health
 - [x] QuadMed
 - [x] Regional Medical Center
@@ -289,6 +292,7 @@ Entities selected to be in this server have been validated by the PathCheck Foun
 - [x] Texas Health Resources
 - [x] The Guthrie Clinic
 - [x] The University of Texas Health Science Center at Houston
+- [x] The University of Texas MD Anderson Cancer Center
 - [x] The University of Vermont Medical Center
 - [x] Torrance Memorial
 - [x] Tower Health
@@ -305,6 +309,7 @@ Entities selected to be in this server have been validated by the PathCheck Foun
 - [x] UMass Memorial Health
 - [x] UNC Health Care System
 - [x] Union General Hospital
+- [x] United Health Services
 - [x] United Healthcare Services, Inc.
 - [x] United Medical Physicians
 - [x] UnityPoint Health
