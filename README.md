@@ -127,6 +127,7 @@ Entities selected to be in this server have been validated by the PathCheck Foun
 - [x] Crittenton Hospital Medical Center
 - [x] CVS Health
 - [x] Deaconess Health System
+- [x] Delaware Immunization Program
 - [x] Denver Health
 - [x] Detroit Medical Center
 - [x] Dignity Health
@@ -252,7 +253,7 @@ Entities selected to be in this server have been validated by the PathCheck Foun
 - [x] QuadMed
 - [x] Regional Medical Center
 - [x] Renown Health
-- [x] Rite Aid
+- [x] Rite Aid Pharmacy
 - [x] Riverside Health System
 - [x] Riverside Medical Group
 - [x] Roper St. Francis Healthcare
