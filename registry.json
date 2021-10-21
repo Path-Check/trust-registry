@@ -3281,7 +3281,7 @@
     },
     "https://covid19.quebec.ca/PreuveVaccinaleApi/issuer#qFdl0tDZK9JAWP6g9_cAv57c3KWxMKwvxCrRVSzcxvM": {
       "displayName": {
-        "en": "Prov of Quebec"
+        "en": "Gouvernement du Québec - Government of Quebec"
       },
       "entityType": "issuer",
       "status": "current",
@@ -3301,7 +3301,7 @@
     },
     "https://covid19.quebec.ca/PreuveVaccinaleApi/issuer#2XlWk1UQMqavMtLt-aX35q_q9snFtGgdjH4-Y1gfH1M": {
       "displayName": {
-        "en": "Prov of Quebec"
+        "en": "Gouvernement du Québec - Government of Quebec"
       },
       "entityType": "issuer",
       "status": "current",
