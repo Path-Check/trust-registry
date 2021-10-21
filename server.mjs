@@ -58,11 +58,7 @@ function filter(DB, req, res) {
     return undefined;
   }
 
-  if (
-    !DB[req.query.governanceFrameworkURI][req.query.identifier][
-      req.query.credentialType
-    ]
-  ) {
+  if (!DB[req.query.governanceFrameworkURI][req.query.identifier].credentialType.includes(req.query.credentialType)) {
     res.status(404).send({
       title:
         "Identifier " +
@@ -74,9 +70,7 @@ function filter(DB, req, res) {
     return undefined;
   }
 
-  return DB[req.query.governanceFrameworkURI][req.query.identifier][
-    req.query.credentialType
-  ];
+  return DB[req.query.governanceFrameworkURI][req.query.identifier];
 }
 
 /*

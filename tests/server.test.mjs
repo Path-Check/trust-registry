@@ -11,35 +11,27 @@ describe("Trust Registry", () => {
   // Test to get all students record
   it("should get SHC keys for California", (done) => {
     const EXPECTED = {
-      identifier: "https://myvaccinerecord.cdph.ca.gov/creds",
-      credentialType: "https://smarthealth.cards#immunization",
+      identifier: "https://myvaccinerecord.cdph.ca.gov/creds#7JvktUpf1_9NPwdM-70FJT3YdyTiSe2IvmVxxgDSRb0",
+      credentialType: ["https://smarthealth.cards#immunization"],
       governanceFrameworkURI: "SmartHealthCards",
       displayName: { en: "State of California" },
       entityType: "issuer",
       status: "current",
       validFromDT: "2021-01-01T01:00:00.000Z",
       didDocument: {
-        jwks: {
-          keys: [
-            {
-              kty: "EC",
-              kid: "7JvktUpf1_9NPwdM-70FJT3YdyTiSe2IvmVxxgDSRb0",
-              use: "sig",
-              alg: "ES256",
-              crv: "P-256",
-              x: "3dQz5ZlbazChP3U7bdqShfF0fvSXLXD9WMa1kqqH6i4",
-              y: "FV4AsWjc7ZmfhSiHsw2gjnDMKNLwNqi2jMLmJpiKWtE",
-            },
-          ],
-        },
+        "alg": "ES256",
+        "crv": "P-256",
+        "kid": "7JvktUpf1_9NPwdM-70FJT3YdyTiSe2IvmVxxgDSRb0",
+        "kty": "EC",
+        "use": "sig",
+        "x": "3dQz5ZlbazChP3U7bdqShfF0fvSXLXD9WMa1kqqH6i4",
+        "y": "FV4AsWjc7ZmfhSiHsw2gjnDMKNLwNqi2jMLmJpiKWtE"
       },
     };
 
     chai
       .request(app)
-      .get(
-        "/query/issuer?governanceFrameworkURI=SmartHealthCards&identifier=https://myvaccinerecord.cdph.ca.gov/creds&credentialType=https://smarthealth.cards%23immunization"
-      )
+      .get("/query/issuer?governanceFrameworkURI=SmartHealthCards&identifier=https://myvaccinerecord.cdph.ca.gov/creds%237JvktUpf1_9NPwdM-70FJT3YdyTiSe2IvmVxxgDSRb0&credentialType=https://smarthealth.cards%23immunization")
       .end((err, res) => {
         res.should.have.status(200);
         res.body.should.be.a("object");
@@ -56,9 +48,7 @@ describe("Trust Registry", () => {
 
     chai
       .request(app)
-      .get(
-        "/query/issuer?governanceFrameworkURI=Pablo&identifier=ID&credentialType=Type"
-      )
+      .get("/query/issuer?governanceFrameworkURI=Pablo&identifier=ID&credentialType=Type")
       .end((err, res) => {
         res.should.have.status(404);
         res.body.should.be.a("object");
@@ -75,9 +65,7 @@ describe("Trust Registry", () => {
 
     chai
       .request(app)
-      .get(
-        "/query/issuer?governanceFrameworkURI=SmartHealthCards&identifier=ID&credentialType=Type"
-      )
+      .get( "/query/issuer?governanceFrameworkURI=SmartHealthCards&identifier=ID&credentialType=Type")
       .end((err, res) => {
         res.should.have.status(404);
         res.body.should.be.a("object");
@@ -88,15 +76,13 @@ describe("Trust Registry", () => {
 
   it("should not allow a Verifiable Credential type for California's keys", (done) => {
     const EXPECTED = {
-      title: "Identifier https://myvaccinerecord.cdph.ca.gov/creds is not approved for the credential type VerifiableCredential",
+      title: "Identifier https://myvaccinerecord.cdph.ca.gov/creds#7JvktUpf1_9NPwdM-70FJT3YdyTiSe2IvmVxxgDSRb0 is not approved for the credential type VerifiableCredential",
       status: 404
     };
 
     chai
       .request(app)
-      .get(
-        "/query/issuer?governanceFrameworkURI=SmartHealthCards&identifier=https://myvaccinerecord.cdph.ca.gov/creds&credentialType=VerifiableCredential"
-      )
+      .get("/query/issuer?governanceFrameworkURI=SmartHealthCards&identifier=https://myvaccinerecord.cdph.ca.gov/creds%237JvktUpf1_9NPwdM-70FJT3YdyTiSe2IvmVxxgDSRb0&credentialType=VerifiableCredential")
       .end((err, res) => {
         res.should.have.status(404);
         res.body.should.be.a("object");
@@ -107,15 +93,13 @@ describe("Trust Registry", () => {
 
   it("should not allow California's keys to be used in the DCC Governance Framework", (done) => {
     const EXPECTED = {
-      title: "Identifier https://myvaccinerecord.cdph.ca.gov/creds is not registered under EUDCC",
+      title: "Identifier https://myvaccinerecord.cdph.ca.gov/creds#7JvktUpf1_9NPwdM-70FJT3YdyTiSe2IvmVxxgDSRb0 is not registered under EUDCC",
       status: 404
     };
 
     chai
       .request(app)
-      .get(
-        "/query/issuer?governanceFrameworkURI=EUDCC&identifier=https://myvaccinerecord.cdph.ca.gov/creds&credentialType=VerifiableCredential"
-      )
+      .get("/query/issuer?governanceFrameworkURI=EUDCC&identifier=https://myvaccinerecord.cdph.ca.gov/creds%237JvktUpf1_9NPwdM-70FJT3YdyTiSe2IvmVxxgDSRb0&credentialType=VerifiableCredential")
       .end((err, res) => {
         res.should.have.status(404);
         res.body.should.be.a("object");
@@ -132,9 +116,7 @@ describe("Trust Registry", () => {
 
     chai
       .request(app)
-      .get(
-        "/query/issuer"
-      )
+      .get("/query/issuer")
       .end((err, res) => {
         res.should.have.status(404);
         res.body.should.be.a("object");
