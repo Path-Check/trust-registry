@@ -51,7 +51,8 @@
       "validUntilDT": "2031-09-30T13:59:59.000Z",
       "didDocument": "-----BEGIN CERTIFICATE-----\nMIIDhDCCAWygAwIBAgICGK0wDQYJKoZIhvcNAQELBQAwZTELMAkGA1UEBhMCQVUxDDAKBgNVBAoMA0dPVjENMAsGA1UECwwEREZBVDEMMAoGA1UECwwDQVBPMSswKQYDVQQDDCJQYXNzcG9ydCBDb3VudHJ5IFNpZ25pbmcgQXV0aG9yaXR5MB4XDTIxMDgzMTE0MDAwMFoXDTMxMDkzMDEzNTk1OVowHDELMAkGA1UEBhMCQVUxDTALBgNVBAMTBERGQVQwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARSVpOyHuLjm01TB1iLBr3SrUp2GkQlM-mPqubbW3mjs0DTeRKrfVTSkkZNgOGj_DB_fo3p8qGy8UVgT4DQRVhIo1IwUDAWBgdngQgBAQYCBAswCQIBADEEEwJOVjAVBgNVHSUBAf8ECzAJBgdngQgBAQ4CMB8GA1UdIwQYMBaAFDYXwef1Z5VxLjd1cI5VgzGG6TgOMA0GCSqGSIb3DQEBCwUAA4ICAQCh_Qc5i6-vewGqinR9EdUpsl0P4jqg0pdx7hyOtPgYOwbTOegJyZOjyWZyuLlxGYuvCHqbrnATMedoIoUJzt8GxHA-4v5TUN2yEbRFXev8ur_0Y3uF4WXFr93Zl0LV78PBNZwXKfZEC6oTN_eVgtR37GdnYsWno0SuhR4fJo8JC_blivas8BJt78Hg8VhvWSK3uT0T58eYQjQhbsXV-BxJ2kSspdvkUF6-arLHh6DVS3ATPAGIm6fEvF4AxnLq5OSHOC3zZR0SR9XntYxEwjo_bW8O0Se8qa5mIBpXmvlwh0Ij6sqVwEskvkM30GmQGfZh5VjFujN2AZnwpjOjK0R-JvR3u6jsBJqVMgm75HgezOzayNiaqzhitrgg5KpO3gK_j3C-Doj5iPAm7I_63GyjUi8ZnqVUZ37UxM19uX2SvhTTQ70nL-zHNfHOyBXJgzMi4Zkor2uagHPz-W1XvNVwGEfFAu-nEyIOKBndHwnvSomL54yBv83X2yAQsoYggU18LNXMHUonTJ_ug7FU0LEX3qA1TeARJ4WBFNjysrBXQepVLowcbtvrhLFjocHjmCp3z17xUoKGI6daajCbvedXgeeSWSD5CuMAXpdN3Yml7VdW7PCK4DD0E_raw6d_wKNGSYAh0TBpNLxnunquai-gFIjgf4iRoys5F35KwmvpZw==\n-----END CERTIFICATE-----",
       "credentialType": [
-        "icao.vacc", "icao.test"
+        "icao.vacc",
+        "icao.test"
       ]
     }
   },
@@ -65,7 +66,8 @@
       "validFromDT": "2021-05-29T01:25:35.057Z",
       "didDocument": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0i7R4XsyG3m6KD36qKEVxE+odCh68W2O4vLqh6SnsgItzvLYvJKPai+jEkf22FlPn0QnGo+Znyi6dw1lhvg9FGXqodv33yrqKhGLkQPeURaMnJidxktK/3QLXuv9HiKq9fSDLJyPBJEFCCCiZNTGgWM0dqq43/XRi+7IX3gWU68U6v/7EyOW3U4ZgYUVlfwbUh6eKRan68/TObQua39oeUfDMhJa0NHnMXb1lq/vQIjEgGkOK5LLyz+X8ETUEhn8Qdx2SIORmftCPW4XO0UZmMHuGw9t+UUgniy5BL8kmvtjpVRWFUliJFGBTvBZCO6gcoX5eXi8LytCg+mJ6EDO+QIDAQAB\n-----END PUBLIC KEY-----",
       "credentialType": [
-        "VerifiableCredential","ProofOfVaccinationCredential"
+        "VerifiableCredential",
+        "ProofOfVaccinationCredential"
       ]
     },
     "did:srilanka:moh": {
@@ -77,7 +79,8 @@
       "validFromDT": "2021-05-29T01:25:35.057Z",
       "didDocument": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnhht8e5qjjnzcpA8fWbdv7whEbseWdvDcwEptGqyGpLGen2bLUZ2KeKloF1+BxeNOHyd8/Po79uogLVs5TvlJvjYCyj668ZjNaqsqvvNz27izQuvUDsaDIawFO10o7QqBC1YhCeRzSfjpbzQr3bcCJ4+hdNH30os6jBa7TMlNJk+N297bQ+vI1TDl6AR3bl/bYIDx56aKIyK6APi5mdZUPyYbVw+gHv/4FTTnuWH76XQHkQBHOWvCSH1JTmB+HjX9xtDBt9BBW7z00H3sAf0gsYauDgjfNxKhm/boHdjJxUGDwxIkYIrz85fJCjL3sNvHI0l4kn4IrREsTUKZ1cBEwIDAQAB\n-----END PUBLIC KEY-----",
       "credentialType": [
-        "VerifiableCredential","ProofOfVaccinationCredential"
+        "VerifiableCredential",
+        "ProofOfVaccinationCredential"
       ]
     },
     "did:philippines": {
@@ -89,7 +92,8 @@
       "validFromDT": "2021-05-29T01:25:35.057Z",
       "didDocument": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyZle/tYFpdIEg+ppZpOejTBokp1Fl9IYgUDyojlGoiyAbHVDI7GuLkf64q3Iw9j5sj8DLgMDfv7KJdhUjBmhaUK0/cba+MPq18ChO4Y3v2CBMW+z5Q32BX2S7FjNC3FNCVF8NgKGwXjD8/67Iy7I4ZSvQkZ+TiRgBW6kpZI8sXplHxo5Z2dM6U3bEhwf/Mwhyr783qvhq2phify3t+YfBNRVD05XtZiLoIah9JnXon/xDJVEk1Yu7aPee8jqRjGJ0Zxfkwo2crTMdUuHwsAGbc2Vau3ch0U8+Ei6XTBvobFJvok535II30TsGokDGqbMsPQxzCkhiPZ8WE9Q5CUrlwIDAQAB\n-----END PUBLIC KEY-----",
       "credentialType": [
-        "VerifiableCredential","ProofOfVaccinationCredential"
+        "VerifiableCredential",
+        "ProofOfVaccinationCredential"
       ]
     }
   },
