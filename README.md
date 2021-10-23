@@ -10,7 +10,7 @@ Entities selected to be in this server have been validated by the PathCheck Foun
 - [x] State of Kentucky (2 keys)
 - [x] State of Louisiana
 - [x] State of Massachusetts
-- [x] State of Minnesota
+- [x] State of New Mexico
 - [x] State of New Jersey
 - [x] State of New York
 - [x] State of Oklahoma
