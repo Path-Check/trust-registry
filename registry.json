@@ -3508,13 +3508,14 @@
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
       "didDocument": {
-        "kid": "UboztS3pE1mr0dnG7Rv24kRNqlYbHrbxd-qBFerpZvI",
-        "alg": "ES256",
         "kty": "EC",
-        "crv": "P-256",
+        "kid": "UboztS3pE1mr0dnG7Rv24kRNqlYbHrbxd-qBFerpZvI",
         "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
         "x": "mB0PKTVRnr3JCtyucEjCHXkXW3COg5KP0y4gKCNJxWc",
-        "y": "PTpxiYECNiuyRwpwqjme8OIFdG7N-HwN2XH02phdZCs"
+        "y": "PTpxiYECNiuyRwpwqjme8OIFdG7N-HwN2XH02phdZCs",
+        "date": 1632779181394
       },
       "credentialType": [
         "https://smarthealth.cards#immunization"
@@ -4325,8 +4326,9 @@
         "en": "AltaMed"
       },
       "entityType": "issuer",
-      "status": "current",
+      "status": "terminated",
       "validFromDT": "2021-01-01T01:00:00.000Z",
+      "validUntilDT": "2021-10-23T01:00:00.000Z",
       "didDocument": {
         "x": "il5cweTjz11MFkTFqROWqJncWGyV64LasEeSYJeYoP8",
         "y": "qsvmzrmXvkOshLV9s2MqqToT6_h6jqVGXnoS-Wbk3h0",
@@ -9119,8 +9121,9 @@
         "en": "UT Health San Antonio"
       },
       "entityType": "issuer",
-      "status": "current",
+      "status": "terminated",
       "validFromDT": "2021-01-01T01:00:00.000Z",
+      "validUntilDT": "2021-10-23T01:00:00.000Z",
       "didDocument": {
         "x": "Cc2HY0MEHwGpZJKhLL4_vUpXQhSB2W7_i_-vi2xBvPU",
         "y": "RBqkWEyBcQPvXNDYBGCbSjzfgf5F_ulvPFhF09ZTcCA",
