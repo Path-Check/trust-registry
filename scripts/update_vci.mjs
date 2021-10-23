@@ -15,44 +15,50 @@ export async function update(registry) {
   ];
 
   for (const e of VCIMembers.participating_issuers) {
-    const resKeys = await fetch(e.iss + "/.well-known/jwks.json", 
-      { method: 'GET', 
-        mode: 'no-cors',
-        headers: {
-          "Accept": "application/json",
-          "Content-Type": "application/json"
+    try {
+      const resKeys = await fetch(e.iss + "/.well-known/jwks.json", 
+        { method: 'GET', 
+          mode: 'no-cors',
+          headers: {
+            "Accept": "application/json",
+            "Content-Type": "application/json"
+          }
+        }
+      );
+
+      const keys = JSON.parse(await resKeys.text());
+
+      for (const newKey of keys.keys) {
+        let label = e.iss + "#" + newKey.kid;
+        
+        currentCerts.push(label);
+
+        let newReg = {
+            "displayName": {  "en": e.name },
+            "entityType": "issuer",
+            "status": "current",
+            "validFromDT": "2021-01-01T01:00:00.000Z",
+            "didDocument": newKey, 
+            "credentialType": [
+              "https://smarthealth.cards#immunization"
+            ]
+        };
+
+        if (!registry["SmartHealthCards"][label]) {
+          console.log(label, 'has been added', newReg);
+          registry["SmartHealthCards"][label] = newReg;
+        } else {
+          const oldReg = registry["SmartHealthCards"][label];
+
+          if (JSON.stringify(newReg) !== JSON.stringify(oldReg)) {
+            console.log(label, 'has changed to ', newReg, " from ", oldReg);
+          }
         }
       }
-    );
-    const keys = JSON.parse(await resKeys.text());
-
-    for (const newKey of keys.keys) {
-      let label = e.iss + "#" + newKey.kid;
-      
-      currentCerts.push(label);
-
-      let newReg = {
-          "displayName": {  "en": e.name },
-          "entityType": "issuer",
-          "status": "current",
-          "validFromDT": "2021-01-01T01:00:00.000Z",
-          "didDocument": newKey, 
-          "credentialType": [
-            "https://smarthealth.cards#immunization"
-          ]
-      };
-
-      if (!registry["SmartHealthCards"][label]) {
-        console.log(label, 'has been added', newReg);
-        registry["SmartHealthCards"][label] = newReg;
-      } else {
-        const oldReg = registry["SmartHealthCards"][label];
-
-        if (JSON.stringify(newReg) !== JSON.stringify(oldReg)) {
-          console.log(label, 'has changed to ', newReg, " from ", oldReg);
-        }
-      }
+    } catch {
+      console.log("Unable to download: ", e.iss + "/.well-known/jwks.json");
     }
+    
   }
 
   Object.entries(registry["SmartHealthCards"]).forEach(([k,v]) => {
