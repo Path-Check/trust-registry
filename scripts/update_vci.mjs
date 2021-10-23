@@ -22,6 +22,52 @@ export async function update(registry) {
     'https://api.cvshealth.com/smarthealth/v1/card#afXT8j9iwJJ7IRP24ZUKPhbkga79MfqPreO2DlK0sLA'
   ];
 
+  // update issuers that are not in VCI. 
+  for (const e of currentCerts) {
+    const oldReg = registry["SmartHealthCards"][e];
+    if (oldReg.status == "current") {
+      const [issuer, kid] = e.split('#')
+      try {
+        const resKeys = await fetch(issuer + "/.well-known/jwks.json", 
+          { method: 'GET', 
+            mode: 'no-cors',
+            headers: {
+              "Accept": "application/json",
+              "Content-Type": "application/json"
+            }
+          }
+        );
+
+        const newKey = JSON.parse(await resKeys.text()).keys.find(e => e.kid === kid);
+      
+        if (newKey) {
+          let newReg = {
+            "displayName": oldReg.displayName,
+            "entityType": "issuer",
+            "status": "current",
+            "validFromDT": oldReg.validFromDT,
+            "didDocument": newKey, 
+            "credentialType": [
+              "https://smarthealth.cards#immunization"
+            ]
+          };
+
+          if (JSON.stringify(newReg) !== JSON.stringify(oldReg)) {
+            console.log(colors.modified, oldReg.displayName.en, 'has changed to ', newReg, " from ", oldReg);
+          } else {
+            console.log(colors.unchanged, oldReg.displayName.en);
+          }
+        } else {
+          console.log(colors.removed, oldReg.displayName.en, "Cannot find", kid, "on", issuer + "/.well-known/jwks.json");
+        }
+      } catch {
+        console.log(colors.removed, oldReg.displayName.en, "Unable to download: ", issuer + "/.well-known/jwks.json");
+      }
+    } else {
+      console.log(colors.unchanged, oldReg.displayName.en, "(" + oldReg.status + ")");
+    }
+  }
+
   for (const e of VCIMembers.participating_issuers) {
     try {
       const resKeys = await fetch(e.iss + "/.well-known/jwks.json", 
@@ -59,7 +105,7 @@ export async function update(registry) {
           const oldReg = registry["SmartHealthCards"][label];
 
           if (JSON.stringify(newReg) !== JSON.stringify(oldReg)) {
-            console.log(colors.modifid, label, 'has changed to ', newReg, " from ", oldReg);
+            console.log(colors.modified, label, 'has changed to ', newReg, " from ", oldReg);
           } else {
             console.log(colors.unchanged, e.name);
           }
@@ -72,7 +118,7 @@ export async function update(registry) {
   }
 
   Object.entries(registry["SmartHealthCards"]).forEach(([k,v]) => {
-    if (!currentCerts.includes(k)) {
+    if (!currentCerts.includes(k) && v.status === "current") {
       console.log(colors.removed, k, 'has been removed');
     }
   }); 
