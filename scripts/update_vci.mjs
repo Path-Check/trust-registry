@@ -1,4 +1,12 @@
 import fetch from 'cross-fetch'
+import chalk from 'chalk';
+
+const colors = {
+	added: "\t"+chalk.blue('ℹ'),
+	unchanged: "\t"+chalk.green('✔'),
+	modified: "\t"+chalk.yellow('⚠'),
+	removed: "\t"+chalk.red('✖')
+};
 
 export async function update(registry) {
   const res = await fetch('https://raw.githubusercontent.com/the-commons-project/vci-directory/main/vci-issuers.json', {method: 'GET', mode: 'no-cors'})
@@ -45,25 +53,27 @@ export async function update(registry) {
         };
 
         if (!registry["SmartHealthCards"][label]) {
-          console.log(label, 'has been added', newReg);
+          console.log(colors.added, label, 'has been added', newReg);
           registry["SmartHealthCards"][label] = newReg;
         } else {
           const oldReg = registry["SmartHealthCards"][label];
 
           if (JSON.stringify(newReg) !== JSON.stringify(oldReg)) {
-            console.log(label, 'has changed to ', newReg, " from ", oldReg);
+            console.log(colors.modifid, label, 'has changed to ', newReg, " from ", oldReg);
+          } else {
+            console.log(colors.unchanged, e.name);
           }
         }
       }
     } catch {
-      console.log("Unable to download: ", e.iss + "/.well-known/jwks.json");
+      console.log(colors.removed, e.name, "Unable to download: ", e.iss + "/.well-known/jwks.json");
     }
     
   }
 
   Object.entries(registry["SmartHealthCards"]).forEach(([k,v]) => {
     if (!currentCerts.includes(k)) {
-      console.log(k, 'has been removed');
+      console.log(colors.removed, k, 'has been removed');
     }
   }); 
 
