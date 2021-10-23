@@ -365,7 +365,7 @@ Entities selected to be in this server have been validated by the PathCheck Foun
 
 Check an issuer live on our databases: 
 ```
-https://registry.pathcheck.org/query/issuer?governanceFrameworkURI=SmartHealthCards&identifier=https://myvaccinerecord.cdph.ca.gov/creds&credentialType=https://smarthealth.cards%23immunization
+https://registry.pathcheck.org/query/issuer?governanceFrameworkURI=SmartHealthCards&identifier=https://myvaccinerecord.cdph.ca.gov/creds%237JvktUpf1_9NPwdM-70FJT3YdyTiSe2IvmVxxgDSRb0&credentialType=https://smarthealth.cards%23immunization
 ```
 
 # Development Overview
@@ -385,7 +385,7 @@ To run, do:
 Check an issuer with the following command
 
 ```
-curl http://localhost:8000/query/issuer?governanceFrameworkURI=SmartHealthCards&identifier=https://myvaccinerecord.cdph.ca.gov/creds&credentialType=https://smarthealth.cards%23immunization
+curl http://localhost:8000/query/issuer?governanceFrameworkURI=SmartHealthCards&identifier=https://myvaccinerecord.cdph.ca.gov/creds%237JvktUpf1_9NPwdM-70FJT3YdyTiSe2IvmVxxgDSRb0&credentialType=https://smarthealth.cards%23immunization
 ```
 
 To run all tests, do: 
