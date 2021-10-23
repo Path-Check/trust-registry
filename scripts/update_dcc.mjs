@@ -1,4 +1,5 @@
 import fetch from 'cross-fetch'
+import chalk from 'chalk';
 import Countries from 'i18n-iso-countries'
 
 import { Certificate } from '@fidm/x509'
@@ -61,6 +62,13 @@ function hasExpired(date) {
   return date.getTime() < new Date().getTime();
 }
 
+const colors = {
+	added: "\t"+chalk.blue('ℹ'),
+	unchanged: "\t"+chalk.green('✔'),
+	modified: "\t"+chalk.yellow('⚠'),
+	removed: "\t"+chalk.red('✖')
+};
+
 export async function update(registry) {
   const res = await fetch('https://de.dscg.ubirch.com/trustList/DSC', {method: 'GET', mode: 'no-cors'})
   const DSC = JSON.parse((await res.text()).split('\n')[1])
@@ -84,25 +92,33 @@ export async function update(registry) {
     }
 
     if (!registry["EUDCC"][e.kid]) {
-      console.log(e.kid, 'has been added', newReg);
+      console.log(colors.added, e.kid, 'has been added', newReg);
       registry["EUDCC"][e.kid] = newReg;
     } else {
       const oldReg = registry["EUDCC"][e.kid];
 
+      const changed = false;
       if (newReg.validFromDT !== oldReg.validFromDT) {
-        console.log(e.kid, 'has changed Valid From Date', newReg.validFromDT, oldReg.validFromDT);
+        console.log(colors.modified, e.kid, 'has changed Valid From Date', newReg.validFromDT, oldReg.validFromDT);
         oldReg.validFromDT = newReg.validFromDT;
+        changed = true;
       }
       if (newReg.validUntilDT !== oldReg.validUntilDT) {
-        console.log(e.kid, 'has changed Valid Until Date', newReg.validUntilDT, oldReg.validUntilDT);
+        console.log(colors.modified, e.kid, 'has changed Valid Until Date', newReg.validUntilDT, oldReg.validUntilDT);
         oldReg.validUntilDT = newReg.validUntilDT;
+        changed = true;
       }
       if (newReg.didDocument !== oldReg.didDocument) {
-        console.log(e.kid, 'has changed Certificate PEM', newReg.didDocument, oldReg.didDocument);
+        console.log(colors.modified, e.kid, 'has changed Certificate PEM', newReg.didDocument, oldReg.didDocument);
+        changed = true;
       }
       if (JSON.stringify(newReg.credentialType) !== JSON.stringify(oldReg.credentialType)) {
-        console.log(e.kid, 'has changed credential types', newReg.credentialType, oldReg.credentialType);
+        console.log(colors.modified, e.kid, 'has changed credential types', newReg.credentialType, oldReg.credentialType);
         oldReg.credentialType = newReg.credentialType;
+        changed = true;
+      }
+      if (!changed) {
+        console.log(colors.unchanged, getDisplayName(e.country) + " (" + e.kid + ")");
       }
     }
   }); 
@@ -126,31 +142,39 @@ export async function update(registry) {
     }
 
     if (!registry["EUDCC"][e.kid]) {
-      console.log(e.kid, 'has been added', newReg);
+      console.log(colors.added, e.kid, 'has been added', newReg);
     } else {
       const oldReg = registry["EUDCC"][e.kid];
 
+      const changed = false;
       if (newReg.validFromDT !== oldReg.validFromDT) {
-        console.log(e.kid, 'has changed Valid From Date', newReg.validFromDT, oldReg.validFromDT);
+        console.log(colors.modified, e.kid, 'has changed Valid From Date', newReg.validFromDT, oldReg.validFromDT);
         oldReg.validFromDT = newReg.validFromDT;
+        changed = true;
       }
       if (newReg.validUntilDT !== oldReg.validUntilDT) {
-        console.log(e.kid, 'has changed Valid Until Date', newReg.validUntilDT, oldReg.validUntilDT);
+        console.log(colors.modified, e.kid, 'has changed Valid Until Date', newReg.validUntilDT, oldReg.validUntilDT);
         oldReg.validUntilDT = newReg.validUntilDT;
+        changed = true;
       }
       if (newReg.didDocument !== oldReg.didDocument) {
-        console.log(e.kid, 'has changed Public Key PEM', newReg.didDocument, oldReg.didDocument);
+        console.log(colors.modified, e.kid, 'has changed Public Key PEM', newReg.didDocument, oldReg.didDocument);
+        changed = true;
       }
       if (JSON.stringify(newReg.credentialType) !== JSON.stringify(oldReg.credentialType)) {
-        console.log(e.kid, 'has changed credential types', newReg.credentialType, oldReg.credentialType);
+        console.log(colors.modified, e.kid, 'has changed credential types', newReg.credentialType, oldReg.credentialType);
         oldReg.credentialType = newReg.credentialType;
+        changed = true;
+      }
+      if (!changed) {
+        console.log(colors.unchanged, displayName + " (" + e.kid + ")");
       }
     }
   });  
 
   Object.entries(registry["EUDCC"]).forEach(([k,v]) => {
     if (!currentCerts.includes(k)) {
-      console.log(k, 'has been removed');
+      console.log(colors.removed, k, 'has been removed');
     }
   }); 
 
