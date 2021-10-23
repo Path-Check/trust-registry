@@ -3355,7 +3355,7 @@
         "crv": "P-256",
         "x": "ibapbMkHMlkR3D-AU0VTFDsiidQ49oD9Ha7VY8Gao3s",
         "y": "arXU5frZGOvTZpvg045rHC7y0fqVOS3dKqJbUYhW5gw"
-        },
+      },
       "credentialType": [
         "https://smarthealth.cards#immunization"
       ]
@@ -3520,7 +3520,6 @@
         "https://smarthealth.cards#immunization"
       ]
     },
-
     "https://covidrecords.alberta.ca/smarthealth/issuer#JoO-sJHpheZboXdsUK4NtfulfvpiN1GlTdNnXN3XAnM": {
       "displayName": {
         "en": "Prov of Alberta"
@@ -3528,7 +3527,7 @@
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
-      "didDocument":  {
+      "didDocument": {
         "kid": "JoO-sJHpheZboXdsUK4NtfulfvpiN1GlTdNnXN3XAnM",
         "alg": "ES256",
         "kty": "EC",
@@ -9710,6 +9709,366 @@
         "crv": "P-256",
         "x": "alTrUEv7wMrOf9Sge9GeSAwz8cGz56JsJaZKzOlRQG4",
         "y": "N1eSU9XhVdtb7l3rYj6_mXxHDVHj5ZDN_oB-sq6vVH8"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epicmobile.corp.saint-lukes.org/FHIRPROXY/api/epic/2021/Security/Open/EcKeys/32001/SHC#QF4owq0tMZAMYoMJWpLosERtLrzVtKL-lIzvTFY332g": {
+      "displayName": {
+        "en": "Saint Luke’s Health System KC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "DPGuwCF_JsOEvXSzj7Q1LhxCNQ_u5xnFLxTF5ST2lt4",
+        "y": "wv6kDfwyKf10FupeOBkfn3FH_KzWrspl47hG-MZbGX0",
+        "kid": "QF4owq0tMZAMYoMJWpLosERtLrzVtKL-lIzvTFY332g",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epproxy.bayhealth.org/FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC#Ya2s4TJq_SEWD8Kl_uDPLMmsYKHTsiNuRrv8cbQtq0o": {
+      "displayName": {
+        "en": "Bayhealth Medical Center"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "4hveK2kzzXi8wEIyeefUy7YN0YstZwqsqFGxoYdeqN8",
+        "y": "fjpoYraIHwlUDJomnI9EZBbHZzpL6wORSRfqgv7Qh1Y",
+        "kid": "Ya2s4TJq_SEWD8Kl_uDPLMmsYKHTsiNuRrv8cbQtq0o",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epicproxy.et0967.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#SCW_L8yRRrg3Ww5Jj5l3jqGTcRQZZKlufsEYQjVQo4g": {
+      "displayName": {
+        "en": "Erlanger Health System"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "AgTnrAeKL94HzRdubXcQxRbj2jwPVS3R_ctXCzvK-PA",
+        "y": "8oFPDbpadNL4gXG008a3gn4CkPMwFcam5sx_-Q7jzLg",
+        "kid": "SCW_L8yRRrg3Ww5Jj5l3jqGTcRQZZKlufsEYQjVQo4g",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://nmepicproxy.nm.org/FHIR-PRD/api/epic/2021/Security/Open/EcKeys/32001/SHC#h7OGYYaK_OD5cuYLiNHZ6WX4Ss0uChuKshpM2dNNydc": {
+      "displayName": {
+        "en": "Northwestern Medicine"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "1VBrGwb-UvheYPyxSK4spbDzRLzgl7sCiPydLVmpmKk",
+        "y": "Q8c2l6n9gg4FqVUfomyQ6CHBGOXaN7AmmH_23NGmjg4",
+        "kid": "h7OGYYaK_OD5cuYLiNHZ6WX4Ss0uChuKshpM2dNNydc",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://FHIR.umm.edu/fhir/api/epic/2021/Security/Open/EcKeys/32001/SHC#aF7NDjNDFWNS7W2l4H3y7fDq5Q9gjp7KllTjSMQ86aA": {
+      "displayName": {
+        "en": "University of Maryland Medical System"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "oXRbdDnQKT-mwLaCjzS4TwCqpxPompSY4039EhDzYCM",
+        "y": "9TqmUf4XUT2Jyq889gZk0Q4HBjHC5C_SMqJ9qSxKQnM",
+        "kid": "aF7NDjNDFWNS7W2l4H3y7fDq5Q9gjp7KllTjSMQ86aA",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://arr.thedacare.org/FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC#vG90M9FpB8F-RPF6JQ5RfxqzJUA50NLVb7LL-FoWa4k": {
+      "displayName": {
+        "en": "ThedaCare, Bellin Health, and Affiliates"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "Y2Dm5HaqGKxn48kTp03asGb4r3N4hdzA7-oBb5ZMrr4",
+        "y": "BXVcerpkEZUzr7k60LY_C5sgTY5zn_hO3Si9YAhh5EM",
+        "kid": "vG90M9FpB8F-RPF6JQ5RfxqzJUA50NLVb7LL-FoWa4k",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://emerge-soap1.bmc.org/FHIR-PRD/api/epic/2021/Security/Open/EcKeys/32001/SHC#C0Zydh0F8ZTQoQRVRZ7NNZi50G7MBAvmVTu4BBxDzf4": {
+      "displayName": {
+        "en": "Boston Medical Center"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "SfYCSP7j4Je1zw-u_rQ4UMn0YjD8VoEj60xmOcKrz7g",
+        "y": "e8SEwKnT5PNB19yc16p_XieSquVb40nwA1zrLzoh6O8",
+        "kid": "C0Zydh0F8ZTQoQRVRZ7NNZi50G7MBAvmVTu4BBxDzf4",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epicprdproxy.nch.org/prd-fhir/api/epic/2021/Security/Open/EcKeys/32001/SHC#UjF5uQPh6HUHhByMFl-Fx_4H26-xSi2gb7n2wcgbjYw": {
+      "displayName": {
+        "en": "Northwest Community Hospital"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "iWC7qOI1vDoWSeyYFBFpD2hefM3qPHcZOjAOW17bQ80",
+        "y": "9tRTdAEwDIPZZaoIHfU1nDd1IAGd-n-F5U4B2DYaWxw",
+        "kid": "UjF5uQPh6HUHhByMFl-Fx_4H26-xSi2gb7n2wcgbjYw",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://api.ccf.org/mu/api/epic/2021/Security/Open/EcKeys/32001/SHC#Gd7oOauG7qlj1t4lG0EfSs7mbY-EacAdvBNU-mY0HlU": {
+      "displayName": {
+        "en": "Cleveland Clinic"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "stca7esKC1RZtNNxyZB7fcd2KGh4TJABBCr6HhTlpQc",
+        "y": "XFk7CkMyG9oc9_C3wqK6RlP--YMPZse0W_5U4utB0io",
+        "kid": "Gd7oOauG7qlj1t4lG0EfSs7mbY-EacAdvBNU-mY0HlU",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://smarthealthcard.iisregistry.net/connecticut/issuer#SzxkIArQIMhaFvD7yASR75tYfcIvc3SxbcY82WqpJYc": {
+      "displayName": {
+        "en": "CT Department of Public Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "SzxkIArQIMhaFvD7yASR75tYfcIvc3SxbcY82WqpJYc",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "WOfXcDqfbL5pHYJ7TZ1G5nUs5RlpFEULjKK58-GIZHU",
+        "y": "cfP-u94WNE_gBD3dvp2XqKHF7k4JWC-JJsOhf8bxk4M"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://smarthealthcard.iisregistry.net/nevada/issuer#MLHtoHWeAr5PeKA8C-S16QduFcPVHYMnuRAMLag1Fus": {
+      "displayName": {
+        "en": "Add State of Nevada"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "MLHtoHWeAr5PeKA8C-S16QduFcPVHYMnuRAMLag1Fus",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "XCA3RZFKOnDep4BA8MhxrUguZZeTofsm16WuQ-a3sKU",
+        "y": "9W0_JW9U7s98tOuZrkYiQyDEOoxgpMAEnIItC0_vLME"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://smarthealthcard.iisregistry.net/newmexico/issuer#TyJXvion-N1hiPReLqGqP3GEHIHUKqDbpNF6_Yx2x1g": {
+      "displayName": {
+        "en": "NM Department of Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "TyJXvion-N1hiPReLqGqP3GEHIHUKqDbpNF6_Yx2x1g",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "h6eiqSzzTu5x5lL3WcrQcN8Dw-InqaZO24ejEqtaBUo",
+        "y": "lwnDiJgFRShPY0PMmfGdGWF84XlpJxIFU1C4cYnQhGM"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://smarthealthcard.iisregistry.net/oklahoma/issuer#mdc6xSqYJBj5wAfdO75tFY96MP1sRwv8o1vRKcJvWe4": {
+      "displayName": {
+        "en": "Oklahoma State Dept of Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "mdc6xSqYJBj5wAfdO75tFY96MP1sRwv8o1vRKcJvWe4",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "_0Ykdew25aOEAoEqgiKOwsuQHaSBo8m4cxp7JrpnFoE",
+        "y": "SWDMBC-y-YMiso_hSQB6bl3MvYOii-rpYtgQJISt84Y"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://smarthealthcard.iisregistry.net/cnmi/issuer#dYx3mLMcBeG34o7pWchb-baIIgnTQqcR53EVeYgITu4": {
+      "displayName": {
+        "en": "CNMI Immunization Program"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "dYx3mLMcBeG34o7pWchb-baIIgnTQqcR53EVeYgITu4",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "JwFxV0XxGdZZAGMWYZ8zWBKzkw1UwD3CspjlhmzKchE",
+        "y": "PDPZMLAN9DT0DFRTEQKAQJEylLIGXTcfCfX0yaiRrnE"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://smarthealthcard.iisregistry.net/guam/issuer#CVfQFkOuS08fAs1UKNr6PhqrWbp1rEuBu_M3pzfHjGA": {
+      "displayName": {
+        "en": "Guam Department of Public Health & Social Services"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "CVfQFkOuS08fAs1UKNr6PhqrWbp1rEuBu_M3pzfHjGA",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "eJlW95Wh-w_dET_R_if7ZRyhT0T6C3KpkG8leb-qxPs",
+        "y": "ETtQqhA7VH2ubizhLvqzmXTeO6pOMD9539upKDNoL0I"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://smarthealthcard.iisregistry.net/kentucky/issuer#xjDAI01aAqqKVfTby1HgI5mGmaNov_iNAe7YU42-GYI": {
+      "displayName": {
+        "en": "Kentucky Registry"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "xjDAI01aAqqKVfTby1HgI5mGmaNov_iNAe7YU42-GYI",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "XGD2eTGy-Ty264jBz6__6yVih4HIShgGzWdJBAeLJOU",
+        "y": "KvM4EauttKWSVjF5unr7MUWz1QSwsEW46A4aGWsFY4I"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://smarthealthcard.iisregistry.net/kentucky/issuer#COtZJhsWjnta-bYXwlRkWlldA95Ai7S6YGZE4MPB-tk": {
+      "displayName": {
+        "en": "Kentucky Registry"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "COtZJhsWjnta-bYXwlRkWlldA95Ai7S6YGZE4MPB-tk",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "X2Erdh2dszBgm0y5RF0C6tcA2fwGdDU_ZsOeJLjjcQk",
+        "y": "haxiYhRJifQY_qU3Dv_qqk1aBzY4IrcegLqu6rvikMQ"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://fhir-myrecord.cerner.com/r4/c32cb33f-ec61-4f25-9140-0b9b174fe4db#N2maG8qOhITe_zyPqcrCa6LT_mW18ZtFPy09cGAB24w": {
+      "displayName": {
+        "en": "Atrium Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "crv": "P-256",
+        "kty": "EC",
+        "x": "DNo1BEwoRPNRDYsulhhxu9jOxkvCuEVU4IaCs3H6PJ0",
+        "y": "zB_HLKrE_n5Xi9I7yMIION-IQpzH5MEZoP2GvRftSsI",
+        "kid": "N2maG8qOhITe_zyPqcrCa6LT_mW18ZtFPy09cGAB24w",
+        "use": "sig",
+        "alg": "ES256"
       },
       "credentialType": [
         "https://smarthealth.cards#immunization"
