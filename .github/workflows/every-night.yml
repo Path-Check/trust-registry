@@ -43,14 +43,9 @@ jobs:
 #          author_email: github@pathcheck.org
 #          message: Registry updates for ${{ steps.date.outputs.date }}
 
-      - name: Set up Git
-        run: |
-          git config user.name 'vitorpamplona'
-          git config user.email 'vitor@vitorpamplona.com'
-
       - uses: peter-evans/create-pull-request@v3.10.1
         with:
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           committer: GitHub <noreply@github.com>
           commit-message: Registry updates for ${{ steps.date.outputs.date }}
           author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
