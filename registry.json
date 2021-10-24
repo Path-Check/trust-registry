@@ -3279,6 +3279,48 @@
         "https://smarthealth.cards#immunization"
       ]
     },
+    "https://covid19.quebec.ca/PreuveVaccinaleApi/issuer#h4BD-R5WgYT-iXAPzJyOWKTN2iFwMncQ-3k8v3tXm40": {
+      "displayName": {
+        "en": "Gouvernement du Québec - Government of Quebec"
+      },
+      "entityType": "issuer",
+      "status": "expired",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "validUntilDT": "2021-10-22T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "qFdl0tDZK9JAWP6g9_cAv57c3KWxMKwvxCrRVSzcxvM",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "XSxuwW_VI_s6lAw6LAlL8N7REGzQd_zXeIVDHP_j_Do",
+        "y": "88-aI4WAEl4YmUpew40a9vq_w5OcFvsuaKMxJRLRLL0"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://covid19.quebec.ca/PreuveVaccinaleApi/issuer#Nqa1zvChOkoA46B5ZM_oK3MDhL3-mnLERV_30vkHQIc": {
+      "displayName": {
+        "en": "Gouvernement du Québec - Government of Quebec"
+      },
+      "entityType": "issuer",
+      "status": "expired",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "validUntilDT": "2021-10-22T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "Nqa1zvChOkoA46B5ZM_oK3MDhL3-mnLERV_30vkHQIc",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "XSxuwW_VI_s6lAw6LAlL8N7REGzQd_zXeIVDHP_j_Do",
+        "y": "88-aI4WAEl4YmUpew40a9vq_w5OcFvsuaKMxJRLRLL0"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
     "https://covid19.quebec.ca/PreuveVaccinaleApi/issuer#qFdl0tDZK9JAWP6g9_cAv57c3KWxMKwvxCrRVSzcxvM": {
       "displayName": {
         "en": "Gouvernement du Québec - Government of Quebec"
