@@ -9121,9 +9121,8 @@
         "en": "UT Health San Antonio"
       },
       "entityType": "issuer",
-      "status": "terminated",
+      "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
-      "validUntilDT": "2021-10-23T01:00:00.000Z",
       "didDocument": {
         "x": "Cc2HY0MEHwGpZJKhLL4_vUpXQhSB2W7_i_-vi2xBvPU",
         "y": "RBqkWEyBcQPvXNDYBGCbSjzfgf5F_ulvPFhF09ZTcCA",
