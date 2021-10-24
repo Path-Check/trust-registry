@@ -1,6 +1,7 @@
 import fetch from 'cross-fetch'
 import chalk from 'chalk';
 import Countries from 'i18n-iso-countries'
+import deepEqual from 'deep-equal'
 
 import { Certificate } from '@fidm/x509'
 
@@ -112,7 +113,7 @@ export async function update(registry) {
         console.log(colors.modified, e.kid, 'has changed Certificate PEM', newReg.didDocument, oldReg.didDocument);
         changed = true;
       }
-      if (JSON.stringify(newReg.credentialType) !== JSON.stringify(oldReg.credentialType)) {
+      if (!deepEqual(newReg.credentialType, oldReg.credentialType)) {
         console.log(colors.modified, e.kid, 'has changed credential types', newReg.credentialType, oldReg.credentialType);
         oldReg.credentialType = newReg.credentialType;
         changed = true;
@@ -161,7 +162,7 @@ export async function update(registry) {
         console.log(colors.modified, e.kid, 'has changed Public Key PEM', newReg.didDocument, oldReg.didDocument);
         changed = true;
       }
-      if (JSON.stringify(newReg.credentialType) !== JSON.stringify(oldReg.credentialType)) {
+      if (!deepEqual(newReg.credentialType, oldReg.credentialType)) {
         console.log(colors.modified, e.kid, 'has changed credential types', newReg.credentialType, oldReg.credentialType);
         oldReg.credentialType = newReg.credentialType;
         changed = true;

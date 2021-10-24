@@ -1,5 +1,6 @@
 import fetch from 'cross-fetch'
 import chalk from 'chalk';
+import deepEqual from 'deep-equal'
 
 const colors = {
 	added: "\t"+chalk.blue('ℹ'),
@@ -54,7 +55,7 @@ export async function update(registry) {
             ]
           };
 
-          if (JSON.stringify(newReg) !== JSON.stringify(oldReg)) {
+          if (!deepEqual(newReg, oldReg)) {
             console.log(colors.modified, oldReg.displayName.en, 'has changed to ', newReg, " from ", oldReg);
           } else {
             console.log(colors.unchanged, oldReg.displayName.en);
