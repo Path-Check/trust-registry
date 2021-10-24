@@ -11,7 +11,7 @@ on:
 #    - cron: "0 0 * * *"
 
 jobs:
-  build:
+  update-registry:
     runs-on: ubuntu-latest
     steps:
       - name: Get current date
@@ -42,6 +42,11 @@ jobs:
 #          author_name: GitHub AutoUpdater
 #          author_email: github@pathcheck.org
 #          message: Registry updates for ${{ steps.date.outputs.date }}
+
+      - name: Set up Git
+        run: |
+          git config user.name 'vitorpamplona'
+          git config user.email 'vitor@vitorpamplona.com'
 
       - uses: peter-evans/create-pull-request@v3.10.1
         with:
