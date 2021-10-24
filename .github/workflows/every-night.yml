@@ -1,14 +1,8 @@
-name: Daily Update of the Registry. 
+name: Daily Update of the Registry
 
 on:
-  pull_request:
-    branches: [main]
-  push:
-    branches: [main]
-
-#on:
-#  schedule:
-#    - cron: "0 0 * * *"
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
   update-registry:
@@ -26,22 +20,8 @@ jobs:
       - run: npm ci
       - run: npm test
 
-#      - name: Create a Branch for Today's changes
-#        uses: peterjgrainger/action-create-branch@v2.0.1
-#        env:
-#          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-#        with:
-#          branch: update-registry-${{ steps.date.outputs.date }}
-
       - run: npm run-script update
       - run: npm test
-
-#      - name: Commit changes
-#        uses: EndBug/add-and-commit@v7
-#        with:
-#          author_name: GitHub AutoUpdater
-#          author_email: github@pathcheck.org
-#          message: Registry updates for ${{ steps.date.outputs.date }}
 
       - uses: peter-evans/create-pull-request@v3.10.1
         with:
