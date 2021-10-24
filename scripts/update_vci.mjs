@@ -55,6 +55,10 @@ export async function update(registry) {
             ]
           };
 
+          if (oldReg.displayLogo) {
+            newReg['displayLogo'] = oldReg.displayLogo;
+          }
+
           if (!deepEqual(newReg, oldReg)) {
             console.log(colors.modified, oldReg.displayName.en, 'has changed to ', newReg, " from ", oldReg);
           } else {
@@ -90,24 +94,39 @@ export async function update(registry) {
         
         currentCerts.push(label);
 
-        let newReg = {
-            "displayName": {  "en": e.name },
-            "entityType": "issuer",
-            "status": "current",
-            "validFromDT": "2021-01-01T01:00:00.000Z",
-            "didDocument": newKey, 
-            "credentialType": [
-              "https://smarthealth.cards#immunization"
-            ]
-        };
-
         if (!registry["SmartHealthCards"][label]) {
+          let newReg = {
+              "displayName": {  "en": e.name },
+              "entityType": "issuer",
+              "status": "current",
+              "validFromDT": "2021-01-01T01:00:00.000Z",
+              "didDocument": newKey, 
+              "credentialType": [
+                "https://smarthealth.cards#immunization"
+              ]
+          };
+
           console.log(colors.added, label, 'has been added', newReg);
           registry["SmartHealthCards"][label] = newReg;
         } else {
           const oldReg = registry["SmartHealthCards"][label];
 
-          if (JSON.stringify(newReg) !== JSON.stringify(oldReg)) {
+          let newReg = {
+              "displayName": {  "en": e.name },
+              "entityType": "issuer",
+              "status": "current",
+              "validFromDT": "2021-01-01T01:00:00.000Z",
+              "didDocument": newKey, 
+              "credentialType": [
+                "https://smarthealth.cards#immunization"
+              ]
+          };
+
+          if (oldReg.displayLogo) {
+            newReg['displayLogo'] = oldReg.displayLogo;
+          }
+
+          if (!deepEqual(newReg, oldReg)) {
             console.log(colors.modified, label, 'has changed to ', newReg, " from ", oldReg);
           } else {
             console.log(colors.unchanged, e.name);
