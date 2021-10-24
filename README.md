@@ -4,7 +4,30 @@ This is an implemenation of [ToIP's Trust Registry Protocol V1 Specification](ht
 
 Entities selected to be in this server have been validated by the PathCheck Foundation or one of its partners. 
 
-## Currently Supported Issuers: 
+# Data Model
+
+The registry requests/returns entities specified as:
+- `governanceFramework`: [`CRED`, `EUDCC`, `SmartHealthCards`, `ICAO`, `DIVOC`]
+- `identifier`: The DID identifier of a W3C VC, the public key id of CRED and the EU DCC or the Issuer#kid of the SmartHealth Cards Framework
+- `credentialType`: The credential type according to the Standard:
+  - CRED: Payload type [`BADGE`, `STATUS`, `PASSKEY`, ...]
+  - EU DCC: [`v`,`t`,`r`]
+  - SmartHealth Cards: [`https://smarthealth.cards#immunization`, ...]
+  - ICAO: [`icao.vacc`, `icao.test`]
+  - DIVOC: [`VerifiableCredential`, `ProofOfVaccinationCredential`]
+- `entityType`: One of [`issuer`, `verifier`, `trustregistry`]
+- `status`: the status of the identifier. 
+  - `current`: active
+  - `expired`: not renewed after the previous valid registration period
+  - `terminated`: voluntary termination by the registered party
+  - `revoked`: involuntary termination by the governing authority
+- `statusDetail`: Optional free text that expands on the status parameter. Generally, this is a message to show to the user.
+- `validFromDT`: Indicates that the Identifier status only starts at the indicated time. 
+- `validUntilDT`: Indicates the the Identifier validity ends/ended at this date and time. 
+- `displayName`: i18n Display Names
+- `displayLogo`: link to the logo in SVG. 
+
+# Currently Supported Issuers: 
 - [x] State of California
 - [x] State of Connecticut
 - [x] State of Kentucky (2 keys)
