@@ -10102,6 +10102,7 @@
       "displayName": {
         "en": "Atrium Health"
       },
+      "displayLogo": "./logos/atrium-health.svg",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
