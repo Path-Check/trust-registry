@@ -22,6 +22,7 @@ jobs:
       - uses: actions/setup-node@v2
         with:
           node-version: 16
+
       - run: npm ci
       - run: npm test
 
@@ -30,7 +31,7 @@ jobs:
 #        env:
 #          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 #        with:
-#          branch: update-regisry-${{ steps.date.outputs.date }}
+#          branch: update-registry-${{ steps.date.outputs.date }}
 
       - run: npm run-script update
       - run: npm test
@@ -45,10 +46,12 @@ jobs:
       - uses: peter-evans/create-pull-request@v3.10.1
         with:
           token: ${{ secrets.GH_TOKEN }}
+          committer: GitHub <noreply@github.com>
           commit-message: Registry updates for ${{ steps.date.outputs.date }}
+          author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
           title: Registry updates for ${{ steps.date.outputs.date }}
           body: Auto-created Pull Request
-          branch: update-regisry-${{ steps.date.outputs.date }}  
+          branch: update-registry-${{ steps.date.outputs.date }}
           delete-branch: true
           labels: |
             report
