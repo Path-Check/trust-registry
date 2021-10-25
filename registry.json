@@ -4,6 +4,7 @@
       "displayName": {
         "en": "State of Massachusetts"
       },
+      "displayLogo": "./logos/us-ma-dph.svg",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-02-29T01:25:35.057Z",
