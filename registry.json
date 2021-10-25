@@ -17,6 +17,7 @@
       "displayName": {
         "en": "PathCheck Foundation"
       },
+      "displayLogo": "./logos/pathcheck.svg",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-10-11T01:25:35.057Z",
