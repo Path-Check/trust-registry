@@ -22,7 +22,8 @@ export async function update(registry) {
     'https://covid19.quebec.ca/PreuveVaccinaleApi/issuer#qFdl0tDZK9JAWP6g9_cAv57c3KWxMKwvxCrRVSzcxvM', 
     'https://covid19.quebec.ca/PreuveVaccinaleApi/issuer#Nqa1zvChOkoA46B5ZM_oK3MDhL3-mnLERV_30vkHQIc',
     'https://covid19.quebec.ca/PreuveVaccinaleApi/issuer#qFdl0tDZK9JAWP6g9_cAv57c3KWxMKwvxCrRVSzcxvM',
-    'https://api.cvshealth.com/smarthealth/v1/card#afXT8j9iwJJ7IRP24ZUKPhbkga79MfqPreO2DlK0sLA'
+    'https://api.cvshealth.com/smarthealth/v1/card#afXT8j9iwJJ7IRP24ZUKPhbkga79MfqPreO2DlK0sLA', 
+    'https://api.myirmobile.com/issuer#aQ8UtrF8UuWjSv5yQEgsiYyh_wsyRZ8fouggmtB38I8'
   ];
 
   // update issuers that are not in VCI. 

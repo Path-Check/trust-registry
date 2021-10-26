@@ -3296,6 +3296,26 @@
     }
   },
   "SmartHealthCards": {
+    "https://api.myirmobile.com/issuer#aQ8UtrF8UuWjSv5yQEgsiYyh_wsyRZ8fouggmtB38I8": {
+      "displayName": {
+        "en": "MyIR Mobile"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "aQ8UtrF8UuWjSv5yQEgsiYyh_wsyRZ8fouggmtB38I8",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "Z96eAeI5wXUnAuuG0mzD6TPqqZQ5wAkr_Yuml6F7spQ",
+        "y": "3-uy-ExRvCXAWs4gF8oxCRLSCGocyMc5AA-VsKbdH60"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
     "https://healthcardcert.lawallet.com#UOvXbgzZj4zL-lt1uJVS_98NHQrQz48FTdqQyNEdaNE": {
       "displayName": {
         "en": "State of Louisiana"
