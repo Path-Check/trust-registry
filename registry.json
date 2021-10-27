@@ -10215,6 +10215,146 @@
       "credentialType": [
         "https://smarthealth.cards#immunization"
       ]
+    },
+    "https://ihismufhir.osumc.edu/fhir-prd/api/epic/2021/Security/Open/EcKeys/32001/SHC#r1M-HNS30Li0J4WlLMrKUwKppsOK61ZfkZy7WhTez7w": {
+      "displayName": {
+        "en": "The Ohio State University Wexner Medical Center"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "tngB7LSkykH3of1zIg7_REGAWSKGBF2mxSYC5t3cPdA",
+        "y": "rDGNY6vD3pLNAfmtLegmFgrRWuPlP59_TQTWdeWmz3g",
+        "kid": "r1M-HNS30Li0J4WlLMrKUwKppsOK61ZfkZy7WhTez7w",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epiclbsprxyprodpass.houstonmethodist.org/PRD-FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC#SArj0J9FU7dr183eb1Sd_n6-WsFayMhxjrc1EIDvps4": {
+      "displayName": {
+        "en": "Houston Methodist"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "eVXPEAN8cSBXkLkDZjYummMTu6QVY2Yy85F2wCala40",
+        "y": "2M7ZLV2U3wA-8GCV-0rzk9f6EVsjfwJJjRBmiu7g4hg",
+        "kid": "SArj0J9FU7dr183eb1Sd_n6-WsFayMhxjrc1EIDvps4",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epicproxy-np.et1023.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#nctCDXtOPz8NuTr7gA8Fzw6mpt2atFPxgpF4yJq0-vQ": {
+      "displayName": {
+        "en": "UMC Southern Nevada"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "dDoX-3hLrjxLoRSzavjJVkHI2ufI6Ubc0Lf8iLyPPRw",
+        "y": "_XQIYke6iITABG1Uc2l_jeA-0xvnnlNfSsGlnPML7QU",
+        "kid": "nctCDXtOPz8NuTr7gA8Fzw6mpt2atFPxgpF4yJq0-vQ",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://prd-proxy.vidanthealth.com/FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC#WfODizKk3y0fg5jvkhKAxnGEoHuulEW5x7VWbSngWdI": {
+      "displayName": {
+        "en": "Vidant Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "hb-Jn15vQiHVDiiynhqw4G_4SwtdCeYXHEqc2vLxOFQ",
+        "y": "y2ogiNUBCofwKr2xSWJGjSCbR5ItZerL0fstmQwEw58",
+        "kid": "WfODizKk3y0fg5jvkhKAxnGEoHuulEW5x7VWbSngWdI",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://smarthealthcard.iisregistry.net/palau/issuer#ah4qU-camAEEBAPzgMTUvVc16K4J4_vPevvASUffDo4": {
+      "displayName": {
+        "en": "Palau Registry"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "ah4qU-camAEEBAPzgMTUvVc16K4J4_vPevvASUffDo4",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "fGX2ZdfeRVJl7_ZHQ9m-lc3TBN6N63wphzJzD1ZRtiE",
+        "y": "cdRRgwZ4NTuyNJ-y67DEBgpK1x2jXu6C03e8XPK96wg"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://waverify.doh.wa.gov/creds#n0S0H6_mbA93e3pEu-a67qoiF4CAWYsOGoWo6TLHUzQ": {
+      "displayName": {
+        "en": "Washington State Department of Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "n0S0H6_mbA93e3pEu-a67qoiF4CAWYsOGoWo6TLHUzQ",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "fdoNeWZk1SrLpN3QDua5vF3_rA-SMtJC_FyGOuoxfQM",
+        "y": "T6qVaWSULDDzPhWL0fK9lq1yPC9YFt_wOQYC9VlKRa4"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://cdphe.colorado.gov#2mDaFWzZK1ACh7J9GKmeI5mvGuSidpSMFaEtEbMs2SM": {
+      "displayName": {
+        "en": "State of Colorado Department of Public Health and Environment"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "use": "sig",
+        "alg": "ES256",
+        "kid": "2mDaFWzZK1ACh7J9GKmeI5mvGuSidpSMFaEtEbMs2SM",
+        "crv": "P-256",
+        "x": "EJrswgDkiAKdfeGL_RXI5AENbgrkd2ZrE5bLDHkB7RE",
+        "y": "f16VYR8cqEytzDp5ednA2NYIRBgncdsb7mco87bFu8o"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
     }
   }
 }
