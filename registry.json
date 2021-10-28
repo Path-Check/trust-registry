@@ -10355,6 +10355,126 @@
       "credentialType": [
         "https://smarthealth.cards#immunization"
       ]
+    },
+    "https://soapproxyprod.thechristhospital.com/FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC#rHqkoVBAPbdquW53SCJkiYG0gM1z6PiLKt3SKDWXJKY": {
+      "displayName": {
+        "en": "The Christ Hospital"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "CHJRpWK7IbEKdIBBtVTnjljoUN9uJw-wpOYy9khOfVo",
+        "y": "qYAxZlrWtOG89rOVGlwOtQKLS5ahNefuvQKLzVnHpA0",
+        "kid": "rHqkoVBAPbdquW53SCJkiYG0gM1z6PiLKt3SKDWXJKY",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://prevprox.bch.org/FHIRproxyPRD/api/epic/2021/Security/Open/EcKeys/32001/SHC#4e-sAZgbRqLywfWOBm3qNRSCSMEkMHzOzPTbYmvO8w4": {
+      "displayName": {
+        "en": "Boulder Community Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "NFypM6e4-NBilaD8v0Q2kfWR0q2Ow2BdBl5zXyO8lDY",
+        "y": "tF4JlXYgri1KNAKL5SmvER0rSWV7r8poBkGPkDnTfpg",
+        "kid": "4e-sAZgbRqLywfWOBm3qNRSCSMEkMHzOzPTbYmvO8w4",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://webprd.ochin.org/prd-fhir/api/epic/2021/Security/Open/EcKeys/32001/SHC#Arb29-Fsf_bSMgMURH8zVPieCYRF9C3qRduclItA6n8": {
+      "displayName": {
+        "en": "OCHIN"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "gA5TW-S6yjUNO4X2kSj1nZYKSeBGkaj_tJJmM4cmWu0",
+        "y": "UNSkYZAM2Z3OZ5OsoL3IZrzbZ88O1pZyysw7BqxHl7U",
+        "kid": "Arb29-Fsf_bSMgMURH8zVPieCYRF9C3qRduclItA6n8",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://mcproxyprd.med.umich.edu/FHIR-PRD/api/epic/2021/Security/Open/EcKeys/32001/SHC#2ERcjZgrojfX64RG8MBu6EvsW-7qmYGg_18LITMjO1s": {
+      "displayName": {
+        "en": "Michigan Medicine"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "Elt_b7xxFiS98vsU49QsJJ7kSzdG6UV8R-kfCuHAuZg",
+        "y": "rwKjjHUDHWQArdEsmTIYeRqbBftmeKk6AQD2xytuNRg",
+        "kid": "2ERcjZgrojfX64RG8MBu6EvsW-7qmYGg_18LITMjO1s",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://health-apis.duke.edu/FHIR/patient/DSTU2/api/epic/2021/Security/Open/EcKeys/32001/SHC#H68eJBumEmB0adGvfhp0MlEK8LNPFMgTfkMjccFVR00": {
+      "displayName": {
+        "en": "Duke University Health System"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "eLGp_yDY3sgpqNukgaK592-JeRGUuW8I2-wfsOt86ow",
+        "y": "avW0dd_xLADShNlCizY4xVS32TEj7jBJznx-747JoJY",
+        "kid": "H68eJBumEmB0adGvfhp0MlEK8LNPFMgTfkMjccFVR00",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://smarthealthcard.iisregistry.net/colorado/issuer#hspy-bpfqGL2PMFS3PJgvdCiRHqGiMJ5PUg8L2-9hGs": {
+      "displayName": {
+        "en": "State of Colorado"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "hspy-bpfqGL2PMFS3PJgvdCiRHqGiMJ5PUg8L2-9hGs",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "tp72Ik-E7zP14ZtnvnYqTQvzK5QuBS5szQ1OHQKfz4g",
+        "y": "DczvG6zHhlFLmFtnUEcJr9dpZuu7DlpXJXN-ydaqC-c"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
     }
   }
 }
