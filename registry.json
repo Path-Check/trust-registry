@@ -4465,9 +4465,8 @@
         "en": "AltaMed"
       },
       "entityType": "issuer",
-      "status": "terminated",
+      "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
-      "validUntilDT": "2021-10-23T01:00:00.000Z",
       "didDocument": {
         "x": "il5cweTjz11MFkTFqROWqJncWGyV64LasEeSYJeYoP8",
         "y": "qsvmzrmXvkOshLV9s2MqqToT6_h6jqVGXnoS-Wbk3h0",
