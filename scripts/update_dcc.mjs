@@ -124,6 +124,11 @@ export async function update(registry) {
     }
   }); 
 
+
+  /**
+
+  UK Keys merged with the EU Gateway on Oct 28, 2022
+
   const resUK = await fetch('https://covid-status.service.nhsx.nhs.uk/pubkeys/keys.json', {method: 'GET', mode: 'no-cors'})
   const UKKeys = JSON.parse(await resUK.text());
   
