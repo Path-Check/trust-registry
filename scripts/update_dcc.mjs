@@ -96,25 +96,26 @@ export async function update(registry) {
       console.log(colors.added, e.kid, 'has been added', newReg);
       registry["EUDCC"][e.kid] = newReg;
     } else {
-      const oldReg = registry["EUDCC"][e.kid];
+      let oldReg = registry["EUDCC"][e.kid];
 
       let changed = false;
       if (newReg.validFromDT !== oldReg.validFromDT) {
-        console.log(colors.modified, e.kid, 'has changed Valid From Date', newReg.validFromDT, oldReg.validFromDT);
+        console.log(colors.modified, getDisplayName(e.country), e.kid, 'has changed Valid From Date', newReg.validFromDT, oldReg.validFromDT);
         oldReg.validFromDT = newReg.validFromDT;
         changed = true;
       }
       if (newReg.validUntilDT !== oldReg.validUntilDT) {
-        console.log(colors.modified, e.kid, 'has changed Valid Until Date', newReg.validUntilDT, oldReg.validUntilDT);
+        console.log(colors.modified, getDisplayName(e.country), e.kid, 'has changed Valid Until Date', newReg.validUntilDT, oldReg.validUntilDT);
         oldReg.validUntilDT = newReg.validUntilDT;
         changed = true;
       }
       if (newReg.didDocument !== oldReg.didDocument) {
-        console.log(colors.modified, e.kid, 'has changed Certificate PEM', newReg.didDocument, oldReg.didDocument);
+        console.log(colors.modified, getDisplayName(e.country), e.kid, 'has changed Certificate PEM', newReg.didDocument, oldReg.didDocument);
+        oldReg.didDocument = newReg.didDocument;
         changed = true;
       }
       if (!deepEqual(newReg.credentialType, oldReg.credentialType)) {
-        console.log(colors.modified, e.kid, 'has changed credential types', newReg.credentialType, oldReg.credentialType);
+        console.log(colors.modified, getDisplayName(e.country), e.kid, 'has changed credential types', newReg.credentialType, oldReg.credentialType);
         oldReg.credentialType = newReg.credentialType;
         changed = true;
       }
@@ -177,6 +178,7 @@ export async function update(registry) {
       }
     }
   });  
+   */
 
   Object.entries(registry["EUDCC"]).forEach(([k,v]) => {
     if (!currentCerts.includes(k) && v.status === "current") {
