@@ -179,8 +179,9 @@ export async function update(registry) {
   });  
 
   Object.entries(registry["EUDCC"]).forEach(([k,v]) => {
-    if (!currentCerts.includes(k)) {
-      console.log(colors.removed, k, 'has been removed');
+    if (!currentCerts.includes(k) && v.status === "current") {
+      v.status = "terminated";
+      console.log(colors.removed, k, ' was terminated');
     }
   }); 
 
