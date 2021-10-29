@@ -98,7 +98,7 @@ export async function update(registry) {
     } else {
       const oldReg = registry["EUDCC"][e.kid];
 
-      const changed = false;
+      let changed = false;
       if (newReg.validFromDT !== oldReg.validFromDT) {
         console.log(colors.modified, e.kid, 'has changed Valid From Date', newReg.validFromDT, oldReg.validFromDT);
         oldReg.validFromDT = newReg.validFromDT;
@@ -147,7 +147,7 @@ export async function update(registry) {
     } else {
       const oldReg = registry["EUDCC"][e.kid];
 
-      const changed = false;
+      let changed = false;
       if (newReg.validFromDT !== oldReg.validFromDT) {
         console.log(colors.modified, e.kid, 'has changed Valid From Date', newReg.validFromDT, oldReg.validFromDT);
         oldReg.validFromDT = newReg.validFromDT;
