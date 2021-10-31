@@ -10511,6 +10511,266 @@
       "credentialType": [
         "https://smarthealth.cards#immunization"
       ]
+    },
+    "https://ehrmobile.monument.health/interconnect-prd-fhir/api/epic/2021/Security/Open/EcKeys/32001/SHC#S2ygSSZ0Bb6Vik6TUXEY70g58JY3mjrcq1KFH24vVQM": {
+      "displayName": {
+        "en": "Monument Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "vEgCRZx-xuhTukH3OTRt8jVzRoHRALBLBs_WDEFFLKE",
+        "y": "BDFUNZI6b1ox5ss6V2cNYMble4DPNsE00vB7ygWpi7k",
+        "kid": "S2ygSSZ0Bb6Vik6TUXEY70g58JY3mjrcq1KFH24vVQM",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://scripts.prevea.com/FHIR-ARR-PRD/api/epic/2021/Security/Open/EcKeys/32001/SHC#brUxRd9nVAk5WpPbHrpJx0wx2ABpgUQ4bP1kp90o8gc": {
+      "displayName": {
+        "en": "Hospital Sisters Health System"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "pzVmhTJhyLh0TWpQxk406DyWUdhjXra5U9ApRDd3wSA",
+        "y": "6GR2D3TBR627VcmUStWkOD8m9mzVs1KTyc8wS6XzQJU",
+        "kid": "brUxRd9nVAk5WpPbHrpJx0wx2ABpgUQ4bP1kp90o8gc",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epicedge.upstate.edu/fhir/api/epic/2021/Security/Open/EcKeys/32001/SHC#Zma9nyEcg-ToDc3u3QDMJgdEfkUb4YyvYziwMvft7qE": {
+      "displayName": {
+        "en": "SUNY Upstate"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "zLxA8fjcP9iNM38MD4c1pc4VKx9wKgmrgP04hvFD7ZA",
+        "y": "ezxEhjXphBqsDvXmghh9nUKZt2V3wU7y89yTt1zzcsc",
+        "kid": "Zma9nyEcg-ToDc3u3QDMJgdEfkUb4YyvYziwMvft7qE",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://lmcrcs.lexmed.com/FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC#aYETKPM_FjCPqhusAyf8rDTzr4JZZ6Zc2yaAQeY0uRI": {
+      "displayName": {
+        "en": "Lexington Medical Center"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "PkcEJNzavV4o4ghnhhdcNktvUcJPbs-uDS1LZuDfIjg",
+        "y": "bhTpllogkuKZ8cVw7je3YUNNCbPOOOeDEXP_n-R0zIg",
+        "kid": "aYETKPM_FjCPqhusAyf8rDTzr4JZZ6Zc2yaAQeY0uRI",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://webproxy.mynovant.org/fhir-prd/api/epic/2021/Security/Open/EcKeys/32001/SHC#LscjYTUMp733zsMu6D6tGCmvR7Rk4rTO7FV5w9r4e8E": {
+      "displayName": {
+        "en": "Novant Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "RwQD66A1lYQrXG8P9wyS1jY7N8EDGtjyd-Pr_OkDRFM",
+        "y": "u_yR5xJqB6UIu4L2P8ivcs0y1G2GV2n2MJxNDtFrjIA",
+        "kid": "LscjYTUMp733zsMu6D6tGCmvR7Rk4rTO7FV5w9r4e8E",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epicrp.firsthealth.org/FHIR-PRD/api/epic/2021/Security/Open/EcKeys/32001/SHC#0skYja5xi7ZEP1t2sLtaNBVlYGVvNh9rEOcXt0YywlA": {
+      "displayName": {
+        "en": "FirstHealth of the Carolinas"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "cR6mgsOUsND6Sa-54vfLVSlrDS0IAJxUZ_gS20rDgro",
+        "y": "3dx6Zp9fi60icjNI2rudaABBJ-zBR5g7U9UK95wg81o",
+        "kid": "0skYja5xi7ZEP1t2sLtaNBVlYGVvNh9rEOcXt0YywlA",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epicmobile.ohsu.edu/FHIRPRD/api/epic/2021/Security/Open/EcKeys/32001/SHC#GF4J7iNjERUsXgF7d3PTiHZMNMldLKLk4SP50qkJX-8": {
+      "displayName": {
+        "en": "Oregon Health & Science University"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "AxpiUOem7Wa5AbnBJ26K30DO5H_-nu27XgrfuHK0vwc",
+        "y": "gg-kyD3HqvwWrWnxStYlc3NgEKuqUOwpuGRdpxja11U",
+        "kid": "GF4J7iNjERUsXgF7d3PTiHZMNMldLKLk4SP50qkJX-8",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epicrpprd.inova.org/fhirrp/api/epic/2021/Security/Open/EcKeys/32001/SHC#cswulU3rwkOXTyIgtVzUQNw2_s4JaRCsHlH8Q1i02QE": {
+      "displayName": {
+        "en": "Inova Health System"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "-geg_oRbPtf65ZzEZU_sXx5lObuWbrIVlsnga76-tu4",
+        "y": "eeY52YAgqusJTEhE2mhWWxq_En5CBKhQasPNS6HHLoQ",
+        "kid": "cswulU3rwkOXTyIgtVzUQNw2_s4JaRCsHlH8Q1i02QE",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://ic.valleychildrens.org/fhir/api/epic/2021/Security/Open/EcKeys/32001/SHC#aHCZwBl5-1MUcNssdZJiu_XUD75sGxNPbEG04Oum2kg": {
+      "displayName": {
+        "en": "Valley Children’s Healthcare"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "KMIGiIZX66F5lU5tVAIUar2hTJM3NwnWKB8yobe4H5c",
+        "y": "h3Lo7Hyg_QNq09jRb8O6Uu23ZDMfuFDB9dKtuHO5218",
+        "kid": "aHCZwBl5-1MUcNssdZJiu_XUD75sGxNPbEG04Oum2kg",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epicproxy.et1240.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#Q9zEnvms4LHbhnwtHZ3KETvXudIX52hRFqFVnDpmyYI": {
+      "displayName": {
+        "en": "El Rio Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "1zNBLJY7UaTWcZrvZaD_GSRJx8_udHU58I7jDpjh2xs",
+        "y": "c4M6fvpC7wUE4gU596viMe0SnR1mvcs3y3AvM2UVlKU",
+        "kid": "Q9zEnvms4LHbhnwtHZ3KETvXudIX52hRFqFVnDpmyYI",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epicproxy.et1222.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#WYErh5snsU6mJV_BbWDLk6M4TxyEhn6iEJMVkW585wI": {
+      "displayName": {
+        "en": "GW University Medical Faculty Associates"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "m9-MmntuMf2t-4fPPElsZ8uFDXB5j8WD53bmiKEewe4",
+        "y": "s1ucRWdTAp0-sPXDt1p4uadPqMGsSb_2qcApwxb_yHc",
+        "kid": "WYErh5snsU6mJV_BbWDLk6M4TxyEhn6iEJMVkW585wI",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://fhir.archildrens.org/fhir/api/epic/2021/Security/Open/EcKeys/32001/SHC#nQbMGYnIP4z_aCA5fXOy-wH1O8Rv_FJE0yjnfCsc0Fs": {
+      "displayName": {
+        "en": "Arkansas Children’s"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "TWbVp71Bfh1pPpVeckzvhK0hk50taaeJ2LJ6mmeiUiI",
+        "y": "n-3QMVKnqBvta5zu2IlTzOOc8YQOQIQ3XGoaSpiRSsc",
+        "kid": "nQbMGYnIP4z_aCA5fXOy-wH1O8Rv_FJE0yjnfCsc0Fs",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epicproxy.et0927.epichosted.com/VCI_PRD/api/epic/2021/Security/Open/EcKeys/32001/SHC#IVzjSimVvH8ZyQ3AJEjI8LXm5HfrdrDYuEmG0QcXzOI": {
+      "displayName": {
+        "en": "Hospital for Special Surgery"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "SspgJb6lXVikIonay02kbpbUMfxkRyLWK2cK702rwQ",
+        "y": "3tyNd21Atciol2Nz-HHKa2wjq0CPu3NitEdDkedANKw",
+        "kid": "IVzjSimVvH8ZyQ3AJEjI8LXm5HfrdrDYuEmG0QcXzOI",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
     }
   }
 }
