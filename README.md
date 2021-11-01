@@ -29,12 +29,14 @@ The registry requests/returns entities specified as:
 
 # Currently Supported Issuers: 
 - [x] State of California
+- [x] State of Colorado (2 keys)
 - [x] State of Connecticut
 - [x] State of Kentucky (2 keys)
 - [x] State of Louisiana
 - [x] State of Massachusetts
-- [x] State of New Mexico
+- [x] State of Nevada
 - [x] State of New Jersey
+- [x] State of New Mexico
 - [x] State of New York
 - [x] State of Oklahoma
 - [x] State of Utah
@@ -45,11 +47,12 @@ The registry requests/returns entities specified as:
 - [x] Province of Newfoundland and Labrador
 - [x] Province of Nova Scotia
 - [x] Province of Ontario
-- [x] Province of Québec - Province of Quebec (2 keys)
+- [x] Province of Québec - Province of Quebec (4 keys)
 - [x] Province of the Northwest Territories
 - [x] Province of Yukon
 - [x] Government of Albania
 - [x] Government of Andorra
+- [x] Government of Armenia
 - [x] Government of Australia
 - [x] Government of Austria
 - [x] Government of Barbados
@@ -77,7 +80,7 @@ The registry requests/returns entities specified as:
 - [x] Government of Malta (6 keys)
 - [x] Government of Monaco (2 keys)
 - [x] Government of Morocco
-- [x] Government of North Macedonia (2 keys)
+- [x] Government of North Macedonia (3 keys)
 - [x] Government of Norway (3 keys)
 - [x] Government of Panama
 - [x] Government of Philippines
@@ -90,7 +93,7 @@ The registry requests/returns entities specified as:
 - [x] Government of Spain (21 keys)
 - [x] Government of Sri Lanka
 - [x] Government of Sweden
-- [x] Government of Switzerland (7 keys)
+- [x] Government of Switzerland (12 keys)
 - [x] Government of the Faroe Islands (2 keys)
 - [x] Government of the Holy See (Vatican City State)
 - [x] Government of the Netherlands (12 keys)
@@ -98,12 +101,12 @@ The registry requests/returns entities specified as:
 - [x] Government of Turkey
 - [x] Government of Ukraine
 - [x] Government of Uruguay
-- [x] Add State of Nevada
 - [x] Adventist Health
 - [x] Advocate Aurora Health
 - [x] Alaska Tribal Health System
 - [x] Allegheny Health Network
 - [x] AltaMed
+- [x] Arkansas Children’s
 - [x] Ascension
 - [x] Aspirus
 - [x] Asquam Community Health Collaborative
@@ -127,6 +130,7 @@ The registry requests/returns entities specified as:
 - [x] Boca Raton Regional Hospital
 - [x] Borgess Health Alliance Inc.
 - [x] Boston Medical Center
+- [x] Boulder Community Health
 - [x] Bronson Healthcare Group
 - [x] Broward Health
 - [x] Bryan Health
@@ -169,10 +173,12 @@ The registry requests/returns entities specified as:
 - [x] Dignity Health (2 keys)
 - [x] Doctors Care
 - [x] Doctors Hospital at Renaissance
+- [x] Duke University Health System
 - [x] DuPage Medical Group and Edward-Elmhurst Health
 - [x] East Jefferson General Hospital
 - [x] eHealth Saskatchewan (2 keys)
 - [x] Einstein Healthcare Network
+- [x] El Rio Health
 - [x] Ellis Medicine
 - [x] Emory BLUE Patient Portal
 - [x] Emory Healthcare GOLD Patient Portal
@@ -183,6 +189,7 @@ The registry requests/returns entities specified as:
 - [x] Express Scripts
 - [x] Fairfield Memorial Hospital
 - [x] First Choice Community HealthCare
+- [x] FirstHealth of the Carolinas
 - [x] Fisher-Titus Medical Center
 - [x] Franciscan Alliance
 - [x] Franciscan Missionaries of Our Lady Health System, Inc.
@@ -194,6 +201,7 @@ The registry requests/returns entities specified as:
 - [x] Group Health Cooperative - South Central Wisconsin
 - [x] Guam Department of Public Health & Social Services
 - [x] Gundersen Health System
+- [x] GW University Medical Faculty Associates
 - [x] Hackensack Meridian Health
 - [x] Hamilton Health Care System
 - [x] Hartford HealthCare
@@ -204,9 +212,13 @@ The registry requests/returns entities specified as:
 - [x] Henry Community Health
 - [x] Henry Ford Health System
 - [x] Holland Hospital
+- [x] Hospital for Special Surgery
+- [x] Hospital Sisters Health System
+- [x] Houston Methodist
 - [x] Hudson Physicians, S.C
 - [x] Huntsville Hospital Health System
 - [x] Indiana Regional Medical Center
+- [x] Inova Health System
 - [x] Johns Hopkins Medicine
 - [x] Kaiser Permanente (26 keys)
 - [x] Kaleida Health
@@ -219,6 +231,7 @@ The registry requests/returns entities specified as:
 - [x] Lawrence Memorial Hospital
 - [x] LCMC Health
 - [x] Lehigh Valley Health Network
+- [x] Lexington Medical Center
 - [x] LifeBridge Health
 - [x] LifePoint Health
 - [x] Logansport Memorial Hospital
@@ -243,6 +256,7 @@ The registry requests/returns entities specified as:
 - [x] Mercyhealth
 - [x] Methodist Health System (2 keys)
 - [x] Methodist Le Bonheur Healthcare
+- [x] Michigan Medicine
 - [x] Middlesex Health
 - [x] Midwest Medical Center
 - [x] Mineola District Hospital
@@ -254,11 +268,13 @@ The registry requests/returns entities specified as:
 - [x] Monongalia General Hospital
 - [x] Monroe Clinic
 - [x] Montage Health
+- [x] Monument Health
 - [x] Mt Sinai - FL
 - [x] Munson Healthcare
 - [x] My Ascension Seton
 - [x] My Health Kaweah Health
 - [x] My VCU Health
+- [x] MyIR Mobile
 - [x] MyNCH Health Portal
 - [x] New York Consortium
 - [x] NewYork-Presbyterian Brooklyn Methodist Hospital
@@ -268,13 +284,17 @@ The registry requests/returns entities specified as:
 - [x] Northside Hospital
 - [x] Northwest Community Hospital
 - [x] Northwestern Medicine
+- [x] Novant Health
 - [x] NYU Langone Health System
+- [x] OCHIN
 - [x] Ochsner Health System
 - [x] OhioHealth
 - [x] Olathe Health
 - [x] One Brooklyn Health System
+- [x] Oregon Health & Science University
 - [x] OSF HealthCare
 - [x] Pagosa Springs Medical Center
+- [x] Palau Registry
 - [x] Parkview Health
 - [x] PathCheck Foundation
 - [x] PeaceHealth
@@ -326,13 +346,16 @@ The registry requests/returns entities specified as:
 - [x] Stony Brook Medicine
 - [x] Stormont-Vail
 - [x] Sturdy Memorial Hospital and Sturdy Memorial Associates
+- [x] SUNY Upstate
 - [x] Surgery Partners - Nashville
 - [x] Sutter Health
 - [x] Sydney Local Health District
 - [x] Tenet Healthcare Corporation
 - [x] Tenet HealthSystem Medical Inc. (4 keys)
 - [x] Texas Health Resources
+- [x] The Christ Hospital
 - [x] The Guthrie Clinic
+- [x] The Ohio State University Wexner Medical Center
 - [x] The University of Texas Health Science Center at Houston
 - [x] The University of Texas MD Anderson Cancer Center
 - [x] The University of Vermont Medical Center
@@ -350,6 +373,7 @@ The registry requests/returns entities specified as:
 - [x] UHealth – University of Miami Health System
 - [x] UHS of Delaware, Inc - Central
 - [x] UMass Memorial Health
+- [x] UMC Southern Nevada
 - [x] UNC Health Care System
 - [x] Union General Hospital
 - [x] United Health Services
@@ -372,8 +396,11 @@ The registry requests/returns entities specified as:
 - [x] Urology Partners of North Texas
 - [x] UT Health San Antonio
 - [x] UW Health
+- [x] Valley Children’s Healthcare
+- [x] Vidant Health
 - [x] Virginia Hospital Center
 - [x] Walgreens
+- [x] Washington State Department of Health
 - [x] WellSpan Health
 - [x] West Tennessee Healthcare
 - [x] Westchester Medical Center Health Network
