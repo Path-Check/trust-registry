@@ -10771,6 +10771,26 @@
       "credentialType": [
         "https://smarthealth.cards#immunization"
       ]
+    },
+    "https://arrprd.metrohealth.net/fhir/api/epic/2021/Security/Open/EcKeys/32001/SHC#bVwZEIovkPqRcebGO96syglPmcjeRmQBe-1q9WUfiwM": {
+      "displayName": {
+        "en": "University of Michigan Health-West"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "uP6R_g6evnDtrerF2Ow4bCnv4KPdWvWZW-EWzfie69o",
+        "y": "dWJtuqe0G08-oRyWdu8hfv_57jo_Zyz-jgv7upPPrTg",
+        "kid": "bVwZEIovkPqRcebGO96syglPmcjeRmQBe-1q9WUfiwM",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
     }
   }
 }
