@@ -11226,6 +11226,106 @@
       "credentialType": [
         "https://smarthealth.cards#immunization"
       ]
+    },
+    "https://fhir.hfhs.org/fhirproxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#o0GnOoIBxND1SYy0EKl1d_qCXTNqKjtUCe--nVqrmsI": {
+      "displayName": {
+        "en": "Henry Ford Health System"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "cHnkQHA_R3KUh1l32rOB7PAit9Lw81H3YlL8FoR2cqo",
+        "y": "8wF8AzsXPNOnmQSkWgUR7viOTgvz82p2IPxvqi5aiR8",
+        "kid": "o0GnOoIBxND1SYy0EKl1d_qCXTNqKjtUCe--nVqrmsI",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://covid19.quebec.ca/PreuveVaccinaleApi/issuer#sZ5ca2a73SgPl7aC9v4PyA4cR5zk9A6BhHX8I2CVNwM": {
+      "displayName": {
+        "en": "Gouvernement du Québec - Government of Quebec"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "sZ5ca2a73SgPl7aC9v4PyA4cR5zk9A6BhHX8I2CVNwM",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "9B8CKA868OKjH3ydtM1jw2ax-wo0qCHP3qDR3b9jilY",
+        "y": "pEudYHfIMz20vz-WNZargtgDDXj6GQeN410x8u2xjQ0"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epicproxy.et0927.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#IVzjSimVvH8ZyQ3AJEjI8LXm5HfrdrDYuEmG0QcXzOI": {
+      "displayName": {
+        "en": "Hospital for Special Surgery"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "SspgJb6lXVikIonay02kbpbUMfxkRyLWK2cK702rwQ",
+        "y": "3tyNd21Atciol2Nz-HHKa2wjq0CPu3NitEdDkedANKw",
+        "kid": "IVzjSimVvH8ZyQ3AJEjI8LXm5HfrdrDYuEmG0QcXzOI",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://fhir.lluh.org/interconnect-fhir-prd/api/epic/2021/Security/Open/EcKeys/32001/SHC#kct_SdbBMVt5x66BpspAK1oljykq8xWX6r8wgTmzi8w": {
+      "displayName": {
+        "en": "Loma Linda University Health, Riverside University Health System, SAC Health System, and Affiliates"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "66jl2gUmxPWLm3a9Y-mjXQg2v92fm1CfyRoP1mRAVCw",
+        "y": "oxnDPJbbQYheDOsGdSFn2jiNDerN8TNipupPWLmnc5E",
+        "kid": "kct_SdbBMVt5x66BpspAK1oljykq8xWX6r8wgTmzi8w",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://fhir-myrecord.cerner.com/r4/rii-5tqZIeHcg01uWOcN3lATP151-1Q9#N2maG8qOhITe_zyPqcrCa6LT_mW18ZtFPy09cGAB24w": {
+      "displayName": {
+        "en": "Northern Light Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "crv": "P-256",
+        "kty": "EC",
+        "x": "DNo1BEwoRPNRDYsulhhxu9jOxkvCuEVU4IaCs3H6PJ0",
+        "y": "zB_HLKrE_n5Xi9I7yMIION-IQpzH5MEZoP2GvRftSsI",
+        "kid": "N2maG8qOhITe_zyPqcrCa6LT_mW18ZtFPy09cGAB24w",
+        "use": "sig",
+        "alg": "ES256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
     }
   }
 }
