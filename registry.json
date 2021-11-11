@@ -11326,6 +11326,26 @@
       "credentialType": [
         "https://smarthealth.cards#immunization"
       ]
+    },
+    "https://epicproxy.et1023.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#KASNZoKU3R9BU-tWTIcGAF6CiSGJ1XqUE8F0GFj0by4": {
+      "displayName": {
+        "en": "UMC Southern Nevada"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "5zHCoamr6i2oPz_Zo7RflNxJF0Cpm_t8K6a5HqzIvg4",
+        "y": "hO2837vmoFNAOPennB6OS2iLNuh2i6D3RR5UY-m5kqY",
+        "kid": "KASNZoKU3R9BU-tWTIcGAF6CiSGJ1XqUE8F0GFj0by4",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
     }
   }
 }
