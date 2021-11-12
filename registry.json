@@ -11346,6 +11346,26 @@
       "credentialType": [
         "https://smarthealth.cards#immunization"
       ]
+    },
+    "https://credenciales.cescodigital.pr.gov#UI3Q5YHNlnwRPBmtxclGYkpuyT6pqzIWakoo_CHtkeg": {
+      "displayName": {
+        "en": "Government of Puerto Rico"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "use": "sig",
+        "crv": "P-256",
+        "kid": "UI3Q5YHNlnwRPBmtxclGYkpuyT6pqzIWakoo_CHtkeg",
+        "x": "wYk4MsE4ce6EUSTZDuGG5SUT83Kmzf1ENPVvGKWRDzU",
+        "y": "VJDZcss_rfMdvPIokztTlanSwqZSfPCE0GkWbNEJR0E",
+        "alg": "ES256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
     }
   }
 }
