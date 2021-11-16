@@ -3555,6 +3555,36 @@
       "validFromDT": "2021-11-04T09:30:45",
       "validUntilDT": "2023-11-04T09:30:45",
       "didDocument": "-----BEGIN CERTIFICATE-----\nMIIE0TCCArmgAwIBAgIQMgfVJ9KIWgdhg6hFmVPWzDANBgkqhkiG9w0BAQsFADCBjTELMAkGA1UEBhMCTFYxOTA3BgNVBAoMMFZBUyBMYXR2aWphcyBWYWxzdHMgcmFkaW8gdW4gdGVsZXbEq3ppamFzIGNlbnRyczEaMBgGA1UEYQwRTlRSTFYtNDAwMDMwMTEyMDMxJzAlBgNVBAMMHkRpZ2l0YWwgR3JlZW4gQ2VydGlmaWNhdGUgQ1NDQTAeFw0yMTExMDQwOTMwNDVaFw0yMzExMDQwOTMwNDVaMD4xCzAJBgNVBAYTAkxWMRowGAYDVQQKDBFOVFJMVi05MDAwOTY0OTMzNzETMBEGA1UEAwwKbHZfZHNjXzAwMzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABOmkyzKevmqQYAzWMg3gUvga2p2Pe8YXx4UWFfvw+lrAgSfd1gp3br+2LEhY+DRn/8aCcp8XnJGEd/iYWAb3TsijggFEMIIBQDAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDAwBgNVHSUEKTAnBgsrBgEEAY43j2UBAQYLKwYBBAGON49lAQIGCysGAQQBjjePZQEDMB0GA1UdDgQWBBSNXXFCsYbyQpaR9CVhus96/tOAejAfBgNVHSMEGDAWgBTkk2qAHt4j3D1C8UaCE3wjva89HDBbBggrBgEFBQcBAQRPME0wSwYIKwYBBQUHMAKGP2h0dHA6Ly93d3cuZXBhcmFrc3RzLmx2L2NlcnQvRGlnaXRhbF9HcmVlbl9DZXJ0aWZpY2F0ZV9DU0NBLmNydDBRBgNVHR8ESjBIMEagRKBChkBodHRwOi8vd3d3LmVwYXJha3N0cy5sdi9jcmwvRGlnaXRhbF9HcmVlbl9DZXJ0aWZpY2F0ZV9DU0NBXzIuY3JsMA0GCSqGSIb3DQEBCwUAA4ICAQCFbvni9IiyVakliliz/jPuPfk3N2RETFV7cEGjRABugInh43DAPZz0siRPi2dmMy5B1b2T22QxFI7Od0qBkiPcGXKqwik1GU097mNWZ+5p8PuOVMN8E7nj5kX/vBJnmLw+XT1/taPMoz3cBVQ/7NTu1ycXVmJ1lWR8nPsBbqWRgnJbXFL1Q4Io+jngV2Y20o/OC+yvc0TsdofuM6dgDBEBunAU2kmiuexEtpyPVWgBuu5nz6mXOD1U10pXnxvDM5S6w+IDY04Nt3K4ONrlG/ghWUhTjrlYjpFMofqtK6CuKpGo8HQMpgQqb/bTTaAGeE3jEdoRVQxvQcsoUKEzM6cLf/XHz/MIoxlCfX0Rs+we93g/X4vjpXaoO0Dns57hEbRz53t3sE2Fty1rjY3qjGUd269vOtDIl2DooipUAnvSevUQQ3tRu7HeFGnc2ARrb82RG9lj2xwcce+JE5owTQYI2nSdnor1C2sQYhbMKNfbeLEwmoiWLUJyuhB95CPffwUffxQfF6EBbVEK9w6Rpu2I5Mo2qM9cwfJOYc9EIN4Bw8k3h7J3bNNFueVITL4WmVSjXnOaDFtt8PPF/H37exix0akaePpB4BGc5fpJN+OfIwPqEPU0ZDR+wFzwwHZrNF/aMD+j2myGGIuKcAkdt2rqzErGRznR6QClCNpJ3JF2Ew==\n-----END CERTIFICATE-----"
+    },
+    "8hilYZIP6uI=": {
+      "displayName": {
+        "en": "Gov of Italy"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2021-11-12T13:41:45",
+      "validUntilDT": "2023-11-12T13:41:44",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIIEDzCCAfegAwIBAgIUdtfIwH49VX3gzjg7sw1okOP/KAIwDQYJKoZIhvcNAQELBQAwSTELMAkGA1UEBhMCSVQxHzAdBgNVBAoMFk1pbmlzdGVybyBkZWxsYSBTYWx1dGUxGTAXBgNVBAMMEEl0YWx5IERHQyBDU0NBIDEwHhcNMjExMTEyMTM0MTQ1WhcNMjMxMTEyMTM0MTQ0WjBIMQswCQYDVQQGEwJJVDEfMB0GA1UECgwWTWluaXN0ZXJvIGRlbGxhIFNhbHV0ZTEYMBYGA1UEAwwPSXRhbHkgREdDIERTQyAzMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEGwlU23NYZQba7t++TVejbvPxgS6wdW8uE7UPe14VkhXoKINhhrCT0EWHP+aPim6apT46Ktd0lfoNVTsbg2QQ2KOBujCBtzAfBgNVHSMEGDAWgBS+VOVpXmeSQImXYEEAB/pLRVCw/zBlBgNVHR8EXjBcMFqgWKBWhlRsZGFwOi8vY2Fkcy5kZ2MuZ292Lml0L0NOPUl0YWx5JTIwREdDJTIwQ1NDQSUyMHhcMSxPPU1pbmlzdGVybyUyMGRlbGxhJTIwU2FsdXRlLEM9SVQwHQYDVR0OBBYEFCR9+jzaaoSYO/7wB8YLfAk4Vw1FMA4GA1UdDwEB/wQEAwIHgDANBgkqhkiG9w0BAQsFAAOCAgEAokc+BGagX9kFseWotrm4fPrXBm6JLAxn9rC/Mz1awCXehbinERs+AVl029UApYXNp3/wiA57/9z1NkmMtZspBn1b0rJ4WP5hcRDhcsXxFvkSNx03/LwTCBi9iJSFNDQSv6bq8+YVSenamvwGJ+wNpemAIthrPshIGU2+MEipWhFmERYE6JaGJVFGs6n8r4IHzOx3gKeyUoGK2p4vM0Aw4LCfaqffEQz47lVMi+dDk3/h6CWWKZ6//+/15DKsuuj+BBAt9HBaqKAgCQke8RVceGJ1dsZFUW0yuCMqCSmoc3pksjQghYki9p4gs8Ex9khXCusRnCw81sG7VGrZgiDCEGHtbny774/CLCFNDpPC/CJLSEiyDP2exV6um2NEtAqQvGPlCdKVxHiLJ1FkunuHV0zYMLQi4+5mjAWbs4DuTgsOfkuZoJ7t8lFp9rqx3maNrew8Dw/w2nTuOHfk5f4xb99nlVXqA0rUPejZ/kf4ajU2AXrszxLAGXZnopryEcCSzxUSu1vRnv9NMtneTn3l0fDQTwPFVV2zquQUwl85Rm672r12Lupisn74UgwKgElxkgHjNRry++64ULoksydKWMz78ElfLV1tws8xoEx8I744pxsq7DTK52tcFuIZjASIfley6AbGLWzu8DUVGA3o/ANbavT56O8sXlT2OGipPx0=\n-----END CERTIFICATE-----"
+    },
+    "zrMytIH40Rk=": {
+      "displayName": {
+        "en": "Gov of Italy"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2021-11-12T13:40:38",
+      "validUntilDT": "2023-11-12T13:40:37",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIIEDzCCAfegAwIBAgIUUfSAdqIwpkqwXjDhZ+0JdUPaICAwDQYJKoZIhvcNAQELBQAwSTELMAkGA1UEBhMCSVQxHzAdBgNVBAoMFk1pbmlzdGVybyBkZWxsYSBTYWx1dGUxGTAXBgNVBAMMEEl0YWx5IERHQyBDU0NBIDEwHhcNMjExMTEyMTM0MDM4WhcNMjMxMTEyMTM0MDM3WjBIMQswCQYDVQQGEwJJVDEfMB0GA1UECgwWTWluaXN0ZXJvIGRlbGxhIFNhbHV0ZTEYMBYGA1UEAwwPSXRhbHkgREdDIERTQyAyMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEhX3UYfApjRF+CwtZqZJga6pwzbvNic585TOlc0qa2DbRcer1H3FYNY1HErSbo3+tOLiYkPHbrbQdLTE05rymtKOBujCBtzAfBgNVHSMEGDAWgBS+VOVpXmeSQImXYEEAB/pLRVCw/zBlBgNVHR8EXjBcMFqgWKBWhlRsZGFwOi8vY2Fkcy5kZ2MuZ292Lml0L0NOPUl0YWx5JTIwREdDJTIwQ1NDQSUyMHhcMSxPPU1pbmlzdGVybyUyMGRlbGxhJTIwU2FsdXRlLEM9SVQwHQYDVR0OBBYEFNyqHmbZQ9GcMJjdpjpoJXEwFn/8MA4GA1UdDwEB/wQEAwIHgDANBgkqhkiG9w0BAQsFAAOCAgEART1krCdKJhBVe9N4ydQ2UGQlgjEL1OgHj1s0TNCQKL3kEwYcafkKstW0vtsFi1ZGKrfgWkXCcWwkl5/NxfRNoSACApZog4cgSYDlgxa2G7KAoXa7xLuN2ADMEK02zXY5tGnd7Sv6Jl2nMfuUXMirAotr1vA6QETSDmbQNJqyKciDOQkdjxL1mGKhDzeneYRxLeKkOVox/X0uPguRYT2NS7jr2U7S3Z48667Ow46YLAI6n7IZGodn7Wktz1aqFWPGoBhJ2Y5C/QvBjzWn/0WfLBX65cchOdkZoYvfJcnbWS7Z7N/G1V2/CNYNr09EHiZnsmdcsqBX/ywyIGdybCGbx3cDqXsOBfcjH5Jy8moe7QL3oEraUDUEk5JF7un17GcdB4pjOlB8e1AWEthMpa2UMUw/vox1TCUjZ3pZa4rYn+yhcBoA6dYgu8B2HXcNFAE2S35XXDT15C0LvYh858UvtWSLoRmwyrkbNr7ImtgVrdzOKhIEetbmKLdM7fB7kcsYWZ05LTD3VsA2A8AHCOZ2noI4f50pd+VF1FtOz8ogRrCvHz7TJ4T7Kg6aIq/K1zlu06LaJQj2s8f4mJeCYZBfYmm4uywO2PHI8Hcv5MwTrbQ27CuvBkayfIToNOrNLsI8qlcE20Vfei/rLFAGWQoF0xVoJ+boNIBtwn/NBJDtIb4=\n-----END CERTIFICATE-----"
     }
   },
   "SmartHealthCards": {
@@ -11571,6 +11601,46 @@
         "kid": "UI3Q5YHNlnwRPBmtxclGYkpuyT6pqzIWakoo_CHtkeg",
         "x": "wYk4MsE4ce6EUSTZDuGG5SUT83Kmzf1ENPVvGKWRDzU",
         "y": "VJDZcss_rfMdvPIokztTlanSwqZSfPCE0GkWbNEJR0E",
+        "alg": "ES256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://geisapi.geisinger.edu/FHIR_PROD/api/epic/2021/Security/Open/EcKeys/32001/SHC#Y8bKrcMW947XRkPl-LdWVdNvL20Iq5lMVAQ17BEj4d4": {
+      "displayName": {
+        "en": "Geisinger"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "FOY2QLBerrjSHLaVfdH1olZa48HOaUqhYMKYe7FSTp0",
+        "y": "0s-puVEnEts_Kkhs3BTHIuqewZ3OfKGuZKzNhW_E4jw",
+        "kid": "Y8bKrcMW947XRkPl-LdWVdNvL20Iq5lMVAQ17BEj4d4",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://guam.mdcareclik.net/fhir#ReGMeHA-aOv_AcmDkzMr-71KiCcOU4F7ZO88CrWw6oY": {
+      "displayName": {
+        "en": "American Medical Center"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "use": "sig",
+        "crv": "P-256",
+        "kid": "ReGMeHA-aOv_AcmDkzMr-71KiCcOU4F7ZO88CrWw6oY",
+        "x": "5zXwOcLwudeFnj_BCa-oPpJxIn59qq0ZFGF-SNI7oxI",
+        "y": "8UaMZ4JBQ_q-wwxMtkQ7R7te9_cj6BsQr2M8Ix_2lZk",
         "alg": "ES256"
       },
       "credentialType": [
