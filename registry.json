@@ -3585,6 +3585,126 @@
       "validFromDT": "2021-11-12T13:40:38",
       "validUntilDT": "2023-11-12T13:40:37",
       "didDocument": "-----BEGIN CERTIFICATE-----\nMIIEDzCCAfegAwIBAgIUUfSAdqIwpkqwXjDhZ+0JdUPaICAwDQYJKoZIhvcNAQELBQAwSTELMAkGA1UEBhMCSVQxHzAdBgNVBAoMFk1pbmlzdGVybyBkZWxsYSBTYWx1dGUxGTAXBgNVBAMMEEl0YWx5IERHQyBDU0NBIDEwHhcNMjExMTEyMTM0MDM4WhcNMjMxMTEyMTM0MDM3WjBIMQswCQYDVQQGEwJJVDEfMB0GA1UECgwWTWluaXN0ZXJvIGRlbGxhIFNhbHV0ZTEYMBYGA1UEAwwPSXRhbHkgREdDIERTQyAyMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEhX3UYfApjRF+CwtZqZJga6pwzbvNic585TOlc0qa2DbRcer1H3FYNY1HErSbo3+tOLiYkPHbrbQdLTE05rymtKOBujCBtzAfBgNVHSMEGDAWgBS+VOVpXmeSQImXYEEAB/pLRVCw/zBlBgNVHR8EXjBcMFqgWKBWhlRsZGFwOi8vY2Fkcy5kZ2MuZ292Lml0L0NOPUl0YWx5JTIwREdDJTIwQ1NDQSUyMHhcMSxPPU1pbmlzdGVybyUyMGRlbGxhJTIwU2FsdXRlLEM9SVQwHQYDVR0OBBYEFNyqHmbZQ9GcMJjdpjpoJXEwFn/8MA4GA1UdDwEB/wQEAwIHgDANBgkqhkiG9w0BAQsFAAOCAgEART1krCdKJhBVe9N4ydQ2UGQlgjEL1OgHj1s0TNCQKL3kEwYcafkKstW0vtsFi1ZGKrfgWkXCcWwkl5/NxfRNoSACApZog4cgSYDlgxa2G7KAoXa7xLuN2ADMEK02zXY5tGnd7Sv6Jl2nMfuUXMirAotr1vA6QETSDmbQNJqyKciDOQkdjxL1mGKhDzeneYRxLeKkOVox/X0uPguRYT2NS7jr2U7S3Z48667Ow46YLAI6n7IZGodn7Wktz1aqFWPGoBhJ2Y5C/QvBjzWn/0WfLBX65cchOdkZoYvfJcnbWS7Z7N/G1V2/CNYNr09EHiZnsmdcsqBX/ywyIGdybCGbx3cDqXsOBfcjH5Jy8moe7QL3oEraUDUEk5JF7un17GcdB4pjOlB8e1AWEthMpa2UMUw/vox1TCUjZ3pZa4rYn+yhcBoA6dYgu8B2HXcNFAE2S35XXDT15C0LvYh858UvtWSLoRmwyrkbNr7ImtgVrdzOKhIEetbmKLdM7fB7kcsYWZ05LTD3VsA2A8AHCOZ2noI4f50pd+VF1FtOz8ogRrCvHz7TJ4T7Kg6aIq/K1zlu06LaJQj2s8f4mJeCYZBfYmm4uywO2PHI8Hcv5MwTrbQ27CuvBkayfIToNOrNLsI8qlcE20Vfei/rLFAGWQoF0xVoJ+boNIBtwn/NBJDtIb4=\n-----END CERTIFICATE-----"
+    },
+    "0NQWnxTv90c=": {
+      "displayName": {
+        "en": "Gov of New Zealand"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2021-11-04T00:41:14",
+      "validUntilDT": "2032-03-01T00:41:13",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIICmDCCAh6gAwIBAgIUN7QAlQwRtBkiAZZmQo6EuSzr2TkwCgYIKoZIzj0EAwIwZTELMAkGA1UEBhMCTloxIjAgBgNVBAoMGUdvdmVybm1lbnQgb2YgTmV3IFplYWxhbmQxGzAZBgNVBAsMEk1pbmlzdHJ5IG9mIEhlYWx0aDEVMBMGA1UEAwwMVmFjY2luZSBDU0NBMB4XDTIxMTEwNDAwNDExNFoXDTMyMDMwMTAwNDExM1owgZQxCzAJBgNVBAYTAk5aMSIwIAYDVQQKDBlHb3Zlcm5tZW50IG9mIE5ldyBaZWFsYW5kMRswGQYDVQQLDBJNaW5pc3RyeSBvZiBIZWFsdGgxFTATBgNVBAsMDFZhY2NpbmUgQ1NDQTEtMCsGA1UEAwwkVmFjY2luZSBEb2N1bWVudCBTaWduZXIgMjAyMTExMDIwMDA3MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAESDFA3IUS71aOIaAiVxG9QDby5hfTSqPSuHAagC8/vhKbIG6quGGAQjRcxbjxB2+KCt8RhSkBzTPpzX8D6iSpBKN8MHowHwYDVR0jBBgwFoAUBYexBS6L22zGjlutPHLVuaircxkwHQYDVR0OBBYEFMkTYUd+m7dTqQrgXROc796CHD2sMCsGA1UdEAQkMCKADzIwMjExMTA0MDA0MTE0WoEPMjAyMjAzMDQwMDQxMTRaMAsGA1UdDwQEAwIHgDAKBggqhkjOPQQDAgNoADBlAjAhZylOip2hsx2QTptQMSKUwjmA5MSWxJi01hCB2cUQWYWBLRP+RzxcVC2tAnUpGiACMQDoNr7Vs/ID/BJMMHlkj9WAfb1vbY1ePMZGtGh4aNCi9B90uZczIQctXmP4w/o6G0c=\n-----END CERTIFICATE-----"
+    },
+    "dy8HnMQYOrE=": {
+      "displayName": {
+        "en": "Gov of New Zealand"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2021-11-04T01:03:08",
+      "validUntilDT": "2032-03-01T01:03:07",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIICmDCCAh6gAwIBAgIUNe+sDjaZPIfOw8OIMwqniNZ1ABEwCgYIKoZIzj0EAwIwZTELMAkGA1UEBhMCTloxIjAgBgNVBAoMGUdvdmVybm1lbnQgb2YgTmV3IFplYWxhbmQxGzAZBgNVBAsMEk1pbmlzdHJ5IG9mIEhlYWx0aDEVMBMGA1UEAwwMVmFjY2luZSBDU0NBMB4XDTIxMTEwNDAxMDMwOFoXDTMyMDMwMTAxMDMwN1owgZQxCzAJBgNVBAYTAk5aMSIwIAYDVQQKDBlHb3Zlcm5tZW50IG9mIE5ldyBaZWFsYW5kMRswGQYDVQQLDBJNaW5pc3RyeSBvZiBIZWFsdGgxFTATBgNVBAsMDFZhY2NpbmUgQ1NDQTEtMCsGA1UEAwwkVmFjY2luZSBEb2N1bWVudCBTaWduZXIgMjAyMTExMDIwMDEwMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEQEqBzWkYP17/i2b+EPcLpiQvTKLxasVDjA3A7IvRt9RHjYFIQGpFQCR7ZJLD5XQNsjcFfHzxwVEITkb5M7fIyaN8MHowHwYDVR0jBBgwFoAUBYexBS6L22zGjlutPHLVuaircxkwHQYDVR0OBBYEFIrSwiSmYianLXQsxR6ZAFL5/ltIMCsGA1UdEAQkMCKADzIwMjExMTA0MDEwMzA4WoEPMjAyMjAzMDQwMTAzMDhaMAsGA1UdDwQEAwIHgDAKBggqhkjOPQQDAgNoADBlAjEA9UwmICswUwNiWRzvb4V+U0Z7qKebbIIldgtTp+nHmcme5HGjKc8UuT/yvuzzK4qoAjBvlH+kAQGZuXrSXduh+CtY20W+NEPrYV6bjDUdxQEzCxmOrsA1LWl2lHdIcLRSDdc=\n-----END CERTIFICATE-----"
+    },
+    "jIF6MH+OYkI=": {
+      "displayName": {
+        "en": "Gov of New Zealand"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2021-11-04T00:59:03",
+      "validUntilDT": "2032-03-01T00:59:02",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIIClzCCAh6gAwIBAgIUfn/tDIC04XNn08DedD/Mgv0Y7Q8wCgYIKoZIzj0EAwIwZTELMAkGA1UEBhMCTloxIjAgBgNVBAoMGUdvdmVybm1lbnQgb2YgTmV3IFplYWxhbmQxGzAZBgNVBAsMEk1pbmlzdHJ5IG9mIEhlYWx0aDEVMBMGA1UEAwwMVmFjY2luZSBDU0NBMB4XDTIxMTEwNDAwNTkwM1oXDTMyMDMwMTAwNTkwMlowgZQxCzAJBgNVBAYTAk5aMSIwIAYDVQQKDBlHb3Zlcm5tZW50IG9mIE5ldyBaZWFsYW5kMRswGQYDVQQLDBJNaW5pc3RyeSBvZiBIZWFsdGgxFTATBgNVBAsMDFZhY2NpbmUgQ1NDQTEtMCsGA1UEAwwkVmFjY2luZSBEb2N1bWVudCBTaWduZXIgMjAyMTExMDIwMDA5MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEn/wOHL0ulsMkJCwPvwhEPoPE2LiFf9MEsma3tYaPfANxLqX4K5e6Lk9F3tvg8OtBnVBI1amxen9cOlmSRXHg+6N8MHowHwYDVR0jBBgwFoAUBYexBS6L22zGjlutPHLVuaircxkwHQYDVR0OBBYEFAHaV5pGrS6VpJVmDC3vnQ5FbGlYMCsGA1UdEAQkMCKADzIwMjExMTA0MDA1OTAzWoEPMjAyMjAzMDQwMDU5MDNaMAsGA1UdDwQEAwIHgDAKBggqhkjOPQQDAgNnADBkAjAdOz+yESmxwxVmK9YQjs4MPYfcoCxU19xPeB90YL5mB+uDH3/Kf77UTnZehqtX/m8CMA+YOej3Ymvg3flZJH/+lQ5owd4lvU4PJTxwQS/D+JroiKvnIeG6O3WT9LvnRSKwEA==\n-----END CERTIFICATE-----"
+    },
+    "oMpN3FsJYsQ=": {
+      "displayName": {
+        "en": "Gov of New Zealand"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2021-11-04T00:54:26",
+      "validUntilDT": "2032-03-01T00:54:25",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIICmDCCAh6gAwIBAgIUapkq2mxmLiK29lTfgGNiKmLH/o0wCgYIKoZIzj0EAwIwZTELMAkGA1UEBhMCTloxIjAgBgNVBAoMGUdvdmVybm1lbnQgb2YgTmV3IFplYWxhbmQxGzAZBgNVBAsMEk1pbmlzdHJ5IG9mIEhlYWx0aDEVMBMGA1UEAwwMVmFjY2luZSBDU0NBMB4XDTIxMTEwNDAwNTQyNloXDTMyMDMwMTAwNTQyNVowgZQxCzAJBgNVBAYTAk5aMSIwIAYDVQQKDBlHb3Zlcm5tZW50IG9mIE5ldyBaZWFsYW5kMRswGQYDVQQLDBJNaW5pc3RyeSBvZiBIZWFsdGgxFTATBgNVBAsMDFZhY2NpbmUgQ1NDQTEtMCsGA1UEAwwkVmFjY2luZSBEb2N1bWVudCBTaWduZXIgMjAyMTExMDIwMDA4MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE+axE1mKfKiVwARulc2LnH6co1SoCrfqtL11PQqYh7TBRrdawgzPokpfjoFGDkMU0ZPg7cnwilW6LnYH+vkjVhKN8MHowHwYDVR0jBBgwFoAUBYexBS6L22zGjlutPHLVuaircxkwHQYDVR0OBBYEFGNFtRIN7owNYF3S4WS3IkmDxnqQMCsGA1UdEAQkMCKADzIwMjExMTA0MDA1NDI2WoEPMjAyMjAzMDQwMDU0MjZaMAsGA1UdDwQEAwIHgDAKBggqhkjOPQQDAgNoADBlAjEA/2L/gI6AFNxKty+dHwt8nPypmd0pJDWe5ePduw1gKQnOxqM62i95FHFMPxU6uJBjAjAmDdxcr1IdCU4RO5f6PY9AS3pdb3VAkifbZe5cu2963QvvCoyfWWFXwj/D3xsvTGk=\n-----END CERTIFICATE-----"
+    },
+    "aCU0KJl+gMg=": {
+      "displayName": {
+        "en": "Gov of Belgium"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2021-11-16T09:14:32",
+      "validUntilDT": "2023-11-16T09:14:32",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIICLTCCAdOgAwIBAgIIG+DS62eZmPswCgYIKoZIzj0EAwIwWTELMAkGA1UEBhMCQkUxGjAYBgNVBAoMEWVIZWFsdGggLSBCZWxnaXVtMS4wLAYDVQQDDCVCZWxnaXVtIENvdmlkMTkgQ291bnRyeSBTaWduaW5nIENBIDAxMB4XDTIxMTExNjA5MTQzMloXDTIzMTExNjA5MTQzMlowSjELMAkGA1UEBhMCQkUxGjAYBgNVBAoMEWVIZWFsdGggLSBCZWxnaXVtMR8wHQYDVQQDDBZCZWxnaXVtIENvdmlkMTkgRFNDIDAyMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEX79y3o+S4vY8UyqO1uzSAT6W7zULpaFWqe6MqPue8fVNOhQ1bwN/yKHKN64HkcJ+sGIpLtgaJb4iGr06NiAWfaOBkzCBkDAdBgNVHQ4EFgQUGQizN6eLdUb55YpiOuht4TeeiigwHwYDVR0jBBgwFoAUMc4oJrfby5Fk9eLZSMutpWhvX9UwPgYDVR0fBDcwNTAzoDGgL4YtaHR0cDovL2NlcnQtYXBwLmJlL3Jldm9rZWRMaXN0L2RnY19jc2NhMDEuY3JsMA4GA1UdDwEB/wQEAwIHgDAKBggqhkjOPQQDAgNIADBFAiBm+UkB5ZbZO7CqGiaA4J4Xj/LhFP61DZV9gY54U47S4gIhAPFP3U9ekHl9ecHOxL0oEZ0/4GdaIZ1E0wnBFvB98UPm\n-----END CERTIFICATE-----"
+    },
+    "YgBnrpZDGXk=": {
+      "displayName": {
+        "en": "Gov of Serbia"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2021-11-15T14:34:18",
+      "validUntilDT": "2023-11-15T14:34:18",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIIFKjCCAxKgAwIBAgIUBsFy8hwKgnDAZGz/bi/+8NsJbrswDQYJKoZIhvcNAQELBQAwgZQxCzAJBgNVBAYTAlJTMRAwDgYDVQQHEwdCZW9ncmFkMRgwFgYDVQRhEw9WQVRSUy0xMTAxNzc4ODYxRTBDBgNVBAoTPEthbmNlbGFyaWphIHphIGluZm9ybWFjaW9uZSB0ZWhub2xvZ2lqZSBpIGVsZWt0cm9uc2t1IHVwcmF2dTESMBAGA1UEAxMJUlMgTkJDU0NBMB4XDTIxMTExNTE0MzQxOFoXDTIzMTExNTE0MzQxOFowazEVMBMGA1UEAwwMUlMgUFJPRCBEU0MyMUUwQwYDVQQKDDxLYW5jZWxhcmlqYSB6YSBpbmZvcm1hY2lvbmUgdGVobm9sb2dpamUgaSBlbGVrdHJvbnNrdSB1cHJhdnUxCzAJBgNVBAYTAlJTMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtc0dmUPU8wLDfYTVnSXDxhCr4AHEG+GKSy13pMGI5Fj8IK1e9JVLrLoemtLnlaFV5WAPr6G8ialeG9TV9XnwfiiWzAaxLT28u8/8MG4jihRKw5cVAPC0mizABynleAzU+dOYkNFlmwEpt6M6+VXl39aild/WVqMnZ0I/k/Vg0tQe5lS7aBPBtb7WJaaOYhzDx2hcv0z7IrYSBmigWgl3jOO0TN+/1viQPtMbtbvC6gxXGDyQ8/HCwgt69HYNDHrBglFjLIvbelLuTsgoDoozIV+BUKIDal2vtAGvd1cDrN6YvqqiZRwqOn3gtv1oj/XmZUnl7aMtKisQ1MuqKVHmtQIDAQABo4GbMIGYMA4GA1UdDwEB/wQEAwIGwDAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFPHhcSjAsmKP7ijI10VI7Lc8dDTIMDgGA1UdHwQxMC8wLaAroCmGJ2h0dHBzOi8vY2xvdWQuZWlkLmdvdi5ycy9jcmwvbmJjc2NhLmNybDAdBgNVHQ4EFgQU5/vY+2xxURwDV2bNEeYIFGMWSLgwDQYJKoZIhvcNAQELBQADggIBAHQexmp5RK8OA8j/SKhwUpiUTSvgQg/2/UgdQ2v5x4lzo8N9cQ6fS5VxY5YK3CpJBNEz8i5qRmzsD0UozOvEeLbcum3L4hCoOPXWhsPMcRkaEEwYn5kDP4Evz7iqmqviHL74BBxx3zZ9WVfoq8SCbkawywrw2Hwtoeuo3XKOWDK0jsesewcEHWv9MfEXhKjZtxlS0v1lkCF/5AvSEUPIYz4FasPeCoX31JIizErdZZLXiy5FGKxxBW6LP7GUAQkouKDeLZLsV/5247rNADICYkrOyd2jtZY37BY6UobYNH7flofqbwTbXfvfT+xD9cb5uyPTWD18lukcQirJahE64Fsa2ZE/E6+SiFDRsLTazEItW0bVAECA2gQd8Gg2FesBMMlJbQFTGxXdU4FQCP31/SlIc9DJjo8KIEfwr+khMRUaD91wq1Nwfmf3NuB4qv3nX6rQI9bAoCNs0/eU1A8LqJ4ugKf0LUHpfMTk585lhSyHKeXX823Uu5cPnk05Z1zDVJ72VrH57qETto+4gJ1DK2iLcgJHWkUQqwiWHygWzDsVvFIv26CRSItK2JpV2gZM8sTYFAoqquAlzyAkvumdvwpg4aUWMyWHZV0W9X71YGM1To8ZPU1v4dIOB7ESjGwEluD35arlYn9IjuvQBbnO++/Cr/STq2n9DS/mG2XDkVi/\n-----END CERTIFICATE-----"
+    },
+    "ZqPYe26eEEk=": {
+      "displayName": {
+        "en": "Gov of Georgia"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2021-10-29T16:56:05",
+      "validUntilDT": "2023-10-29T16:56:04",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIIDLDCCAtKgAwIBAgIUVO20iQwJJtX9tVMEQrEQl/B+5XswCgYIKoZIzj0EAwIwgYMxHzAdBgNVBAMMFkRHQyBDb3VudHJ5IFNpZ25pbmcgQ0ExKjAoBgNVBAsMIVB1YmxpYyBTZXJ2aWNlIERldmVsb3BtZW50IEFnZW5jeTEnMCUGA1UECgweTWluaXN0cnkgb2YgSnVzdGljZSBvZiBHZW9yZ2lhMQswCQYDVQQGEwJHRTAeFw0yMTEwMjkxNjU2MDVaFw0yMzEwMjkxNjU2MDRaMIHVMRgwFgYDVQQDDA9ER0MgRFMgU2lnbmVyIDExLTArBgNVBAsMJExFUEwgSW5mb3JtYXRpb24gVGVjaG5vbG9naWVzIEFnZW5jeTF9MHsGA1UECgx0TWluaXN0cnkgb2YgSW50ZXJuYWxseSBEaXNwbGFjZWQgUGVyc29ucyBGcm9tIHRoZSBPY2N1cGllZCBUZXJyaXRvcmllcywgTGFib3VyLCBIZWFsdGggYW5kIFNvY2lhbCBBZmZhaXJzIG9mIEdlb3JnaWExCzAJBgNVBAYTAkdFMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEa5QqEDGwiaDJSMCLVHg6l9ScX3LI/9mzuzs6e+E0YBgeKTdQ5VV0IBCSIZkgjSb/Hfzghmi9rOa9aGuww7BU9aOBzzCBzDAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFGdNMng/by4nCNGrYeB79TXd3c2wMDAGA1UdJQQpMCcGCysGAQQBjjePZQEDBgsrBgEEAY43j2UBAQYLKwYBBAGON49lAQIwOgYDVR0fBDMwMTAvoC2gK4YpaHR0cDovL2NybC5jcmEuZ2UvZGdjY291bnRyeXNpZ25pbmdjYS5jcmwwHQYDVR0OBBYEFHtiZBY7D8iDDRpr5yECOpZ1cyfLMA4GA1UdDwEB/wQEAwIHgDAKBggqhkjOPQQDAgNIADBFAiBH/RuRLyOU640ZMdX0CDXC2/Hlv8tDsQN2Tjm2+fmbbAIhALY7w0RCZyu0JY1jmnBMKtzPr7mdqZGCR1oi7jC8RvXO\n-----END CERTIFICATE-----"
+    },
+    "p64sutu48UA=": {
+      "displayName": {
+        "en": "Gov of Moldova"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2021-10-26T17:31:01",
+      "validUntilDT": "2023-10-26T17:31:01",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIICljCCAjygAwIBAgIUfKVPCJ2DSOQlBmu5AcgWL+pt9wkwCgYIKoZIzj0EAwIwgYwxCzAJBgNVBAYTAk1EMRwwGgYDVQQIDBNSZXB1YmxpYyBvZiBNb2xkb3ZhMREwDwYDVQQHDAhDaGlzaW5hdTEOMAwGA1UECgwFU1RJU0MxDTALBgNVBAsMBENDQ1AxLTArBgNVBAMMJFJlcHVibGljIG9mIE1vbGRvdmEgTmF0aW9uYWwgQ1NDQSAwMTAeFw0yMTEwMjYxNzMxMDFaFw0yMzEwMjYxNzMxMDFaMIGAMQswCQYDVQQGEwJNRDEcMBoGA1UECAwTUmVwdWJsaWMgb2YgTW9sZG92YTERMA8GA1UEBwwIQ2hpc2luYXUxGzAZBgNVBAoMEk1pbmlzdHJ5IG9mIEhlYWx0aDEjMCEGA1UEAwwaUmVwdWJsaWMgb2YgTW9sZG92YSBEU0MgMDEwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAS6uJ3pXp6edoYxi7WHxDY8Unt4ySPsWIHMESJAyc1v9jMCPrSDpye9fTYAH4TjwejPhqY2WtqUpcvcK+NrEcYvo4GFMIGCMA4GA1UdDwEB/wQEAwIHgDAdBgNVHQ4EFgQUtk8/4i4hj2sDFnz+oTBPM3gsriUwHwYDVR0jBBgwFoAU5leuhgfUUggxBYNy0n+tKWe46lIwMAYDVR0lBCkwJwYLKwYBBAGON49lAQEGCysGAQQBjjePZQECBgsrBgEEAY43j2UBAzAKBggqhkjOPQQDAgNIADBFAiA0P/CM3hswqmbtlgRCGfsMs2DCmPGQwoqVJYoDFHyx/wIhAM2PdlwhGVVyeVugqUXabGMmLNwchyNqMNdABoH3eI9q\n-----END CERTIFICATE-----"
     }
   },
   "SmartHealthCards": {
@@ -11642,6 +11762,286 @@
         "x": "5zXwOcLwudeFnj_BCa-oPpJxIn59qq0ZFGF-SNI7oxI",
         "y": "8UaMZ4JBQ_q-wwxMtkQ7R7te9_cj6BsQr2M8Ix_2lZk",
         "alg": "ES256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://pmh-vmhaitst-01.pmh.org/FHIRPOC/api/epic/2021/Security/Open/EcKeys/32001/SHC#4xcOogqWypsAQejdwzGvDTISYNirwkJzV464Lp5zJhA": {
+      "displayName": {
+        "en": "Parkland Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "uzTWafi0zih23TbptBBZMSOgGtmqGK55OSNPkioKB8I",
+        "y": "2Ceu20h5_nHFjZ-SPFnYln-fmk5Qtb_u2u0NAc0jNTg",
+        "kid": "4xcOogqWypsAQejdwzGvDTISYNirwkJzV464Lp5zJhA",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epicarr.emc.org/EMC_FHIR_PRD/api/epic/2021/Security/Open/EcKeys/32001/SHC#791lJBb-aKqJrsxhnarJSN4bFYMjehczMc9S09Jtfps": {
+      "displayName": {
+        "en": "Eisenhower Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "6AFC5397QJJzwusaW-m6o6YjbBzmoEyHfSHHF3XCm_U",
+        "y": "gnye1JHRGGwNHoHXcGu0cMUKdxAFoTzgPlCs6r47hDg",
+        "kid": "791lJBb-aKqJrsxhnarJSN4bFYMjehczMc9S09Jtfps",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://scvhhsfhir.sccgov.org/interconnect-fhir/api/epic/2021/Security/Open/EcKeys/32001/SHC#BkWMnequnBGV8PfJ2kZElMxvak1NwIdJeMiwTgtVnbI": {
+      "displayName": {
+        "en": "County of Santa Clara Health System"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "71WU4mhSrNdwUOPn7aG7B2WbIgEl6J26d72sVqirLCQ",
+        "y": "X0Ynlrplz1tZXhttKryTD-ncj4WAEEByk7aKBL80zbk",
+        "kid": "BkWMnequnBGV8PfJ2kZElMxvak1NwIdJeMiwTgtVnbI",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://edhwebportal.hitchcock.org/FHIRproxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#z6FF4HeX1EdoV8suJV4RtcYq98-RGaqHyPIq2GBUqss": {
+      "displayName": {
+        "en": "Dartmouth-Hitchcock Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "EuKd1Oiiw1j0XY_zZ3vqs2hkqqpuM8C9IOUYXnYy5pU",
+        "y": "2mDGjDzJGVWNBkFn9IAXSgjv8EXj4TYlvtYFKo5wC8E",
+        "kid": "z6FF4HeX1EdoV8suJV4RtcYq98-RGaqHyPIq2GBUqss",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epicsoapproxyprd.mountsinai.org/FHIR-PRD/api/epic/2021/Security/Open/EcKeys/32001/SHC#Xj10Ipktlk0ewRMVfYVv_VRNaBnossIv4oSRBesySKw": {
+      "displayName": {
+        "en": "Mount Sinai Health System"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "b61U-aKNrOy_sdu9JTzmPgkOmrM1UgPK4NHYRgxdJ-M",
+        "y": "F-zkWgctjyR95VGRIUPhrbmnBtyViq8Z-MBhfjbXUcc",
+        "kid": "Xj10Ipktlk0ewRMVfYVv_VRNaBnossIv4oSRBesySKw",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://fhir.myeverettclinic.com/fhir/api/epic/2021/Security/Open/EcKeys/32001/SHC#vyUQoeFh-ln_mkfsVzfFDpxeRHEFggmM-uudcb6iq_k": {
+      "displayName": {
+        "en": "Optum WA"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "8V9Zyc8XXzhOflLCigh4sURMyfsC3QY2YdD0_9vsCbM",
+        "y": "LUVJcAy6xoYckiE4TWl_QZYjGvSxiR6VpCdyLM47d20",
+        "kid": "vyUQoeFh-ln_mkfsVzfFDpxeRHEFggmM-uudcb6iq_k",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://fhirprd.reliantmedicalgroup.org/FHIRPRD/api/epic/2021/Security/Open/EcKeys/32001/SHC#xyIOe0nvr6-xRt_pVRmwNWgNYfvXlQbsj3453sVY5fc": {
+      "displayName": {
+        "en": "Reliant Medical Group"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "HrcPOPCfHF967_LhQa02jtqZTEho1N9yAap1iBNhF8E",
+        "y": "NYDqPYEuvNkmUmTRD4NK-yPoslc2Jug3KObJ_BMbh-0",
+        "kid": "xyIOe0nvr6-xRt_pVRmwNWgNYfvXlQbsj3453sVY5fc",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://webproxy.piedmont.org/ARR-FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC#sUi3qStM8I1RnCJ474IHuVJTS37R0LH1OCFitmjID8c": {
+      "displayName": {
+        "en": "Piedmont Healthcare/Affiliates and Shepherd Center"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "uK0SqAoqM5zPkxvU2_7BgPafU_c3gJLjzU4HxjVXJSQ",
+        "y": "J2ikZtqNO4f_iUNBfMkZr9u6TTz49AQoINyo-1RTY1U",
+        "kid": "sUi3qStM8I1RnCJ474IHuVJTS37R0LH1OCFitmjID8c",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://proxy.christushealth.org/FHIRproxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#Blu1I2q57VDnWIgc7-X7Y1md8jrFqIvhJiQ_xvQydfA": {
+      "displayName": {
+        "en": "CHRISTUS Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "bGkiSAXk7ige54g4_ToXtvP9xv4gRnFamocnD7bLhn0",
+        "y": "bi0n5JsHqOLFMaiRTZcFpBrD3U7cWGGrgQ-YAaUTbeo",
+        "kid": "Blu1I2q57VDnWIgc7-X7Y1md8jrFqIvhJiQ_xvQydfA",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://fhir.kansashealthsystem.com/interconnect-PRD_FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC#2TDcCQ1SKlwHt2abGxrB5vKjIfCt8CVOogI4YbVf59U": {
+      "displayName": {
+        "en": "University of Kansas"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "EBpbbRra06Nc4_eUoNJTd_RuQjy_HzWgA59ZB-Mi35U",
+        "y": "mAV_jZkb07Y9LAV30AxXPMKKOzEW6PujiBs1zJ8LshY",
+        "kid": "2TDcCQ1SKlwHt2abGxrB5vKjIfCt8CVOogI4YbVf59U",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epicrpx.shannonhealth.org/FHIR_ARR/api/epic/2021/Security/Open/EcKeys/32001/SHC#olVoBiDPbga16QNVEO914-DbInqPozljsdlSS523898": {
+      "displayName": {
+        "en": "Shannon Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "kNlR4zhxdqeKNn8l3fy-uMhqEo1f8a3xysRyOOTmF-U",
+        "y": "lVXU0elu7s9ojOkcOwaeAq-6v-VCPXgMkrx6T7NYBIY",
+        "kid": "olVoBiDPbga16QNVEO914-DbInqPozljsdlSS523898",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://fhir.epic.medical.washington.edu/FHIR-Proxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#RjQ80uYgDxqUBGoa9Tj_FL0G1iBEfV_EqpAzPghtIA0": {
+      "displayName": {
+        "en": "UW Medicine"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "RgAzloIoi4rgoiaWCMDqLieP6ONG3mZzVc51GkXcKW8",
+        "y": "WdMQb_Iigz02tPVGDanpUzzxfCIpAuCysVC6Pvs8Gbk",
+        "kid": "RjQ80uYgDxqUBGoa9Tj_FL0G1iBEfV_EqpAzPghtIA0",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epicproxy.et0943.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#t_bJ0Zuf4bCoyq1qR80RWnN5B95LAG2ITL08ugJ9dOg": {
+      "displayName": {
+        "en": "Yakima Valley Farm Workers Clinic"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "KpKAQ1QAzBsioUjcAd0zZaR5FMrFtmW_ZCrleT6k9kc",
+        "y": "5VPwDfveBTXcIAPZl0RXiWL_pn6VzyPNO2X08ccV7iE",
+        "kid": "t_bJ0Zuf4bCoyq1qR80RWnN5B95LAG2ITL08ugJ9dOg",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://pvc.gov.nu.ca/pvc#MXH6EAfEDZ0JH46r3j5axkCTo-QdreVtEXE-dbvydUU": {
+      "displayName": {
+        "en": "Department of Health, Government of Nunavut"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "MXH6EAfEDZ0JH46r3j5axkCTo-QdreVtEXE-dbvydUU",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "TW2mjeWs2JRBDblltiq2W00M_Q3gXnCl5FlLKIKV3oQ",
+        "y": "sbraf7XcT2iH7uLUtH_grf5eVF7LltpVb9z8E31WGj4"
       },
       "credentialType": [
         "https://smarthealth.cards#immunization"
