@@ -3735,6 +3735,21 @@
       "validFromDT": "2021-11-19T10:29:40",
       "validUntilDT": "2023-11-19T10:29:40",
       "didDocument": "-----BEGIN CERTIFICATE-----\nMIIE3zCCApOgAwIBAgIIRuunuryIv2MwQQYJKoZIhvcNAQEKMDSgDzANBglghkgBZQMEAgEFAKEcMBoGCSqGSIb3DQEBCDANBglghkgBZQMEAgEFAKIDAgEgMFUxCzAJBgNVBAYTAkxVMR0wGwYDVQQKDBRJTkNFUlQgcHVibGljIGFnZW5jeTEnMCUGA1UEAwweR3JhbmQgRHVjaHkgb2YgTHV4ZW1ib3VyZyBDU0NBMB4XDTIxMTExOTEwMjk0MFoXDTIzMTExOTEwMjk0MFowVzELMAkGA1UEBhMCTFUxGzAZBgNVBAoMEk1pbmlzdHJ5IG9mIEhlYWx0aDErMCkGA1UEAwwiR3JhbmQgRHVjaHkgb2YgTHV4ZW1ib3VyZyBEUyBEQ0MgODBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABPrx5D5TmT/gwD+ZMOY+Joss67U3OcDObzZHDalsuHvGB3+GUdWxKUI0UvpLJwin2xA3/NqdEUc3bW0Anb0nbBKjggESMIIBDjAdBgNVHQ4EFgQU+Wj2rLs9D5DTRelKDWzq59tIm9YwHwYDVR0jBBgwFoAUGs9Hx5jlNUyPn1WrqJr548c8nXswKwYDVR0SBCQwIoEOY3NjYUBpbmNlcnQubHWkEDAOMQwwCgYDVQQHDANMVVgwKwYDVR0QBCQwIoAPMjAyMTExMTkxMDI5NDBagQ8yMDIyMDUxODEwMjk0MFowNQYDVR0fBC4wLDAqoCigJoYkaHR0cDovL3JlcG9zaXRvcnkuaW5jZXJ0Lmx1L2NzY2EuY3JsMA4GA1UdDwEB/wQEAwIHgDArBgNVHREEJDAigQ5jc2NhQGluY2VydC5sdaQQMA4xDDAKBgNVBAcMA0xVWDBBBgkqhkiG9w0BAQowNKAPMA0GCWCGSAFlAwQCAQUAoRwwGgYJKoZIhvcNAQEIMA0GCWCGSAFlAwQCAQUAogMCASADggIBAE+CfZcxHrwDJmXImxn7vMOlRw/Bvy2wv+SIWHE5HOMvHa0eAbbADPz87HhyoMMnC9vDKfeEjaa8qyiVTtAcAT0yBtJJaLITEMm+uGkIHFcA3LkzLVubqFhDGUs3bqRRqvBY0+tqdLKRvWLn80XC0KpHrtppUAhwhDYZ9LKcAeDC9Hz2Zh44J8MYyYlcrGrzNvoEWE80+IHfOXkztop0P1ruwa6zpyrElbJ2AJ/Cfd39MaYxxpB2lLRXKjm1IkqjjYmolKphoF66+NLKdz6Iirtdt3i47G34ASHvu77/GHSrSsb0qsxlcQI7hjhB0jU4WIQOPKBPpdiBH5lqQ78GLe2oFsNv0FFEn3sbnmcZOLaaDzUlgcP+TqAQq0mjXZIXmTzvEc9Oc7sO7LeZWH05b3kQdywL6xa0US9Q+fpz3olPi1DAos0hC2I5Th1veQqUQ/+7EVHWaicX3W/S/+TUMHBixNr8CA3kioFGu16fDUNdyuKlrmnitpjeiELG2Dn9dkqpKDDVHPy9NLPLBY2D4m+GFxfuficry7G499rDyEkeAWjmG5xzwIgzx4zSdGVDsmBLmNNkhIoBWpnjB5+7ff+lCj93yLMfGfU3+kuWjYHd6XiymcqQSjBwzR6pzb0k2q/AsRn6ovWKf0e2ZE/yVD9LLUmUJOXoVdIRB1rizuk3\n-----END CERTIFICATE-----"
+    },
+    "AcOmDWpm7kI=": {
+      "displayName": {
+        "en": "Gov of Georgia"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2021-10-29T17:08:08",
+      "validUntilDT": "2023-10-29T17:08:07",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIIDLTCCAtKgAwIBAgIUbq8e2Rnwzdt8bImI5KhdT7wvIZIwCgYIKoZIzj0EAwIwgYMxHzAdBgNVBAMMFkRHQyBDb3VudHJ5IFNpZ25pbmcgQ0ExKjAoBgNVBAsMIVB1YmxpYyBTZXJ2aWNlIERldmVsb3BtZW50IEFnZW5jeTEnMCUGA1UECgweTWluaXN0cnkgb2YgSnVzdGljZSBvZiBHZW9yZ2lhMQswCQYDVQQGEwJHRTAeFw0yMTEwMjkxNzA4MDhaFw0yMzEwMjkxNzA4MDdaMIHVMRgwFgYDVQQDDA9ER0MgRFMgU2lnbmVyIDIxLTArBgNVBAsMJExFUEwgSW5mb3JtYXRpb24gVGVjaG5vbG9naWVzIEFnZW5jeTF9MHsGA1UECgx0TWluaXN0cnkgb2YgSW50ZXJuYWxseSBEaXNwbGFjZWQgUGVyc29ucyBGcm9tIHRoZSBPY2N1cGllZCBUZXJyaXRvcmllcywgTGFib3VyLCBIZWFsdGggYW5kIFNvY2lhbCBBZmZhaXJzIG9mIEdlb3JnaWExCzAJBgNVBAYTAkdFMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE0OUh2s00z3fKc2NTrYN+8SQERWvy3gRdGsmjrGMZQ9nZPT3bYLYDuyuhpYfQ8CSOuU2bScmWN9xthX3T6V1T8qOBzzCBzDAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFGdNMng/by4nCNGrYeB79TXd3c2wMDAGA1UdJQQpMCcGCysGAQQBjjePZQEDBgsrBgEEAY43j2UBAQYLKwYBBAGON49lAQIwOgYDVR0fBDMwMTAvoC2gK4YpaHR0cDovL2NybC5jcmEuZ2UvZGdjY291bnRyeXNpZ25pbmdjYS5jcmwwHQYDVR0OBBYEFBlRrQE2MFW1c+X7ZPuq50qEp6YDMA4GA1UdDwEB/wQEAwIHgDAKBggqhkjOPQQDAgNJADBGAiEAiDjXwDLMCbYtUOhS3p6HIN1aZdJg2x+q7QlFldqYoBkCIQDsv+uGlrWi8ZAjn1QsyqsU6HKc3a2oD+bTsg0UA/ZboQ==\n-----END CERTIFICATE-----"
     }
   },
   "SmartHealthCards": {
@@ -12452,6 +12467,26 @@
         "crv": "P-256",
         "x": "5vlkZqxjyld5h8McxU7PgOKGv1ReS3cQ6XUg-pORR3k",
         "y": "ebHsDHNw0LBOlfkSaPNwSLEOQxki6S-g5T2gLU3myHw"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://covidrecords.alberta.ca/smarthealth/issuer#DGhnun9vwmQ3VFGf0-pnMwGDMEPF_Nfs3HW48EQQEEQ": {
+      "displayName": {
+        "en": "Government of Alberta"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "DGhnun9vwmQ3VFGf0-pnMwGDMEPF_Nfs3HW48EQQEEQ",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "YJ2ItVnOAA2beLzyK2gvujhthKO7mJfmxEo6kL_Wl54",
+        "y": "0Zb1F5w3nlP6J3MtxGV_uxeMLGYGzDOR43Ws5MBg8u4"
       },
       "credentialType": [
         "https://smarthealth.cards#immunization"
