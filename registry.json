@@ -12491,6 +12491,246 @@
       "credentialType": [
         "https://smarthealth.cards#immunization"
       ]
+    },
+    "https://eprescribing.accesscommunityhealth.net/FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC#ah2leYbOLup_OAJl8xbIMfyNSO6CXN_FLgVhlCQuJUU": {
+      "displayName": {
+        "en": "Access Community Health Network"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "fSxtxhLu0x-NdR_CPiDs8REMmGP9uu-bAqOcA5QrxMw",
+        "y": "gG0wCTPgXWZXjaQ80epw6W2VaujTpho50xEg2xzQIQY",
+        "kid": "ah2leYbOLup_OAJl8xbIMfyNSO6CXN_FLgVhlCQuJUU",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epicproxy.lghealth.org/fhirproxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#2bzOyga7BXGGfAQgcR2zyBckp7S_uezwgan57EwQN80": {
+      "displayName": {
+        "en": "Lancaster General Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "wV2p41Iln-a7RpwZUC003NMwi9SzlmGGYMfp6eDjDYo",
+        "y": "5gyAmcdylYhmC8g-SDIung6ng3RIsWFjzqssFpA3UZU",
+        "kid": "2bzOyga7BXGGfAQgcR2zyBckp7S_uezwgan57EwQN80",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://interconapps.uchospitals.edu/PRD-FHIR-Proxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#JQlaeWurhA-i-75kRqPSBC6_qjnbeyOjwRxGkAIFNZU": {
+      "displayName": {
+        "en": "University of Chicago Medical Center"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "Potfj-lX6xKYV-cMwaPqiQpFZMvocxt4PF9CUPK9bRk",
+        "y": "UBO1H9kmQGtwxuaQ7z2octCAzjhkLCV0knWytqubtqY",
+        "kid": "JQlaeWurhA-i-75kRqPSBC6_qjnbeyOjwRxGkAIFNZU",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://soap.crmcwy.org/fhirproxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#BGitkgIyu9vcDNH9Kv_ojsN6ZzkRr7oG7PJ_TjWEuvY": {
+      "displayName": {
+        "en": "Cheyenne Regional Medical Center"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "2FHDJIZowkYRSilv243altDTVjkxfP5F7l4kfMyRMSA",
+        "y": "lRXMslfxqHgGdchKGWHo2YQ1oIXlR_2fj8R2J76Y7jQ",
+        "kid": "BGitkgIyu9vcDNH9Kv_ojsN6ZzkRr7oG7PJ_TjWEuvY",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://myepicapps.uihealthcare.org/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#Y6mhj3wgC0EHH2aIx32rN3sgr2g4KWqnm9bceMWjiHg": {
+      "displayName": {
+        "en": "University of Iowa and our Community Connect Hospitals and Clinics: Cass Health, ISH, JCHC, MMC, VBCH and WMC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "cEBDWYfhbNZEoCkHyb60FEGpTkqX-LLYyjMdnRQFvXw",
+        "y": "XiUkDme8X12re6N0DvX7nC5iQUMc4bHjcq4hxq-1w3o",
+        "kid": "Y6mhj3wgC0EHH2aIx32rN3sgr2g4KWqnm9bceMWjiHg",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://esoap.mihs.org/FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC#_7jjY4Wk5fRw0yJ5AAJ7UebRHeENXjmAP_gq4_JEOWY": {
+      "displayName": {
+        "en": "Valleywise Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "qhc9POCFN6ctZU-3oHbSyDf20mF-UiJerGsKX4WUUnY",
+        "y": "pnqMrN4YXDjtfWGbQXjr4EvH_5e2bjoqhhbw_nbTPts",
+        "kid": "_7jjY4Wk5fRw0yJ5AAJ7UebRHeENXjmAP_gq4_JEOWY",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epic-fhir.mercy.net/PRDFHIRSTL/api/epic/2021/Security/Open/EcKeys/32001/SHC#K6BDDbIcqKk3-ffsDHYYaOz7F_CklzINPFTHGu6buvU": {
+      "displayName": {
+        "en": "Mercy"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "K6PTT9PWaZjHR3zrJWyKLZAvZzFruaTFJ_fjFxk8WIw",
+        "y": "CEqFqwM5JcrQsTP-nZGwvQl71lJqRdvopYNgkrvxcck",
+        "kid": "K6BDDbIcqKk3-ffsDHYYaOz7F_CklzINPFTHGu6buvU",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://fhirprod.musc.edu/fhirprod/api/epic/2021/Security/Open/EcKeys/32001/SHC#YazFcWozjZcFokPsB7Sc4u1Xinv9-1yD8nrLMRLo0PA": {
+      "displayName": {
+        "en": "Medical University of South Carolina"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "WFEW4sVZvAQJhJhYzXGV5ahh0HGGkVZ-m3h_WpXohTg",
+        "y": "4I62KsCuaJFpyW7niAWHDqMzNJiD1Qgthil03olckyE",
+        "kid": "YazFcWozjZcFokPsB7Sc4u1Xinv9-1yD8nrLMRLo0PA",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epicproxy.et1077.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#3a9rtgYUQe5RXpv2oM_DkXnd-h_1ZWfPkRrpcvtIY4A": {
+      "displayName": {
+        "en": "Olmsted Medical Center"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "_KDbjT0KqHSaUC3Ux9ighkXCmBd3H4f9r64zCULPZG4",
+        "y": "D3elgrInOoV6n1BUDsPzp-ux7Ho4AbmLER8u5O6WvCY",
+        "kid": "3a9rtgYUQe5RXpv2oM_DkXnd-h_1ZWfPkRrpcvtIY4A",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epicproxy.rush.edu/fhir-prd/api/epic/2021/Security/Open/EcKeys/32001/SHC#eWghKU5rTe2NuQ10H6LQzVLfwW5exhVgP795XCIv_vM": {
+      "displayName": {
+        "en": "Rush University Medical Center"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "cbtcyqPje7i7Pj9BH4WJuGBC42J-1iEUUatNHK36jqg",
+        "y": "gJInYhXAl-dPkyo_vq9aksfMP473-bAkW53A52EDnsk",
+        "kid": "eWghKU5rTe2NuQ10H6LQzVLfwW5exhVgP795XCIv_vM",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://soapproxy.atlantichealth.org/FHIRPrd/api/epic/2021/Security/Open/EcKeys/32001/SHC#nrVWTxXZnpk7WWh0roDnaBgRsE-HzhOkGUUlvOK2Uro": {
+      "displayName": {
+        "en": "Atlantic Health System"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "_W-NydWub2b6bjN0pj_lHo89E-lb4vRBUzXcyYvoDAQ",
+        "y": "SgLKsx3Kbwn5ibNv9QIyUQI-nD5wNu8uIeCnu2qneYw",
+        "kid": "nrVWTxXZnpk7WWh0roDnaBgRsE-HzhOkGUUlvOK2Uro",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epicproxy.et1197.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#HpcUqTHBGAPiIGHhmUrI3lT9LIrhPoPvhQ8XKgPv9gs": {
+      "displayName": {
+        "en": "Hoag Clinic"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "n8whtgCbtxsDfl_xHRRpN_pWUcr-32HYyLmaw4coNKE",
+        "y": "pEj6LuQp0bvq1s2eSIIeVnhZP8aoptfqOz9pvfnv4VU",
+        "kid": "HpcUqTHBGAPiIGHhmUrI3lT9LIrhPoPvhQ8XKgPv9gs",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
     }
   }
 }
