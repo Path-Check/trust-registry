@@ -12866,6 +12866,111 @@
       "credentialType": [
         "https://smarthealth.cards#immunization"
       ]
+    },
+    "https://health.ri.gov/sh.cards/production#4miDO1rSeIyIF8xRD_oJHpy-6oDzh8plSSmTNeDDBSg": {
+      "displayName": {
+        "en": "The State of Rhode Island"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "4miDO1rSeIyIF8xRD_oJHpy-6oDzh8plSSmTNeDDBSg",
+        "use": "sig",
+        "alg": "ES256",
+        "x5c": [
+          "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"
+        ],
+        "crv": "P-256",
+        "x": "usqMGTXILwVYxrxIT5yLv7wQ371p-367uQiDZzYOwXc",
+        "y": "Ew-er8BHFMXmlaadweyV55oH9wdHKbzFP0MRSM5FgdM"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epicproxy.institute.org/fhir/api/epic/2021/Security/Open/EcKeys/32001/SHC#fN7bQ849kXe37OvMTtUwstk81hQ0w1wK4cFN6uCpGL4": {
+      "displayName": {
+        "en": "The Institute for Family Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "CNEQrOV59SOu8oMJahLMtFS4S4uptQfGo5v3Vx_Fs90",
+        "y": "zdb62GCuiZU9CqjXnNWjNJrI-Os2RuW7JBhN6vQnOl4",
+        "kid": "fN7bQ849kXe37OvMTtUwstk81hQ0w1wK4cFN6uCpGL4",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epicproxy.et1168.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#Jf2obES6YUBFtvblB8o9kf6vC6siQOaCZzUvhEuDi1Q": {
+      "displayName": {
+        "en": "Licking Memorial Health Systems"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "g9aaKhPHj_A2OGzov7J7XKB5iM-dP2OYO9Qw4DbzKoc",
+        "y": "lA0xEWDiOK3qWibTUFVA4I0JMvnML7xHq6B0EjzF5Lk",
+        "kid": "Jf2obES6YUBFtvblB8o9kf6vC6siQOaCZzUvhEuDi1Q",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epicproxypda.nychhc.org/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#6AGhASNoHIA9f9HBvUxlBcyCtYiMxo3yRQbmMhGPO-k": {
+      "displayName": {
+        "en": "New York City Health and Hospitals"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "j1iq5XozQVgVAUaOg4gB7R-H8PRHRbAlJFD45bMFjtM",
+        "y": "rF8vLgZdOj5_O8YEwu18uk8iKom-KCIszAt8LG2Pgh0",
+        "kid": "6AGhASNoHIA9f9HBvUxlBcyCtYiMxo3yRQbmMhGPO-k",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epicproxy.et1146.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#iFj_jiA-Mw_Ixy-cPuVOZum56plmiba--2Zxme8-2Fg": {
+      "displayName": {
+        "en": "Salinas Valley Memorial Healthcare System"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "XSFxfXof849dsbBL8ER1PqQnaLmWtbAYnxBo5r-pkKk",
+        "y": "9q9LerIl97--cHnkERrbo22akMrZah3P7S7GxVhFttk",
+        "kid": "iFj_jiA-Mw_Ixy-cPuVOZum56plmiba--2Zxme8-2Fg",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
     }
   }
 }
