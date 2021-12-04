@@ -13021,6 +13021,126 @@
       "credentialType": [
         "https://smarthealth.cards#immunization"
       ]
+    },
+    "https://myvaxrecord.idph.illinois.gov/creds/v1#YRcPQZzXY1YroL_rOcluMVdtPizd_T3jHOGLKzGln9g": {
+      "displayName": {
+        "en": "Illinois Department of Public Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "YRcPQZzXY1YroL_rOcluMVdtPizd_T3jHOGLKzGln9g",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "H3eThfbY1vVdOyrIClSar49M6A__YrIRGITeHNicYr8",
+        "y": "DFr9ygAGOt_65qWUgoCYPqlUmszpWp80U4foN7Skx3I"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://arr.mysrhs.com/FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC#0PNSpYFAFnDHRb_G4FD8g5opxY0VwhgbOovYMkldhgg": {
+      "displayName": {
+        "en": "Singing River Health System"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "rqTfQHbTP8OrceqVcrjjU5epIwZJxBkhPx3eZRiyp4c",
+        "y": "-EYGTjtOf5o-yRkChxziQSauPOg25Q4gvV-bU9B7s2I",
+        "kid": "0PNSpYFAFnDHRb_G4FD8g5opxY0VwhgbOovYMkldhgg",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epicproxy.connecticutchildrens.org/FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC#kHmORnHhng11wAxRDSIIa_O9EdlHmVpNoRPXG2kjgvU": {
+      "displayName": {
+        "en": "Connecticut Children’s"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "D6tiRoKrIxHlcIb4dKALd2-hBWPy8GprKs9LP7eHfCY",
+        "y": "oG8mlENSqZ2tRX_5tQdOobfD87EQzN4y0Egf1DwKhAg",
+        "kid": "kHmORnHhng11wAxRDSIIa_O9EdlHmVpNoRPXG2kjgvU",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://arr01.service.vumc.org/FHIR-PRD/api/epic/2021/Security/Open/EcKeys/32001/SHC#uUShgSbfSpPTP-_oyS83Pb43rjqzwKHkHOR-u_Fnasg": {
+      "displayName": {
+        "en": "Vanderbilt University Medical Center"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "8LX8pgSJVRnfGoOs6vlthCr2921RgBO2FogRHFnHV3A",
+        "y": "iaBpMULJDe29KPFD8xvcGEDhx7kYSGfNdYvohesBe2w",
+        "kid": "uUShgSbfSpPTP-_oyS83Pb43rjqzwKHkHOR-u_Fnasg",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://fhir.conemaugh.org/arr-fhir-prd/api/epic/2021/Security/Open/EcKeys/32001/SHC#Fu4hKB_nRoOlYLgKtRn6TbIFayByWMiK6nhMMpz5SUw": {
+      "displayName": {
+        "en": "Conemaugh"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "PWxX8J8JDgYzFQ-hB4s6MqKAH53A7kjodgxUY97mWVc",
+        "y": "zBEwH-vfg1t1lnUmqqugcdsiPUbDyI_RjMSFXyyachU",
+        "kid": "Fu4hKB_nRoOlYLgKtRn6TbIFayByWMiK6nhMMpz5SUw",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://ocsoapprd.nebraskamed.com/FHIR-PRD/api/epic/2021/Security/Open/EcKeys/32001/SHC#eRkkeRzQyu2hSe8BlIWd_7dSWJh4BSnvlfXC5wda4hI": {
+      "displayName": {
+        "en": "Nebraska Medicine"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "Q28mYoW5ulWUlUp33RDzo5bNA0LvgA08g0jkGR05Rp0",
+        "y": "WmyZCciXkXqHKq44rC168iqFnGfmXa-ulHJTcStK6m0",
+        "kid": "eRkkeRzQyu2hSe8BlIWd_7dSWJh4BSnvlfXC5wda4hI",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
     }
   }
 }
