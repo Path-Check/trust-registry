@@ -3801,7 +3801,7 @@
         "en": "Gov of Austria"
       },
       "entityType": "issuer",
-      "status": "current",
+      "status": "terminated",
       "credentialType": [
         "t",
         "v",
@@ -3816,7 +3816,7 @@
         "en": "Gov of Austria"
       },
       "entityType": "issuer",
-      "status": "current",
+      "status": "terminated",
       "credentialType": [
         "t",
         "v",
@@ -3855,6 +3855,21 @@
       "validFromDT": "2021-12-01T13:09:24",
       "validUntilDT": "2024-05-29T13:09:24",
       "didDocument": "-----BEGIN CERTIFICATE-----\nMIIEpTCCAl2gAwIBAgIBHzA9BgkqhkiG9w0BAQowMKANMAsGCWCGSAFlAwQCAaEaMBgGCSqGSIb3DQEBCDALBglghkgBZQMEAgGiAwIBIDBwMQswCQYDVQQGEwJFRTEQMA4GA1UECgwHRXN0b25pYTEmMCQGA1UECwwdUG9saWNlIGFuZCBCb3JkZXIgR3VhcmQgQm9hcmQxEDAOBgNVBAUTBzAxLTIwMjAxFTATBgNVBAMMDENTQ0FfRXN0b25pYTAeFw0yMTEyMDExMzA5MjRaFw0yNDA1MjkxMzA5MjRaMG0xCzAJBgNVBAYTAkVFMRAwDgYDVQQKEwdFc3RvbmlhMTYwNAYDVQQLEy1IZWFsdGggYW5kIFdlbGZhcmUgSW5mb3JtYXRpb24gU3lzdGVtcyBDZW50cmUxFDASBgNVBAMWCzAzLTIwMjFfRENDMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEV46zJLij0cY8emOFjsMFj8cAlEKPe2YMoVAlSG4c4FQ6TlvsXAcxQjJaJu6+GHNyzryOerA6BGialxIpGqlT3aOBtzCBtDAdBgNVHQ4EFgQUr7VLxBV8BgOTJep6K4MHoT+YI0kwKwYDVR0QBCQwIoAPMjAyMTEyMDExMzA5MjRagQ8yMDIyMDUzMDEzMDkyNFowDgYDVR0PAQH/BAQDAgeAMDUGA1UdHwQuMCwwKqAooCaGJGh0dHBzOi8vd3d3LnBraS5wb2xpdHNlaS5lZS9jc2NhLmNybDAfBgNVHSMEGDAWgBRVq9JvhX7uQOBhSt+YPiu2k2xVvDA9BgkqhkiG9w0BAQowMKANMAsGCWCGSAFlAwQCAaEaMBgGCSqGSIb3DQEBCDALBglghkgBZQMEAgGiAwIBIAOCAgEAQnG7HnxAOoOME9n+R/FXejx8ebGZf7Euvkdstp7nfW8MaxY7jyVoL1Qm2kk6OSyDVbojtiljbynrpw040cqY5zHfuRMpKCWUdoYsyfpKKmcT2lFMaSuqNyB9muQPGsjjKFsKMbkpf7/TOCOwUbtpScHOvFzvjhJTdFtQQYcmaoL6y3m2SQERqn0rT8phiDFE/kJMk70soL1Wk3Dz/8TkAH9bN1CTyc9OOunfmKJquFPakHyrH8M2Z4dJmQICZ5ZAOrrgzlIH+kSblceMXEiA2Js2+acdvqHzqgQbcv32T8OfpTKrBnz05V2w+tzTnpHUcaBteLhr+io1zyWhnQTFFhXUpSbhpTInHzzwt+VL49vzESo7PhPg1sWFVrTav12pN62Iwlo4bZkkh7+xlky8S6PtFQx0hSm3Yu0q2yXTm5wCOdQpYfuM0+bdEEIXdI5x24xqWH8Ew12h00jaeTC8T3eRhYWNcY3exyasw1IGe8hlW2MpnrPmbvBiJrCDPylPT8adCLAVYhBL7zMRMauliERDY52q7tk6J/Sg4BBbkWEdXI/rhy3R+RvtrC7t0JyGIZx96rfIKwfISUQ+zfAc7I/Cd5busaTkjlZnP4LEdNQmOw6uDDhYYEKfnUScbfJoVBTqF7WEv7ywD8x+DYc2QDnkjjvYhzJ2I/DXzPpi/S4=\n-----END CERTIFICATE-----"
+    },
+    "gNhlvKFJfEE=": {
+      "displayName": {
+        "en": "Gov of Austria"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2021-12-06T17:21:50",
+      "validUntilDT": "2023-12-06T17:21:50",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIIB8TCCAZagAwIBAgIKAX2QxBhV+KVNUzAKBggqhkjOPQQDAjBEMQswCQYDVQQGEwJBVDEPMA0GA1UECgwGQk1TR1BLMQwwCgYDVQQFEwMwMDExFjAUBgNVBAMMDUFUIERHQyBDU0NBIDEwHhcNMjExMjA2MTcyMTUwWhcNMjMxMjA2MTcyMTUwWjBGMQswCQYDVQQGEwJBVDEPMA0GA1UECgwGQk1TR1BLMQ8wDQYDVQQFEwYwMDEwMDMxFTATBgNVBAMMDEFUIERHQyBEU0MgMzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABERQ5Yhg73f9jil3rzTclES0kftKr+wI8/Ausky1ydUGyQqj60DlauAl4sioorffH1i6LU3pTKaMOM9ZtPWLOlujbjBsMA4GA1UdDwEB/wQEAwIHgDAdBgNVHQ4EFgQUDrgqzpFY8IrzcKjZEVaUKf3FUDkwHwYDVR0jBBgwFoAUHyKsHGUWKbTBmLNjb7/dCZ27e3swGgYDVR0QBBMwEYEPMjAyMjA2MjAxNzIxNTBaMAoGCCqGSM49BAMCA0kAMEYCIQC3fgF6rZXPqVdqbQ9m/GUK7Ku+R/bGWMfQ2ZDNrKZL0QIhAMvfowfwutvKX3fbeVxfWDPDPeQzk65cBASkBs7UJ1Jc\n-----END CERTIFICATE-----"
     }
   },
   "SmartHealthCards": {
@@ -13153,6 +13168,26 @@
         "x": "6iaPKvqyqryjuyIxYKREBURZgtX8Hmlzz9rnaveIksQ",
         "y": "IityyaaWs2hqp6PuiIVVsbThq24boYnE_lNz9p8Zp-g",
         "kid": "2CCK6UUXfB9q6zJ5M-mLNw9OPiRWDBuZCCk3LBgFuAM",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://psacesoap.whhs.com/interconnect-fhir-prd/api/epic/2021/Security/Open/EcKeys/32001/SHC#_f2xrW24yVaafC8DRblDGOa29i4SJUoeh2hXogshkcE": {
+      "displayName": {
+        "en": "Washington Hospital Healthcare System"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "qky3mKJoBqa7wJPaDbcSj4CDUmzeygmpgPZvPBgwpVk",
+        "y": "3mBJszhM-BtT2NDE2rfezGdAGdQZU9rzw_6KmePXPL4",
+        "kid": "_f2xrW24yVaafC8DRblDGOa29i4SJUoeh2hXogshkcE",
         "use": "sig",
         "kty": "EC",
         "alg": "ES256",
