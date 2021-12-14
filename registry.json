@@ -4045,6 +4045,21 @@
       "validFromDT": "2021-10-06T16:25:09",
       "validUntilDT": "2023-10-06T16:25:09",
       "didDocument": "-----BEGIN CERTIFICATE-----\nMIICUzCCAfmgAwIBAgIQCOoLaAT4QvxyTs4hyLNLfzAJBgcqhkjOPQQBMFYxCzAJBgNVBAYTAkFFMSgwJgYDVQQKDB9NaW5pc3RyeSBvZiBIZWFsdGggJiBQcmV2ZW50aW9uMR0wGwYDVQQDDBROYXRpb25hbCBDU0NBIG9mIFVBRTAeFw0yMTEwMDYxNjI1MDlaFw0yMzEwMDYxNjI1MDlaMDoxGjAYBgNVBAMMEUFsaG9zbiBEU0Mgd29ya2VyMQ8wDQYDVQQKDAZBbGhvc24xCzAJBgNVBAYTAkFFMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEmlrTLdtSzBKZEcWZ4n+DGYA7zAORp8nmaqftIoRB7CRaCSaAnx5Zmb6m4B/bdYQVJKb6EM3HbrnYIZNo0tAYjKOBxTCBwjAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0OBBYEFCXMmf+xROFMweTd+hdNMWlUo5RyMB8GA1UdIwQYMBaAFK6vZgSRRB7mrkyeLu9I9ejxpV4mMD4GA1UdHwQ3MDUwM6AxoC+GLWh0dHA6Ly9jcmwuZXhhbXBsZWRvbWFpbi5leGFtcGxlL0NSTC9DU0NBLmNybDAwBgNVHSUEKTAnBgsrBgEEAY43j2UBAQYLKwYBBAGON49lAQIGCysGAQQBjjePZQEDMAkGByqGSM49BAEDSQAwRgIhAJnyJmoi7QZq7LBaAeqjHD18N70DFXi8usVxChBfH268AiEAtDTR1FWMpZr/lhIqr/lV746nmi/G4/lfD0kvfgWh4S8=\n-----END CERTIFICATE-----"
+    },
+    "b6DvtaUKH6Y=": {
+      "displayName": {
+        "en": "Gov of Monaco"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2021-12-13T14:30:46",
+      "validUntilDT": "2023-06-14T14:30:46",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIIE6zCCAtOgAwIBAgITTrK8ibOQ4znrGHzcybUbmBsCMjANBgkqhkiG9w0BAQsFADBmMQswCQYDVQQGEwJNQzEfMB0GA1UECgwWUHJpbmNpcGFsaXR5IG9mIE1vbmFjbzEhMB8GA1UECwwYRm9yZWlnbiBPZmZpY2Ugb2YgTW9uYWNvMRMwEQYDVQQDDApDU0NBUEtJX01DMB4XDTIxMTIxMzE0MzA0NloXDTIzMDYxNDE0MzA0NlowdzELMAkGA1UEBhMCTUMxHzAdBgNVBAoMFlByaW5jaXBhbGl0eSBvZiBNb25hY28xLjAsBgNVBAsMJU1pbmlzdHJ5IG9mIEhlYWx0aCBhbmQgU29jaWFsIEFmZmFpcnMxFzAVBgNVBAMMDkRTUEtJX01DX0RHQ18xMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEEnUNIFFBEfndNvfTXjq2n3bH1sQJFNt7Q2JUyrLhuwjQ1zYLmDWqDvO/X4AQYviLvYCFVHxy6wDrpZnWhVg2k6OCAUowggFGMCgGA1UdEQQhMB+CC3d3dy5nb3V2Lm1jpBAwDjEMMAoGA1UEBwwDTUNPMDUGA1UdEgQuMCyGGGh0dHBzOi8vY3NjYS1tY28uZ291di5tY6QQMA4xDDAKBgNVBAcMA01DTzAOBgNVHQ8BAf8EBAMCB4AwMwYDVR0lBCwwKgYMKwYBBAEAjjePZQEBBgwrBgEEAQCON49lAQIGDCsGAQQBAI43j2UBAzArBgNVHRAEJDAigA8yMDIxMTIxMzEyNDc0OVqBDzIwMjIwNjEzMTI0NzQ5WjAdBgNVHQ4EFgQU5BFbQC2Dg+u5iv7wtVy8fZgKm4kwHwYDVR0jBBgwFoAUMDKcfP59jwLtxRJa4OtXv+iFiSkwMQYDVR0fBCowKDAmoCSgIoYgaHR0cHM6Ly9jc2NhLW1jby5nb3V2Lm1jL01DTy5jcmwwDQYJKoZIhvcNAQELBQADggIBAInLhg0IfFKlJqRBtdZ7aPEw0pcHSTl1IBkmsK+IVzHHv1W3NXMHgfX2XhlYGoLF/up/sn79WlTBxNO7gvQvk2mDeY9A8VL61titSakRGTVng2pWsMo6VWnYkpcM/jxTx+TiGcbYq/C3NlhgTw02PjQ0ToAqYMVhGD3T0tpWca0InBZWikLlLEIKAB0vVxbQYakMda0GZitX6qQOw60g9EyWBlS/TGeXWxV6i66Ev2mo0JYIVQ60q8pMKVHqNvY4wBv//4ZKJrPW61piIIIbpW/WBcMgl8s0VK+li49JMXIfXFgCIcSF8cU81cfWc8XKr/SEVNEZbfQM75aCFqAqryjyMs1aVmKH6j/y3YNmMJ68EiFVVK82/ParfbVPRRvoopdCDWmsydTJ5PV8frahTuAYU/fBIHNZNOredDcgsqX+13sQfqSV67DRFr5ENGBvRF2R19adqhG8v70mt/jsCaXMrRvk4OWcMejYNAonA476uO4+o7c2hqn7UcOItXJGJIuFG9I/kGqjPPaIy7NQfSC8XOnSPzXYBH0XTopVsIBVieEa4WL9jhwfAYptffLVrGz2Pl9DLESv47puVj44zYaB5eZ+mcGdQHo2H3JmfqflxMKSJTs4GclcaBc0rL+bAQc8UiHIrMVRDDAuP7lNHIAQdGu84Z945gAQ77qvdsML\n-----END CERTIFICATE-----"
     }
   },
   "SmartHealthCards": {
@@ -13447,6 +13462,126 @@
         "kty": "EC",
         "alg": "ES256",
         "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epicapp.mylrh.org/OAuth2/api/epic/2021/Security/Open/EcKeys/32001/SHC#h_Z1WIF7m6_q59f7JiB1_q2-rRhr8uGlJiiBBzGlXUY": {
+      "displayName": {
+        "en": "Lakeland Regional Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "wXN7LS59Jpd_6vHhbK9TlHmIjlazTO1wu9I37CVX4a0",
+        "y": "XIfwe_6-PXeg0uCxRgt7nhsHXoF-xhksZUuGtsiIonw",
+        "kid": "h_Z1WIF7m6_q59f7JiB1_q2-rRhr8uGlJiiBBzGlXUY",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epicproxy.et1007.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#pLS2q7bqcCbK49m-zjJkRQil3MQISMrwc-012pCHEkY": {
+      "displayName": {
+        "en": "Main Line Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "XgqqZhCgo6e7kqCRnf2eQVGHq2uZfnBa45J_5WndBkc",
+        "y": "8rE8iUavnTUrILougfkMWgRWxyvKnI0eq3hz5mv_jbM",
+        "kid": "pLS2q7bqcCbK49m-zjJkRQil3MQISMrwc-012pCHEkY",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://smarthealthcard.iisregistry.net/rmi/issuer#-b19goNbl4_TqU-BngNWMobzTZc6XG-bpSVQppsh7TY": {
+      "displayName": {
+        "en": "RMI Ministry of Health and Human Services"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "-b19goNbl4_TqU-BngNWMobzTZc6XG-bpSVQppsh7TY",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "Lc4INqQHBirrbOzsO8cMVsIqn7Sj69xqM5QEgIjH7bQ",
+        "y": "DdzR_s2Yi4dUQlnVuDpazXirK5pM9CXKbluw_nwkHf0"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://smarthealthcard.iisregistry.net/philadelphia/issuer#0IkOoOtxTAp0DpLmK2na2rpCnKF7LGhngdT3hIGFWnQ": {
+      "displayName": {
+        "en": "City of Philadelphia"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "0IkOoOtxTAp0DpLmK2na2rpCnKF7LGhngdT3hIGFWnQ",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "kWNSzSHib3SbIY8gH-M3BgTp9m7VaGibbC5HjWQFNbw",
+        "y": "LxsppZ3ibAh5vwTO-qhom71PJXc55lPXfr4mZ-1OIaI"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://smarthealthcard.iisregistry.net/americansamoa/issuer#BY-MED9jsICOyQBrvR6EJAD66k4djQ2_-YltJVc5QKk": {
+      "displayName": {
+        "en": "American Samoa"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "BY-MED9jsICOyQBrvR6EJAD66k4djQ2_-YltJVc5QKk",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "R5hSTm3-7mybxLj_JBjhR0fgl4VlELtAHxKsWINxEms",
+        "y": "TrmcugtIji8--RIYuNwz_6oVRvnTSqN0vH3otTQheQU"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://smarthealthcard.iisregistry.net/fsm/issuer#0Hs0endtJ3U4Saxq2KF6-bC4UJp5mkuibFk4AVviieI": {
+      "displayName": {
+        "en": "FSM Department of Health and Social Affairs"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "0Hs0endtJ3U4Saxq2KF6-bC4UJp5mkuibFk4AVviieI",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "GwI3hBX_u_zQV3LxncsyQIBx59Tqx8XBA4GaG5e8S_c",
+        "y": "MGvii97oobk5Cb0kkbCrIThn-F6BzAPZkSudBW-bSvE"
       },
       "credentialType": [
         "https://smarthealth.cards#immunization"
