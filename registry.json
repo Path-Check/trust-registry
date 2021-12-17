@@ -13696,6 +13696,46 @@
       "credentialType": [
         "https://smarthealth.cards#immunization"
       ]
+    },
+    "https://epicproxy.et0927.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#bRi8F_YcgjcfiBFxyNv6zO1mUSomobp4APHA6uabYKw": {
+      "displayName": {
+        "en": "Hospital for Special Surgery"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "0SnjC4NvVHIHzRor2QaDDcShUuvgG22VoIauR6AVtyY",
+        "y": "HqfFEP87ipeZVWtRTRFHGrwWx82zwCjf4fbUjS8D0Oo",
+        "kid": "bRi8F_YcgjcfiBFxyNv6zO1mUSomobp4APHA6uabYKw",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epicproxy.et0927.epichosted.com/VCI_PRD/api/epic/2021/Security/Open/EcKeys/32001/SHC#bRi8F_YcgjcfiBFxyNv6zO1mUSomobp4APHA6uabYKw": {
+      "displayName": {
+        "en": "Hospital for Special Surgery"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "0SnjC4NvVHIHzRor2QaDDcShUuvgG22VoIauR6AVtyY",
+        "y": "HqfFEP87ipeZVWtRTRFHGrwWx82zwCjf4fbUjS8D0Oo",
+        "kid": "bRi8F_YcgjcfiBFxyNv6zO1mUSomobp4APHA6uabYKw",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
     }
   }
 }
