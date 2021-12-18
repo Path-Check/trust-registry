@@ -13736,6 +13736,146 @@
       "credentialType": [
         "https://smarthealth.cards#immunization"
       ]
+    },
+    "https://surescripts.mdmercy.com/fhir-prd/api/epic/2021/Security/Open/EcKeys/32001/SHC#JGByY_9xEE4Ke05ULW6fLHSubIBwwWhlQwi_J3-P3a8": {
+      "displayName": {
+        "en": "Mercy Health Services (MD)"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "Rw5F9WkkuuDvaULwlOQRvno0Ia6jFMsfIqBq7H8izO0",
+        "y": "Fhg9VIbr5iPjt_6MSPjaYJLM8r4egSVSZn3s7VKRlkA",
+        "kid": "JGByY_9xEE4Ke05ULW6fLHSubIBwwWhlQwi_J3-P3a8",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epicprdproxy.crh.org/FHIRPRD/api/epic/2021/Security/Open/EcKeys/32001/SHC#BbtbEKjD-fOvxZuzjaZqGsU5o8zhgRRPMzrQI4aD56M": {
+      "displayName": {
+        "en": "Columbus Regional Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "F0W1tzILL_umICurnl5z_fIPXjVqFEOkS4P1_HV6kvI",
+        "y": "kW6ivrI6RkAj3A8qxUfEbWamqAwTq04Gxy09N-qu8oo",
+        "kid": "BbtbEKjD-fOvxZuzjaZqGsU5o8zhgRRPMzrQI4aD56M",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epicweb.challiance.org/Interconnect-FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC#AiB-cTlmIM07DDNjfdXghP_qAns0Y8eaXZ7CA1m7pW0": {
+      "displayName": {
+        "en": "Cambridge Health Alliance"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "ITRnn-k5s81gLGFrF4ReJ4XS5XM1CYHRtkoj2lv0DZQ",
+        "y": "cZ9Hs5250EKPN9lgF2c_B_RtZJKuu7K5RmSee1BrbU0",
+        "kid": "AiB-cTlmIM07DDNjfdXghP_qAns0Y8eaXZ7CA1m7pW0",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://wpprod.nghs.com/fhir/api/epic/2021/Security/Open/EcKeys/32001/SHC#athNk7Dw2SRzLXCO6JV63y6UngDxxEiK_hVLSrA89-w": {
+      "displayName": {
+        "en": "Northeast Georgia Health System"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "nGRhvode7iTrf-2yTCXXjBzF8wp6wiMAmv-E9n4MkK4",
+        "y": "6IPKA3SgrZK6DOdtz8yrWznR9shRksA9fZeyy9mHYNg",
+        "kid": "athNk7Dw2SRzLXCO6JV63y6UngDxxEiK_hVLSrA89-w",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://eprdsoap000.saintfrancis.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#Gnuke2ZfaUIYFahHcJgurDIOqva0X62u-0ZG1e98NFg": {
+      "displayName": {
+        "en": "Saint Francis Health System"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "eArzs6Pv7JCPRrGijN3WKDYTJqU00tE-9V1KHCDJAHU",
+        "y": "mT7OOxw7DmRlAoghJGqyRg6EMZKDSbx-VDYSlVDfgEE",
+        "kid": "Gnuke2ZfaUIYFahHcJgurDIOqva0X62u-0ZG1e98NFg",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epicmobile.asante.org/FHIR-PRD/api/epic/2021/Security/Open/EcKeys/32001/SHC#b8AJ71TFULKzUneEahRMHPDQazS3_cIIXeX4BoOXDLI": {
+      "displayName": {
+        "en": "Asante"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "QjV19x3ZfcuLSlqEEj-W0alUOcjfjbYdGAf6NleRDXo",
+        "y": "PDL4L39-Q27K3AIcyEJGHMmS_YJiAi_p1nSjCAroMsU",
+        "kid": "b8AJ71TFULKzUneEahRMHPDQazS3_cIIXeX4BoOXDLI",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epicfhir.sentara.com/ARR-FHIR-PRD/api/epic/2021/Security/Open/EcKeys/32001/SHC#0_ZcobwGIYr7HFa8F1Y3nWbC63_d6MR880hNRB0mCzk": {
+      "displayName": {
+        "en": "Sentara Healthcare"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "R1e_RX2eW1bZojrlgGSwZBBdsYV5OdkOA70C06yIjZw",
+        "y": "Ex3hSEqCH3kYt9OWo1j_7fpLHO1Zlyji1ycMHyhRUHg",
+        "kid": "0_ZcobwGIYr7HFa8F1Y3nWbC63_d6MR880hNRB0mCzk",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
     }
   }
 }
