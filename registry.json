@@ -13954,6 +13954,66 @@
       "credentialType": [
         "https://smarthealth.cards#immunization"
       ]
+    },
+    "https://fhir-myrecord.cerner.com/r4/ce02d798-0df3-49b1-b868-83babab6d7e6#N2maG8qOhITe_zyPqcrCa6LT_mW18ZtFPy09cGAB24w": {
+      "displayName": {
+        "en": "St. Luke's Hospital"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "crv": "P-256",
+        "kty": "EC",
+        "x": "DNo1BEwoRPNRDYsulhhxu9jOxkvCuEVU4IaCs3H6PJ0",
+        "y": "zB_HLKrE_n5Xi9I7yMIION-IQpzH5MEZoP2GvRftSsI",
+        "kid": "N2maG8qOhITe_zyPqcrCa6LT_mW18ZtFPy09cGAB24w",
+        "use": "sig",
+        "alg": "ES256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epicsoap.shands.ufl.edu/FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC#W-YqFW97-hXbFboeEwuzjNeLR43dULpzlNm7Oqbv1Pc": {
+      "displayName": {
+        "en": "UF Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "BQI6ICbfEssau6Z4Qm33HY8rrolQFc1oAHnNeSVHW2g",
+        "y": "fbvw_uTuOwdiwHupZzyIJkHzmOtQSrEdVTlXGDXyyKA",
+        "kid": "W-YqFW97-hXbFboeEwuzjNeLR43dULpzlNm7Oqbv1Pc",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://arrprox.mednet.ucla.edu/FHIRPRD/api/epic/2021/Security/Open/EcKeys/32001/SHC#kll7bVf5JqS_KCcJcx1Pm7VRDSk3zqqlKil-4ke4t2A": {
+      "displayName": {
+        "en": "UCLA"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "UWbhb7mquM3y7uYOiAj8X8lEF_6LNDUhjom3eHisbD0",
+        "y": "hoDuW0yNjndiKEaZt4aU1hDABHoJh4FbRl2sbz3xOR4",
+        "kid": "kll7bVf5JqS_KCcJcx1Pm7VRDSk3zqqlKil-4ke4t2A",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
     }
   }
 }
