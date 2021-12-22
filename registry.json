@@ -4168,6 +4168,21 @@
       "validFromDT": "2021-12-07T00:00:00",
       "validUntilDT": "2023-12-07T23:59:59",
       "didDocument": "-----BEGIN CERTIFICATE-----\nMIICgjCCAiegAwIBAgIIO5rcCo8mzLowCgYIKoZIzj0EAwIwSjELMAkGA1UEBhMCTVQxHDAaBgNVBAoME0dvdmVybm1lbnQgb2YgTWFsdGExHTAbBgNVBAMMFE1hbHRhIERDQyBTaWduaW5nIENBMB4XDTIxMTIwNzAwMDAwMFoXDTIzMTIwNzIzNTk1OVowSjEdMBsGA1UEAwwUTUxULURTQy1SRUNPVkVSWS0wMDQxHDAaBgNVBAoME0dvdmVybm1lbnQgb2YgTWFsdGExCzAJBgNVBAYTAk1UMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEl7DWONHW2T8XW8OL8KyzbUqeaWho7WhMFxkec+hKLPFgiq+aysni03Jfsk5PS+E1GnItdWJh10ra00Tn1zzpTaOB9jCB8zAOBgNVHQ8BAf8EBAMCB4AwGgYDVR0lAQH/BBAwDgYMKwYBBAEAjjePZQEDMB0GA1UdDgQWBBT97cmCfagsJzbqrc/lD/QcLEoSODB5BgNVHSMEcjBwgBQQCq36TDPi/auN3eGWbv6OvxxwraFOpEwwSjELMAkGA1UEBhMCTVQxHDAaBgNVBAoME0dvdmVybm1lbnQgb2YgTWFsdGExHTAbBgNVBAMMFE1hbHRhIERDQyBTaWduaW5nIENBgggT7LcnnTos0zArBgNVHRAEJDAigA8yMDIxMTIwNzAwMDAwMFqBDzIwMjIwNjA3MjM1OTU5WjAKBggqhkjOPQQDAgNJADBGAiEA1/hHiLXtFFyph3PBH0aoCzsARd1qP5Tm5Gmvk42aYA4CIQCnHSkf7zFEEjTBAOaPYbhdL0Fd0xIFIIgdQ7hTmi62PA==\n-----END CERTIFICATE-----"
+    },
+    "fr1YOKr2CAU=": {
+      "displayName": {
+        "en": "Gov of Tunisia"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2021-12-03T09:27:21",
+      "validUntilDT": "2023-12-03T09:27:21",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIIDNjCCAr2gAwIBAgIIYwLkhLzU2pIwCgYIKoZIzj0EAwIwYTEZMBcGA1UEAwwQQ1NDQSBUVU5JU0lBIERHQzE3MDUGA1UECgwuQUdFTkNFIE5BVElPTkFMRSBERSBDRVJUSUZJQ0FUSU9OIEVMRUNUUk9OSVFVRTELMAkGA1UEBhMCVE4wHhcNMjExMjAzMDkyNzIxWhcNMjMxMjAzMDkyNzIxWjCBjTE+MDwGA1UEAww1Q0VOVFJFIElORk9STUFUSVFVRSBEVSBNSU5JU1RFUkUgREUgTEEgU0FOVEUgUFVCTElRVUUxPjA8BgNVBAoMNUNFTlRSRSBJTkZPUk1BVElRVUUgRFUgTUlOSVNURVJFIERFIExBIFNBTlRFIFBVQkxJUVVFMQswCQYDVQQGEwJUTjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABFUtlofcjXMvDZblDJcRwAB5VumLhFO0e8Pc5TOLG9TiHEYWSavJJYNIiHG1rFpBPhKa/QHZndUUexgZAPb6uAejggEwMIIBLDBEBggrBgEFBQcBAQQ4MDYwNAYIKwYBBQUHMAKGKGh0dHA6Ly93d3cudHVudHJ1c3QudG4vcHViL2NzY2F0bmRnYy5jcnQwHQYDVR0OBBYEFGTgEwREe1qsKLFP2kEyM7yTN6p2MAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAULdK7qdtkFRz6ipkr7j8rdRdcMlowGgYDVR0QBBMwEYEPMjAyMjA2MDIwOTI3MjFaMDUGA1UdHwQuMCwwKqAooCaGJGh0dHA6Ly93d3cudHVudHJ1c3QudG4vY3NjYXRuZGdjLmNybDAOBgNVHQ8BAf8EBAMCB4AwMwYDVR0lBCwwKgYMKwYBBAEAjjePZQEDBgwrBgEEAQCON49lAQEGDCsGAQQBAI43j2UBAjAKBggqhkjOPQQDAgNnADBkAjAhsKay1FflcSfdtdl8ZSnGRa1fEhwyPF8dm7kGijMRfIkFCRQWqhZNNR7GEqPUJtoCMHgO7ukRdov18sOOFIag7P+K6OWWn4l04H6h4xnECSkHvpZ6PjHHTjHkTp/0oWf5Gw==\n-----END CERTIFICATE-----"
     }
   },
   "SmartHealthCards": {
@@ -14010,6 +14025,26 @@
         "kty": "EC",
         "alg": "ES256",
         "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://dashboard.au.accredify.io/shc/4cyte#gxCrgSDvnnFkfMhl75mkk_J8u8c3GdofDTE7KJT5ahM": {
+      "displayName": {
+        "en": "4Cyte Pathology"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "use": "sig",
+        "crv": "P-256",
+        "kid": "gxCrgSDvnnFkfMhl75mkk_J8u8c3GdofDTE7KJT5ahM",
+        "x": "1Gd0yAlTmN-82I2-ovz0f5dczHZdv_CGM3jQ7WvOnZw",
+        "y": "wh7Vp7xv_5bXiN41XyCGC4DklEM1KYbzytFv2xrhnX4",
+        "alg": "ES256"
       },
       "credentialType": [
         "https://smarthealth.cards#immunization"
