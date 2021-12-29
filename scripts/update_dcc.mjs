@@ -87,8 +87,8 @@ export async function update(registry) {
       "entityType": "issuer",
       "status": hasExpired(cert.validTo) ? "expired" : "current",
       "credentialType": getCredentialTypes(cert),
-      "validFromDT": cert.validFrom.toISOString().replace(".000Z", ""),
-      "validUntilDT": cert.validTo.toISOString().replace(".000Z", ""),
+      "validFromDT": cert.validFrom.toISOString(),
+      "validUntilDT": cert.validTo.toISOString(),
       "didDocument": certPEM
     }
 
