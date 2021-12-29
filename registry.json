@@ -111,6 +111,19 @@
         "VerifiableCredential",
         "ProofOfVaccinationCredential"
       ]
+    },
+    "did:jamaica": {
+      "displayName": {
+        "en": "Gov of Jamaica"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-12-15T01:00:00.000Z",
+      "didDocument": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAVI1WDvgs5Vb6uCnHhmgImG1D0RTGZHCPeymfqhiVe2c=\n-----END PUBLIC KEY-----",
+      "credentialType": [
+        "VerifiableCredential",
+        "ProofOfVaccinationCredential"
+      ]
     }
   },
   "EUDCC": {
