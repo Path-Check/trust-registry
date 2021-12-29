@@ -21,6 +21,8 @@ jobs:
       - run: npm test
 
       - run: npm run-script update
+      - run: npm run-script normalize
+      - run: npm run-script flatten
       - run: npm test
 
       - uses: peter-evans/create-pull-request@v3.10.1
