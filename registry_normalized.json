@@ -5920,8 +5920,8 @@
       "entityType": "issuer",
       "status": "terminated",
       "statusDetail": "This credential was revoked due to an unauthorized access on Oct 27, 2022. Please contact the Gov of North Macedonia to receive a new credential.",
-      "validFromDT": "2021-09-15T13:20:53",
-      "validUntilDT": "2022-09-15T13:20:53",
+      "validFromDT": "2021-09-15T13:20:53.000Z",
+      "validUntilDT": "2022-09-15T13:20:53.000Z",
       "credentialType": [
         "t",
         "v",
@@ -5936,8 +5936,8 @@
       "entityType": "issuer",
       "status": "terminated",
       "statusDetail": "This credential was revoked due to an unauthorized access on Oct 27, 2022. Please contact the Gov of North Macedonia to receive a new credential.",
-      "validFromDT": "2021-08-23T12:22:02",
-      "validUntilDT": "2022-08-23T12:22:02",
+      "validFromDT": "2021-08-23T12:22:02.000Z",
+      "validUntilDT": "2022-08-23T12:22:02.000Z",
       "credentialType": [
         "t",
         "v",
@@ -6530,7 +6530,7 @@
       },
       "entityType": "issuer",
       "status": "terminated",
-      "validFromDT": "2021-09-29T13:49:05",
+      "validFromDT": "2021-09-29T13:49:05.000Z",
       "credentialType": [
         "t",
         "v",
@@ -7150,8 +7150,8 @@
         "v",
         "r"
       ],
-      "validFromDT": "2021-11-29T16:07:22",
-      "validUntilDT": "2023-11-29T16:07:22",
+      "validFromDT": "2021-11-29T16:07:22.000Z",
+      "validUntilDT": "2023-11-29T16:07:22.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE4L/6FXPhU5Bn0Z8byu4KQXQtyCbGJ1frBcXH4Hy5eCrKzevc72e1TnAi2yCMytCyQ5ULvtRxrVYHIQvQkpcskg=="
     },
     "uP22Xh56SMM=": {
@@ -7165,8 +7165,8 @@
         "v",
         "r"
       ],
-      "validFromDT": "2021-11-29T16:00:26",
-      "validUntilDT": "2023-11-29T16:00:26",
+      "validFromDT": "2021-11-29T16:00:26.000Z",
+      "validUntilDT": "2023-11-29T16:00:26.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE4L/6FXPhU5Bn0Z8byu4KQXQtyCbGJ1frBcXH4Hy5eCrKzevc72e1TnAi2yCMytCyQ5ULvtRxrVYHIQvQkpcskg=="
     },
     "kom9zby5Hiw=": {
