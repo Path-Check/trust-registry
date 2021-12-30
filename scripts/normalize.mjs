@@ -1,5 +1,6 @@
 import { Certificate, PublicKey } from '@fidm/x509'
-import jose from 'node-jose'
+import jwkToPem from 'jwk-to-pem'
+
 
 import fs from 'fs';
 
@@ -22,8 +23,7 @@ for (let framework in registry) {
         else
           console.log("Something is wrong with:" + kid) 
       } else {  
-        let key = await jose.JWK.asKey(v.didDocument)
-        v['publicKey'] = cleanPEM(key.toPEM()) 
+        v['publicKey'] = cleanPEM(jwkToPem(v.didDocument));
       }
     } catch(e) {
       console.log(e)

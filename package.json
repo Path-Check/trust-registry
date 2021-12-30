@@ -29,7 +29,7 @@
     "express": "^4.17.1",
     "heroku-ssl-redirect": "^0.1.1",
     "i18n-iso-countries": "^6.8.0",
-    "node-jose": "^2.0.0"
+    "jwk-to-pem": "^2.0.5"
   },
   "devDependencies": {
     "chai": "^4.3.4",
