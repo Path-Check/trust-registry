@@ -6,8 +6,9 @@ import fs from 'fs';
 let registry = JSON.parse(fs.readFileSync("registry_normalized.json"));
 
 let csv = []
-Object.entries(registry).forEach(([framework,v]) => {
-  Object.entries(registry[framework]).forEach(([kid,v]) => {
+for (let framework in registry) {
+  for (let kid in registry[framework]) {
+    let v = registry[framework][kid]
     if (v.publicKey) {
       csv.push([
         framework,
@@ -20,8 +21,8 @@ Object.entries(registry).forEach(([framework,v]) => {
         v.publicKey
       ].join(","));
     }
-  }); 
-}); 
+  } 
+} 
 
 fs.writeFile('registry_normalized.csv', csv.join("\n"), function writeCSV(err) {
   if (err) return console.log(err);
