@@ -7638,6 +7638,21 @@
       "validFromDT": "2021-12-06T15:50:53.000Z",
       "validUntilDT": "2023-12-06T15:50:53.000Z",
       "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAu1i+3+eUHdPFZPnB3ExqAH7pZbqITkSSpV/HYH8itLTdm7CytZQWiw2BXjFHroF5fdpyl6eW0qTSBeKao+dSn4nyB8AIs4F5bnGDQOqGA/FeTnOOSAX10mzjFtiRrMsf8X+rGXwWd9WWmPk1HP0UZEE2TeMTm2Pi/84a0ICI+gNYDT7yCrGZezI8Mm+Gd4oQZ1ndt2NtXi7BWbqZoPx2KRnSWR8KqH8fTiE3UEXXfJjueA2zwIwmzVNFCcDUBKblazJMS1gnw0xS++l3fdSt5dtBNFZcNNV3J0NridxlnI55MWVqthv2mQ7Uze9nD8LH4K3gr9+TZ35G9UQe3Y4AYQIDAQAB"
+    },
+    "ukusTTcSnQ8=": {
+      "displayName": {
+        "en": "Gov of Spain"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2021-12-22T13:30:00.000Z",
+      "validUntilDT": "2022-12-22T13:29:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEAJV9wVkG7LM6TUw5LNuvYBeSYbi4x+HXtB+2mS2q4KKNevlFhwHac7r1xZlCUqS3WnUJ6TKxHk2tlnCCCuplIQ=="
     }
   },
   "SmartHealthCards": {
@@ -11422,7 +11437,7 @@
       "credentialType": [
         "https://smarthealth.cards#immunization"
       ],
-      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEpm70khqILVU2lPCSOJfwPTc25vbs7mQUYoM2KXLOYjYAH/nDrLyyqV4Q0oZSq4PyKac8TPuQSJYAM0p3EXRH1Q=="
+      "publicKey": "MFgwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQQAEpm70khqILVU2lPCSOJfwPTc25vbs7mQUYoM2KXLOYjYf+cOsvLKpXhDShlKrg/IppzxM+5BIlgAzSncRdEfV"
     },
     "https://epicproxy.et1144.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#BvZy98sZVulgVwK2D_-LcT2akKpadjH5AvCeMkdyiFc": {
       "displayName": {
@@ -12095,7 +12110,7 @@
       "credentialType": [
         "https://smarthealth.cards#immunization"
       ],
-      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEAErKYCW+pV1YpCKJ2stNpG6W1DH8ZEci1itnCu9Nq8He3I13bUC1yKiXY3P4ccprbCOrQI+7c2K0R0OR50A0rA=="
+      "publicKey": "MFgwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQQAESspgJb6lXVikIonay02kbpbUMfxkRyLWK2cK702rwd7cjXdtQLXIqJdjc/hxymtsI6tAj7tzYrRHQ5HnQDSs"
     },
     "https://arrprd.metrohealth.net/fhir/api/epic/2021/Security/Open/EcKeys/32001/SHC#bVwZEIovkPqRcebGO96syglPmcjeRmQBe-1q9WUfiwM": {
       "displayName": {
@@ -12395,7 +12410,7 @@
       "credentialType": [
         "https://smarthealth.cards#immunization"
       ],
-      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEAErKYCW+pV1YpCKJ2stNpG6W1DH8ZEci1itnCu9Nq8He3I13bUC1yKiXY3P4ccprbCOrQI+7c2K0R0OR50A0rA=="
+      "publicKey": "MFgwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQQAESspgJb6lXVikIonay02kbpbUMfxkRyLWK2cK702rwd7cjXdtQLXIqJdjc/hxymtsI6tAj7tzYrRHQ5HnQDSs"
     },
     "https://fhir.lluh.org/interconnect-fhir-prd/api/epic/2021/Security/Open/EcKeys/32001/SHC#kct_SdbBMVt5x66BpspAK1oljykq8xWX6r8wgTmzi8w": {
       "displayName": {
