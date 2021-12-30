@@ -12,7 +12,6 @@ Object.entries(registry).forEach(([framework,v]) => {
       csv.push([
         framework,
         kid,
-        v.entityType,
         v.status,
         v.displayName.en ? Buffer.from(v.displayName.en).toString('base64') : "",
         v.displayLogo ? Buffer.from(v.displayLogo).toString('base64') : "",

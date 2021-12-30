@@ -1,10 +1,17 @@
 import { Certificate, PublicKey } from '@fidm/x509'
 import jwkToPem from 'jwk-to-pem'
 
-
 import fs from 'fs';
 
-let registry = JSON.parse(fs.readFileSync("registry.json"));
+let registry_source = JSON.parse(fs.readFileSync("registry.json"));
+
+let registry = {} 
+// Rename frameworks 
+registry["CRED"] = registry_source["CRED"] 
+registry["ICAO"] = registry_source["ICAO"] 
+registry["DIVOC"] = registry_source["DIVOC"] 
+registry["DCC"] = registry_source["EUDCC"] 
+registry["SHC"] = registry_source["SmartHealthCards"] 
 
 function cleanPEM(pem) {
   return pem.replace("-----BEGIN PUBLIC KEY-----", "").replace("-----END PUBLIC KEY-----", "").replace(/\n/g, "").replace(/\r/g, "")
@@ -26,13 +33,13 @@ for (let framework in registry) {
         v['publicKey'] = cleanPEM(jwkToPem(v.didDocument));
       }
     } catch(e) {
+      console.log(v.didDocument)
       console.log(e)
     }
     
     delete v.didDocument
   } 
 } 
-
 
 fs.writeFile('registry_normalized.json', JSON.stringify(registry, null, 2), function writeJSON(err) {
   if (err) return console.log(err);

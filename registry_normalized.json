@@ -3442,7 +3442,7 @@
       "publicKey": "MCowBQYDK2VwAyEAVI1WDvgs5Vb6uCnHhmgImG1D0RTGZHCPeymfqhiVe2c="
     }
   },
-  "EUDCC": {
+  "DCC": {
     "AM6ZZ6DrF1I=": {
       "displayName": {
         "en": "Gov of Uruguay"
@@ -7655,7 +7655,7 @@
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEAJV9wVkG7LM6TUw5LNuvYBeSYbi4x+HXtB+2mS2q4KKNevlFhwHac7r1xZlCUqS3WnUJ6TKxHk2tlnCCCuplIQ=="
     }
   },
-  "SmartHealthCards": {
+  "SHC": {
     "https://api.myirmobile.com/issuer#aQ8UtrF8UuWjSv5yQEgsiYyh_wsyRZ8fouggmtB38I8": {
       "displayName": {
         "en": "MyIR Mobile"
