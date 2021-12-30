@@ -11437,7 +11437,7 @@
       "credentialType": [
         "https://smarthealth.cards#immunization"
       ],
-      "publicKey": "MFgwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQQAEpm70khqILVU2lPCSOJfwPTc25vbs7mQUYoM2KXLOYjYf+cOsvLKpXhDShlKrg/IppzxM+5BIlgAzSncRdEfV"
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEpm70khqILVU2lPCSOJfwPTc25vbs7mQUYoM2KXLOYjYAH/nDrLyyqV4Q0oZSq4PyKac8TPuQSJYAM0p3EXRH1Q=="
     },
     "https://epicproxy.et1144.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#BvZy98sZVulgVwK2D_-LcT2akKpadjH5AvCeMkdyiFc": {
       "displayName": {
@@ -12110,7 +12110,7 @@
       "credentialType": [
         "https://smarthealth.cards#immunization"
       ],
-      "publicKey": "MFgwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQQAESspgJb6lXVikIonay02kbpbUMfxkRyLWK2cK702rwd7cjXdtQLXIqJdjc/hxymtsI6tAj7tzYrRHQ5HnQDSs"
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEAErKYCW+pV1YpCKJ2stNpG6W1DH8ZEci1itnCu9Nq8He3I13bUC1yKiXY3P4ccprbCOrQI+7c2K0R0OR50A0rA=="
     },
     "https://arrprd.metrohealth.net/fhir/api/epic/2021/Security/Open/EcKeys/32001/SHC#bVwZEIovkPqRcebGO96syglPmcjeRmQBe-1q9WUfiwM": {
       "displayName": {
@@ -12410,7 +12410,7 @@
       "credentialType": [
         "https://smarthealth.cards#immunization"
       ],
-      "publicKey": "MFgwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQQAESspgJb6lXVikIonay02kbpbUMfxkRyLWK2cK702rwd7cjXdtQLXIqJdjc/hxymtsI6tAj7tzYrRHQ5HnQDSs"
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEAErKYCW+pV1YpCKJ2stNpG6W1DH8ZEci1itnCu9Nq8He3I13bUC1yKiXY3P4ccprbCOrQI+7c2K0R0OR50A0rA=="
     },
     "https://fhir.lluh.org/interconnect-fhir-prd/api/epic/2021/Security/Open/EcKeys/32001/SHC#kct_SdbBMVt5x66BpspAK1oljykq8xWX6r8wgTmzi8w": {
       "displayName": {
