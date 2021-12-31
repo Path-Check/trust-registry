@@ -7653,6 +7653,21 @@
       "validFromDT": "2021-12-22T13:30:00.000Z",
       "validUntilDT": "2022-12-22T13:29:00.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEAJV9wVkG7LM6TUw5LNuvYBeSYbi4x+HXtB+2mS2q4KKNevlFhwHac7r1xZlCUqS3WnUJ6TKxHk2tlnCCCuplIQ=="
+    },
+    "7EkLpCQPXgg=": {
+      "displayName": {
+        "en": "Gov of Finland"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2021-12-20T12:00:00.000Z",
+      "validUntilDT": "2023-12-19T21:59:59.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEFWmy+0znVNI9n4sAz2ZNpUfoToe8aHUmOZvpMDqRTAMlai8yPIL0+rTOiNi0R/kHR7Z51GleMWuJQmqxJHeqaQ=="
     }
   },
   "SHC": {
