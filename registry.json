@@ -8017,7 +8017,7 @@
       },
       "entityType": "issuer",
       "status": "current",
-      "validFromDT": "2021-01-01T01:25:35.057Z",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
       "didDocument": {
         "kty": "EC",
         "kid": "UJrT9jU8vOCUl4xsI1RZjOPP8hFUv7n9mhVtolqH9qw",
