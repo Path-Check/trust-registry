@@ -7859,7 +7859,7 @@
         "en": "Gouvernement du Québec - Government of Quebec"
       },
       "entityType": "issuer",
-      "status": "expired",
+      "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
       "validUntilDT": "2021-10-22T01:00:00.000Z",
       "credentialType": [
@@ -7872,7 +7872,7 @@
         "en": "Gouvernement du Québec - Government of Quebec"
       },
       "entityType": "issuer",
-      "status": "expired",
+      "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
       "validUntilDT": "2021-10-22T01:00:00.000Z",
       "credentialType": [
@@ -7885,9 +7885,8 @@
         "en": "Gouvernement du Québec - Government of Quebec"
       },
       "entityType": "issuer",
-      "status": "expired",
+      "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
-      "validUntilDT": "2021-10-22T01:00:00.000Z",
       "credentialType": [
         "https://smarthealth.cards#immunization"
       ],
@@ -7907,7 +7906,7 @@
     },
     "https://smarthealthcard.phsa.ca/v1/issuer#XCqxdhhS7SWlPqihaUXovM_FjU65WeoBFGc_ppent0Q": {
       "displayName": {
-        "en": "Prov of British Columbia"
+        "en": "Government of British Columbia"
       },
       "entityType": "issuer",
       "status": "current",
@@ -7919,11 +7918,11 @@
     },
     "https://prd.pkey.dhdp.ontariohealth.ca#Nlgwb6GUrU_f0agdYKc77sXM9U8en1gBu94plufPUj8": {
       "displayName": {
-        "en": "Prov of Ontario"
+        "en": "Government of Ontario"
       },
       "entityType": "issuer",
       "status": "current",
-      "validFromDT": "2021-01-01T01:25:35.057Z",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
       "credentialType": [
         "https://smarthealth.cards#immunization"
       ],
@@ -7931,11 +7930,11 @@
     },
     "https://pvc.novascotia.ca/issuer#UJrT9jU8vOCUl4xsI1RZjOPP8hFUv7n9mhVtolqH9qw": {
       "displayName": {
-        "en": "Prov of Nova Scotia"
+        "en": "Government of Nova Scotia"
       },
       "entityType": "issuer",
       "status": "current",
-      "validFromDT": "2021-01-01T01:25:35.057Z",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
       "credentialType": [
         "https://smarthealth.cards#immunization"
       ],
@@ -8015,7 +8014,7 @@
     },
     "https://www.gov.nl.ca/covid-19/life-during-covid-19/vaccination-record/prod#UboztS3pE1mr0dnG7Rv24kRNqlYbHrbxd-qBFerpZvI": {
       "displayName": {
-        "en": "Prov of Newfoundland and Labrador"
+        "en": "Government of Newfoundland and Labrador"
       },
       "entityType": "issuer",
       "status": "current",
@@ -8027,7 +8026,7 @@
     },
     "https://covidrecords.alberta.ca/smarthealth/issuer#JoO-sJHpheZboXdsUK4NtfulfvpiN1GlTdNnXN3XAnM": {
       "displayName": {
-        "en": "Prov of Alberta"
+        "en": "Government of Alberta"
       },
       "entityType": "issuer",
       "status": "current",
@@ -11049,6 +11048,18 @@
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAExn4u3l6l1U3JMkwh8d8p03Qz3dg5adMToIMlvb3UnZXL5BfMCqR1tsuNVUiuCX7re5SRJZZ17nxgTtGkKjmxaw=="
     },
+    "https://myvaxrecords.mass.gov#2jHkmZokXxQYjOF2i9NDL7avxSGDzWM7k3glNnunXqQ": {
+      "displayName": {
+        "en": "State of Massachusetts"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2022-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEq3la/T7M/qu2jZCfLV/YQKc4EaUBCjsEgwkbjL995oc8cNNW4vb+1AF7lRAZYkns7QSZhJrBpA170FXiHbLsrw=="
+    },
     "https://myvaccinerecord.cdph.ca.gov/creds#7JvktUpf1_9NPwdM-70FJT3YdyTiSe2IvmVxxgDSRb0": {
       "displayName": {
         "en": "State of California"
@@ -12195,7 +12206,7 @@
         "en": "Inova Health System"
       },
       "entityType": "issuer",
-      "status": "revoked",
+      "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
       "credentialType": [
         "https://smarthealth.cards#immunization"
@@ -13929,6 +13940,126 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEsIBDr692jxOjhMVPMB2us3mmJtxoLPOJ2Xf6Ft0waKtLYGeVzTzEnR5nqe9KFrN87UXWEEZEX1bMja48WYXvzA=="
+    },
+    "https://www.international.gc.ca/gac-amc/assets/json#9SFQaQFDI0-4xdGg8Oukoe66-odwB4IOyIYmBDtVWJU": {
+      "displayName": {
+        "en": "Global Affairs Canada"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEIzOuCFvX5vrG8qeiRzzcK4tYnE8JRSDEiAp0DXuAEZxf2dlUjPS8zGJIaOn3djCwwxwxRSA0Uwa+vRkp+OsXkg=="
+    },
+    "https://www.international.gc.ca/gac-amc/assets/json#8C-9TNgyGuOqc-3FXyNRq6m5U9S1wyhCS1TvpgjzkoU": {
+      "displayName": {
+        "en": "Global Affairs Canada"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEC+9Lltax/iU6iYdK8DdCZzv4cQN6SFVUG7ACaCT/MKP+poQ0EwnPqIt/WrJgzHb8Pp9fFts2gdstx908X2tQjQ=="
+    },
+    "https://www.international.gc.ca/gac-amc/assets/json#2cZYzXcJZwKN6r5FhGX6NoSEkPwFJNERcyUQGjYx2Ek": {
+      "displayName": {
+        "en": "Global Affairs Canada"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEPWSnQ7t7seJniBxLRPtH7HE4oOgtZCSayvo5BhdnYvPU9CNliQTvsYgjQeJlhaTzEWbCqikMP1YHr4EiV/4Mng=="
+    },
+    "https://www.international.gc.ca/gac-amc/assets/json#Yuam_13zbb5LLH5jif1M6wLaze67FRqPl4cVLQVZrDw": {
+      "displayName": {
+        "en": "Global Affairs Canada"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEVNX73W7r/BDorCP/V8ulEL22IK/3uxYKWa3NM8VoxOhoaJUWQspYuTD49YBGoXdP8/3n3I9Obj3LqBm9LZztyQ=="
+    },
+    "https://www.international.gc.ca/gac-amc/assets/json#_qR014MS7wwryEmHV8hYPrbiC9LfS8SVgoGAH1AlKKY": {
+      "displayName": {
+        "en": "Global Affairs Canada"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAESuPNbkSN9zrEXP8WfNMCnK3LDieN89TcYgCmesmo/61AI+9a0pCdcTykAv7mj7j2hgGqRgBorwZAwKVToHCsuA=="
+    },
+    "https://www.international.gc.ca/gac-amc/assets/json#ZxOBf-xccU_oVrXpnZhSj3LlGaBVWpBk2VWr6NjQAOU": {
+      "displayName": {
+        "en": "Global Affairs Canada"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEdabSimI7Xt9DFo8tL/dXcrK7lS/1ECfKzvy87V5M4h8NeT6nX4wPYNh08Up1B5JKCM9kwyqIxCaAY+Q0KdBQaA=="
+    },
+    "https://www.international.gc.ca/gac-amc/assets/json#aVMemXJMIOGnP86RiF1S7ql4ujCiYvNeQVvHdcEYYX4": {
+      "displayName": {
+        "en": "Global Affairs Canada"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEGegvN6cEh1bq7z3qBH2Q0NHRFtZbRtyjxm+sZWyI227OzcuiBA47RtNg8YHObway0qwK8fIO75NrR9KWSHUqkA=="
+    },
+    "https://www.international.gc.ca/gac-amc/assets/json#QlXUeKpVmenjM9NcLE7Bb1tAjmkrPNsEt60MhloNjt8": {
+      "displayName": {
+        "en": "Global Affairs Canada"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEOpr5516ZxjbcB/YMQcCxXPiT/7/0Vp2gOJUAevrdHuJ+31xPC42KRxslR/utJ1YHneMwEUZvkXhRV2Xe5Zf0OQ=="
+    },
+    "https://www.international.gc.ca/gac-amc/assets/json#owf44Fnia-qs5n2hk8xPkqC5LABb2cOOVSS6MU2qRZI": {
+      "displayName": {
+        "en": "Global Affairs Canada"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEIaX6tnatd0STsTXIJAp5Jcgzdk9P3xpydcINn4inSl1rDyH0dDZ2vyY3LpX4nBmRrKHUOSY9ypVR6aHoPgylKg=="
+    },
+    "https://www.international.gc.ca/gac-amc/assets/json#5fi18dC4Nqq5QHvlEWXH1DBIzkwzCHte_f0c2gfohM0": {
+      "displayName": {
+        "en": "Global Affairs Canada"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEknOOhKMmgrJYJh2K7jg4p4584G/DcJUswtOjw+4fAnvzIX5qxCVq0FaaQTIRlxwYCVjkIOlJ5FeVi4NtfGD4HQ=="
     }
   }
 }
