@@ -7893,7 +7893,7 @@
         "en": "Gouvernement du Québec - Government of Quebec"
       },
       "entityType": "issuer",
-      "status": "expired",
+      "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
       "validUntilDT": "2021-10-22T01:00:00.000Z",
       "didDocument": {
@@ -7914,7 +7914,7 @@
         "en": "Gouvernement du Québec - Government of Quebec"
       },
       "entityType": "issuer",
-      "status": "expired",
+      "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
       "validUntilDT": "2021-10-22T01:00:00.000Z",
       "didDocument": {
@@ -7935,7 +7935,7 @@
         "en": "Gouvernement du Québec - Government of Quebec"
       },
       "entityType": "issuer",
-      "status": "expired",
+      "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
       "validUntilDT": "2021-10-22T01:00:00.000Z",
       "didDocument": {
