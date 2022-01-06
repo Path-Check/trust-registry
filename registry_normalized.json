@@ -13917,6 +13917,18 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEKhqF3iMvKDeiarW85OFrKstJWK5maNEi1H6JttLfky9FZSULazVoR2aKeeirIzG3JTh9WWwMsm3fp95PSqwmZQ=="
+    },
+    "https://pmh-vmhaiku-01.pmh.org/FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC#n2GS2CfMT1xmI7GTkSxkBkNSoXDYRjo2iXr5KReDF60": {
+      "displayName": {
+        "en": "Parkland Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEsIBDr692jxOjhMVPMB2us3mmJtxoLPOJ2Xf6Ft0waKtLYGeVzTzEnR5nqe9KFrN87UXWEEZEX1bMja48WYXvzA=="
     }
   }
 }
