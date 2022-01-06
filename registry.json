@@ -7898,7 +7898,7 @@
       "validUntilDT": "2021-10-22T01:00:00.000Z",
       "didDocument": {
         "kty": "EC",
-        "kid": "qFdl0tDZK9JAWP6g9_cAv57c3KWxMKwvxCrRVSzcxvM",
+        "kid": "h4BD-R5WgYT-iXAPzJyOWKTN2iFwMncQ-3k8v3tXm40",
         "use": "sig",
         "alg": "ES256",
         "crv": "P-256",
@@ -7937,7 +7937,6 @@
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
-      "validUntilDT": "2021-10-22T01:00:00.000Z",
       "didDocument": {
         "kty": "EC",
         "kid": "qFdl0tDZK9JAWP6g9_cAv57c3KWxMKwvxCrRVSzcxvM",
@@ -18060,6 +18059,216 @@
         "kty": "EC",
         "alg": "ES256",
         "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://www.international.gc.ca/gac-amc/assets/json#9SFQaQFDI0-4xdGg8Oukoe66-odwB4IOyIYmBDtVWJU": {
+      "displayName": {
+        "en": "Global Affairs Canada"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "9SFQaQFDI0-4xdGg8Oukoe66-odwB4IOyIYmBDtVWJU",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "IzOuCFvX5vrG8qeiRzzcK4tYnE8JRSDEiAp0DXuAEZw",
+        "y": "X9nZVIz0vMxiSGjp93YwsMMcMUUgNFMGvr0ZKfjrF5I",
+        "date": 1639579547911
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://www.international.gc.ca/gac-amc/assets/json#8C-9TNgyGuOqc-3FXyNRq6m5U9S1wyhCS1TvpgjzkoU": {
+      "displayName": {
+        "en": "Global Affairs Canada"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "8C-9TNgyGuOqc-3FXyNRq6m5U9S1wyhCS1TvpgjzkoU",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "C-9Lltax_iU6iYdK8DdCZzv4cQN6SFVUG7ACaCT_MKM",
+        "y": "_qaENBMJz6iLf1qyYMx2_D6fXxbbNoHbLcfdPF9rUI0",
+        "date": 1631112755371
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://www.international.gc.ca/gac-amc/assets/json#2cZYzXcJZwKN6r5FhGX6NoSEkPwFJNERcyUQGjYx2Ek": {
+      "displayName": {
+        "en": "Global Affairs Canada"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "2cZYzXcJZwKN6r5FhGX6NoSEkPwFJNERcyUQGjYx2Ek",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "PWSnQ7t7seJniBxLRPtH7HE4oOgtZCSayvo5BhdnYvM",
+        "y": "1PQjZYkE77GII0HiZYWk8xFmwqopDD9WB6-BIlf-DJ4",
+        "date": 1631208691160
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://www.international.gc.ca/gac-amc/assets/json#Yuam_13zbb5LLH5jif1M6wLaze67FRqPl4cVLQVZrDw": {
+      "displayName": {
+        "en": "Global Affairs Canada"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "Yuam_13zbb5LLH5jif1M6wLaze67FRqPl4cVLQVZrDw",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "VNX73W7r_BDorCP_V8ulEL22IK_3uxYKWa3NM8VoxOg",
+        "y": "aGiVFkLKWLkw-PWARqF3T_P959yPTm49y6gZvS2c7ck",
+        "date": 1631213139287
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://www.international.gc.ca/gac-amc/assets/json#_qR014MS7wwryEmHV8hYPrbiC9LfS8SVgoGAH1AlKKY": {
+      "displayName": {
+        "en": "Global Affairs Canada"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "_qR014MS7wwryEmHV8hYPrbiC9LfS8SVgoGAH1AlKKY",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "SuPNbkSN9zrEXP8WfNMCnK3LDieN89TcYgCmesmo_60",
+        "y": "QCPvWtKQnXE8pAL-5o-49oYBqkYAaK8GQMClU6BwrLg",
+        "date": 1631213700333
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://www.international.gc.ca/gac-amc/assets/json#ZxOBf-xccU_oVrXpnZhSj3LlGaBVWpBk2VWr6NjQAOU": {
+      "displayName": {
+        "en": "Global Affairs Canada"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "ZxOBf-xccU_oVrXpnZhSj3LlGaBVWpBk2VWr6NjQAOU",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "dabSimI7Xt9DFo8tL_dXcrK7lS_1ECfKzvy87V5M4h8",
+        "y": "DXk-p1-MD2DYdPFKdQeSSgjPZMMqiMQmgGPkNCnQUGg",
+        "date": 1631213724963
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://www.international.gc.ca/gac-amc/assets/json#aVMemXJMIOGnP86RiF1S7ql4ujCiYvNeQVvHdcEYYX4": {
+      "displayName": {
+        "en": "Global Affairs Canada"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "aVMemXJMIOGnP86RiF1S7ql4ujCiYvNeQVvHdcEYYX4",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "GegvN6cEh1bq7z3qBH2Q0NHRFtZbRtyjxm-sZWyI224",
+        "y": "zs3LogQOO0bTYPGBzm8GstKsCvHyDu-Ta0fSlkh1KpA",
+        "date": 1631213762298
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://www.international.gc.ca/gac-amc/assets/json#QlXUeKpVmenjM9NcLE7Bb1tAjmkrPNsEt60MhloNjt8": {
+      "displayName": {
+        "en": "Global Affairs Canada"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "QlXUeKpVmenjM9NcLE7Bb1tAjmkrPNsEt60MhloNjt8",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "Opr5516ZxjbcB_YMQcCxXPiT_7_0Vp2gOJUAevrdHuI",
+        "y": "ft9cTwuNikcbJUf7rSdWB53jMBFGb5F4UVdl3uWX9Dk",
+        "date": 1631817761919
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://www.international.gc.ca/gac-amc/assets/json#owf44Fnia-qs5n2hk8xPkqC5LABb2cOOVSS6MU2qRZI": {
+      "displayName": {
+        "en": "Global Affairs Canada"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "owf44Fnia-qs5n2hk8xPkqC5LABb2cOOVSS6MU2qRZI",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "IaX6tnatd0STsTXIJAp5Jcgzdk9P3xpydcINn4inSl0",
+        "y": "aw8h9HQ2dr8mNy6V-JwZkayh1DkmPcqVUemh6D4MpSo",
+        "date": 1638814426860
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://www.international.gc.ca/gac-amc/assets/json#5fi18dC4Nqq5QHvlEWXH1DBIzkwzCHte_f0c2gfohM0": {
+      "displayName": {
+        "en": "Global Affairs Canada"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "5fi18dC4Nqq5QHvlEWXH1DBIzkwzCHte_f0c2gfohM0",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "knOOhKMmgrJYJh2K7jg4p4584G_DcJUswtOjw-4fAns",
+        "y": "8yF-asQlatBWmkEyEZccGAlY5CDpSeRXlYuDbXxg-B0",
+        "date": 1638814979130
       },
       "credentialType": [
         "https://smarthealth.cards#immunization"
