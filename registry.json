@@ -7973,7 +7973,7 @@
     },
     "https://smarthealthcard.phsa.ca/v1/issuer#XCqxdhhS7SWlPqihaUXovM_FjU65WeoBFGc_ppent0Q": {
       "displayName": {
-        "en": "Prov of British Columbia"
+        "en": "Government of British Columbia"
       },
       "entityType": "issuer",
       "status": "current",
@@ -7993,11 +7993,11 @@
     },
     "https://prd.pkey.dhdp.ontariohealth.ca#Nlgwb6GUrU_f0agdYKc77sXM9U8en1gBu94plufPUj8": {
       "displayName": {
-        "en": "Prov of Ontario"
+        "en": "Government of Ontario"
       },
       "entityType": "issuer",
       "status": "current",
-      "validFromDT": "2021-01-01T01:25:35.057Z",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
       "didDocument": {
         "kty": "EC",
         "kid": "Nlgwb6GUrU_f0agdYKc77sXM9U8en1gBu94plufPUj8",
@@ -8013,7 +8013,7 @@
     },
     "https://pvc.novascotia.ca/issuer#UJrT9jU8vOCUl4xsI1RZjOPP8hFUv7n9mhVtolqH9qw": {
       "displayName": {
-        "en": "Prov of Nova Scotia"
+        "en": "Government of Nova Scotia"
       },
       "entityType": "issuer",
       "status": "current",
@@ -8153,7 +8153,7 @@
     },
     "https://www.gov.nl.ca/covid-19/life-during-covid-19/vaccination-record/prod#UboztS3pE1mr0dnG7Rv24kRNqlYbHrbxd-qBFerpZvI": {
       "displayName": {
-        "en": "Prov of Newfoundland and Labrador"
+        "en": "Government of Newfoundland and Labrador"
       },
       "entityType": "issuer",
       "status": "current",
@@ -8174,7 +8174,7 @@
     },
     "https://covidrecords.alberta.ca/smarthealth/issuer#JoO-sJHpheZboXdsUK4NtfulfvpiN1GlTdNnXN3XAnM": {
       "displayName": {
-        "en": "Prov of Alberta"
+        "en": "Government of Alberta"
       },
       "entityType": "issuer",
       "status": "current",
@@ -13232,7 +13232,6 @@
         "https://smarthealth.cards#immunization"
       ]
     },
-
     "https://myvaccinerecord.cdph.ca.gov/creds#7JvktUpf1_9NPwdM-70FJT3YdyTiSe2IvmVxxgDSRb0": {
       "displayName": {
         "en": "State of California"
