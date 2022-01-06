@@ -15152,7 +15152,7 @@
         "en": "Inova Health System"
       },
       "entityType": "issuer",
-      "status": "revoked",
+      "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
       "didDocument": {
         "x": "-geg_oRbPtf65ZzEZU_sXx5lObuWbrIVlsnga76-tu4",
