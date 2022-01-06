@@ -13212,6 +13212,27 @@
         "https://smarthealth.cards#immunization"
       ]
     },
+    "https://myvaxrecords.mass.gov#2jHkmZokXxQYjOF2i9NDL7avxSGDzWM7k3glNnunXqQ": {
+      "displayName": {
+        "en": "State of Massachusetts"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2022-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "crv": "P-256",
+        "kid": "2jHkmZokXxQYjOF2i9NDL7avxSGDzWM7k3glNnunXqQ",
+        "x": "q3la_T7M_qu2jZCfLV_YQKc4EaUBCjsEgwkbjL995oc",
+        "y": "PHDTVuL2_tQBe5UQGWJJ7O0EmYSawaQNe9BV4h2y7K8",
+        "alg": "ES256",
+        "use": "sig"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+
     "https://myvaccinerecord.cdph.ca.gov/creds#7JvktUpf1_9NPwdM-70FJT3YdyTiSe2IvmVxxgDSRb0": {
       "displayName": {
         "en": "State of California"
