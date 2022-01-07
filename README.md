@@ -30,7 +30,9 @@ The registry requests/returns entities specified as:
 
 # Formats 
 
-The main registry database is `registry.json`. From there, the system generates a `registry_normalized.json` which extracts the public keys of all certificates, simplifying the importation of the keys by clients. `registry_normalized.csv` is a CSV-formmated version of the `registry_normalized.json` whose sole goal is to increase the parsing speed of the otherwise large JSON file. 
+We offer 3 static content formats and 1 dynamic server. Users can simply import the entire database from the JSON or CSV files directly, or load records one by one from the NodeJS app. 
+
+The main registry database is [registry.json](https://github.com/Path-Check/trust-registry/blob/main/registry.json). From there, the system generates a [registry_normalized.json](https://github.com/Path-Check/trust-registry/blob/main/registry_normalized.json) which extracts the public keys of all certificates, simplifying the importation of the keys by clients. [registry_normalized.csv](https://github.com/Path-Check/trust-registry/blob/main/registry_normalized.csv) is a CSV-formmated version of the [registry_normalized.json](https://github.com/Path-Check/trust-registry/blob/main/registry_normalized.json) whose sole goal is to increase the parsing speed of the otherwise large JSON file. 
 
 The CSV file has the following collumns, formatted accordingly:
 
@@ -46,7 +48,7 @@ The CSV file has the following collumns, formatted accordingly:
   const DISPLAY_URL  = 8 // Base64 of the displayURL UTF-8 string
 ```
 
-# Currently Supported Issuers: 
+# Supported Issuers: 
 - [x] State of California
 - [x] State of Colorado (3 keys)
 - [x] State of Connecticut
