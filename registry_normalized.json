@@ -7803,6 +7803,51 @@
       "validFromDT": "2022-01-04T23:00:00.000Z",
       "validUntilDT": "2024-01-04T23:00:00.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAECR/tRXmgevftHnx7YjSZv1DTVISChlp0xW01dZA8Ts/JAS8A/fWvFemixZt8R4IZAFohxeDQb9ScuJAKBEiWrA=="
+    },
+    "aALsL8qmVzY=": {
+      "displayName": {
+        "en": "Gov of Norway"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2021-12-14T09:43:35.000Z",
+      "validUntilDT": "2023-12-14T09:53:35.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEwPgmBzsUtuEccbSTLuyhRClBaEq4TQrDavqcRNoJfJWZj0xqtE8MZ4MHYoSLvbMbMaajg5BgNGNRHSuVPrgIBg=="
+    },
+    "ajqCX4tylQM=": {
+      "displayName": {
+        "en": "Gov of Norway"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2021-06-07T09:17:12.000Z",
+      "validUntilDT": "2023-06-07T09:27:12.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEw/L5IqQTBETiI2YVVkJ3Zb3iLlPqrUErSi2UvWb/1z9foPAK1dhkQXs763JNoLyWqelVnhBJy4mdR+01xUC13A=="
+    },
+    "sjNjo20da78=": {
+      "displayName": {
+        "en": "Gov of Norway"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2021-12-14T09:43:38.000Z",
+      "validUntilDT": "2023-12-14T09:53:38.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEW4GPbMNWqJHqDqmdGEpB3v+C3igf3QwjAb/u0wkUUqrgtQsdkps3gBNSG/9h3p/LNJxRhDpnRY8CQIdETrnWgg=="
     }
   },
   "SHC": {
@@ -14061,9 +14106,57 @@
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEknOOhKMmgrJYJh2K7jg4p4584G/DcJUswtOjw+4fAnvzIX5qxCVq0FaaQTIRlxwYCVjkIOlJ5FeVi4NtfGD4HQ=="
     },
+    "https://epicproxy.et0946.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#e7I5jqLa1YYlGQ-sL1F5Txw_Df769DsY1Z1NSRRUnwc": {
+      "displayName": {
+        "en": "Palos Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEGUMMStzGd71InjK5zG/SCuCRSG/SIhVMONcn0zqjSCrkPQvhzROQfp2IpUb7gTnHPNjcO2H/NgKxsd/35Sx2gg=="
+    },
+    "https://fhir.clinical.bcm.edu/stage1fhir/api/epic/2021/Security/Open/EcKeys/32001/SHC#-h7TjqJB9Sn2yp2e9wO-Pf6YibiRGKjceNHgLGBvaM8": {
+      "displayName": {
+        "en": "Baylor Medicine"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEigBizDjpvWGQAHlcRPbiMWlISAfr4DDgZQJFs50/2bYStD+4oN4wqJxMA+t6dzCYQ6oC9dmWVjbDjNEIpSu9pQ=="
+    },
+    "https://epicsoap.bmctotalcare.com/fhir/api/epic/2021/Security/Open/EcKeys/32001/SHC#t8qXEf0fKebVbXI8AwjqHRiDwF8FtatVyPA9wstzhqs": {
+      "displayName": {
+        "en": "Summit Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEfejvo/gUVg/Siajp3ycYcp6E/pAgc0D3pX+1PfL6QKuNSRrahUlOkJ9Gvh6BPP4EgJSA3wX7cHN5QFvb6P9rLw=="
+    },
+    "https://sclprdproxy.sclhs.net/FHIRPRD-2017/api/epic/2021/Security/Open/EcKeys/32001/SHC#KBah6YdfLp3Y4ckJnLjRRUJIhnHRtzIFkJhAscuWzJY": {
+      "displayName": {
+        "en": "SCL Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEai9nKmvm3KEgAl7YE7bCqLyboEHPCWWolR4Q4ZwG4DhUGmcsGaIWwCzAvhl5I5GSM1MeD2J4xa4mbqjC/zml/Q=="
+    },
     "https://smart.slhd.nsw.gov.au/health-card#N0m1xWynBFseTVM_9HtBEGi_XK6VAGZ4mgbrpU72B-M": {
       "displayName": {
-        "en": ""
+        "en": "Sydney Local Health District"
       },
       "entityType": "issuer",
       "status": "current",
