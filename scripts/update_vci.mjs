@@ -101,6 +101,7 @@ export async function update(registry) {
         if (!registry["SmartHealthCards"][label]) {
           let newReg = {
               "displayName": {  "en": e.name },
+              ...(e.website && {displayURL: e.website}),
               "entityType": "issuer",
               "status": "current",
               "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -109,6 +110,10 @@ export async function update(registry) {
                 "https://smarthealth.cards#immunization"
               ]
           };
+
+          if (e.website) {
+            newReg['displayURL'] = e.website;
+          }
 
           console.log(colors.added, label, 'has been added', newReg);
           registry["SmartHealthCards"][label] = newReg;
@@ -117,6 +122,8 @@ export async function update(registry) {
 
           let newReg = {
               "displayName": {  "en": e.name },
+              ...(e.website && {displayURL: e.website}),
+              ...(oldReg.displayLogo && {displayLogo: oldReg.displayLogo}),
               "entityType": "issuer",
               "status": "current",
               "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -126,11 +133,8 @@ export async function update(registry) {
               ]
           };
 
-          if (oldReg.displayLogo) {
-            newReg['displayLogo'] = oldReg.displayLogo;
-          }
-
           if (!deepEqual(newReg, oldReg)) {
+            registry["SmartHealthCards"][label] = newReg;
             console.log(colors.modified, label, 'has changed to ', newReg, " from ", oldReg);
           } else {
             console.log(colors.unchanged, e.name);

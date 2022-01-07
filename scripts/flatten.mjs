@@ -18,7 +18,8 @@ for (let framework in registry) {
         v.displayLogo ? Buffer.from(v.displayLogo).toString('base64') : "",
         v.validFromDT,
         v.validUntilDT,
-        v.publicKey
+        v.publicKey,
+        v.displayURL ? Buffer.from(v.displayURL).toString('base64') : "",
       ].join(","));
     }
   } 

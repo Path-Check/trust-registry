@@ -7855,8 +7855,9 @@
   "SmartHealthCards": {
     "https://api.myirmobile.com/issuer#aQ8UtrF8UuWjSv5yQEgsiYyh_wsyRZ8fouggmtB38I8": {
       "displayName": {
-        "en": "MyIR Mobile"
+        "en": "MyIR: AZ DC LA MD MS WA WV"
       },
+      "displayURL": "https://myirmobile.com",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -7999,6 +8000,7 @@
       "displayName": {
         "en": "Gouvernement du Québec - Government of Quebec"
       },
+      "displayURL": "https://www.quebec.ca/vaccinationpassport",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -8059,6 +8061,7 @@
       "displayName": {
         "en": "Government of Nova Scotia"
       },
+      "displayURL": "https://novascotia.ca/proof",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -8139,6 +8142,7 @@
       "displayName": {
         "en": "Southeast Health"
       },
+      "displayURL": "https://www.southeasthealth.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -8199,6 +8203,7 @@
       "displayName": {
         "en": "Government of Newfoundland and Labrador"
       },
+      "displayURL": "https://www.gov.nl.ca/covid-19/life-during-covid-19/vaccination-record/citizens/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -8260,6 +8265,7 @@
       "displayName": {
         "en": "Cedars-Sinai Medical Center"
       },
+      "displayURL": "https://www.cedars-sinai.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -8300,6 +8306,7 @@
       "displayName": {
         "en": "Franciscan Alliance"
       },
+      "displayURL": "https://www.franciscanhealth.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -8340,6 +8347,7 @@
       "displayName": {
         "en": "Riverside Health System"
       },
+      "displayURL": "https://www.riversideonline.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -8400,6 +8408,7 @@
       "displayName": {
         "en": "Methodist Health System"
       },
+      "displayURL": "https://www.methodisthealthsystem.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -8420,6 +8429,7 @@
       "displayName": {
         "en": "University of Texas Medical Branch"
       },
+      "displayURL": "https://www.utmbhealth.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -8440,6 +8450,7 @@
       "displayName": {
         "en": "UNC Health Care System"
       },
+      "displayURL": "https://www.unchealthcare.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -8460,6 +8471,7 @@
       "displayName": {
         "en": "Centura Health"
       },
+      "displayURL": "https://www.centura.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -8480,6 +8492,7 @@
       "displayName": {
         "en": "City of Hope"
       },
+      "displayURL": "https://www.cityofhope.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -8540,6 +8553,7 @@
       "displayName": {
         "en": "Advocate Aurora Health"
       },
+      "displayURL": "https://www.advocateaurorahealth.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -8560,6 +8574,7 @@
       "displayName": {
         "en": "Mt Sinai - FL"
       },
+      "displayURL": "https://www.msmc.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -8580,6 +8595,7 @@
       "displayName": {
         "en": "Presbyterian Healthcare Services"
       },
+      "displayURL": "https://www.phs.org",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -8600,6 +8616,7 @@
       "displayName": {
         "en": "UnityPoint Health"
       },
+      "displayURL": "https://www.unitypoint.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -8620,6 +8637,7 @@
       "displayName": {
         "en": "QuadMed"
       },
+      "displayURL": "https://www.quadmedical.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -8640,6 +8658,7 @@
       "displayName": {
         "en": "University of Texas Southwestern Medical Center"
       },
+      "displayURL": "https://www.utsouthwestern.edu/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -8680,6 +8699,7 @@
       "displayName": {
         "en": "Johns Hopkins Medicine"
       },
+      "displayURL": "https://hopkinsmedicine.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -8860,6 +8880,7 @@
       "displayName": {
         "en": "UConn Health"
       },
+      "displayURL": "https://health.uconn.edu/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -8880,6 +8901,7 @@
       "displayName": {
         "en": "South Georgia Medical Center"
       },
+      "displayURL": "https://www.sgmc.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -8920,6 +8942,7 @@
       "displayName": {
         "en": "Premise Health"
       },
+      "displayURL": "https://premisehealth.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -8940,6 +8963,7 @@
       "displayName": {
         "en": "Molina Healthcare"
       },
+      "displayURL": "https://www.molinahealthcare.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -8960,6 +8984,7 @@
       "displayName": {
         "en": "Montage Health"
       },
+      "displayURL": "https://www.montagehealth.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -9040,6 +9065,7 @@
       "displayName": {
         "en": "Middlesex Health"
       },
+      "displayURL": "https://middlesexhealth.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -9100,6 +9126,7 @@
       "displayName": {
         "en": "Hartford HealthCare"
       },
+      "displayURL": "https://hartfordhealthcare.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -9120,6 +9147,7 @@
       "displayName": {
         "en": "UW Health"
       },
+      "displayURL": "https://www.uwhealth.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -9140,6 +9168,7 @@
       "displayName": {
         "en": "Mercyhealth"
       },
+      "displayURL": "https://mercyhealthsystem.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -9220,6 +9249,7 @@
       "displayName": {
         "en": "Stormont-Vail"
       },
+      "displayURL": "https://mychart.stormontvail.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -9240,6 +9270,7 @@
       "displayName": {
         "en": "Community Medical Centers"
       },
+      "displayURL": "https://communitymedical.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -9340,6 +9371,7 @@
       "displayName": {
         "en": "Mercy Medical Center"
       },
+      "displayURL": "https://www.mercycare.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -9380,6 +9412,7 @@
       "displayName": {
         "en": "Community Health Network"
       },
+      "displayURL": "https://www.ecommunity.com",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12180,6 +12213,7 @@
       "displayName": {
         "en": "Pediatric Physicians' Organization at Children's"
       },
+      "displayURL": "https://www.ppochildrens.org/locate-a-practice/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12220,6 +12254,7 @@
       "displayName": {
         "en": "Spectrum Health Lakeland"
       },
+      "displayURL": "https://www.spectrumhealthlakeland.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12280,6 +12315,7 @@
       "displayName": {
         "en": "Renown Health"
       },
+      "displayURL": "https://www.renown.org/en/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12300,6 +12336,7 @@
       "displayName": {
         "en": "Seattle Children’s"
       },
+      "displayURL": "https://www.seattlechildrens.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12360,6 +12397,7 @@
       "displayName": {
         "en": "Scripps Health"
       },
+      "displayURL": "https://www.scripps.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12380,6 +12418,7 @@
       "displayName": {
         "en": "Sparrow Health System"
       },
+      "displayURL": "https://www.sparrow.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12980,6 +13019,7 @@
       "displayName": {
         "en": "Hennepin Healthcare"
       },
+      "displayURL": "https://www.hennepinhealthcare.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13020,6 +13060,7 @@
       "displayName": {
         "en": "Atrius Health"
       },
+      "displayURL": "https://www.atriushealth.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13100,6 +13141,7 @@
       "displayName": {
         "en": "Group Health Cooperative - South Central Wisconsin"
       },
+      "displayURL": "https://ghcscw.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13120,6 +13162,7 @@
       "displayName": {
         "en": "Hackensack Meridian Health"
       },
+      "displayURL": "https://www.hackensackmeridianhealth.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13180,6 +13223,7 @@
       "displayName": {
         "en": "Austin Regional Clinic"
       },
+      "displayURL": "https://www.austinregionalclinic.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13453,6 +13497,7 @@
       "displayName": {
         "en": "Baptist Memorial Health Care"
       },
+      "displayURL": "https://www.baptistonline.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13473,6 +13518,7 @@
       "displayName": {
         "en": "Baylor Scott & White Health"
       },
+      "displayURL": "https://www.bswhealth.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13533,6 +13579,7 @@
       "displayName": {
         "en": "St. Elizabeth Healthcare"
       },
+      "displayURL": "https://stelizabeth.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13593,6 +13640,7 @@
       "displayName": {
         "en": "ProHealth"
       },
+      "displayURL": "https://www.prohealthcare.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13633,6 +13681,7 @@
       "displayName": {
         "en": "OSF HealthCare"
       },
+      "displayURL": "https://www.osfhealthcare.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13653,6 +13702,7 @@
       "displayName": {
         "en": "Penn Medicine"
       },
+      "displayURL": "https://www.pennmedicine.org",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13673,6 +13723,7 @@
       "displayName": {
         "en": "Kelsey-Seybold Clinic"
       },
+      "displayURL": "https://www.kelsey-seybold.com",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13753,6 +13804,7 @@
       "displayName": {
         "en": "Denver Health"
       },
+      "displayURL": "https://www.denverhealth.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13773,6 +13825,7 @@
       "displayName": {
         "en": "Hawaii Pacific Health"
       },
+      "displayURL": "https://www.hawaiipacifichealth.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13834,6 +13887,7 @@
       "displayName": {
         "en": "UT Health San Antonio"
       },
+      "displayURL": "https://www.uthscsa.edu/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13854,6 +13908,7 @@
       "displayName": {
         "en": "One Brooklyn Health System"
       },
+      "displayURL": "https://onebrooklynhealth.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13914,6 +13969,7 @@
       "displayName": {
         "en": "Mary Washington Healthcare"
       },
+      "displayURL": "https://www.marywashingtonhealthcare.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13994,6 +14050,7 @@
       "displayName": {
         "en": "Walgreens"
       },
+      "displayURL": "https://www.walgreens.com",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14014,6 +14071,7 @@
       "displayName": {
         "en": "State of Utah"
       },
+      "displayURL": "https://docket.care",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14034,6 +14092,7 @@
       "displayName": {
         "en": "State of New Jersey"
       },
+      "displayURL": "https://docket.care",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14054,6 +14113,7 @@
       "displayName": {
         "en": "Government of Manitoba"
       },
+      "displayURL": "https://manitoba.ca/covid19/vaccine/immunizationrecord/residents.html#immunization-cards",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14074,6 +14134,7 @@
       "displayName": {
         "en": "San Francisco Department of Public Health"
       },
+      "displayURL": "https://mychart.sfdph.org/MyChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14134,6 +14195,7 @@
       "displayName": {
         "en": "Samaritan Health Services"
       },
+      "displayURL": "https://www.samhealth.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14154,6 +14216,7 @@
       "displayName": {
         "en": "University of Mississippi Medical Center"
       },
+      "displayURL": "https://www.umc.edu/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14194,6 +14257,7 @@
       "displayName": {
         "en": "Catholic Health System"
       },
+      "displayURL": "https://www.chsbuffalo.org",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14214,6 +14278,7 @@
       "displayName": {
         "en": "NYU Langone Health System"
       },
+      "displayURL": "https://nyulangone.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14234,6 +14299,7 @@
       "displayName": {
         "en": "Bryan Health"
       },
+      "displayURL": "https://www.bryanhealth.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14254,6 +14320,7 @@
       "displayName": {
         "en": "PeaceHealth"
       },
+      "displayURL": "https://www.peacehealth.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14294,6 +14361,7 @@
       "displayName": {
         "en": "Tower Health"
       },
+      "displayURL": "https://towerhealth.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14334,6 +14402,7 @@
       "displayName": {
         "en": "ProMedica"
       },
+      "displayURL": "https://www.promedica.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14354,6 +14423,7 @@
       "displayName": {
         "en": "The University of Texas MD Anderson Cancer Center"
       },
+      "displayURL": "https://www.mdanderson.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14394,6 +14464,7 @@
       "displayName": {
         "en": "Genesis Healthcare System"
       },
+      "displayURL": "https://www.genesishcs.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14434,6 +14505,7 @@
       "displayName": {
         "en": "Saint Luke’s Health System KC"
       },
+      "displayURL": "https://www.saintlukeskc.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14454,6 +14526,7 @@
       "displayName": {
         "en": "Bayhealth Medical Center"
       },
+      "displayURL": "https://www.bayhealth.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14474,6 +14547,7 @@
       "displayName": {
         "en": "Erlanger Health System"
       },
+      "displayURL": "https://www.erlanger.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14494,6 +14568,7 @@
       "displayName": {
         "en": "Northwestern Medicine"
       },
+      "displayURL": "https://www.nm.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14574,6 +14649,7 @@
       "displayName": {
         "en": "Northwest Community Hospital"
       },
+      "displayURL": "https://www.nch.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14594,6 +14670,7 @@
       "displayName": {
         "en": "Cleveland Clinic"
       },
+      "displayURL": "https://my.clevelandclinic.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14614,6 +14691,7 @@
       "displayName": {
         "en": "CT Department of Public Health"
       },
+      "displayURL": "https://portal.ct.gov/DPH/Immunizations/CT-WiZ-Access-My-Immunization-Record",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14634,6 +14712,7 @@
       "displayName": {
         "en": "State of Nevada"
       },
+      "displayURL": "https://izrecord.nv.gov/public/Application/PublicPortal",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14714,6 +14793,7 @@
       "displayName": {
         "en": "Guam Department of Public Health & Social Services"
       },
+      "displayURL": "https://dphss.guam.gov/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14815,6 +14895,7 @@
       "displayName": {
         "en": "Houston Methodist"
       },
+      "displayURL": "https://www.houstonmethodist.org",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14855,6 +14936,7 @@
       "displayName": {
         "en": "Vidant Health"
       },
+      "displayURL": "https://www.vidanthealth.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14935,6 +15017,7 @@
       "displayName": {
         "en": "The Christ Hospital"
       },
+      "displayURL": "https://www.thechristhospital.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14955,6 +15038,7 @@
       "displayName": {
         "en": "Boulder Community Health"
       },
+      "displayURL": "https://www.bch.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15015,6 +15099,7 @@
       "displayName": {
         "en": "Duke University Health System"
       },
+      "displayURL": "https://www.dukehealth.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15035,6 +15120,7 @@
       "displayName": {
         "en": "State of Colorado"
       },
+      "displayURL": "https://mycolorado.page.link/shc",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15055,6 +15141,7 @@
       "displayName": {
         "en": "Monument Health"
       },
+      "displayURL": " https://monument.health/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15115,6 +15202,7 @@
       "displayName": {
         "en": "Lexington Medical Center"
       },
+      "displayURL": "https://www.lexmed.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15135,6 +15223,7 @@
       "displayName": {
         "en": "Novant Health"
       },
+      "displayURL": "https://www.novanthealth.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15155,6 +15244,7 @@
       "displayName": {
         "en": "FirstHealth of the Carolinas"
       },
+      "displayURL": "https://www.firsthealth.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15175,6 +15265,7 @@
       "displayName": {
         "en": "Oregon Health & Science University"
       },
+      "displayURL": "https://www.ohsu.edu/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15215,6 +15306,7 @@
       "displayName": {
         "en": "Valley Children’s Healthcare"
       },
+      "displayURL": "https://www.valleychildrens.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15235,6 +15327,7 @@
       "displayName": {
         "en": "El Rio Health"
       },
+      "displayURL": "https://www.elrio.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15255,6 +15348,7 @@
       "displayName": {
         "en": "GW University Medical Faculty Associates"
       },
+      "displayURL": "https://gwdocs.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15275,6 +15369,7 @@
       "displayName": {
         "en": "Arkansas Children’s"
       },
+      "displayURL": "https://www.archildrens.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15295,6 +15390,7 @@
       "displayName": {
         "en": "Hospital for Special Surgery"
       },
+      "displayURL": "https://www.hss.edu/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15315,6 +15411,7 @@
       "displayName": {
         "en": "University of Michigan Health-West"
       },
+      "displayURL": "https://uofmhealthwest.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15355,6 +15452,7 @@
       "displayName": {
         "en": "Ballad Health"
       },
+      "displayURL": "https://www.balladhealth.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15375,6 +15473,7 @@
       "displayName": {
         "en": "Confluence Health"
       },
+      "displayURL": "https://www.confluencehealth.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15395,6 +15494,7 @@
       "displayName": {
         "en": "WakeMed"
       },
+      "displayURL": "https://www.wakemed.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15435,6 +15535,7 @@
       "displayName": {
         "en": "Norton Healthcare"
       },
+      "displayURL": "https://nortonhealthcare.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15455,6 +15556,7 @@
       "displayName": {
         "en": "UNC Health Care System"
       },
+      "displayURL": "https://www.unchealthcare.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15475,6 +15577,7 @@
       "displayName": {
         "en": "Hurley Medical Center"
       },
+      "displayURL": "https://www.hurleymc.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15495,6 +15598,7 @@
       "displayName": {
         "en": "UI Health"
       },
+      "displayURL": "https://hospital.uillinois.edu/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15535,6 +15639,7 @@
       "displayName": {
         "en": "TidalHealth"
       },
+      "displayURL": "https://tidalhealth.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15555,6 +15660,7 @@
       "displayName": {
         "en": "Sansum Clinic"
       },
+      "displayURL": "https://www.sansumclinic.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15595,6 +15701,7 @@
       "displayName": {
         "en": "Meritus Health"
       },
+      "displayURL": "https://www.meritushealth.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15615,6 +15722,7 @@
       "displayName": {
         "en": "The Portland Clinic"
       },
+      "displayURL": "https://www.theportlandclinic.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15635,6 +15743,7 @@
       "displayName": {
         "en": "St. Luke’s University Health Network"
       },
+      "displayURL": "https://www.slhn.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15715,6 +15824,7 @@
       "displayName": {
         "en": "Texas Children’s Hospital"
       },
+      "displayURL": "https://www.texaschildrens.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15735,6 +15845,7 @@
       "displayName": {
         "en": "Vancouver Clinic"
       },
+      "displayURL": "https://tvc.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15755,6 +15866,7 @@
       "displayName": {
         "en": "Henry Ford Health System"
       },
+      "displayURL": "https://www.henryford.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15775,6 +15887,7 @@
       "displayName": {
         "en": "Gouvernement du Québec - Government of Quebec"
       },
+      "displayURL": "https://www.quebec.ca/vaccinationpassport",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15795,6 +15908,7 @@
       "displayName": {
         "en": "Hospital for Special Surgery"
       },
+      "displayURL": "https://www.hss.edu/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15815,6 +15929,7 @@
       "displayName": {
         "en": "Loma Linda University Health, Riverside University Health System, SAC Health System, and Affiliates"
       },
+      "displayURL": "https://mychart.ieccn.org/MyChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15995,6 +16110,7 @@
       "displayName": {
         "en": "Dartmouth-Hitchcock Health"
       },
+      "displayURL": "https://www.dartmouth-hitchcock.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16015,6 +16131,7 @@
       "displayName": {
         "en": "Mount Sinai Health System"
       },
+      "displayURL": "https://www.mountsinai.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16055,6 +16172,7 @@
       "displayName": {
         "en": "Reliant Medical Group"
       },
+      "displayURL": "https://reliantmedicalgroup.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16095,6 +16213,7 @@
       "displayName": {
         "en": "CHRISTUS Health"
       },
+      "displayURL": "https://www.christushealth.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16135,6 +16254,7 @@
       "displayName": {
         "en": "Shannon Health"
       },
+      "displayURL": "https://www.shannonhealth.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16155,6 +16275,7 @@
       "displayName": {
         "en": "UW Medicine"
       },
+      "displayURL": "https://www.uwmedicine.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16175,6 +16296,7 @@
       "displayName": {
         "en": "Yakima Valley Farm Workers Clinic"
       },
+      "displayURL": "https://www.yvfwc.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16215,6 +16337,7 @@
       "displayName": {
         "en": "Riverside Healthcare"
       },
+      "displayURL": "https://www.riversidehealthcare.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16255,6 +16378,7 @@
       "displayName": {
         "en": "Fairview Health Services"
       },
+      "displayURL": "https://www.fairview.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16275,6 +16399,7 @@
       "displayName": {
         "en": "WVU Medicine"
       },
+      "displayURL": "https://wvumedicine.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16295,6 +16420,7 @@
       "displayName": {
         "en": "HonorHealth"
       },
+      "displayURL": "https://www.honorhealth.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16315,6 +16441,7 @@
       "displayName": {
         "en": "Brown and Toland Physicians"
       },
+      "displayURL": "https://www.brownandtoland.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16335,6 +16462,7 @@
       "displayName": {
         "en": "The Brooklyn Hospital Center"
       },
+      "displayURL": "https://www.tbh.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16615,6 +16743,7 @@
       "displayName": {
         "en": "Access Community Health Network"
       },
+      "displayURL": "https://www.achn.net/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16635,6 +16764,7 @@
       "displayName": {
         "en": "Lancaster General Health"
       },
+      "displayURL": "https://www.lancastergeneralhealth.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16675,6 +16805,7 @@
       "displayName": {
         "en": "Cheyenne Regional Medical Center"
       },
+      "displayURL": "https://www.cheyenneregional.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16715,6 +16846,7 @@
       "displayName": {
         "en": "Valleywise Health"
       },
+      "displayURL": "https://valleywisehealth.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16735,6 +16867,7 @@
       "displayName": {
         "en": "Mercy"
       },
+      "displayURL": "https://www.MyMercy.net",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16755,6 +16888,7 @@
       "displayName": {
         "en": "Medical University of South Carolina"
       },
+      "displayURL": "https://web.musc.edu/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16775,6 +16909,7 @@
       "displayName": {
         "en": "Olmsted Medical Center"
       },
+      "displayURL": "https://www.olmmed.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16795,6 +16930,7 @@
       "displayName": {
         "en": "Rush University Medical Center"
       },
+      "displayURL": "https://www.rush.edu/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16815,6 +16951,7 @@
       "displayName": {
         "en": "Atlantic Health System"
       },
+      "displayURL": "https://www.atlantichealth.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16855,6 +16992,7 @@
       "displayName": {
         "en": "Greater Baltimore Medical Center"
       },
+      "displayURL": "https://www.gbmc.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16940,6 +17078,7 @@
       "displayName": {
         "en": "The Institute for Family Health"
       },
+      "displayURL": "https://institute.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16960,6 +17099,7 @@
       "displayName": {
         "en": "Licking Memorial Health Systems"
       },
+      "displayURL": "https://www.lmhealth.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16980,6 +17120,7 @@
       "displayName": {
         "en": "New York City Health and Hospitals"
       },
+      "displayURL": "https://www.nychealthandhospitals.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17000,6 +17141,7 @@
       "displayName": {
         "en": "Salinas Valley Memorial Healthcare System"
       },
+      "displayURL": "https://www.svmh.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17060,6 +17202,7 @@
       "displayName": {
         "en": "Singing River Health System"
       },
+      "displayURL": "https://singingriverhealthsystem.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17080,6 +17223,7 @@
       "displayName": {
         "en": "Connecticut Children’s"
       },
+      "displayURL": "https://www.connecticutchildrens.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17100,6 +17244,7 @@
       "displayName": {
         "en": "Vanderbilt University Medical Center"
       },
+      "displayURL": "https://www.vanderbilthealth.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17140,6 +17285,7 @@
       "displayName": {
         "en": "Nebraska Medicine"
       },
+      "displayURL": "https://www.nebraskamed.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17160,6 +17306,7 @@
       "displayName": {
         "en": "Community Health Network"
       },
+      "displayURL": "https://www.ecommunity.com",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17180,6 +17327,7 @@
       "displayName": {
         "en": "Washington Hospital Healthcare System"
       },
+      "displayURL": "https://www.whhs.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17220,6 +17368,7 @@
       "displayName": {
         "en": "University of Louisville Physicians"
       },
+      "displayURL": "https://uoflphysicians.com",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17240,6 +17389,7 @@
       "displayName": {
         "en": "New Jersey Urology"
       },
+      "displayURL": "https://njurology.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17280,6 +17430,7 @@
       "displayName": {
         "en": "Lakeland Regional Health"
       },
+      "displayURL": "https://www.mylrh.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17300,6 +17451,7 @@
       "displayName": {
         "en": "Main Line Health"
       },
+      "displayURL": "https://www.mainlinehealth.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17320,6 +17472,7 @@
       "displayName": {
         "en": "RMI Ministry of Health and Human Services"
       },
+      "displayURL": "https://webiz.rmihealth.org/webiznet_rmi/Login.aspx",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17340,6 +17493,7 @@
       "displayName": {
         "en": "City of Philadelphia"
       },
+      "displayURL": "https://vax.phila.gov/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17380,6 +17534,7 @@
       "displayName": {
         "en": "FSM Department of Health and Social Affairs"
       },
+      "displayURL": "https://hsa.gov.fm/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17420,6 +17575,7 @@
       "displayName": {
         "en": "Eskenazi Health"
       },
+      "displayURL": "https://www.eskenazihealth.edu/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17480,6 +17636,7 @@
       "displayName": {
         "en": "Hospital for Special Surgery"
       },
+      "displayURL": "https://www.hss.edu/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17500,6 +17657,7 @@
       "displayName": {
         "en": "Hospital for Special Surgery"
       },
+      "displayURL": "https://www.hss.edu/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17520,6 +17678,7 @@
       "displayName": {
         "en": "Mercy Health Services (MD)"
       },
+      "displayURL": "https://mdmercy.com",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17540,6 +17699,7 @@
       "displayName": {
         "en": "Columbus Regional Health"
       },
+      "displayURL": "https://www.crh.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17560,6 +17720,7 @@
       "displayName": {
         "en": "Cambridge Health Alliance"
       },
+      "displayURL": "https://www.challiance.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17580,6 +17741,7 @@
       "displayName": {
         "en": "Northeast Georgia Health System"
       },
+      "displayURL": "https://www.nghs.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17600,6 +17762,7 @@
       "displayName": {
         "en": "Saint Francis Health System"
       },
+      "displayURL": "https://www.saintfrancis.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17640,6 +17803,7 @@
       "displayName": {
         "en": "Sentara Healthcare"
       },
+      "displayURL": "https://www.sentara.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17680,6 +17844,7 @@
       "displayName": {
         "en": "UF Health"
       },
+      "displayURL": "https://ufhealth.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17700,6 +17865,7 @@
       "displayName": {
         "en": "UCLA"
       },
+      "displayURL": "https://www.uclahealth.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17760,6 +17926,7 @@
       "displayName": {
         "en": "NorthShore University HealthSystem"
       },
+      "displayURL": "https://www.northshore.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17780,6 +17947,7 @@
       "displayName": {
         "en": "Southcoast Health"
       },
+      "displayURL": "https://www.southcoast.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17800,6 +17968,7 @@
       "displayName": {
         "en": "Garnet Health"
       },
+      "displayURL": "https://www.garnethealth.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18093,6 +18262,7 @@
       "displayName": {
         "en": "Parkland Health"
       },
+      "displayURL": "https://www.parklandhospital.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18343,6 +18513,7 @@
       "displayName": {
         "en": "Baylor Medicine"
       },
+      "displayURL": "https://www.bcm.edu/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18383,6 +18554,7 @@
       "displayName": {
         "en": "SCL Health"
       },
+      "displayURL": "https://www.sclhealth.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
