@@ -14060,6 +14060,18 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEknOOhKMmgrJYJh2K7jg4p4584G/DcJUswtOjw+4fAnvzIX5qxCVq0FaaQTIRlxwYCVjkIOlJ5FeVi4NtfGD4HQ=="
+    },
+    "https://smart.slhd.nsw.gov.au/health-card#N0m1xWynBFseTVM_9HtBEGi_XK6VAGZ4mgbrpU72B-M": {
+      "displayName": {
+        "en": ""
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEDPF9XbHKubgH8cKqNLZ8yh1xVw+s2AaOYbd8xLNBNfOvOXkoC9e6UPH3csNDi4QAmepyAdy2iie9bYCkURos9g=="
     }
   }
 }
