@@ -18398,6 +18398,26 @@
       "credentialType": [
         "https://smarthealth.cards#immunization"
       ]
+    },
+    "https://smart.slhd.nsw.gov.au/health-card#N0m1xWynBFseTVM_9HtBEGi_XK6VAGZ4mgbrpU72B-M": {
+      "displayName": {
+        "en": "Sydney Local Health District"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "use": "sig",
+        "crv": "P-256",
+        "kid": "N0m1xWynBFseTVM_9HtBEGi_XK6VAGZ4mgbrpU72B-M",
+        "x": "DPF9XbHKubgH8cKqNLZ8yh1xVw-s2AaOYbd8xLNBNfM",
+        "y": "rzl5KAvXulDx93LDQ4uEAJnqcgHctoonvW2ApFEaLPY",
+        "alg": "ES256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
     }
   }
 }
