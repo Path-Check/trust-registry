@@ -18319,21 +18319,81 @@
         "https://smarthealth.cards#immunization"
       ]
     },
-    "https://smart.slhd.nsw.gov.au/health-card#N0m1xWynBFseTVM_9HtBEGi_XK6VAGZ4mgbrpU72B-M": {
+    "https://epicproxy.et0946.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#e7I5jqLa1YYlGQ-sL1F5Txw_Df769DsY1Z1NSRRUnwc": {
       "displayName": {
-        "en": ""
+        "en": "Palos Health"
       },
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
       "didDocument": {
-        "kty": "EC",
+        "x": "GUMMStzGd71InjK5zG_SCuCRSG_SIhVMONcn0zqjSCo",
+        "y": "5D0L4c0TkH6diKVG-4E5xzzY3Dth_zYCsbHf9-UsdoI",
+        "kid": "e7I5jqLa1YYlGQ-sL1F5Txw_Df769DsY1Z1NSRRUnwc",
         "use": "sig",
-        "crv": "P-256",
-        "kid": "N0m1xWynBFseTVM_9HtBEGi_XK6VAGZ4mgbrpU72B-M",
-        "x": "DPF9XbHKubgH8cKqNLZ8yh1xVw-s2AaOYbd8xLNBNfM",
-        "y": "rzl5KAvXulDx93LDQ4uEAJnqcgHctoonvW2ApFEaLPY",
-        "alg": "ES256"
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://fhir.clinical.bcm.edu/stage1fhir/api/epic/2021/Security/Open/EcKeys/32001/SHC#-h7TjqJB9Sn2yp2e9wO-Pf6YibiRGKjceNHgLGBvaM8": {
+      "displayName": {
+        "en": "Baylor Medicine"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "igBizDjpvWGQAHlcRPbiMWlISAfr4DDgZQJFs50_2bY",
+        "y": "ErQ_uKDeMKicTAPrencwmEOqAvXZllY2w4zRCKUrvaU",
+        "kid": "-h7TjqJB9Sn2yp2e9wO-Pf6YibiRGKjceNHgLGBvaM8",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epicsoap.bmctotalcare.com/fhir/api/epic/2021/Security/Open/EcKeys/32001/SHC#t8qXEf0fKebVbXI8AwjqHRiDwF8FtatVyPA9wstzhqs": {
+      "displayName": {
+        "en": "Summit Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "fejvo_gUVg_Siajp3ycYcp6E_pAgc0D3pX-1PfL6QKs",
+        "y": "jUka2oVJTpCfRr4egTz-BICUgN8F-3BzeUBb2-j_ay8",
+        "kid": "t8qXEf0fKebVbXI8AwjqHRiDwF8FtatVyPA9wstzhqs",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://sclprdproxy.sclhs.net/FHIRPRD-2017/api/epic/2021/Security/Open/EcKeys/32001/SHC#KBah6YdfLp3Y4ckJnLjRRUJIhnHRtzIFkJhAscuWzJY": {
+      "displayName": {
+        "en": "SCL Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "ai9nKmvm3KEgAl7YE7bCqLyboEHPCWWolR4Q4ZwG4Dg",
+        "y": "VBpnLBmiFsAswL4ZeSORkjNTHg9ieMWuJm6owv85pf0",
+        "kid": "KBah6YdfLp3Y4ckJnLjRRUJIhnHRtzIFkJhAscuWzJY",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
       },
       "credentialType": [
         "https://smarthealth.cards#immunization"
