@@ -13302,11 +13302,12 @@
     },
     "https://myvaxrecords.mass.gov#2jHkmZokXxQYjOF2i9NDL7avxSGDzWM7k3glNnunXqQ": {
       "displayName": {
-        "en": "State of Massachusetts"
+        "en": "Commonwealth of Massachusetts"
       },
+      "displayURL": "https://myvaxrecords.mass.gov",
       "entityType": "issuer",
       "status": "current",
-      "validFromDT": "2022-01-01T01:00:00.000Z",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
       "didDocument": {
         "kty": "EC",
         "crv": "P-256",
