@@ -14338,6 +14338,82 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEDPF9XbHKubgH8cKqNLZ8yh1xVw+s2AaOYbd8xLNBNfOvOXkoC9e6UPH3csNDi4QAmepyAdy2iie9bYCkURos9g=="
+    },
+    "https://fhir.laheyhealth.org/proxy-prd-fhir/api/epic/2021/Security/Open/EcKeys/32001/SHC#sD58-y5XzRBuAYTrnM5nS-UATnz-svgmrg9k5_HIrFM": {
+      "displayName": {
+        "en": "Lahey Health"
+      },
+      "displayURL": "https://www.lahey.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEfINgSvlfOnQ7wnNOCzXoU+6/BeA+ll8hTYJqZfgsJw4NvMz4S/tE5ajf5DBNiYT4VQTcTILbj9Q/fNoC1idRIg=="
+    },
+    "https://epicmobile.nhrmc.org/OAuth2-PRD/api/epic/2021/Security/Open/EcKeys/32001/SHC#oThTEpqjupRvyvsNIdaxOjQ5fnYDUnYqyXdveuTvcQw": {
+      "displayName": {
+        "en": "New Hanover Regional Medical Center"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEzo+/rw0+HgnsDvJniKQxIlQqtOXYgRdMIf3saiAHV1DijuVkLctU3ADh9tn4gW6YD222Jgdw2usWiG51ejZsCA=="
+    },
+    "https://fhir.johnmuirhealth.com/fhir-prd/api/epic/2021/Security/Open/EcKeys/32001/SHC#xOCk6XINgNsZO94QsqBCnTve96kHIfC_l2fIA4bksqc": {
+      "displayName": {
+        "en": "John Muir Health"
+      },
+      "displayURL": "https://www.johnmuirhealth.com/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEIDu7pci8Wr3qc8vIoo5ovM2Lvwd4ui/WLOVffHUYWNBRUQG8UTsXwK/CNwPxm3ZJMZACMMoFGnVm76+zY19yVA=="
+    },
+    "https://epicproxy.et1149.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#fv8yidDRzHOtgyEaqBe4C2-tti9kIGG6vYM41qJKT-U": {
+      "displayName": {
+        "en": "Cape Cod HealthCare"
+      },
+      "displayURL": "https://www.capecodhealth.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEib6/sOQ5hnMSu1EPjXcYi9LNrhgOLPh2herj7P4dQOlVi8z3K8fUkBB51tEsjlnvtHYIkCP950AhPOXrLyW9Aw=="
+    },
+    "https://ebmobile14.ebnhc.org/FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC#OxiC0eIyFZe_j-3L3yr_ZOLaXc-VKbLjLtTqp5ShGL0": {
+      "displayName": {
+        "en": "East Boston Neighborhood Health Center"
+      },
+      "displayURL": "https://www.ebnhc.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEVHf8NBWRBI/6hbe1NWYGW0PaWtrPY+/hddn3fTa37CcPqxU/LGmKSuSSMhazr+RPGVaJ+fkksnPaNV+k3paizA=="
+    },
+    "https://fhir.mah.org/prd-fhir/api/epic/2021/Security/Open/EcKeys/32001/SHC#-MhcwalYrsFlCdSkM02QaT-av4I8YgZAavGw5R4VGdw": {
+      "displayName": {
+        "en": "Beth Israel Lahey Health Mount Auburn Hospital"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEC8gvcAA7W8XXgxnrFM/sxK9ogfvHO2uu0QAQA0y9OK8SgXsVCCZ4Xl42M9x5N9NnigL9uMfGbqshl8asW2/NfQ=="
     }
   }
 }
