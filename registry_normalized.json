@@ -14414,6 +14414,45 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEC8gvcAA7W8XXgxnrFM/sxK9ogfvHO2uu0QAQA0y9OK8SgXsVCCZ4Xl42M9x5N9NnigL9uMfGbqshl8asW2/NfQ=="
+    },
+    "https://epicproxy.et0915.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#nV5trGWntRI-iemPFzEhKBiaT9jy1wKbffVLM2mzfpE": {
+      "displayName": {
+        "en": "Prisma Health"
+      },
+      "displayURL": "https://www.prismahealth.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEhLMD3nt3ANBRIKkdIWBqlWvO3Mvc/4cDYH5nYtCNylvOd+MQaFDzUrmWhcOkUZYGXRQR+Mg3Q8RWCwU0DHdZuQ=="
+    },
+    "https://spp.caromonthealth.org/fhirproxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#H3oGY7mapRqQb9L_KCpH5eVkcGsJIM2QZOF1m-CeZ9k": {
+      "displayName": {
+        "en": "CaroMont Health"
+      },
+      "displayURL": "https://www.caromonthealth.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE4bpuV+XYWM9w3sal0jXbrBwoAOYjYfQnm0tVUcGsxb/uni3o9/oqQHkNHdX4mUIeFYBMFmutM/+edW9LTaubHA=="
+    },
+    "https://FHIR.valleymed.org/FHIR-PRD/api/epic/2021/Security/Open/EcKeys/32001/SHC#4XZuZB_fUaf_6Dsk7d5GonSo7oiPEXeW1EcZIP33gOI": {
+      "displayName": {
+        "en": "Valley Medical Center"
+      },
+      "displayURL": "https://www.valleymed.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE50lBqWEx2UjmEpB0GIvwsTjmVa1kyqRtYBMCqyeSQ7EGobAIv9ZFVgrtYstwfMfdI16J3+nEh3P+vmOIVIQ3XQ=="
     }
   }
 }
