@@ -14468,6 +14468,31 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE50lBqWEx2UjmEpB0GIvwsTjmVa1kyqRtYBMCqyeSQ7EGobAIv9ZFVgrtYstwfMfdI16J3+nEh3P+vmOIVIQ3XQ=="
+    },
+    "https://epicsoap.wellstar.org/fhirproxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#9cJjNUd_mdaZMqe4Q4BblQYvi2vbpXM9NQp7U6P0qvg": {
+      "displayName": {
+        "en": "Wellstar"
+      },
+      "displayURL": "https://www.wellstar.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE7mWji24Frfq5yIQ12l0oXPiWc9PYVdZeWhc0A175sZbd7QVShVYt4Q+psRvHISy+plGvfI0TEPQJm5aL/b4FSw=="
+    },
+    "https://smart.medconciergela.com/api/ISSUER#dKEeeC7VTe912gisnMXHxBCd3iFRuDHj76tWtb3uaBc": {
+      "displayName": {
+        "en": "Med Concierge LA"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEidIg3O8E2QN054L6XZ5lYlB+i2p7WMeOQ0H4SvQqFHfAvGgmEZHvUwFeTw0Wt2j9c1zerIwPhOHUOS/Q7nVQsQ=="
     }
   }
 }
