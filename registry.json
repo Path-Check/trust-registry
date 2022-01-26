@@ -18840,6 +18840,26 @@
       "credentialType": [
         "https://smarthealth.cards#immunization"
       ]
+    },
+    "https://app.outpost.health/smart#RnTJ2-fHoqbCfTZJDsKokUNxBPZO9-vT5qJbFltDEM4": {
+      "displayName": {
+        "en": "Outpost Healthcare"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "alg": "ES256",
+        "crv": "P-256",
+        "kid": "RnTJ2-fHoqbCfTZJDsKokUNxBPZO9-vT5qJbFltDEM4",
+        "kty": "EC",
+        "use": "sig",
+        "x": "aI155bhdsdxYnnYet3ZRe2v-_dkzjU5t0Lc6XJZ2CPk",
+        "y": "mxzTpb2DkMA1IWmRbQvm_gxW2APv604tvmFL-a2JGSE"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
     }
   }
 }
