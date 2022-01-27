@@ -12020,6 +12020,7 @@
       "displayName": {
         "en": "NM Department of Health"
       },
+      "displayURL": "http://vaxviewnm.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13612,7 +13613,7 @@
     },
     "https://arrprod.midmichigan.net/ProdFHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC#C4gsPIcSVZ-SMZVuVCF4S62asmtGi0BOXzHI4Qfrp1g": {
       "displayName": {
-        "en": "MidMichigan"
+        "en": "MyMichigan Health"
       },
       "entityType": "issuer",
       "status": "current",
@@ -14505,6 +14506,57 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEaI155bhdsdxYnnYet3ZRe2v+/dkzjU5t0Lc6XJZ2CPmbHNOlvYOQwDUhaZFtC+b+DFbYA+/rTi2+YUv5rYkZIQ=="
+    },
+    "https://eiclbext.nmhs.net/interconnect-fhir-prd/api/epic/2021/Security/Open/EcKeys/32001/SHC#k2MRYPPAREjXU9EsaiJyDhQIWmBOF3YhGtjdrmvWyz4": {
+      "displayName": {
+        "en": "North Mississippi Health Services"
+      },
+      "displayURL": "https://www.nmhs.net/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEkQTbLtyT10gZtlIcdY7LHaa3xmhqU+YMjrAq1/21vYv3fd5Sr5wQY1UAJ+Ckp7503a+iYySpQ4z46CuWlKMNog=="
+    },
+    "https://prodrx919.martinhealth.org/FHIR-PRD/api/epic/2021/Security/Open/EcKeys/32001/SHC#doDvNi6442LAkrO01bJ1LkNHLglZ5RpwGN2ElruZJyE": {
+      "displayName": {
+        "en": "Cleveland Clinic Martin Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEHJU/iYN/KHdMrjS7lrFIaWn0ksNfH4+LvjXoyBvNhx3SFbSGPofjGM9Uo5gmcHoG67UY8OSZeo9lQ4645k7rgQ=="
+    },
+    "https://soapprod.multicare.org/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#kNi-D9BUk1ZhU1HjMqAanP-_ZfkeUiyrTw6wa0cPP4o": {
+      "displayName": {
+        "en": "MultiCare"
+      },
+      "displayURL": "https://www.multicare.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEQJbHZjCywamTVhSHqI3O1BwoQRRRnYmsYwFbKsvV3rM8TV1HVADmbVWT8b8hjd3kBhGw+CNUBSL0bk4/bzUYrQ=="
+    },
+    "https://sfd.stanfordmed.org/FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC#KmRsCPEpR5Z_SD5LKJ6a25hwZeEYHp6pRpZ7M1SC550": {
+      "displayName": {
+        "en": "Stanford Health Care"
+      },
+      "displayURL": "https://stanfordhealthcare.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEu5hhTfIxnGf97XvEWO5/RGVx/fpAFIuDT/zlgJkG3kZIWYZLnYEZDUctbCirLSTkVm3mjC3EnrOkCgM5P9jSEg=="
     }
   }
 }
