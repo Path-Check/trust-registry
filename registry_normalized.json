@@ -7863,6 +7863,21 @@
       "validFromDT": "2022-01-11T14:37:58.000Z",
       "validUntilDT": "2025-01-11T14:37:58.000Z",
       "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAr+lVZeF6avauEGpS5CLuyb1S+fCM2KIHgNLwRi4/WSccHw37ZEKL75ceo/3lVwnnyiOmgjd3vWEavHdTYey5Zj9LsejrHREvhwOWL6atYuq0uP1RS51deikMmE/YZ1TveLAg1FHbpmXs2jBqUPPohyeoPJotUs7LuUYXEIf6L1tEB/BQjurgRT6YjEMcvYZg0hrPe+aBXAAnTpE0pIY41bmf0uAooQ7LLFzzQTwpgNMSHU8eKl03FHs0hKtfH67zKJwoBr0v3eoOhI+6d1eepV78XbAYkNUtkqs2I39PPuSS2b31XbswJlVdZuPWz3nbl8BfSrgXHKHlRzmOTegjfQIDAQAB"
+    },
+    "OFuszKRHwBg=": {
+      "displayName": {
+        "en": "Gov of Spain"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2021-12-20T11:30:00.000Z",
+      "validUntilDT": "2023-12-20T11:29:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAERtumh/vSoJJwJ3c0Txb9GM8FSuQh4vzASOC0UQuRMDhctp7chlpAyivtu/z581vOAVuLBSs8txwqpwhNDj2feg=="
     }
   },
   "SHC": {
