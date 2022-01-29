@@ -18959,6 +18959,48 @@
       "credentialType": [
         "https://smarthealth.cards#immunization"
       ]
+    },
+    "https://webproxyprd.med.utah.edu/FHIRMyChart/api/epic/2021/Security/Open/EcKeys/32001/SHC#UExQXaKnL6-R6cWNWyCaBoyW0w69JuS2wJDMa3dv_8M": {
+      "displayName": {
+        "en": "University of Utah Health"
+      },
+      "displayURL": "https://healthcare.utah.edu/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "dLqoODpD9d7J3D9v7pMoSDH-xwehbwzgr2CyqQjYoXE",
+        "y": "eLxLyjI5W4Ez-4lmJDEQGsa54UrWPYoaKky0SyUaQ6E",
+        "kid": "UExQXaKnL6-R6cWNWyCaBoyW0w69JuS2wJDMa3dv_8M",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epicproxy.et0971.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#X53dodl3nyr7HRw_6mnk06j7V-aYYZPkk2Bb7jpgUQU": {
+      "displayName": {
+        "en": "AnMed Health"
+      },
+      "displayURL": "https://anmedhealth.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "cZ7sRv99RGCFvvHk1avdVkiz_3FLVKmaP_GJ2r98QEY",
+        "y": "GXN443VhANh16-D_839KYJOxiNvXXC4ctk6Rh29v7rs",
+        "kid": "X53dodl3nyr7HRw_6mnk06j7V-aYYZPkk2Bb7jpgUQU",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
     }
   }
 }
