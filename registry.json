@@ -7886,7 +7886,7 @@
         "en": "Gov of Lebanon"
       },
       "entityType": "issuer",
-      "status": "current",
+      "status": "terminated",
       "credentialType": [
         "v"
       ],
@@ -7908,6 +7908,19 @@
       "validFromDT": "2022-02-01T02:52:55.000Z",
       "validUntilDT": "2024-02-01T02:52:55.000Z",
       "didDocument": "-----BEGIN CERTIFICATE-----\nMIICeTCCAh6gAwIBAgIUKpgMFFX9VfZK0rPeAXiTyiQoNjYwCgYIKoZIzj0EAwIwXTELMAkGA1UEBhMCU0cxEjAQBgNVBAgMCVNpbmdhcG9yZTEbMBkGA1UECgwSTWluaXN0cnkgT2YgSGVhbHRoMR0wGwYDVQQDDBRjc2NhLm5vdGFyaXNlLmdvdi5zZzAeFw0yMjAyMDEwMjUyNTVaFw0yNDAyMDEwMjUyNTVaMFwxCzAJBgNVBAYTAlNHMRIwEAYDVQQIDAlTaW5nYXBvcmUxGzAZBgNVBAoMEk1pbmlzdHJ5IE9mIEhlYWx0aDEcMBoGA1UEAwwTZHNjLm5vdGFyaXNlLmdvdi5zZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABFJMr+ORnNTQeRgM14v/lzJpW7K6bR46eAEiEMYy94X4Umjr+dA9AD4czg5PtVW9mAL4mWPnCwfWDCOtHW6kPIyjgbwwgbkwDgYDVR0PAQH/BAQDAgeAMB0GA1UdDgQWBBTaqGO5GJ+VlJ8WwR7Czlosi6H4YTAfBgNVHSMEGDAWgBQ5NwWzOLn5niMN0cLBsMOzMpcBpTA1BgNVHR8ELjAsMCqgKKAmhiRodHRwczovL3d3dy5ub3RhcmlzZS5nb3Yuc2cvY3NjYS5jcmwwMAYDVR0lBCkwJwYLKwYBBAGON49lAQEGCysGAQQBjjePZQECBgsrBgEEAY43j2UBAzAKBggqhkjOPQQDAgNJADBGAiEAhLfMLJVBRTj6fRYH/SA0c91Yi/okdc8vcRFZKvh9mUECIQDmjsj3ImMlRA5SmN9iE6gt2Cqiv0Nhy6PKOEZ+vYO0QA==\n-----END CERTIFICATE-----"
+    },
+    "taXid5fTt+s=": {
+      "displayName": {
+        "en": "Gov of Lebanon"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "v"
+      ],
+      "validFromDT": "2022-02-01T11:39:00.000Z",
+      "validUntilDT": "2022-08-01T10:39:00.000Z",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIICgTCCAiegAwIBAgIIeVfjjG11dSQwCgYIKoZIzj0EAwIwgYsxCzAJBgNVBAYTAkxCMQ0wCwYDVQQIDARKbmFoMQ8wDQYDVQQHDAZCZWlydXQxKTAnBgNVBAoMIE1pbmlzdHJ5IG9mIFB1YmxpYyBIZWFsdGggKE1PUEgpMRgwFgYDVQQLDA9TaXJlbiBBbmFseXRpY3MxFzAVBgNVBAMMDkNTQ0FfREdDX0xCXzAxMB4XDTIyMDIwMTExMzkwMFoXDTIyMDgwMTEwMzkwMFowdDEYMBYGA1UECxMPU2lyZW4gQW5hbHl0aWNzMSkwJwYDVQQKEyBNaW5pc3RyeSBvZiBQdWJsaWMgSGVhbHRoIChNT1BIKTEPMA0GA1UECBMGQmVpcnV0MQ8wDQYDVQQHEwZCZWlydXQxCzAJBgNVBAYTAkxCMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEpqXxQ3wXpnOZh0uA/nAY0fX+BY5SkF6Y6uyEym1bnZNwxTB42KUuPClWx3cOgWhKNprFNWcYnC8c47uGwG1q5KOBijCBhzAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0OBBYEFOeMhr/JyqtjZCjd3SNoX7EU/OVhMB8GA1UdIwQYMBaAFIzKL6KfshyUQbA6k6uuBXsZUbR9MB0GA1UdHwQWMBQwEqAQoA6GDGh0dHA6Ly9lbXB0eTAWBgNVHSUEDzANBgsrBgEEAY43j2UBAjAKBggqhkjOPQQDAgNIADBFAiBTZ2WcOfwHF41pZQ7XP5VnumX6V8hPyelRcj04iS83zAIhAMj+q8w+Cj40rp5QnZs4E5zGjQxUEZpLrdcI2g5CXBMk\n-----END CERTIFICATE-----"
     }
   },
   "SmartHealthCards": {
@@ -19021,6 +19034,48 @@
         "x": "cZ7sRv99RGCFvvHk1avdVkiz_3FLVKmaP_GJ2r98QEY",
         "y": "GXN443VhANh16-D_839KYJOxiNvXXC4ctk6Rh29v7rs",
         "kid": "X53dodl3nyr7HRw_6mnk06j7V-aYYZPkk2Bb7jpgUQU",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://mobile.adventhealth.com/oauth2-PRD/api/epic/2021/Security/Open/EcKeys/32001/SHC#NIYjamR_uv5paKe7T9kn4mueOQFx2WlSaNSZzwIUILA": {
+      "displayName": {
+        "en": "AdventHealth"
+      },
+      "displayURL": "https://www.adventhealth.com/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "5gfz58Le5frt4roZUzw3YoObIfnnlnwqBqhnNTjkl6k",
+        "y": "swavamD005wdKXg5emnSWKfNn_pwef9yhJtDAEnJnGE",
+        "kid": "NIYjamR_uv5paKe7T9kn4mueOQFx2WlSaNSZzwIUILA",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epicproxy.et1013.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#-dznmcx21Vu7QQkxz4u4ki-d7XyuBj2Q7_KBdoBGuLE": {
+      "displayName": {
+        "en": "Hill Physicians Medical Group"
+      },
+      "displayURL": "https://www.hillphysicians.com/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "IYzpgCfdiTd8yaVOI09sBf0ZBrXR0IJ6sLl-SDN9iGk",
+        "y": "QPA5t1lQKm-H4oa5TzzDNPGE9Wk44p8zqG5YLVWzZOU",
+        "kid": "-dznmcx21Vu7QQkxz4u4ki-d7XyuBj2Q7_KBdoBGuLE",
         "use": "sig",
         "kty": "EC",
         "alg": "ES256",
