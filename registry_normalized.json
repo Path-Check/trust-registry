@@ -7884,7 +7884,7 @@
         "en": "Gov of Lebanon"
       },
       "entityType": "issuer",
-      "status": "current",
+      "status": "terminated",
       "credentialType": [
         "v"
       ],
@@ -7906,6 +7906,19 @@
       "validFromDT": "2022-02-01T02:52:55.000Z",
       "validUntilDT": "2024-02-01T02:52:55.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEUkyv45Gc1NB5GAzXi/+XMmlbsrptHjp4ASIQxjL3hfhSaOv50D0APhzODk+1Vb2YAviZY+cLB9YMI60dbqQ8jA=="
+    },
+    "taXid5fTt+s=": {
+      "displayName": {
+        "en": "Gov of Lebanon"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "v"
+      ],
+      "validFromDT": "2022-02-01T11:39:00.000Z",
+      "validUntilDT": "2022-08-01T10:39:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEpqXxQ3wXpnOZh0uA/nAY0fX+BY5SkF6Y6uyEym1bnZNwxTB42KUuPClWx3cOgWhKNprFNWcYnC8c47uGwG1q5A=="
     }
   },
   "SHC": {
@@ -14626,6 +14639,32 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEcZ7sRv99RGCFvvHk1avdVkiz/3FLVKmaP/GJ2r98QEYZc3jjdWEA2HXr4P/zf0pgk7GI29dcLhy2TpGHb2/uuw=="
+    },
+    "https://mobile.adventhealth.com/oauth2-PRD/api/epic/2021/Security/Open/EcKeys/32001/SHC#NIYjamR_uv5paKe7T9kn4mueOQFx2WlSaNSZzwIUILA": {
+      "displayName": {
+        "en": "AdventHealth"
+      },
+      "displayURL": "https://www.adventhealth.com/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE5gfz58Le5frt4roZUzw3YoObIfnnlnwqBqhnNTjkl6mzBq9qYPTTnB0peDl6adJYp82f+nB5/3KEm0MAScmcYQ=="
+    },
+    "https://epicproxy.et1013.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#-dznmcx21Vu7QQkxz4u4ki-d7XyuBj2Q7_KBdoBGuLE": {
+      "displayName": {
+        "en": "Hill Physicians Medical Group"
+      },
+      "displayURL": "https://www.hillphysicians.com/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEIYzpgCfdiTd8yaVOI09sBf0ZBrXR0IJ6sLl+SDN9iGlA8Dm3WVAqb4fihrlPPMM08YT1aTjinzOoblgtVbNk5Q=="
     }
   }
 }
