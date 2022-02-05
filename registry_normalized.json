@@ -8234,6 +8234,21 @@
       "validFromDT": "2022-01-31T23:00:00.000Z",
       "validUntilDT": "2024-01-31T23:00:00.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAElvVhE2bKV1Y2GlIfwbfGAhe2JHX2bIJeUFEatbGlWdhsL8yxzi+wpFAP5JrDSYMzpcDt1daeb8D0WHqgtnJFqw=="
+    },
+    "aW9Kj5+wiJE=": {
+      "displayName": {
+        "en": "Gov of France"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-02-01T23:00:00.000Z",
+      "validUntilDT": "2024-02-01T23:00:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE0YhjcN1uCJkRuccorSqS7XmCy4TV74ki7Q9+uOl4cgVghDAIXdy/mFyFQkelz8hpFJUbNOm2ksI3E7gCkTk0DQ=="
     }
   },
   "SHC": {
