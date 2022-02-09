@@ -13746,7 +13746,7 @@
     },
     "https://epicproxy.rush.edu/fhir-prd/api/epic/2021/Security/Open/EcKeys/32001/SHC#eWghKU5rTe2NuQ10H6LQzVLfwW5exhVgP795XCIv_vM": {
       "displayName": {
-        "en": "Rush University Medical Center"
+        "en": "Rush University System for Health"
       },
       "displayURL": "https://www.rush.edu/",
       "entityType": "issuer",
@@ -15032,6 +15032,67 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEBzgCNmB9myhdJZ1jEo2sGwsYe0164W1gP2WIwYXl8QmrJ+HWbvL8Jkn+xsi8wNbJLj76UxpBTudPFeZoz09qbw=="
+    },
+    "https://reports.bioreference.com/fhir#nFy8RjJhVnX2a7xmfhz5YidgTD8CrvACUFp-AAisFug": {
+      "displayName": {
+        "en": "BioReference Laboratories"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MHYwEAYHKoZIzj0CAQYFK4EEACIDYgAEYRO8UNYhKn9oyadOY2QED30JvjL7agAwQZV47OvIV+JJSS+lvnihpiWjmQSsy4bc7bXpjihW4onMOaLWy8Hw9Lgn5aytzSwgdcGTaXsP+XyMDcVK8AEdheKtoBdqtCas"
+    },
+    "https://vc.vrs.digital.go.jp/issuer#f1vhQP9oOZkityrguynQqB4aVh8u9xcf3wm4AFF4aVw": {
+      "displayName": {
+        "en": "Government of Japan"
+      },
+      "displayURL": "https://www.mhlw.go.jp/stf/covid-19/certificate.html",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEViKBgZ0f3pQKv+tSz653HUtIzCS8TVSNu1Hwi0tKpSnTXXvtqkpcfYeAZ+SfvVk8SWNaTRDZ9wTNjb9c58v9lw=="
+    },
+    "https://epicproxy.et1220.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#zFmyJMKQGRkV_IydDfg9OD4x83x9HKdiE_r7EF_l6E4": {
+      "displayName": {
+        "en": "Reid Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEn+SWm9ZhpCoqweVStGRML1jBR4yTblTllZ5x42JgbfGwiZ+OkU5hCxhnSKxpcfZXYtqE7hLkpecvypIy08yxig=="
+    },
+    "https://webproxy.comhs.org/FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC#G8VIIg-KRMUU7bhW5RKy1H7FuI2DH1gMSc_Ok0t4uzE": {
+      "displayName": {
+        "en": "Community Healthcare System"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEPQfG1dinWkKyG3E0qzI2Od0+ol7CRNsenWOBMJzTFfCDOTNkcRh4trbR1Z/8N/gSCQ2FIxY2FRVucD17fa14uA=="
+    },
+    "https://wellbility.app#GsgdDSFYSRD4PjpzBfMgN7ca-oALWz32iFhYE1Gls_o": {
+      "displayName": {
+        "en": "On-Site Medical Services"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAERtrYFXfGuLQfaTqi0/8QI0RuJpIl/8p14wAsKrTaG5cwYDRnF0NFpN25uZuk74is18935yyjzDrToggJU9EkuA=="
     }
   }
 }
