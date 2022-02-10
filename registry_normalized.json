@@ -8249,6 +8249,36 @@
       "validFromDT": "2022-02-01T23:00:00.000Z",
       "validUntilDT": "2024-02-01T23:00:00.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE0YhjcN1uCJkRuccorSqS7XmCy4TV74ki7Q9+uOl4cgVghDAIXdy/mFyFQkelz8hpFJUbNOm2ksI3E7gCkTk0DQ=="
+    },
+    "0EaALxX+MTM=": {
+      "displayName": {
+        "en": "Gov of Luxembourg"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-02-09T10:50:24.000Z",
+      "validUntilDT": "2024-02-09T10:50:24.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEGdOxELNFPTkbpKrnZvKdU2uKpQ7YfiKrBO2NARpl+jPYz2Y9NctYh/bTrvR+5CHXlkcW/O0C9+V1e/wACM7HAw=="
+    },
+    "KYMHZ0dp6Ro=": {
+      "displayName": {
+        "en": "Gov of Luxembourg"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-02-09T10:49:40.000Z",
+      "validUntilDT": "2024-02-09T10:49:40.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEPJYyfDTUZay+IaAKER2aI82iwGxQrabROGqM+SOmmrICIroyuG9+z/7T53RQ6Z/Jm2hivIHCs9VaOcNSt0sb6w=="
     }
   },
   "SHC": {
@@ -15093,6 +15123,70 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAERtrYFXfGuLQfaTqi0/8QI0RuJpIl/8p14wAsKrTaG5cwYDRnF0NFpN25uZuk74is18935yyjzDrToggJU9EkuA=="
+    },
+    "https://epicproxy.et1200.epichosted.com/oauth2-PRD/api/epic/2021/Security/Open/EcKeys/32001/SHC#kdCa2g-1ZpTKyMZewje_Bpf14QXI0VDqboyGQNJ8gKc": {
+      "displayName": {
+        "en": "VCU Health"
+      },
+      "displayURL": "https://www.vcuhealth.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEQ81S64I2c1rLQM+pQGVXkqMuM4oPYz/UOpHSP6m+qUBYiNgivK3lwTH5IZXQ4UymBhCLrn6XSIZyuwSrEYQ+RQ=="
+    },
+    "https://prodinterconnect.leonmedicalcenters.com/FHIR-PRD/api/epic/2021/Security/Open/EcKeys/32001/SHC#Jis4PRQuC3d6JcYIl1kZ5YbQ_SIEMZhBzlUHoW3o0gg": {
+      "displayName": {
+        "en": "Leon Medical Centers"
+      },
+      "displayURL": "https://leonmedicalcenters.com/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEJJqmksQIy4SfBtUdT5pHr1uZcm7KdLiWqOPYrN6xylezGgUw0H/6+i4oDF8rFf4qamN0Om0EqD9Pc2JXOdPYnQ=="
+    },
+    "https://epicproxy.et0578.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#kUAhwIMHE_Udj1h8hBfl_dKWa7Runq-OTi_LxwnZ3yw": {
+      "displayName": {
+        "en": "Cooper University Healthcare"
+      },
+      "displayURL": "https://cooperhealth.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEIxOjp+969N3jE7KN9q4VZj4TV3984+jS4irLAMEFirESKLsr3J70grvkKWh/vXm/d5Pe6bWqnTowcoObo/qBYg=="
+    },
+    "https://epicscripts.trihealth.com/fhirproxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#SrCqDaxmBy71tT6aH3HFRH5vIwq5oazM05Xhmg8VPQo": {
+      "displayName": {
+        "en": "TriHealth"
+      },
+      "displayURL": "https://www.trihealth.com/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEA1ORs6oMc3uOo2GO7AAmSQwwLum7SXby9KWJ7nJk5BcUrAJXw9vSMI+RPdmPUDBgT/vQBc5EGESFYfQ0+PVYag=="
+    },
+    "https://cms.hvhs.org/shc#U31-S4HHO2BS8BAIgCJUmKwGjDFGd6YOM-Kp-ZASJ-M": {
+      "displayName": {
+        "en": "Heritage Valley Health System"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEclQSD7NZ/mUpOCzx6N07Yk5I7YSYbQPp6JNVRO1zik5FHwbPw+8wqzRUR3HALpUP/D/7zFZ6C5XoRxEZ/ojO/Q=="
     }
   }
 }
