@@ -8279,6 +8279,21 @@
       "validFromDT": "2022-02-09T10:49:40.000Z",
       "validUntilDT": "2024-02-09T10:49:40.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEPJYyfDTUZay+IaAKER2aI82iwGxQrabROGqM+SOmmrICIroyuG9+z/7T53RQ6Z/Jm2hivIHCs9VaOcNSt0sb6w=="
+    },
+    "wsMe8L4zWNE=": {
+      "displayName": {
+        "en": "Gov of United Kingdom"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-02-08T22:28:42.000Z",
+      "validUntilDT": "2024-02-08T22:28:42.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEPhObKyKu7OpwB1AF6YmfvAhn7QiVPjmIKcV8GWtV/7IfeJJEgE46vQgeq+EBQUupOTjV5L1CsGM9IiJK0yUFQQ=="
     }
   },
   "SHC": {
@@ -14903,6 +14918,7 @@
       "displayName": {
         "en": "Med Concierge LA"
       },
+      "displayURL": "https://medconciergela.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15116,6 +15132,7 @@
       "displayName": {
         "en": "On-Site Medical Services"
       },
+      "displayURL": "https://www.on-sitemedservices.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
