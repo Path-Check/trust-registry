@@ -15204,6 +15204,69 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEclQSD7NZ/mUpOCzx6N07Yk5I7YSYbQPp6JNVRO1zik5FHwbPw+8wqzRUR3HALpUP/D/7zFZ6C5XoRxEZ/ojO/Q=="
+    },
+    "https://soapepic.montefiore.org/FhirProxyPrd/api/epic/2021/Security/Open/EcKeys/32001/SHC#6-OXNT249Bgro8aYxmbXWcRrNkcVW8jqBbdDd15QE9E": {
+      "displayName": {
+        "en": "Montefiore Medical Center"
+      },
+      "displayURL": "https://www.montefiore.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAESqv+Xb1mBR7UxhbEVF7nXy6IL9Rg9Mhmo2SazHCc9cIX5mjCZ5UZyRUNLmS1YtDl7VbDwCf7yRqt8sQntfXTCw=="
+    },
+    "https://api.vaulthealth.com/smart#Rt0PVNxE7HiDYHqoRUGULZkcxXchEpXVYZvAeFX2s14": {
+      "displayName": {
+        "en": "Vault Health"
+      },
+      "displayURL": "https://www.vaulthealth.com/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEGyg+BAX7xkYvZgyJBDOuzZTMwr6NxgnNzlG5+Daup8Uj4g3i5ZGL12/tspql3gzCtjwe5wAqmWsaqG5n5sKtVg=="
+    },
+    "https://carepath.health-partners.org/Proxy-FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC#8DwLFX16-MWCRhuKQ6YRsiTcoHKUMPeLtnjdvAK8GBk": {
+      "displayName": {
+        "en": "Bon Secours Mercy Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE4XoqleHi5BfKBpQygFhQU0RJKrqx7OfokKf2F13WQ+4PfZyy+PNKNgulyFIydlJ7WgWWEPDql+NKlDWV84A+pQ=="
+    },
+    "https://haiku.bshsi.org/fhir/api/epic/2021/Security/Open/EcKeys/32001/SHC#V22iGG1abG2sKH0oZ8JE5iiOIFABbONSQnDEF5tzCkw": {
+      "displayName": {
+        "en": "Bon Secours Health System"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE9Fs0EmXeA++RD8Qu60PC5IeLvGrXUXTnYE5suUA0D6DdiKrL0vfLjR+PoO0wPYVAOxs5M13K61i0asGBLq8WDQ=="
+    },
+    "https://vaccinerecord.dc.gov#V4VY0MC5Pr00FmzvBqDf9dIK-3bLTb51HxZVXNVlFhI": {
+      "displayName": {
+        "en": "District of Columbia Department of Health"
+      },
+      "displayURL": "https://dchealth.dc.gov/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAES/YhKNGHBUMIzTnSHC52f3y6XpYfyNemyqt+sFj4m6MwYzl356rrqVIPiiqIfc+C3rSHJP/ZQLbWSHzwCW3sWQ=="
     }
   }
 }
