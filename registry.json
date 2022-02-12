@@ -16349,7 +16349,7 @@
         "crv": "P-256",
         "x": "9B8CKA868OKjH3ydtM1jw2ax-wo0qCHP3qDR3b9jilY",
         "y": "pEudYHfIMz20vz-WNZargtgDDXj6GQeN410x8u2xjQ0",
-        "crlVersion": 3
+        "crlVersion": 4
       },
       "credentialType": [
         "https://smarthealth.cards#immunization"
@@ -19740,6 +19740,109 @@
         "crv": "P-256",
         "x": "clQSD7NZ_mUpOCzx6N07Yk5I7YSYbQPp6JNVRO1zik4",
         "y": "RR8Gz8PvMKs0VEdxwC6VD_w_-8xWeguV6EcRGf6Izv0"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://soapepic.montefiore.org/FhirProxyPrd/api/epic/2021/Security/Open/EcKeys/32001/SHC#6-OXNT249Bgro8aYxmbXWcRrNkcVW8jqBbdDd15QE9E": {
+      "displayName": {
+        "en": "Montefiore Medical Center"
+      },
+      "displayURL": "https://www.montefiore.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "Sqv-Xb1mBR7UxhbEVF7nXy6IL9Rg9Mhmo2SazHCc9cI",
+        "y": "F-ZowmeVGckVDS5ktWLQ5e1Ww8An-8karfLEJ7X10ws",
+        "kid": "6-OXNT249Bgro8aYxmbXWcRrNkcVW8jqBbdDd15QE9E",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://api.vaulthealth.com/smart#Rt0PVNxE7HiDYHqoRUGULZkcxXchEpXVYZvAeFX2s14": {
+      "displayName": {
+        "en": "Vault Health"
+      },
+      "displayURL": "https://www.vaulthealth.com/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "alg": "ES256",
+        "crv": "P-256",
+        "kid": "Rt0PVNxE7HiDYHqoRUGULZkcxXchEpXVYZvAeFX2s14",
+        "kty": "EC",
+        "use": "sig",
+        "x": "Gyg-BAX7xkYvZgyJBDOuzZTMwr6NxgnNzlG5-Daup8U",
+        "y": "I-IN4uWRi9dv7bKapd4MwrY8HucAKplrGqhuZ-bCrVY"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://carepath.health-partners.org/Proxy-FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC#8DwLFX16-MWCRhuKQ6YRsiTcoHKUMPeLtnjdvAK8GBk": {
+      "displayName": {
+        "en": "Bon Secours Mercy Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "4XoqleHi5BfKBpQygFhQU0RJKrqx7OfokKf2F13WQ-4",
+        "y": "D32csvjzSjYLpchSMnZSe1oFlhDw6pfjSpQ1lfOAPqU",
+        "kid": "8DwLFX16-MWCRhuKQ6YRsiTcoHKUMPeLtnjdvAK8GBk",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://haiku.bshsi.org/fhir/api/epic/2021/Security/Open/EcKeys/32001/SHC#V22iGG1abG2sKH0oZ8JE5iiOIFABbONSQnDEF5tzCkw": {
+      "displayName": {
+        "en": "Bon Secours Health System"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "9Fs0EmXeA--RD8Qu60PC5IeLvGrXUXTnYE5suUA0D6A",
+        "y": "3Yiqy9L3y40fj6DtMD2FQDsbOTNdyutYtGrBgS6vFg0",
+        "kid": "V22iGG1abG2sKH0oZ8JE5iiOIFABbONSQnDEF5tzCkw",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://vaccinerecord.dc.gov#V4VY0MC5Pr00FmzvBqDf9dIK-3bLTb51HxZVXNVlFhI": {
+      "displayName": {
+        "en": "District of Columbia Department of Health"
+      },
+      "displayURL": "https://dchealth.dc.gov/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "V4VY0MC5Pr00FmzvBqDf9dIK-3bLTb51HxZVXNVlFhI",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "S_YhKNGHBUMIzTnSHC52f3y6XpYfyNemyqt-sFj4m6M",
+        "y": "MGM5d-eq66lSD4oqiH3Pgt60hyT_2UC21kh88Alt7Fk"
       },
       "credentialType": [
         "https://smarthealth.cards#immunization"
