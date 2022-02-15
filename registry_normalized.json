@@ -15282,6 +15282,18 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAES/YhKNGHBUMIzTnSHC52f3y6XpYfyNemyqt+sFj4m6MwYzl356rrqVIPiiqIfc+C3rSHJP/ZQLbWSHzwCW3sWQ=="
+    },
+    "https://apis.changehealthcare.com/anon/dataservices/shc/v1/albertsons#xnCajRsQcyGf-c1NAQIAHcc94XwqcFZgV5ALF_d5HJ8": {
+      "displayName": {
+        "en": "Albertsons Companies"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEugbssNlYLCIT5oIyzpIJSGLJEnVX8BB9nAta9A69oSmrIKW3r8x1MtlB2rXYd4uw1Axkcfpo/jrgploeyiLaYg=="
     }
   }
 }
