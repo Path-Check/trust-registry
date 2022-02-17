@@ -30,7 +30,7 @@ const port = process.env.PORT || "8000";
  *  displayName:            i18n Display Names
  */
 
-import DBIssuers from './registry.json';
+import DBIssuers from './registry.json' assert { type: 'json' };
 const DBVerifiers = {};
 const DBTrustRegistries = {};
 
