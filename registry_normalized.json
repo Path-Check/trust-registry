@@ -15294,6 +15294,70 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEugbssNlYLCIT5oIyzpIJSGLJEnVX8BB9nAta9A69oSmrIKW3r8x1MtlB2rXYd4uw1Axkcfpo/jrgploeyiLaYg=="
+    },
+    "https://api.myirmobile.com/az/issuer#TUuI4nkHr1euHPUvOwN2cM_WThUOfjDmQKL3kXRxK_Y": {
+      "displayName": {
+        "en": "Arizona Department of Health Services"
+      },
+      "displayURL": "https://www.azdhs.gov/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEa+NyEi+vp0qV3+uLxYCKXBSKz1zChH7YPhJvcIr3GjKQuEBxE7l5lLQzVE2d9IyqgxxRYLy/FrSR5xQMjs81qQ=="
+    },
+    "https://api.myirmobile.com/md/issuer#gKm8wgMFepJWK22y591B4rETZ1gc8J2xe9rfCSN1aDQ": {
+      "displayName": {
+        "en": "Maryland Department of Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAExuAPINPR5unBLRDdt/Ctc2EMD39PZTSMWkZCM2phHyRTdQGGxyq47jRE6afXDGgHkF5oUZtZV0H65WM+DQsz0A=="
+    },
+    "https://api.myirmobile.com/ms/issuer#zmoeqXQpgis3DaSRjFn3BY7dfG964vp10uD_XE5RGX0": {
+      "displayName": {
+        "en": "Mississippi State Department of Health"
+      },
+      "displayURL": "https://msdh.ms.gov/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEJoMD1GNQoHsES87RrT8uDHyHXuTqi4p+K5a2InXVE0C3N/WIL9sOl338ldXv/S0gm6D3V4OnAYvbFXik6H1vXQ=="
+    },
+    "https://api.myirmobile.com/la/issuer#7NqO5Q6gSmaWKgGuO7WqSaMxsiqI3RrrEBO2r0vSXfI": {
+      "displayName": {
+        "en": "State of Louisiana"
+      },
+      "displayURL": "https://ldh.la.gov/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE59XqQ8TBc/HEim97WOejonJR3AjtwLB0rFUvS3IfCxkMZiooKcrArkRro/z/27w5Dpj1zx+p9wSwbUIesRI8DQ=="
+    },
+    "https://api.myirmobile.com/wa/issuer#obk0oQm4Y3sV67faaqKLBB9dkGZ89lejHLdHPyH2yTY": {
+      "displayName": {
+        "en": "Washington State Department of Health"
+      },
+      "displayURL": "https://www.doh.wa.gov/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEe0CQkZIB83Sn3/x7b4ZFhsIGQ7jGVbNVFkgnhFlgyEJfnBn0xda8vS1eaah/F8FXVWSvLvEUMUq6qFoieIY4mA=="
     }
   }
 }
