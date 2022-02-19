@@ -15358,6 +15358,32 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEe0CQkZIB83Sn3/x7b4ZFhsIGQ7jGVbNVFkgnhFlgyEJfnBn0xda8vS1eaah/F8FXVWSvLvEUMUq6qFoieIY4mA=="
+    },
+    "https://epicproxy.et0815.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#OT577c8Cvwa1Bx6LYdKx2LBgzuE7eKO95-5inZPjx-s": {
+      "displayName": {
+        "en": "Children’s Wisconsin"
+      },
+      "displayURL": "https://childrenswi.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEZTVudj2lDoq331Zmsdl6SNy8/EQuze2HAHEU1CTLUcQY1Looop2NToIRwvz+CSB/ML3YlvrUORIXjZynIyq6Pg=="
+    },
+    "https://fhir.omhs.org/rp-prd-fhir/api/epic/2021/Security/Open/EcKeys/32001/SHC#M6-pmPcy46AynsAtYmyDCinqCsQomOALFc2sbrjOaiM": {
+      "displayName": {
+        "en": "Owensboro Health"
+      },
+      "displayURL": "https://www.owensborohealth.org",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEfexJso0j3ewm9Jyh5PLueIfuHg9b2sYiMlgpp2iiaSe42jbGDeaq8aKLwe9xLFK2jfaclzOy8m7oh42vzR0Cdg=="
     }
   }
 }
