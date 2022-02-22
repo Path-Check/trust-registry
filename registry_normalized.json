@@ -8309,6 +8309,32 @@
       "validFromDT": "2021-10-29T16:07:08.000Z",
       "validUntilDT": "2025-10-28T16:07:07.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE4JWoz8qfIVfxfvAiVOu+jZ+kKa8eJItSVUBzLm5atlFY5HWylG32UDP7bG8q+kydI4XjbK6565vtP6C0H3aWKQ=="
+    },
+    "9v4n5M3gIsU=": {
+      "displayName": {
+        "en": "Gov of Benin"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t"
+      ],
+      "validFromDT": "2022-02-06T12:13:14.000Z",
+      "validUntilDT": "2024-02-06T12:13:14.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE1eafQkFnEHdgmdO4ZkAnpznVJlN2vhXb5czc/zO+82Kbp5PIUmtWid1wnLWcRv5NjVx3MtjpU8vRT4X2ej79Jg=="
+    },
+    "ozBiB4arj/0=": {
+      "displayName": {
+        "en": "Gov of Benin"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "v"
+      ],
+      "validFromDT": "2022-02-06T12:04:13.000Z",
+      "validUntilDT": "2024-02-06T12:04:13.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE3pcGA5BtQsLAA8SALbN2VzyKOjsLRWwzQASvr1rsXB+XYeWun27KIlIMST76u+CeGR0kwY7Wlf5J2+UlILNHqA=="
     }
   },
   "SHC": {
