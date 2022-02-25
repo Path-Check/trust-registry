@@ -8335,6 +8335,19 @@
       "validFromDT": "2022-02-06T12:04:13.000Z",
       "validUntilDT": "2024-02-06T12:04:13.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE3pcGA5BtQsLAA8SALbN2VzyKOjsLRWwzQASvr1rsXB+XYeWun27KIlIMST76u+CeGR0kwY7Wlf5J2+UlILNHqA=="
+    },
+    "tHv696xL75E=": {
+      "displayName": {
+        "en": "Gov of Lebanon"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "v"
+      ],
+      "validFromDT": "2022-02-24T13:18:17.000Z",
+      "validUntilDT": "2022-08-23T13:18:17.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEHon1pAKV4wVDuVxeocIIkVseaEU5rR0ItAc/XPQ86rVs/zJnTzbPrIDC7QekzhHKQCO6uy27YgExfMA9tCicZw=="
     }
   },
   "SHC": {
@@ -15410,6 +15423,19 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEfexJso0j3ewm9Jyh5PLueIfuHg9b2sYiMlgpp2iiaSe42jbGDeaq8aKLwe9xLFK2jfaclzOy8m7oh42vzR0Cdg=="
+    },
+    "https://epicproxy.et1235.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#yS6yW_udGw90T30ShT-fFix4hnimgfoX7M5qVMgQvIk": {
+      "displayName": {
+        "en": "Self Regional Healthcare"
+      },
+      "displayURL": "https://www.selfregional.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEXigUM3OyHTXPnQMOcq/736Vg/JszHXbAXQs0j4EFnEHLLGz+lelFpKss9cGtUvqyV/4Q2L4g2BsxAA1Cd3+nXg=="
     }
   }
 }
