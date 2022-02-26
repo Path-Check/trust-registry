@@ -8348,6 +8348,19 @@
       "validFromDT": "2022-02-24T13:18:17.000Z",
       "validUntilDT": "2022-08-23T13:18:17.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEHon1pAKV4wVDuVxeocIIkVseaEU5rR0ItAc/XPQ86rVs/zJnTzbPrIDC7QekzhHKQCO6uy27YgExfMA9tCicZw=="
+    },
+    "yCbDxn6A9oQ=": {
+      "displayName": {
+        "en": "Gov of Jordan"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "v"
+      ],
+      "validFromDT": "2022-02-25T10:32:58.000Z",
+      "validUntilDT": "2024-11-21T10:32:58.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEsmHUTw8vhvIFlNXH1vLaPbRe21KR24LcYBq3fvirZmVIbWnFqBiEGA3Bm5BWMsUqvVqXxiISJSoKAE4YH26tug=="
     }
   },
   "SHC": {
