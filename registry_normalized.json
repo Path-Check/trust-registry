@@ -8361,6 +8361,49 @@
       "validFromDT": "2022-02-25T10:32:58.000Z",
       "validUntilDT": "2024-11-21T10:32:58.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEsmHUTw8vhvIFlNXH1vLaPbRe21KR24LcYBq3fvirZmVIbWnFqBiEGA3Bm5BWMsUqvVqXxiISJSoKAE4YH26tug=="
+    },
+    "QFoseLbiTFM=": {
+      "displayName": {
+        "en": "Gov of Lebanon"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "v"
+      ],
+      "validFromDT": "2022-03-01T11:39:00.000Z",
+      "validUntilDT": "2022-09-01T10:39:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEKahy71MvfUTeQtS+u4x6vFVmWT7zLEgfHk0KjJl2M0LJ46Rnfnnw4CvSEv+RrRbqDg+vP262UGaldYPc3OPpFw=="
+    },
+    "kQBDocSCNd0=": {
+      "displayName": {
+        "en": "Gov of Monaco"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-03-02T13:59:58.000Z",
+      "validUntilDT": "2023-09-01T13:59:58.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEmf2tHBhkjcwD5zvJYqnLU40axPWSSfO84WfcbwK7Ffj4UhDlw1vZm6vNxJ3YEQz82+MsgVoVHjAfgvkohZ5SMw=="
+    },
+    "rKBxHVKgvr0=": {
+      "displayName": {
+        "en": "Gov of Singapore"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-03-01T02:46:32.000Z",
+      "validUntilDT": "2024-02-29T02:46:32.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEd+TX4Oo+eGR3uK7FR2CcR1f488VBSkV15VBWYjZlupZaOlZJxHFxgTinRnsCFTGmgkJzfAy9L2H7oLSTIL9C7A=="
     }
   },
   "SHC": {
@@ -15449,6 +15492,91 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEXigUM3OyHTXPnQMOcq/736Vg/JszHXbAXQs0j4EFnEHLLGz+lelFpKss9cGtUvqyV/4Q2L4g2BsxAA1Cd3+nXg=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/Hq9lMFKIau9MlCiBN698ZPzTKNvsMrCb#N2maG8qOhITe_zyPqcrCa6LT_mW18ZtFPy09cGAB24w": {
+      "displayName": {
+        "en": "Genesis Healthcare System"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEDNo1BEwoRPNRDYsulhhxu9jOxkvCuEVU4IaCs3H6PJ3MH8csqsT+fleL0jvIwgg434hCnMfkwRmg/Ya9F+1Kwg=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/9d2c8ef0-9a25-45b4-b53b-3738c3eda603#N2maG8qOhITe_zyPqcrCa6LT_mW18ZtFPy09cGAB24w": {
+      "displayName": {
+        "en": "MyHealthHome"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEDNo1BEwoRPNRDYsulhhxu9jOxkvCuEVU4IaCs3H6PJ3MH8csqsT+fleL0jvIwgg434hCnMfkwRmg/Ya9F+1Kwg=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/082fe843-d2e4-4f68-96c9-531186c7d48d#N2maG8qOhITe_zyPqcrCa6LT_mW18ZtFPy09cGAB24w": {
+      "displayName": {
+        "en": "MyHealthHome"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEDNo1BEwoRPNRDYsulhhxu9jOxkvCuEVU4IaCs3H6PJ3MH8csqsT+fleL0jvIwgg434hCnMfkwRmg/Ya9F+1Kwg=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/b92996e8-6deb-4500-b78a-e05435af1db3#N2maG8qOhITe_zyPqcrCa6LT_mW18ZtFPy09cGAB24w": {
+      "displayName": {
+        "en": "MyHealthHome"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEDNo1BEwoRPNRDYsulhhxu9jOxkvCuEVU4IaCs3H6PJ3MH8csqsT+fleL0jvIwgg434hCnMfkwRmg/Ya9F+1Kwg=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/9366dc53-07b6-47b5-8809-6f7b8a082b2d#N2maG8qOhITe_zyPqcrCa6LT_mW18ZtFPy09cGAB24w": {
+      "displayName": {
+        "en": "MyHealthHome"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEDNo1BEwoRPNRDYsulhhxu9jOxkvCuEVU4IaCs3H6PJ3MH8csqsT+fleL0jvIwgg434hCnMfkwRmg/Ya9F+1Kwg=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/62f3918e-1f4f-42f1-a374-2667f4059c19#N2maG8qOhITe_zyPqcrCa6LT_mW18ZtFPy09cGAB24w": {
+      "displayName": {
+        "en": "Lutheran Health Network MyHealthHome"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEDNo1BEwoRPNRDYsulhhxu9jOxkvCuEVU4IaCs3H6PJ3MH8csqsT+fleL0jvIwgg434hCnMfkwRmg/Ya9F+1Kwg=="
+    },
+    "https://yrmccare1.yumaregional.org/FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC#teYn5RVZyzJOH0oWqb0hDiMyXEDjT2Ut5c5xigpXmrQ": {
+      "displayName": {
+        "en": "Yuma Regional Medical Center"
+      },
+      "displayURL": "https://www.yumaregional.org/Home",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEaNy2ZfeGMDzhT1YWfkHbGklE7u5GYS/Uql+74HlcXDC6MTRStyyB6KKm+xkzYQWU7UXhxOKjMpMFSKsekix4jg=="
     }
   }
 }

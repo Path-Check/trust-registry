@@ -8363,6 +8363,49 @@
       "validFromDT": "2022-02-25T10:32:58.000Z",
       "validUntilDT": "2024-11-21T10:32:58.000Z",
       "didDocument": "-----BEGIN CERTIFICATE-----\nMIIC/jCCAeagAwIBAgIUb3C79gN2KMGVfLqHQE4oP8T9+0wwDQYJKoZIhvcNAQELBQAwaDELMAkGA1UEBhMCSk8xDDAKBgNVBAgTA0FNTTEOMAwGA1UEBxMFQW1tYW4xDjAMBgNVBAoTBU1vREVFMRYwFAYDVQQLEw1ER0NPcGVyYXRpb25zMRMwEQYDVQQDEwpKb3JkYW5DU0NBMB4XDTIyMDIyNTEwMzI1OFoXDTI0MTEyMTEwMzI1OFowaTELMAkGA1UEBhMCSk8xDjAMBgNVBAgMBUFtbWFuMQ4wDAYDVQQHDAVBbW1hbjEOMAwGA1UECgwFTW9ERUUxFjAUBgNVBAsMDURHQ09wZXJhdGlvbnMxEjAQBgNVBAMMCUpvcmRhbkRTQzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABLJh1E8PL4byBZTVx9by2j20XttSkduC3GAat374q2ZlSG1pxagYhBgNwZuQVjLFKr1al8YiEiUqCgBOGB9urbqjajBoMA4GA1UdDwEB/wQEAwIHgDAdBgNVHQ4EFgQUyv4C/vCU2+ityh5TpSSwgkwq8c0wHwYDVR0jBBgwFoAUFRKGadV61+A0fVvFVajvaTN4VFkwFgYDVR0lBA8wDQYLKwYBBAGON49lAQIwDQYJKoZIhvcNAQELBQADggEBAD3wXpnzO/ZqeoYTbJiYBQjcKTHXSPG4ZZvbDb2b5jpfm1Xi0kau7PH7nivnQoC0aQDhabq+iXVwBFDe51ZPtNrpwG2M4aZBZmYYgO219he7RssH7KE69T1mO5sv43OZeKZZK3m+qXXMImFhRhmKMQYMQZlyhgVD5Fl3+rMKZHnMz7xNh/nCbRoKPk1mrraXnLooqmJBvelQCYpwo/aNs6CR7R9suSV5zolJupeRjTNu3/14YR+Ogq6iaHHMso2np8x9ecrE+MaX3jRVazmOtrgtOgvVSqKG5RE2tI8lcV5NddswJ3WJzgdcMvNXNOI+lTU0gXxfCuAY2bN/oUbZG/I=\n-----END CERTIFICATE-----"
+    },
+    "QFoseLbiTFM=": {
+      "displayName": {
+        "en": "Gov of Lebanon"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "v"
+      ],
+      "validFromDT": "2022-03-01T11:39:00.000Z",
+      "validUntilDT": "2022-09-01T10:39:00.000Z",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIICgTCCAiegAwIBAgIIE65wDFeHT28wCgYIKoZIzj0EAwIwgYsxCzAJBgNVBAYTAkxCMQ0wCwYDVQQIDARKbmFoMQ8wDQYDVQQHDAZCZWlydXQxKTAnBgNVBAoMIE1pbmlzdHJ5IG9mIFB1YmxpYyBIZWFsdGggKE1PUEgpMRgwFgYDVQQLDA9TaXJlbiBBbmFseXRpY3MxFzAVBgNVBAMMDkNTQ0FfREdDX0xCXzAxMB4XDTIyMDMwMTExMzkwMFoXDTIyMDkwMTEwMzkwMFowdDEYMBYGA1UECxMPU2lyZW4gQW5hbHl0aWNzMSkwJwYDVQQKEyBNaW5pc3RyeSBvZiBQdWJsaWMgSGVhbHRoIChNT1BIKTEPMA0GA1UECBMGQmVpcnV0MQ8wDQYDVQQHEwZCZWlydXQxCzAJBgNVBAYTAkxCMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEKahy71MvfUTeQtS+u4x6vFVmWT7zLEgfHk0KjJl2M0LJ46Rnfnnw4CvSEv+RrRbqDg+vP262UGaldYPc3OPpF6OBijCBhzAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0OBBYEFJAqQiWLGLnq5+E4J3U5KA/kU2NiMB8GA1UdIwQYMBaAFIzKL6KfshyUQbA6k6uuBXsZUbR9MB0GA1UdHwQWMBQwEqAQoA6GDGh0dHA6Ly9lbXB0eTAWBgNVHSUEDzANBgsrBgEEAY43j2UBAjAKBggqhkjOPQQDAgNIADBFAiEAwrd92lRxKGRlPDoZ0t6/uNND0PvbcYprovlDZRceLVcCIEUMFirbfByR3KHrXD9I0cll0N+vo6EK4vFE4EOEqQCe\n-----END CERTIFICATE-----"
+    },
+    "kQBDocSCNd0=": {
+      "displayName": {
+        "en": "Gov of Monaco"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-03-02T13:59:58.000Z",
+      "validUntilDT": "2023-09-01T13:59:58.000Z",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIIE7DCCAtSgAwIBAgIUAPFanNas2OGdndQvPGYVjlTEZRUwDQYJKoZIhvcNAQELBQAwZjELMAkGA1UEBhMCTUMxHzAdBgNVBAoMFlByaW5jaXBhbGl0eSBvZiBNb25hY28xITAfBgNVBAsMGEZvcmVpZ24gT2ZmaWNlIG9mIE1vbmFjbzETMBEGA1UEAwwKQ1NDQVBLSV9NQzAeFw0yMjAzMDIxMzU5NThaFw0yMzA5MDExMzU5NThaMHcxCzAJBgNVBAYTAk1DMR8wHQYDVQQKDBZQcmluY2lwYWxpdHkgb2YgTW9uYWNvMS4wLAYDVQQLDCVNaW5pc3RyeSBvZiBIZWFsdGggYW5kIFNvY2lhbCBBZmZhaXJzMRcwFQYDVQQDDA5EU1BLSV9NQ19ER0NfMTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJn9rRwYZI3MA+c7yWKpy1ONGsT1kknzvOFn3G8CuxX4+FIQ5cNb2ZurzcSd2BEM/NvjLIFaFR4wH4L5KIWeUjOjggFKMIIBRjAoBgNVHREEITAfggt3d3cuZ291di5tY6QQMA4xDDAKBgNVBAcMA01DTzA1BgNVHRIELjAshhhodHRwczovL2NzY2EtbWNvLmdvdXYubWOkEDAOMQwwCgYDVQQHDANNQ08wDgYDVR0PAQH/BAQDAgeAMDMGA1UdJQQsMCoGDCsGAQQBAI43j2UBAQYMKwYBBAEAjjePZQECBgwrBgEEAQCON49lAQMwKwYDVR0QBCQwIoAPMjAyMjAzMDIxMjQ3MDZagQ8yMDIyMDkwMjEyNDcwNlowHQYDVR0OBBYEFLgu4FZWBVAPklW+NETAd8FTGENqMB8GA1UdIwQYMBaAFDAynHz+fY8C7cUSWuDrV7/ohYkpMDEGA1UdHwQqMCgwJqAkoCKGIGh0dHBzOi8vY3NjYS1tY28uZ291di5tYy9NQ08uY3JsMA0GCSqGSIb3DQEBCwUAA4ICAQBbQbQTfoBc/otlGatjDpArVFyn7Gs4ThappvHLBPeOHL2ghPLhJxotNm+er5PrvP3hQYlhowqyIoxLTU5ijtRrOUmgJHU1zWofLrgragw0kkSDbQpkojnJubVb+saB2jSmT4F14OaC4M4ZkOwEqT3xhozCKBFHulPi+DfljbEooADayd8ZCg3r9+51K7SY55vqfX/JL+1VpVD5qsATmhcugnCaeBprMc944D4IQ+irm1fYXuABBmResrLDYQT/cPDkaMQXUZH5F2ykOfwgGt1ygbXuVot8kJ3HL8XCIkf5FexZp0DvIEYwk7vzAr0NgOdtQResTS4KoBnRTOtvC0oprND6mOb4xsZ7N4VSnbUtfj+aEgC9MktVjjiFqpYcsgiwNfQE8pLOtcbmkOSCN9CtNPRZUKh3t1Q//a61z07fSMbXB40Pvv6/oqTGqZ7bP/iSZz6UiCemaYnhH1qMOORAJc01v2UTRZKrhwH/CHBt/eY1J3tywe4bdj8oE/+rWCrb/xVfShfOILBjBHwnxvll4qYxMQeaJmF1mD3TRKqqtAE6Goa1ohn1alw4N2Eo2eZxzaJ2WCrAhdBQ15Z2niOcEcWgNM5GiybvTUGxc6JFUTaZrzuiJFRi+00v5WF+SlY0lBQiJAn4aRuh0WQ/KWsPVVLPT/9j+cjBI2TjVZTbuA==\n-----END CERTIFICATE-----"
+    },
+    "rKBxHVKgvr0=": {
+      "displayName": {
+        "en": "Gov of Singapore"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-03-01T02:46:32.000Z",
+      "validUntilDT": "2024-02-29T02:46:32.000Z",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIICeDCCAh6gAwIBAgIUHJEL3qmW3k6ZGagS4O5GMTPqmAAwCgYIKoZIzj0EAwIwXTELMAkGA1UEBhMCU0cxEjAQBgNVBAgMCVNpbmdhcG9yZTEbMBkGA1UECgwSTWluaXN0cnkgT2YgSGVhbHRoMR0wGwYDVQQDDBRjc2NhLm5vdGFyaXNlLmdvdi5zZzAeFw0yMjAzMDEwMjQ2MzJaFw0yNDAyMjkwMjQ2MzJaMFwxCzAJBgNVBAYTAlNHMRIwEAYDVQQIDAlTaW5nYXBvcmUxGzAZBgNVBAoMEk1pbmlzdHJ5IE9mIEhlYWx0aDEcMBoGA1UEAwwTZHNjLm5vdGFyaXNlLmdvdi5zZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABHfk1+DqPnhkd7iuxUdgnEdX+PPFQUpFdeVQVmI2ZbqWWjpWScRxcYE4p0Z7AhUxpoJCc3wMvS9h+6C0kyC/QuyjgbwwgbkwDgYDVR0PAQH/BAQDAgeAMB0GA1UdDgQWBBRau+lSJtz+9BPBBdQP81a2jAYEfjAfBgNVHSMEGDAWgBQ5NwWzOLn5niMN0cLBsMOzMpcBpTA1BgNVHR8ELjAsMCqgKKAmhiRodHRwczovL3d3dy5ub3RhcmlzZS5nb3Yuc2cvY3NjYS5jcmwwMAYDVR0lBCkwJwYLKwYBBAGON49lAQEGCysGAQQBjjePZQECBgsrBgEEAY43j2UBAzAKBggqhkjOPQQDAgNIADBFAiBzyNiuYDSCukb5tSD85S75x4XFkPXbiVkZIPi9W0FPTQIhAOUQi3w7wK1HqJvR8UASvRBAnZ+c8k0VJFedHBSIcY02\n-----END CERTIFICATE-----"
     }
   },
   "SmartHealthCards": {
@@ -20079,6 +20122,147 @@
         "x": "XigUM3OyHTXPnQMOcq_736Vg_JszHXbAXQs0j4EFnEE",
         "y": "yyxs_pXpRaSrLPXBrVL6slf-ENi-INgbMQANQnd_p14",
         "kid": "yS6yW_udGw90T30ShT-fFix4hnimgfoX7M5qVMgQvIk",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://fhir-myrecord.cerner.com/r4/Hq9lMFKIau9MlCiBN698ZPzTKNvsMrCb#N2maG8qOhITe_zyPqcrCa6LT_mW18ZtFPy09cGAB24w": {
+      "displayName": {
+        "en": "Genesis Healthcare System"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "crv": "P-256",
+        "kty": "EC",
+        "x": "DNo1BEwoRPNRDYsulhhxu9jOxkvCuEVU4IaCs3H6PJ0",
+        "y": "zB_HLKrE_n5Xi9I7yMIION-IQpzH5MEZoP2GvRftSsI",
+        "kid": "N2maG8qOhITe_zyPqcrCa6LT_mW18ZtFPy09cGAB24w",
+        "use": "sig",
+        "alg": "ES256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://fhir-myrecord.cerner.com/r4/9d2c8ef0-9a25-45b4-b53b-3738c3eda603#N2maG8qOhITe_zyPqcrCa6LT_mW18ZtFPy09cGAB24w": {
+      "displayName": {
+        "en": "MyHealthHome"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "crv": "P-256",
+        "kty": "EC",
+        "x": "DNo1BEwoRPNRDYsulhhxu9jOxkvCuEVU4IaCs3H6PJ0",
+        "y": "zB_HLKrE_n5Xi9I7yMIION-IQpzH5MEZoP2GvRftSsI",
+        "kid": "N2maG8qOhITe_zyPqcrCa6LT_mW18ZtFPy09cGAB24w",
+        "use": "sig",
+        "alg": "ES256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://fhir-myrecord.cerner.com/r4/082fe843-d2e4-4f68-96c9-531186c7d48d#N2maG8qOhITe_zyPqcrCa6LT_mW18ZtFPy09cGAB24w": {
+      "displayName": {
+        "en": "MyHealthHome"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "crv": "P-256",
+        "kty": "EC",
+        "x": "DNo1BEwoRPNRDYsulhhxu9jOxkvCuEVU4IaCs3H6PJ0",
+        "y": "zB_HLKrE_n5Xi9I7yMIION-IQpzH5MEZoP2GvRftSsI",
+        "kid": "N2maG8qOhITe_zyPqcrCa6LT_mW18ZtFPy09cGAB24w",
+        "use": "sig",
+        "alg": "ES256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://fhir-myrecord.cerner.com/r4/b92996e8-6deb-4500-b78a-e05435af1db3#N2maG8qOhITe_zyPqcrCa6LT_mW18ZtFPy09cGAB24w": {
+      "displayName": {
+        "en": "MyHealthHome"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "crv": "P-256",
+        "kty": "EC",
+        "x": "DNo1BEwoRPNRDYsulhhxu9jOxkvCuEVU4IaCs3H6PJ0",
+        "y": "zB_HLKrE_n5Xi9I7yMIION-IQpzH5MEZoP2GvRftSsI",
+        "kid": "N2maG8qOhITe_zyPqcrCa6LT_mW18ZtFPy09cGAB24w",
+        "use": "sig",
+        "alg": "ES256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://fhir-myrecord.cerner.com/r4/9366dc53-07b6-47b5-8809-6f7b8a082b2d#N2maG8qOhITe_zyPqcrCa6LT_mW18ZtFPy09cGAB24w": {
+      "displayName": {
+        "en": "MyHealthHome"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "crv": "P-256",
+        "kty": "EC",
+        "x": "DNo1BEwoRPNRDYsulhhxu9jOxkvCuEVU4IaCs3H6PJ0",
+        "y": "zB_HLKrE_n5Xi9I7yMIION-IQpzH5MEZoP2GvRftSsI",
+        "kid": "N2maG8qOhITe_zyPqcrCa6LT_mW18ZtFPy09cGAB24w",
+        "use": "sig",
+        "alg": "ES256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://fhir-myrecord.cerner.com/r4/62f3918e-1f4f-42f1-a374-2667f4059c19#N2maG8qOhITe_zyPqcrCa6LT_mW18ZtFPy09cGAB24w": {
+      "displayName": {
+        "en": "Lutheran Health Network MyHealthHome"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "crv": "P-256",
+        "kty": "EC",
+        "x": "DNo1BEwoRPNRDYsulhhxu9jOxkvCuEVU4IaCs3H6PJ0",
+        "y": "zB_HLKrE_n5Xi9I7yMIION-IQpzH5MEZoP2GvRftSsI",
+        "kid": "N2maG8qOhITe_zyPqcrCa6LT_mW18ZtFPy09cGAB24w",
+        "use": "sig",
+        "alg": "ES256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://yrmccare1.yumaregional.org/FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC#teYn5RVZyzJOH0oWqb0hDiMyXEDjT2Ut5c5xigpXmrQ": {
+      "displayName": {
+        "en": "Yuma Regional Medical Center"
+      },
+      "displayURL": "https://www.yumaregional.org/Home",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "aNy2ZfeGMDzhT1YWfkHbGklE7u5GYS_Uql-74HlcXDA",
+        "y": "ujE0UrcsgeiipvsZM2EFlO1F4cTiozKTBUirHpIseI4",
+        "kid": "teYn5RVZyzJOH0oWqb0hDiMyXEDjT2Ut5c5xigpXmrQ",
         "use": "sig",
         "kty": "EC",
         "alg": "ES256",
