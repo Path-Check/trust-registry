@@ -8404,6 +8404,36 @@
       "validFromDT": "2022-03-01T02:46:32.000Z",
       "validUntilDT": "2024-02-29T02:46:32.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEd+TX4Oo+eGR3uK7FR2CcR1f488VBSkV15VBWYjZlupZaOlZJxHFxgTinRnsCFTGmgkJzfAy9L2H7oLSTIL9C7A=="
+    },
+    "Z6kz8fZkpcQ=": {
+      "displayName": {
+        "en": "Gov of Portugal"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-02-16T16:30:59.000Z",
+      "validUntilDT": "2024-02-16T16:30:58.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE2GN2TF18re0OeS4eEwitfuDoojU1JVSg+L89rYlbKUi5BzXI3IzfHEr96IpQXgEKJksYjnphXmz/x5qgFLlyCg=="
+    },
+    "ooy9KW9xjVs=": {
+      "displayName": {
+        "en": "Gov of Portugal"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-02-16T16:32:15.000Z",
+      "validUntilDT": "2024-02-16T16:32:14.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEPgX8O0km5XF1vUriqydadZwTTbcO5uCuJ3Dztp6D8B4KoabnPRgJAWRc9rLmE5/QaW5wtWFxSv+GJuKPBfslsw=="
     }
   },
   "SHC": {
@@ -15577,6 +15607,31 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEaNy2ZfeGMDzhT1YWfkHbGklE7u5GYS/Uql+74HlcXDC6MTRStyyB6KKm+xkzYQWU7UXhxOKjMpMFSKsekix4jg=="
+    },
+    "https://surescripts.gmh.edu/FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC#xoPJCz5NyVXywn4RILWgkMpwVVXs8Dj1bjYap3kyPVw": {
+      "displayName": {
+        "en": "Grady Health"
+      },
+      "displayURL": "https://www.gradyhealth.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEDhTihuPWaH+/VE6BccIHrEvLUbsiSm9ocq2EJSxaIL54rzLdID7l1bbnxK/4ffR8A3asig9ueiBwOKNU4usQig=="
+    },
+    "https://rjhislandhealth.us-southeast-1.linodeobjects.com#2fWAF7o9jARYkwTrrq1w3kyviGhoKOf7rwZIs9epHkE": {
+      "displayName": {
+        "en": "Royal Jubilee Hospital"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEqIqza13mg3gd9XsrJ1w8X2uwoWvXWoOKimh1zS7BiqcOSPIb5hzUF31rmNT4u/HyDNImmgF4olQ2XKFa6O7f2w=="
     }
   }
 }
