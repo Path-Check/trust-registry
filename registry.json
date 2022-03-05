@@ -14820,7 +14820,7 @@
         "en": "Hattiesburg Clinic and Forrest Health"
       },
       "entityType": "issuer",
-      "status": "revoked",
+      "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
       "didDocument": {
         "x": "pm70khqILVU2lPCSOJfwPTc25vbs7mQUYoM2KXLOYjY",
