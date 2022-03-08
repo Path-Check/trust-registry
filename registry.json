@@ -8436,6 +8436,19 @@
       "validFromDT": "2022-02-16T16:32:15.000Z",
       "validUntilDT": "2024-02-16T16:32:14.000Z",
       "didDocument": "-----BEGIN CERTIFICATE-----\nMIICKTCCAc6gAwIBAgIUJ3P9ii5u9RgVNR8YmyorIoT4oGEwCgYIKoZIzj0EAwIwZTETMBEGA1UEAwwKQ1NDQSBTYXVkZTEMMAoGA1UEBRMDMDAxMTMwMQYDVQQKDCpSZXB1YmxpY2EgUG9ydHVndWVzYSAtIFBvcnR1Z3Vlc2UgUmVwdWJsaWMxCzAJBgNVBAYTAlBUMB4XDTIyMDIxNjE2MzIxNVoXDTI0MDIxNjE2MzIxNFowYTEPMA0GA1UEAwwGREdDIERTMQwwCgYDVQQFEwMwMDQxMzAxBgNVBAoMKlJlcHVibGljYSBQb3J0dWd1ZXNhIC0gUG9ydHVndWVzZSBSZXB1YmxpYzELMAkGA1UEBhMCUFQwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAQ+Bfw7SSblcXW9SuKrJ1p1nBNNtw7m4K4ncPO2noPwHgqhpuc9GAkBZFz2suYTn9BpbnC1YXFK/4Ym4o8F+yWzo2AwXjAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFH4yvG+XLvlf69AVR2efiYzKIWgOMB0GA1UdDgQWBBS0+kgpX3MCCVPQIGNkfCAwar0WVDAOBgNVHQ8BAf8EBAMCB4AwCgYIKoZIzj0EAwIDSQAwRgIhAKe1M8iAFntNNim/Ch0z2pUgt2uzcJNaTEswieK4QgL5AiEAkwTpBU0nuv2EDipTFaf0pCGzllkprlzEcIFEUfHZyTQ=\n-----END CERTIFICATE-----"
+    },
+    "zPt5QMRAGLE=": {
+      "displayName": {
+        "en": "Gov of the Faroe Islands"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "r"
+      ],
+      "validFromDT": "2021-07-08T14:36:26.000Z",
+      "validUntilDT": "2023-07-08T14:36:26.000Z",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIICxTCCAmugAwIBAgIULOJTBlyXzRVIIGNFMtag/JLOoWEwCgYIKoZIzj0EAwIwVDEvMC0GA1UEAwwmRmFyb2UgSXNsYW5kcyBIZWFsdGggQXV0aG9yaXR5IENTQ0EgdjExFDASBgNVBAoMC0dqYWxkc3RvdmFuMQswCQYDVQQGEwJGTzAeFw0yMTA3MDgxNDM2MjZaFw0yMzA3MDgxNDM2MjZaME8xJjAkBgNVBAMMHURTQ19ER0NfRk9fMzQ1MzM0X1JFQ09WRVJZXzAxMRgwFgYDVQQKDA9TSlVLUkFIVVNWRVJLSUQxCzAJBgNVBAYTAkZPMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAELlAbjlqgxI/4RSkTe48ujrHtkfbMQXlQbAj3rcSoV0cZhAHCFWFKIiZte1MycsYlSPgNBPh4RkWfe+iy5ipklaOCAR4wggEaMB8GA1UdIwQYMBaAFO48gabmHrZRdETg0PQwM+Lqar6hMFwGA1UdIARVMFMwUQYIKoFQgT0CAQEwRTBDBggrBgEFBQcCARY3aHR0cHM6Ly9yZXBvc2l0b3J5LnNhbWxlaWtpLmZvL2xlZ2FsLXJlcG9zaXRvcnkvZWhlYWx0aDAWBgNVHSUEDzANBgsrBgEEAY43j2UBAzBSBgNVHR8ESzBJMEegRaBDhkFodHRwOi8vY3JsLnNhbWxlaWtpLmZvL0Zhcm9lLUlzbGFuZHMtSGVhbHRoLUF1dGhvcml0eS1DU0NBLXYxLmNybDAdBgNVHQ4EFgQUl0koFslnWtI0d/F8esicfezpHUUwDgYDVR0PAQH/BAQDAgeAMAoGCCqGSM49BAMCA0gAMEUCIQDuEllq7pPM6qgaKThXoM7QrXQZFdNvvlitkLTXCU3oCAIgAXPJF7JXTp8tv+hRLgKSGXdy/OjgkhO3yIovPgC+UZY=\n-----END CERTIFICATE-----"
     }
   },
   "SmartHealthCards": {
@@ -20338,6 +20351,88 @@
         "crv": "P-256",
         "x": "qIqza13mg3gd9XsrJ1w8X2uwoWvXWoOKimh1zS7Biqc",
         "y": "DkjyG-Yc1Bd9a5jU-Lvx8gzSJpoBeKJUNlyhWuju39s"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epicproxyprd.solutionhealth.org/FHIR_PROD/api/epic/2021/Security/Open/EcKeys/32001/SHC#JFrLuzYhsSZKGHyY2mh9zRf3u002Skewj0IMu7z94LM": {
+      "displayName": {
+        "en": "SolutionHealth"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "zpdSzAC2pfFksa59qCehgmHZI_pczCbneYPBIJ5EsZs",
+        "y": "nmO7uZym5ZBwz2GRQuoYbOP0-3St-dKXNSGekK5hxZE",
+        "kid": "JFrLuzYhsSZKGHyY2mh9zRf3u002Skewj0IMu7z94LM",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://fhir-myrecord.cerner.com/r4/16386a34-20a6-42d6-bf13-226b287a42a5#N2maG8qOhITe_zyPqcrCa6LT_mW18ZtFPy09cGAB24w": {
+      "displayName": {
+        "en": "Concord Hospital"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "crv": "P-256",
+        "kty": "EC",
+        "x": "DNo1BEwoRPNRDYsulhhxu9jOxkvCuEVU4IaCs3H6PJ0",
+        "y": "zB_HLKrE_n5Xi9I7yMIION-IQpzH5MEZoP2GvRftSsI",
+        "kid": "N2maG8qOhITe_zyPqcrCa6LT_mW18ZtFPy09cGAB24w",
+        "use": "sig",
+        "alg": "ES256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://my.pathology.health.nsw.gov.au#97fItkBnzQyAc0sEljIwuYGbrRMCouhnuq-L8hcEKBg": {
+      "displayName": {
+        "en": "NSW Health Pathology"
+      },
+      "displayURL": "https://www.pathology.health.nsw.gov.au",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "97fItkBnzQyAc0sEljIwuYGbrRMCouhnuq-L8hcEKBg",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "gxOgW8NGM1S44Ypbufb2xwT9iZoq5oljlQ-fXdxO7D0",
+        "y": "2iUNaWsZwp3zevtZcyRb9oDEYzSPJ329QB--Yq4aWro"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://my.pathology.health.nsw.gov.au#ldRTTQtvMvekd1TcW8W6f1BwmlHzqG3hGlJGVMc2mzU": {
+      "displayName": {
+        "en": "NSW Health Pathology"
+      },
+      "displayURL": "https://www.pathology.health.nsw.gov.au",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "ldRTTQtvMvekd1TcW8W6f1BwmlHzqG3hGlJGVMc2mzU",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "P5kt2_lWSeZM0gxh7lGc74cxR8m_Z2RGf905AOcZFQg",
+        "y": "eAKXz49jTZYKsN881zgZF3f8Yy5JgUDYLtSfZjcWsEA"
       },
       "credentialType": [
         "https://smarthealth.cards#immunization"
