@@ -20437,6 +20437,67 @@
       "credentialType": [
         "https://smarthealth.cards#immunization"
       ]
+    },
+    "https://accusense.health#7eO92g4zGtvtUFxQw6OhzFGpc-ZNlcmOxVLtiJdJhC0": {
+      "displayName": {
+        "en": "AccuSense Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "use": "sig",
+        "alg": "ES256",
+        "kid": "7eO92g4zGtvtUFxQw6OhzFGpc-ZNlcmOxVLtiJdJhC0",
+        "crv": "P-256",
+        "x": "KHJxWtIRc7Ye9qEw-9o751o_qYGBbO96Ic6upNeb9_k",
+        "y": "aH-lEqgx2WLHgCIkBeEMthGwrO7TI-VwwLYKbp0pEJw"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://accusense.health#jt-XnLQ-PY3RfG2Sn7CaLNT7rzKkDWrniX2R06Vt5wE": {
+      "displayName": {
+        "en": "AccuSense Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "use": "sig",
+        "alg": "ES256",
+        "kid": "jt-XnLQ-PY3RfG2Sn7CaLNT7rzKkDWrniX2R06Vt5wE",
+        "crv": "P-256",
+        "x": "Txh8FZE3PcR5VwoC67p0PeZFYLbk_qnXs-nCp7XPJPk",
+        "y": "apzu09co9i2ASW9vSyWfqE17trokjZ4mPeZM8QsfAfc"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://rwebproxy.elcaminohospital.org/FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC#Fgt_yxf5Ev39lCDaDe4P9NpFmNJDEhamY2mwyc6A4cQ": {
+      "displayName": {
+        "en": "El Camino Hospital"
+      },
+      "displayURL": "https://www.elcaminohealth.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "2gNeD5KUaRva5PrDRcN5EtDl1s3a8aucjVyw4okyYjU",
+        "y": "gMhvBdfT4LGMNxYAtZY0msb3IMPSr4KXKqZ7p6e0gi4",
+        "kid": "Fgt_yxf5Ev39lCDaDe4P9NpFmNJDEhamY2mwyc6A4cQ",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
     }
   }
 }
