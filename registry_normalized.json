@@ -15695,6 +15695,43 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEP5kt2/lWSeZM0gxh7lGc74cxR8m/Z2RGf905AOcZFQh4ApfPj2NNlgqw3zzXOBkXd/xjLkmBQNgu1J9mNxawQA=="
+    },
+    "https://accusense.health#7eO92g4zGtvtUFxQw6OhzFGpc-ZNlcmOxVLtiJdJhC0": {
+      "displayName": {
+        "en": "AccuSense Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEKHJxWtIRc7Ye9qEw+9o751o/qYGBbO96Ic6upNeb9/lof6USqDHZYseAIiQF4Qy2EbCs7tMj5XDAtgpunSkQnA=="
+    },
+    "https://accusense.health#jt-XnLQ-PY3RfG2Sn7CaLNT7rzKkDWrniX2R06Vt5wE": {
+      "displayName": {
+        "en": "AccuSense Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAETxh8FZE3PcR5VwoC67p0PeZFYLbk/qnXs+nCp7XPJPlqnO7T1yj2LYBJb29LJZ+oTXu2uiSNniY95kzxCx8B9w=="
+    },
+    "https://rwebproxy.elcaminohospital.org/FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC#Fgt_yxf5Ev39lCDaDe4P9NpFmNJDEhamY2mwyc6A4cQ": {
+      "displayName": {
+        "en": "El Camino Hospital"
+      },
+      "displayURL": "https://www.elcaminohealth.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE2gNeD5KUaRva5PrDRcN5EtDl1s3a8aucjVyw4okyYjWAyG8F19PgsYw3FgC1ljSaxvcgw9Kvgpcqpnunp7SCLg=="
     }
   }
 }
