@@ -15732,6 +15732,57 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE2gNeD5KUaRva5PrDRcN5EtDl1s3a8aucjVyw4okyYjWAyG8F19PgsYw3FgC1ljSaxvcgw9Kvgpcqpnunp7SCLg=="
+    },
+    "https://epicproxy.et0761.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#DodINAnbnH8FXWBUhBvdUIZrHqJiPZeeStyxpnNYlJ4": {
+      "displayName": {
+        "en": "Tampa General Hospital and University of South Florida"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEpouUH0OQWO/0wplBedhGkNwB6oC/NfeEoOHMRHuDMWPe3c292GvYEElzHaUzYipoWhFk+FuFaaJoxU0suZbkOA=="
+    },
+    "https://epicweb.challiance.org/Interconnect-FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC#zKbXKVoQpThDLFSiQPQVcljHkFIlPR3ZcVVJntSyk80": {
+      "displayName": {
+        "en": "Cambridge Health Alliance"
+      },
+      "displayURL": "https://www.challiance.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEHJ0sm7kvK5pnW/tb5/1addp5GVM7Ykj/RbxoPq1Nmomlr6mkVtKZD7fcgKXgJZnkI7Nru1I5Oh111KhAbeuFtg=="
+    },
+    "https://epicweb.challiance.org/Interconnect-FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC#HFh-_XqH7cgzvyA2pEGnlYSix9BvlrSOaD2aCSbmzYc": {
+      "displayName": {
+        "en": "Cambridge Health Alliance"
+      },
+      "displayURL": "https://www.challiance.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEHz0sDDjNTlPBemkUKRXWv1OWf0q5m/f1VDS8mA2aVXPhf8K3uiUdNEu3GtMs2X5G1cn2aTh3e2IOLPOv/F8mjA=="
+    },
+    "https://sf1.rmcps.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#_Pr7qPqkGk9ScHxxOy1EtA1ckzpe7w4wN_lkCIbmUtU": {
+      "displayName": {
+        "en": "Riverside Medical Clinic"
+      },
+      "displayURL": "https://www.riversidemedicalclinic.com/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEHOLqz/Z5TBFqzmDZlEj0rZm0UdXfvZRyYS2bvWB9sJ3cS1czJdUrkcJqjM+ZcghUgElCGWGJjMsflr/ka24zJQ=="
     }
   }
 }
