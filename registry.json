@@ -8449,6 +8449,21 @@
       "validFromDT": "2021-07-08T14:36:26.000Z",
       "validUntilDT": "2023-07-08T14:36:26.000Z",
       "didDocument": "-----BEGIN CERTIFICATE-----\nMIICxTCCAmugAwIBAgIULOJTBlyXzRVIIGNFMtag/JLOoWEwCgYIKoZIzj0EAwIwVDEvMC0GA1UEAwwmRmFyb2UgSXNsYW5kcyBIZWFsdGggQXV0aG9yaXR5IENTQ0EgdjExFDASBgNVBAoMC0dqYWxkc3RvdmFuMQswCQYDVQQGEwJGTzAeFw0yMTA3MDgxNDM2MjZaFw0yMzA3MDgxNDM2MjZaME8xJjAkBgNVBAMMHURTQ19ER0NfRk9fMzQ1MzM0X1JFQ09WRVJZXzAxMRgwFgYDVQQKDA9TSlVLUkFIVVNWRVJLSUQxCzAJBgNVBAYTAkZPMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAELlAbjlqgxI/4RSkTe48ujrHtkfbMQXlQbAj3rcSoV0cZhAHCFWFKIiZte1MycsYlSPgNBPh4RkWfe+iy5ipklaOCAR4wggEaMB8GA1UdIwQYMBaAFO48gabmHrZRdETg0PQwM+Lqar6hMFwGA1UdIARVMFMwUQYIKoFQgT0CAQEwRTBDBggrBgEFBQcCARY3aHR0cHM6Ly9yZXBvc2l0b3J5LnNhbWxlaWtpLmZvL2xlZ2FsLXJlcG9zaXRvcnkvZWhlYWx0aDAWBgNVHSUEDzANBgsrBgEEAY43j2UBAzBSBgNVHR8ESzBJMEegRaBDhkFodHRwOi8vY3JsLnNhbWxlaWtpLmZvL0Zhcm9lLUlzbGFuZHMtSGVhbHRoLUF1dGhvcml0eS1DU0NBLXYxLmNybDAdBgNVHQ4EFgQUl0koFslnWtI0d/F8esicfezpHUUwDgYDVR0PAQH/BAQDAgeAMAoGCCqGSM49BAMCA0gAMEUCIQDuEllq7pPM6qgaKThXoM7QrXQZFdNvvlitkLTXCU3oCAIgAXPJF7JXTp8tv+hRLgKSGXdy/OjgkhO3yIovPgC+UZY=\n-----END CERTIFICATE-----"
+    },
+    "j0Q/p/Eme5g=": {
+      "displayName": {
+        "en": "Gov of Georgia"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-03-10T17:17:59.000Z",
+      "validUntilDT": "2024-03-09T17:17:58.000Z",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIIDLTCCAtKgAwIBAgIUHJZVD5fM/5IkrjCaMxPqDdhiKo8wCgYIKoZIzj0EAwIwgYMxHzAdBgNVBAMMFkRHQyBDb3VudHJ5IFNpZ25pbmcgQ0ExKjAoBgNVBAsMIVB1YmxpYyBTZXJ2aWNlIERldmVsb3BtZW50IEFnZW5jeTEnMCUGA1UECgweTWluaXN0cnkgb2YgSnVzdGljZSBvZiBHZW9yZ2lhMQswCQYDVQQGEwJHRTAeFw0yMjAzMTAxNzE3NTlaFw0yNDAzMDkxNzE3NThaMIHVMRgwFgYDVQQDDA9ER0MgRFMgU2lnbmVyIDExLTArBgNVBAsMJExFUEwgSW5mb3JtYXRpb24gVGVjaG5vbG9naWVzIEFnZW5jeTF9MHsGA1UECgx0TWluaXN0cnkgb2YgSW50ZXJuYWxseSBEaXNwbGFjZWQgUGVyc29ucyBGcm9tIHRoZSBPY2N1cGllZCBUZXJyaXRvcmllcywgTGFib3VyLCBIZWFsdGggYW5kIFNvY2lhbCBBZmZhaXJzIG9mIEdlb3JnaWExCzAJBgNVBAYTAkdFMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEwNh8XO3W6lmRGkBdBXUSC/3ZQzo4qiWLRyQqzH2ANTYVWUx/ZYpuDnPOMJ78a9L+ncO6I0xF6hg69qWhBY/2I6OBzzCBzDAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFGdNMng/by4nCNGrYeB79TXd3c2wMDAGA1UdJQQpMCcGCysGAQQBjjePZQEDBgsrBgEEAY43j2UBAQYLKwYBBAGON49lAQIwOgYDVR0fBDMwMTAvoC2gK4YpaHR0cDovL2NybC5jcmEuZ2UvZGdjY291bnRyeXNpZ25pbmdjYS5jcmwwHQYDVR0OBBYEFPdYikW8I1ZjlX1EJMPQ882GrG8AMA4GA1UdDwEB/wQEAwIHgDAKBggqhkjOPQQDAgNJADBGAiEAriJecaUdVm1aSbcKYb63rZ/JsLTOxpZrVCYPasxwUCICIQDwGRzlNiine8CZ/eT0VvYv8q9BexZienM9T8wZ/VIuow==\n-----END CERTIFICATE-----"
     }
   },
   "SmartHealthCards": {
@@ -16495,7 +16510,7 @@
         "crv": "P-256",
         "x": "9B8CKA868OKjH3ydtM1jw2ax-wo0qCHP3qDR3b9jilY",
         "y": "pEudYHfIMz20vz-WNZargtgDDXj6GQeN410x8u2xjQ0",
-        "crlVersion": 7
+        "crlVersion": 8
       },
       "credentialType": [
         "https://smarthealth.cards#immunization"
@@ -20573,6 +20588,48 @@
         "x": "HOLqz_Z5TBFqzmDZlEj0rZm0UdXfvZRyYS2bvWB9sJ0",
         "y": "3EtXMyXVK5HCaozPmXIIVIBJQhlhiYzLH5a_5GtuMyU",
         "kid": "_Pr7qPqkGk9ScHxxOy1EtA1ckzpe7w4wN_lkCIbmUtU",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://mychart.methodisthospitals.org/FHIR-ARR/api/epic/2021/Security/Open/EcKeys/32001/SHC#IHtj6CeVxA-5qztmSUXjoTNr9uAyU1xnYDY_Iw06GPI": {
+      "displayName": {
+        "en": "Methodist Hospitals (IN)"
+      },
+      "displayURL": "https://methodisthospitals.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "F-AGqWq9JKAz6rcPXjztjQElXDZuhRJ7WUkoW7qrx1Y",
+        "y": "bPkyWe4lt1tNCVnyeVmPmei5vJff_lZqd9sNaRTVW5g",
+        "kid": "IHtj6CeVxA-5qztmSUXjoTNr9uAyU1xnYDY_Iw06GPI",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://hscsesoap.hscs.virginia.edu/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#mj133szaaJRn3oBi7gpravOVAjSFse2tYfiAlUASsDY": {
+      "displayName": {
+        "en": "UVA Health"
+      },
+      "displayURL": "https://uvahealth.com/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "mcxsV-pN3vy2Q41iUf5S_WcWmhKOY9lZsfGGXvRUY84",
+        "y": "xOQTwxl19k1BEPHNvhQYPXKeUnTEX0G_3C7DP0F8TKE",
+        "kid": "mj133szaaJRn3oBi7gpravOVAjSFse2tYfiAlUASsDY",
         "use": "sig",
         "kty": "EC",
         "alg": "ES256",

@@ -8447,6 +8447,21 @@
       "validFromDT": "2021-07-08T14:36:26.000Z",
       "validUntilDT": "2023-07-08T14:36:26.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAELlAbjlqgxI/4RSkTe48ujrHtkfbMQXlQbAj3rcSoV0cZhAHCFWFKIiZte1MycsYlSPgNBPh4RkWfe+iy5ipklQ=="
+    },
+    "j0Q/p/Eme5g=": {
+      "displayName": {
+        "en": "Gov of Georgia"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-03-10T17:17:59.000Z",
+      "validUntilDT": "2024-03-09T17:17:58.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEwNh8XO3W6lmRGkBdBXUSC/3ZQzo4qiWLRyQqzH2ANTYVWUx/ZYpuDnPOMJ78a9L+ncO6I0xF6hg69qWhBY/2Iw=="
     }
   },
   "SHC": {
@@ -15783,6 +15798,32 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEHOLqz/Z5TBFqzmDZlEj0rZm0UdXfvZRyYS2bvWB9sJ3cS1czJdUrkcJqjM+ZcghUgElCGWGJjMsflr/ka24zJQ=="
+    },
+    "https://mychart.methodisthospitals.org/FHIR-ARR/api/epic/2021/Security/Open/EcKeys/32001/SHC#IHtj6CeVxA-5qztmSUXjoTNr9uAyU1xnYDY_Iw06GPI": {
+      "displayName": {
+        "en": "Methodist Hospitals (IN)"
+      },
+      "displayURL": "https://methodisthospitals.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEF+AGqWq9JKAz6rcPXjztjQElXDZuhRJ7WUkoW7qrx1Zs+TJZ7iW3W00JWfJ5WY+Z6Lm8l9/+Vmp32w1pFNVbmA=="
+    },
+    "https://hscsesoap.hscs.virginia.edu/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#mj133szaaJRn3oBi7gpravOVAjSFse2tYfiAlUASsDY": {
+      "displayName": {
+        "en": "UVA Health"
+      },
+      "displayURL": "https://uvahealth.com/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEmcxsV+pN3vy2Q41iUf5S/WcWmhKOY9lZsfGGXvRUY87E5BPDGXX2TUEQ8c2+FBg9cp5SdMRfQb/cLsM/QXxMoQ=="
     }
   }
 }
