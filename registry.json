@@ -20638,6 +20638,26 @@
       "credentialType": [
         "https://smarthealth.cards#immunization"
       ]
+    },
+    "https://epicarr.optum.com/FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC#1bRIumHAHdfwOx7lw_cYztuYfcjUHzkrDJxVumpXDac": {
+      "displayName": {
+        "en": "OptumCare National"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "l48sG7aFP7ckZ7IQX2BOX1yv9DWGce7Ywfrz85RSSUA",
+        "y": "xP-eDcfR2C-or0sBoTWP8jhup1hmFXYjYvz6PtDNaBw",
+        "kid": "1bRIumHAHdfwOx7lw_cYztuYfcjUHzkrDJxVumpXDac",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
     }
   }
 }
