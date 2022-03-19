@@ -16064,6 +16064,32 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAETRK15/iIkqwhk5ows39Ta/dE/W68yWnmyWZj8KbM1g9Z+AV3VL7U8z23NbJqxtiebENroYGIbwNQMg235ciiyA=="
+    },
+    "https://epic-ext.trinity-health.org/FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC#-Zl9IpZfFh3tYrojgmsfU34ulkdvsdKmELCOyHSaYZ0": {
+      "displayName": {
+        "en": "Trinity Health"
+      },
+      "displayURL": "https://www.trinity-health.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEgojompe9U98BoT6+8XPHZpDVMA4S8OKqXyNrwUqlDaIEHNTladYS1eWdsTQOUUOzJCKeL6EurP3PpAUMa8hZvQ=="
+    },
+    "https://epicprdext.stfranciscare.org/FhirProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#UURmFWohkZz1reDW0M16e5MlnKNSIxsvYfRvKnGodLI": {
+      "displayName": {
+        "en": "Trinity Health of New England"
+      },
+      "displayURL": "https://www.trinityhealthofne.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEptres2/msgV0PtPvOua+lwOijluLo2HIEE9v78H8lCAqF2PieMY7n6o2Myy0HlFHHuMZhO9qy4tJWNH2FqWnWw=="
     }
   }
 }
