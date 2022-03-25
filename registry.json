@@ -8641,6 +8641,96 @@
       "validFromDT": "2022-03-16T14:31:43.000Z",
       "validUntilDT": "2024-03-16T14:41:43.000Z",
       "didDocument": "-----BEGIN CERTIFICATE-----\nMIICLzCCAdWgAwIBAgITWQAAAAkHU7V7MZL3DgAAAAAACTAKBggqhkjOPQQDAjBFMQswCQYDVQQGEwJOTzEbMBkGA1UEChMSTm9yc2sgaGVsc2VuZXR0IFNGMRkwFwYDVQQDExBOTyBOSE4gQ1NDQSBQUk9EMB4XDTIyMDMxNjE0MzE0M1oXDTI0MDMxNjE0NDE0M1owUjELMAkGA1UEBhMCTk8xLTArBgNVBAoTJE5vcndlZ2lhbiBJbnN0aXR1dGUgb2YgUHVibGljIEhlYWx0aDEUMBIGA1UEAxMLRFNDIEFOIEVVIDgwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAATZWZ8mVOJFPd34oMkcaXJMYGsFcbSk5armnaqjJd/+8jRFAiorY3i8trS+bPxD3zAdAfAfJsvfMfJSZzmdouNwo4GWMIGTMA4GA1UdDwEB/wQEAwIHgDAzBgNVHSUELDAqBgwrBgEEAQCON49lAQEGDCsGAQQBAI43j2UBAgYMKwYBBAEAjjePZQEDMB0GA1UdDgQWBBRr5Z9UU0buCNLMGxfLnyu1t/YIIjAfBgNVHSMEGDAWgBTXkEejKua1tCS7TE8OsmZOZtj0NzAMBgNVHRMBAf8EAjAAMAoGCCqGSM49BAMCA0gAMEUCIQCZNJekSHPUuTVgdow/+bGyMV9RFpMdWOC4FEWS4DKQvQIgdFmasnND0xdRXn0oufjXH7I9digiNZoOSTQTf7XRJmk=\n-----END CERTIFICATE-----"
+    },
+    "8t2b9/PZTEM=": {
+      "displayName": {
+        "en": "Gov of United Kingdom"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-03-22T16:50:55.000Z",
+      "validUntilDT": "2024-03-22T17:20:55.000Z",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIIC+zCCAqCgAwIBAgIEYVCF8zAKBggqhkjOPQQDBDA+MQswCQYDVQQGEwJHQjEUMBIGA1UEChMLTkhTIERpZ2l0YWwxGTAXBgNVBAMTEEVuZ2xhbmQgRENDIENTQ0EwHhcNMjIwMzIyMTY1MDU1WhcNMjQwMzIyMTcyMDU1WjBZMQswCQYDVQQGEwJHQjEUMBIGA1UEChMLTkhTIERpZ2l0YWwxGDAWBgNVBAgMD0VuZ2xhbmQgJiBXYWxlczEaMBgGA1UEAxMRRFNDLURDQy1HQi1FTkctMDUwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASXN/CJWOT5aJQWwMBi4V9T9x3nlFzl2st9ppeGWZDAdmk74Lf6bXY7iRzGRO3nUHjFrxQkA+1uB5suvVBznZtJo4IBbzCCAWswDgYDVR0PAQH/BAQDAgeAMHgGA1UdEgRxMG+BD3BraUBuaHN4Lm5ocy51a4JKaHR0cHM6Ly93d3cubmhzeC5uaHMudWsva2V5LXRvb2xzLWFuZC1pbmZvL3B1YmxpYy1rZXktaW5mcmFzdHJ1Y3R1cmVzL2NzY2GkEDAOMQwwCgYDVQQHDANHQlIwcgYDVR0fBGswaTBnoGWgY4YnaHR0cDovL3BraS5uaHN4Lm5ocy51ay9DUkwvRU5HX0NTQ0EuY3JshjhodHRwOi8vY292aWQtc3RhdHVzLnNlcnZpY2UubmhzeC5uaHMudWsvQ1JML0VOR19DU0NBLmNybDArBgNVHRAEJDAigA8yMDIyMDMyMjE2NTA1NVqBDzIwMjIwOTIxMTEyMDU1WjAfBgNVHSMEGDAWgBTaLs7D9zr7+L4Qc6jE8Yi9K9TxyjAdBgNVHQ4EFgQUgGkeoWslL2NEx0bWB6WZecsCxnwwCgYIKoZIzj0EAwQDSQAwRgIhALVd36VeP9YcBKm0IdByFBWGwcc0zTas9vfR3M7cIsVvAiEAhtW7AHzoGBbZXiqgLOcS0YL9Hrh8thUa8WZgldHeKeg=\n-----END CERTIFICATE-----"
+    },
+    "IA2gOcORi6A=": {
+      "displayName": {
+        "en": "Gov of United Kingdom"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-03-22T15:46:44.000Z",
+      "validUntilDT": "2024-03-22T16:16:44.000Z",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIIDCDCCAq+gAwIBAgIEYVGfnjAKBggqhkjOPQQDBDBTMQswCQYDVQQGEwJHQjEVMBMGA1UEChMMTkhTIFNjb3RsYW5kMREwDwYDVQQIEwhTY290bGFuZDEaMBgGA1UEAxMRU2NvdGxhbmQgRENDIENTQ0EwHhcNMjIwMzIyMTU0NjQ0WhcNMjQwMzIyMTYxNjQ0WjBTMQswCQYDVQQGEwJHQjEVMBMGA1UEChMMTkhTIFNjb3RsYW5kMREwDwYDVQQIEwhTY290bGFuZDEaMBgGA1UEAwwRRFNDX0RDQ19HQl9OU1NfMDQwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAR+oR5jhTuZK/AmhfDSxyWhXD29mRIYIkehYHYkvC/Kv54xZ26cO8vD3ZQCw8AI5AAW7GKKOk2neQl172d0ROBPo4IBbzCCAWswDgYDVR0PAQH/BAQDAgeAMHgGA1UdEgRxMG+BD3BraUBuaHN4Lm5ocy51a4JKaHR0cHM6Ly93d3cubmhzeC5uaHMudWsva2V5LXRvb2xzLWFuZC1pbmZvL3B1YmxpYy1rZXktaW5mcmFzdHJ1Y3R1cmVzL2NzY2GkEDAOMQwwCgYDVQQHDANHQlIwcgYDVR0fBGswaTBnoGWgY4YnaHR0cDovL3BraS5uaHN4Lm5ocy51ay9DUkwvU0NPX0NTQ0EuY3JshjhodHRwOi8vY292aWQtc3RhdHVzLnNlcnZpY2UubmhzeC5uaHMudWsvQ1JML1NDT19DU0NBLmNybDArBgNVHRAEJDAigA8yMDIyMDMyMjE1NDY0NFqBDzIwMjIwOTIxMTAxNjQ0WjAfBgNVHSMEGDAWgBSmTIeK9pNkc0P3zH4tOnzeZf7V5zAdBgNVHQ4EFgQU20wCwBZKTxtzQ5+gtPAjT1LTtccwCgYIKoZIzj0EAwQDRwAwRAIgJJJCZHm5RFZf52+/XuRd2sTYvQrn93Nv3WuMUWtJ3bkCIDlUMD7KWUPwBAjMzxrt118aGoFUlJ555h5kc4WC99DK\n-----END CERTIFICATE-----"
+    },
+    "JY8uuK0slzI=": {
+      "displayName": {
+        "en": "Gov of United Kingdom"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-03-22T16:53:42.000Z",
+      "validUntilDT": "2024-03-22T17:23:42.000Z",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIIC9jCCApugAwIBAgIEYVCF9jAKBggqhkjOPQQDBDA+MQswCQYDVQQGEwJHQjEUMBIGA1UEChMLTkhTIERpZ2l0YWwxGTAXBgNVBAMTEEVuZ2xhbmQgRENDIENTQ0EwHhcNMjIwMzIyMTY1MzQyWhcNMjQwMzIyMTcyMzQyWjBUMQswCQYDVQQGEwJHQjEUMBIGA1UEChMLTkhTIERpZ2l0YWwxFDASBgNVBAgTC0lzbGUgT2YgTWFuMRkwFwYDVQQDExBEU0MtRENDLUdCLUlNLTA1MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEYwFb3i9UvfaAUgrjfwpG0ife37uOLjcEZaM9ECyTO30RQ5DVU7b/c6BRzPwc3mJ7nHEl4erMPy31bgNvtHh8fqOCAW8wggFrMA4GA1UdDwEB/wQEAwIHgDB4BgNVHRIEcTBvgQ9wa2lAbmhzeC5uaHMudWuCSmh0dHBzOi8vd3d3Lm5oc3gubmhzLnVrL2tleS10b29scy1hbmQtaW5mby9wdWJsaWMta2V5LWluZnJhc3RydWN0dXJlcy9jc2NhpBAwDjEMMAoGA1UEBwwDR0JSMHIGA1UdHwRrMGkwZ6BloGOGJ2h0dHA6Ly9wa2kubmhzeC5uaHMudWsvQ1JML0VOR19DU0NBLmNybIY4aHR0cDovL2NvdmlkLXN0YXR1cy5zZXJ2aWNlLm5oc3gubmhzLnVrL0NSTC9FTkdfQ1NDQS5jcmwwKwYDVR0QBCQwIoAPMjAyMjAzMjIxNjUzNDJagQ8yMDIyMDkyMTExMjM0MlowHwYDVR0jBBgwFoAU2i7Ow/c6+/i+EHOoxPGIvSvU8cowHQYDVR0OBBYEFAKbtoUqrNlCXfsJtuMjK+8NIg8EMAoGCCqGSM49BAMEA0kAMEYCIQDb/upiZh1BUeZxgChMnVNjKgaZS+b3Mx4DtbidjROxtwIhALyV+dbun1aXMNHhHsglk8dEVyV/3+i3wYZM1pmLr3gW\n-----END CERTIFICATE-----"
+    },
+    "RdyYLqteXuU=": {
+      "displayName": {
+        "en": "Gov of United Kingdom"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-03-22T16:52:40.000Z",
+      "validUntilDT": "2024-03-22T17:22:40.000Z",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIIC8jCCApmgAwIBAgIEYVCF9TAKBggqhkjOPQQDBDA+MQswCQYDVQQGEwJHQjEUMBIGA1UEChMLTkhTIERpZ2l0YWwxGTAXBgNVBAMTEEVuZ2xhbmQgRENDIENTQ0EwHhcNMjIwMzIyMTY1MjQwWhcNMjQwMzIyMTcyMjQwWjBSMQswCQYDVQQGEwJHQjEUMBIGA1UEChMLTkhTIERpZ2l0YWwxEjAQBgNVBAgTCUdpYnJhbHRhcjEZMBcGA1UEAxMQRFNDLURDQy1HQi1HSS0wNDBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABOIZSqThWg8eI0JH1yQh6/NBFtzbMJ/NM9Ucd3uUkYdTi2OLuzwKLDrd8Nyv5lRSNoMx1DyLdK0qQzco7mqBMxyjggFvMIIBazAOBgNVHQ8BAf8EBAMCB4AweAYDVR0SBHEwb4EPcGtpQG5oc3gubmhzLnVrgkpodHRwczovL3d3dy5uaHN4Lm5ocy51ay9rZXktdG9vbHMtYW5kLWluZm8vcHVibGljLWtleS1pbmZyYXN0cnVjdHVyZXMvY3NjYaQQMA4xDDAKBgNVBAcMA0dCUjByBgNVHR8EazBpMGegZaBjhidodHRwOi8vcGtpLm5oc3gubmhzLnVrL0NSTC9FTkdfQ1NDQS5jcmyGOGh0dHA6Ly9jb3ZpZC1zdGF0dXMuc2VydmljZS5uaHN4Lm5ocy51ay9DUkwvRU5HX0NTQ0EuY3JsMCsGA1UdEAQkMCKADzIwMjIwMzIyMTY1MjQwWoEPMjAyMjA5MjExMTIyNDBaMB8GA1UdIwQYMBaAFNouzsP3Ovv4vhBzqMTxiL0r1PHKMB0GA1UdDgQWBBRHz+UtEo1cJB36US9gnS8CAcaBvTAKBggqhkjOPQQDBANHADBEAiBC8QH11ibEl3hz8cKdjgQOtO4P/wafeqZKOxAcAn1C9gIgeqY37ez4aK5sr8ic5/rrZLA9VDypVv5DtGGrv/KBzds=\n-----END CERTIFICATE-----"
+    },
+    "VgYme+rE9Ek=": {
+      "displayName": {
+        "en": "Gov of United Kingdom"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-03-22T16:54:26.000Z",
+      "validUntilDT": "2024-03-22T17:24:26.000Z",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIIC8DCCApagAwIBAgIEYVCF9zAKBggqhkjOPQQDBDA+MQswCQYDVQQGEwJHQjEUMBIGA1UEChMLTkhTIERpZ2l0YWwxGTAXBgNVBAMTEEVuZ2xhbmQgRENDIENTQ0EwHhcNMjIwMzIyMTY1NDI2WhcNMjQwMzIyMTcyNDI2WjBPMQswCQYDVQQGEwJHQjEUMBIGA1UEChMLTkhTIERpZ2l0YWwxDzANBgNVBAgTBkplcnNleTEZMBcGA1UEAxMQRFNDLURDQy1HQi1KRS0wNDBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJo0K9hPt0+qzTBBkDUyISWXbRJr9vUpHzkF2sp4INdt2YRM5VZo05TH9UkNLm8GS5QiF3oKMVmOD23E31UwwbujggFvMIIBazAOBgNVHQ8BAf8EBAMCB4AweAYDVR0SBHEwb4EPcGtpQG5oc3gubmhzLnVrgkpodHRwczovL3d3dy5uaHN4Lm5ocy51ay9rZXktdG9vbHMtYW5kLWluZm8vcHVibGljLWtleS1pbmZyYXN0cnVjdHVyZXMvY3NjYaQQMA4xDDAKBgNVBAcMA0dCUjByBgNVHR8EazBpMGegZaBjhidodHRwOi8vcGtpLm5oc3gubmhzLnVrL0NSTC9FTkdfQ1NDQS5jcmyGOGh0dHA6Ly9jb3ZpZC1zdGF0dXMuc2VydmljZS5uaHN4Lm5ocy51ay9DUkwvRU5HX0NTQ0EuY3JsMCsGA1UdEAQkMCKADzIwMjIwMzIyMTY1NDI2WoEPMjAyMjA5MjExMTI0MjZaMB8GA1UdIwQYMBaAFNouzsP3Ovv4vhBzqMTxiL0r1PHKMB0GA1UdDgQWBBSGCuEHzFSopNOxLHhmyyOqrj+hFjAKBggqhkjOPQQDBANIADBFAiEAvMpbl9JES24o52vH61tIQA/QFyzLFy4cMhBS8rbDW90CIEv0oYVt9Q2CtMUodWfeyLz6hBGTCfGEqiD4sdt2JI+t\n-----END CERTIFICATE-----"
+    },
+    "rDoGMhFXdIc=": {
+      "displayName": {
+        "en": "Gov of United Kingdom"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-03-22T16:51:38.000Z",
+      "validUntilDT": "2024-03-22T17:21:38.000Z",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIIC8jCCApigAwIBAgIEYVCF9DAKBggqhkjOPQQDBDA+MQswCQYDVQQGEwJHQjEUMBIGA1UEChMLTkhTIERpZ2l0YWwxGTAXBgNVBAMTEEVuZ2xhbmQgRENDIENTQ0EwHhcNMjIwMzIyMTY1MTM4WhcNMjQwMzIyMTcyMTM4WjBRMQswCQYDVQQGEwJHQjEUMBIGA1UEChMLTkhTIERpZ2l0YWwxETAPBgNVBAgTCEd1ZXJuc2V5MRkwFwYDVQQDExBEU0MtRENDLUdCLUdHLTA0MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE7KMwBsfcXUaIBVCfgfk9eU2VrGQ1rD7tKZxzLRnd2YIxYyu4kDxCNLuGrQZT5hZ2w4iJbhCSK30PeBadUrdRnaOCAW8wggFrMA4GA1UdDwEB/wQEAwIHgDB4BgNVHRIEcTBvgQ9wa2lAbmhzeC5uaHMudWuCSmh0dHBzOi8vd3d3Lm5oc3gubmhzLnVrL2tleS10b29scy1hbmQtaW5mby9wdWJsaWMta2V5LWluZnJhc3RydWN0dXJlcy9jc2NhpBAwDjEMMAoGA1UEBwwDR0JSMHIGA1UdHwRrMGkwZ6BloGOGJ2h0dHA6Ly9wa2kubmhzeC5uaHMudWsvQ1JML0VOR19DU0NBLmNybIY4aHR0cDovL2NvdmlkLXN0YXR1cy5zZXJ2aWNlLm5oc3gubmhzLnVrL0NSTC9FTkdfQ1NDQS5jcmwwKwYDVR0QBCQwIoAPMjAyMjAzMjIxNjUxMzhagQ8yMDIyMDkyMTExMjEzOFowHwYDVR0jBBgwFoAU2i7Ow/c6+/i+EHOoxPGIvSvU8cowHQYDVR0OBBYEFKZ0VXsMvdyxIZXKmwg+XYiGog1tMAoGCCqGSM49BAMEA0gAMEUCIQD+VBPo9eW6XaJTIs9WX/eWSKEpSIhBrx1sHZgfNcZtwQIgB7/qcISJ2/wt6M8W96rkTDby4kfMsCRYZVpvdHB9MRU=\n-----END CERTIFICATE-----"
     }
   },
   "SmartHealthCards": {
@@ -21021,6 +21111,50 @@
         "x": "JyhQkB0p1x2Xt4E6xOzQzYYkgcVIdqUL5412852BBd0",
         "y": "7SCREG653tMITgTguvYig9NMU4z2WlA8UIed64Tvtl8",
         "date": 1647445008125
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://reports.bioreference.com/fhir#TZdEEfZTAqk7IEqXQOS1L4YEiTZwQuQ16SfFhc0JcEQ": {
+      "displayName": {
+        "en": "BioReference Laboratories"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "alg": "ES256",
+        "crv": "P-256",
+        "keyId": "TZdEEfZTAqk7IEqXQOS1L4YEiTZwQuQ16SfFhc0JcEQ",
+        "kid": "TZdEEfZTAqk7IEqXQOS1L4YEiTZwQuQ16SfFhc0JcEQ",
+        "kty": "EC",
+        "use": "sig",
+        "x": "rcrMcuLxqzHTWfVa4gdF3-XYL-685CBdvEXQreU5e20",
+        "y": "dxuVxexUyAAf9OUaZz7NoyllUTFeDxupuHlKrad2aHw",
+        "keySize": 256,
+        "hasPrivateKey": false
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://s3.us-east-2.amazonaws.com/shc.vaccine.cookcountyil.gov#AUS1FwINnQiHFkT1S0NIoReaxz6CAoEoOIg7QpwuKhE": {
+      "displayName": {
+        "en": "Cook County Community Vaccination Program"
+      },
+      "displayURL": "https://vaccine.cookcountyil.gov",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "AUS1FwINnQiHFkT1S0NIoReaxz6CAoEoOIg7QpwuKhE",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "UJyMP_wTdQjy_G5JRy3_2ZaEonBGn7vH3qJqgeYKy2A",
+        "y": "s9EsTT40PBnw_rrKVe6ub0DOsQmRVCWEgUhf7OTUSwk"
       },
       "credentialType": [
         "https://smarthealth.cards#immunization"

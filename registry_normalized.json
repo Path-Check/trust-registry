@@ -8639,6 +8639,96 @@
       "validFromDT": "2022-03-16T14:31:43.000Z",
       "validUntilDT": "2024-03-16T14:41:43.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE2VmfJlTiRT3d+KDJHGlyTGBrBXG0pOWq5p2qoyXf/vI0RQIqK2N4vLa0vmz8Q98wHQHwHybL3zHyUmc5naLjcA=="
+    },
+    "8t2b9/PZTEM=": {
+      "displayName": {
+        "en": "Gov of United Kingdom"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-03-22T16:50:55.000Z",
+      "validUntilDT": "2024-03-22T17:20:55.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAElzfwiVjk+WiUFsDAYuFfU/cd55Rc5drLfaaXhlmQwHZpO+C3+m12O4kcxkTt51B4xa8UJAPtbgebLr1Qc52bSQ=="
+    },
+    "IA2gOcORi6A=": {
+      "displayName": {
+        "en": "Gov of United Kingdom"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-03-22T15:46:44.000Z",
+      "validUntilDT": "2024-03-22T16:16:44.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEfqEeY4U7mSvwJoXw0scloVw9vZkSGCJHoWB2JLwvyr+eMWdunDvLw92UAsPACOQAFuxiijpNp3kJde9ndETgTw=="
+    },
+    "JY8uuK0slzI=": {
+      "displayName": {
+        "en": "Gov of United Kingdom"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-03-22T16:53:42.000Z",
+      "validUntilDT": "2024-03-22T17:23:42.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEYwFb3i9UvfaAUgrjfwpG0ife37uOLjcEZaM9ECyTO30RQ5DVU7b/c6BRzPwc3mJ7nHEl4erMPy31bgNvtHh8fg=="
+    },
+    "RdyYLqteXuU=": {
+      "displayName": {
+        "en": "Gov of United Kingdom"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-03-22T16:52:40.000Z",
+      "validUntilDT": "2024-03-22T17:22:40.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE4hlKpOFaDx4jQkfXJCHr80EW3Nswn80z1Rx3e5SRh1OLY4u7PAosOt3w3K/mVFI2gzHUPIt0rSpDNyjuaoEzHA=="
+    },
+    "VgYme+rE9Ek=": {
+      "displayName": {
+        "en": "Gov of United Kingdom"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-03-22T16:54:26.000Z",
+      "validUntilDT": "2024-03-22T17:24:26.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEmjQr2E+3T6rNMEGQNTIhJZdtEmv29SkfOQXayngg123ZhEzlVmjTlMf1SQ0ubwZLlCIXegoxWY4PbcTfVTDBuw=="
+    },
+    "rDoGMhFXdIc=": {
+      "displayName": {
+        "en": "Gov of United Kingdom"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-03-22T16:51:38.000Z",
+      "validUntilDT": "2024-03-22T17:21:38.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE7KMwBsfcXUaIBVCfgfk9eU2VrGQ1rD7tKZxzLRnd2YIxYyu4kDxCNLuGrQZT5hZ2w4iJbhCSK30PeBadUrdRnQ=="
     }
   },
   "SHC": {
@@ -16127,6 +16217,31 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEJyhQkB0p1x2Xt4E6xOzQzYYkgcVIdqUL5412852BBd3tIJEQbrne0whOBOC69iKD00xTjPZaUDxQh53rhO+2Xw=="
+    },
+    "https://reports.bioreference.com/fhir#TZdEEfZTAqk7IEqXQOS1L4YEiTZwQuQ16SfFhc0JcEQ": {
+      "displayName": {
+        "en": "BioReference Laboratories"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAErcrMcuLxqzHTWfVa4gdF3+XYL+685CBdvEXQreU5e213G5XF7FTIAB/05RpnPs2jKWVRMV4PG6m4eUqtp3ZofA=="
+    },
+    "https://s3.us-east-2.amazonaws.com/shc.vaccine.cookcountyil.gov#AUS1FwINnQiHFkT1S0NIoReaxz6CAoEoOIg7QpwuKhE": {
+      "displayName": {
+        "en": "Cook County Community Vaccination Program"
+      },
+      "displayURL": "https://vaccine.cookcountyil.gov",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEUJyMP/wTdQjy/G5JRy3/2ZaEonBGn7vH3qJqgeYKy2Cz0SxNPjQ8GfD+uspV7q5vQM6xCZFUJYSBSF/s5NRLCQ=="
     }
   }
 }
