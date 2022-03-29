@@ -17555,6 +17555,32 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEUJyMP/wTdQjy/G5JRy3/2ZaEonBGn7vH3qJqgeYKy2Cz0SxNPjQ8GfD+uspV7q5vQM6xCZFUJYSBSF/s5NRLCQ=="
+    },
+    "https://ukepicproxy.mc.uky.edu/Interconnect-PRD-OAuth2/api/epic/2021/Security/Open/EcKeys/32001/SHC#un7DS_W0gHnag_FjJdQRlKNbSFAwV8E5kwSNXidBhug": {
+      "displayName": {
+        "en": "UK HealthCare"
+      },
+      "displayURL": "https://ukhealthcare.uky.edu/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAESxzXfgmzYSVby7++BTQfLQ1s98+oE3tfq/rQ5CyHJVRgIgALKnqJYz+DuW1rYLNfZ2tK6i2ga53+rQ/mt9crIw=="
+    },
+    "https://epicproxy.et1094.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#-n9npwuiFpXrkXfFBCgdbSgcX3C_yAZ03gWkZpjrnvc": {
+      "displayName": {
+        "en": "Cape Fear Valley Health"
+      },
+      "displayURL": "https://www.capefearvalley.com/home/index.aspx",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEPEjwiBVmBFQWBTvjcyrNJ0kqIXpWdXvDrrSqgW6qHwPYHxwJzWVIf/jLZZLYPcQgCRyg1NEt41+izncQDqQF9w=="
     }
   }
 }
