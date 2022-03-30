@@ -22514,6 +22514,27 @@
       "credentialType": [
         "https://smarthealth.cards#immunization"
       ]
+    },
+    "https://epicproxy.et1296.epichosted.com/APIProxyPRD/api/epic/2021/Security/Open/EcKeys/32001/SHC#ZvPXhRNWGOraLDWrTFJC68JFclcWj8zdT-XE32CpomY": {
+      "displayName": {
+        "en": "Duly Health and Care"
+      },
+      "displayURL": "https://www.dulyhealthandcare.com/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "ftrsUWM-Jyag0i2Kju4CaSWXYz3eOYp9bWKreow3u9E",
+        "y": "9yVOAweRtSWoYSQMe2bFILTpsLbAqr40kQzVhIyTyUI",
+        "kid": "ZvPXhRNWGOraLDWrTFJC68JFclcWj8zdT-XE32CpomY",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
     }
   }
 }
