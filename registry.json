@@ -8692,7 +8692,7 @@
         "en": "Gov of United Kingdom"
       },
       "entityType": "issuer",
-      "status": "current",
+      "status": "terminated",
       "credentialType": [
         "t",
         "v",
@@ -10044,6 +10044,21 @@
       "validFromDT": "2022-03-23T19:44:19.000Z",
       "validUntilDT": "2024-03-27T19:44:19.000Z",
       "didDocument": "-----BEGIN CERTIFICATE-----\nMIIFQjCCBMegAwIBAgIQcy1MrBr/rDf7+9bat/VKfTAKBggqhkjOPQQDAzBeMQswCQYDVQQGEwJERTEVMBMGA1UEChMMRC1UcnVzdCBHbWJIMR8wHQYDVQQDExZELVRSVVNUIENBIDQtMjEtMiAyMDIxMRcwFQYDVQRhEw5OVFJERS1IUkI3NDM0NjAeFw0yMjAzMjMxOTQ0MTlaFw0yNDAzMjcxOTQ0MTlaMIHrMQswCQYDVQQGEwJERTEdMBsGA1UEChMUUm9iZXJ0IEtvY2gtSW5zdGl0dXQxJDAiBgNVBAsTG0VsZWt0cm9uaXNjaGVyIEltcGZuYWNod2VpczEdMBsGA1UEAxMUUm9iZXJ0IEtvY2gtSW5zdGl0dXQxDzANBgNVBAcTBkJlcmxpbjEOMAwGA1UEEQwFMTMzNTMxFDASBgNVBAkTC05vcmR1ZmVyIDIwMRkwFwYDVQRhExBEVDpERS0zMDIzNTMxNDQ1MRUwEwYDVQQFEwxDU00wMjk0NjA2NDcxDzANBgNVBAgTBkJlcmxpbjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABPg3nOAvsx9LFzdx7M4RBczvD9vJTNnMmmVvHSlzGnuhWvBCAM5DpwbBzXxSflB8Iz72J1s2zFKQdPKSDWnDco2jggLXMIIC0zAWBgNVHSUEDzANBgsrBgEEAY43j2UBATAfBgNVHSMEGDAWgBS2R63Kwi04MiOuKH46EBE3vbv6YDAtBggrBgEFBQcBAwQhMB8wCAYGBACORgEBMBMGBgQAjkYBBjAJBgcEAI5GAQYCMIHLBggrBgEFBQcBAQSBvjCBuzBFBggrBgEFBQcwAoY5aHR0cDovL3d3dy5kLXRydXN0Lm5ldC9jZ2ktYmluL0QtVFJVU1RfQ0FfNC0yMS0yXzIwMjEuY3J0MHIGCCsGAQUFBzAChmZsZGFwOi8vZGlyZWN0b3J5LmQtdHJ1c3QubmV0L0NOPUQtVFJVU1QlMjBDQSUyMDQtMjEtMiUyMDIwMjEsTz1ELVRydXN0JTIwR21iSCxDPURFP2NBQ2VydGlmaWNhdGU/YmFzZT8wcAYDVR0gBGkwZzAJBgcEAIvsQAEBMFoGCysGAQQBpTQCgRYFMEswSQYIKwYBBQUHAgEWPWh0dHA6Ly93d3cuZC10cnVzdC5uZXQvaW50ZXJuZXQvZmlsZXMvRC1UUlVTVF9DU01fUEtJX0NQUy5wZGYwgfkGA1UdHwSB8TCB7jCB66CB6KCB5YY1aHR0cDovL2NybC5kLXRydXN0Lm5ldC9jcmwvZC10cnVzdF9jYV80LTIxLTJfMjAyMS5jcmyGPmh0dHA6Ly9jZG4uZC10cnVzdC1jbG91ZGNybC5uZXQvY3JsL2QtdHJ1c3RfY2FfNC0yMS0yXzIwMjEuY3JshmxsZGFwOi8vZGlyZWN0b3J5LmQtdHJ1c3QubmV0L0NOPUQtVFJVU1QlMjBDQSUyMDQtMjEtMiUyMDIwMjEsTz1ELVRydXN0JTIwR21iSCxDPURFP2NlcnRpZmljYXRlcmV2b2NhdGlvbmxpc3QwHQYDVR0OBBYEFEbYKA3mDEuhkxqgraiFxacRyp0rMA4GA1UdDwEB/wQEAwIGwDAKBggqhkjOPQQDAwNpADBmAjEAnyhDS92jfVgf/wbQXnzHYjEHPIR/xeaH3r47NF153/IRsz07IWLPfWQrLbWPbCzWAjEAjwaBZIy0EZZazZYN/fNRepCVZAyutrpoMjrs4pZPuN9Il5Ni63eInd1OgSZaaa2+\n-----END CERTIFICATE-----"
+    },
+    "L/ELKGrvm10=": {
+      "displayName": {
+        "en": "Gov of Singapore"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-03-30T09:52:00.000Z",
+      "validUntilDT": "2024-03-29T09:52:00.000Z",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIICdzCCAh6gAwIBAgIUcPMIlxJ1BOZZsux5G2AoEb9A0/8wCgYIKoZIzj0EAwIwXTELMAkGA1UEBhMCU0cxEjAQBgNVBAgMCVNpbmdhcG9yZTEbMBkGA1UECgwSTWluaXN0cnkgT2YgSGVhbHRoMR0wGwYDVQQDDBRjc2NhLm5vdGFyaXNlLmdvdi5zZzAeFw0yMjAzMzAwOTUyMDBaFw0yNDAzMjkwOTUyMDBaMFwxCzAJBgNVBAYTAlNHMRIwEAYDVQQIDAlTaW5nYXBvcmUxGzAZBgNVBAoMEk1pbmlzdHJ5IE9mIEhlYWx0aDEcMBoGA1UEAwwTZHNjLm5vdGFyaXNlLmdvdi5zZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABMvHL1NxBxprIwHOz7h3TubfCEVUeMbczyyfDDrQwvt0K+251yZQ3Gsot7sQVbnr0r8eCvZnHyVjeQIATfyyyNWjgbwwgbkwDgYDVR0PAQH/BAQDAgeAMB0GA1UdDgQWBBS10kutOIxDlSNPhgpFflsxfZV3SzAfBgNVHSMEGDAWgBQ5NwWzOLn5niMN0cLBsMOzMpcBpTA1BgNVHR8ELjAsMCqgKKAmhiRodHRwczovL3d3dy5ub3RhcmlzZS5nb3Yuc2cvY3NjYS5jcmwwMAYDVR0lBCkwJwYLKwYBBAGON49lAQEGCysGAQQBjjePZQECBgsrBgEEAY43j2UBAzAKBggqhkjOPQQDAgNHADBEAiBQ70m7lOx7hxpsiZvnk9IhrNxRwj/GZdC7CkQNd1ZJ3wIgf2mKvZ1YdvcVEwsJoiR+ZT/VNa6ZZbH5JVUklEclRxI=\n-----END CERTIFICATE-----"
     }
   },
   "SmartHealthCards": {
@@ -22531,6 +22546,153 @@
         "kty": "EC",
         "alg": "ES256",
         "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://s3.us-east-2.amazonaws.com/shc.vaccine.cookcountyil.gov#D0VRkhXEq80D7sfWeqDfJ0E4QbKhJPc8v0UlWV1Ef7U": {
+      "displayName": {
+        "en": "Cook County Community Vaccination Program"
+      },
+      "displayURL": "https://vaccine.cookcountyil.gov",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "D0VRkhXEq80D7sfWeqDfJ0E4QbKhJPc8v0UlWV1Ef7U",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "NzfOJ8T_7enzKD0rbX5pHhoYhoftHFUJ_sezV_LF3BI",
+        "y": "t2iz26M2Gkqw5SRssG8cGmOwuQ-5V7Pej1qvV7Ughc0"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://s3.us-east-2.amazonaws.com/shc.vaccine.cookcountyil.gov#uY3K-Hn_UKOQJM2S_6jZYa3ZpZWGrwAJGPrMWuQrD8Q": {
+      "displayName": {
+        "en": "Cook County Community Vaccination Program"
+      },
+      "displayURL": "https://vaccine.cookcountyil.gov",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "uY3K-Hn_UKOQJM2S_6jZYa3ZpZWGrwAJGPrMWuQrD8Q",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "hWoUpMDzC7ZDrMUEKDWApqJ8Hep6FLE_bUoO9nQpGjQ",
+        "y": "v1YrXRxUaKRqa5NEwNQCDcqhVFzlP7tHhUWHMq1gt2s"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://s3.us-east-2.amazonaws.com/shc.vaccine.cookcountyil.gov#iy4q5Hxj7Gx5ambJY4mdLrIhgG6R_4vEX5lCmW1Tl-Q": {
+      "displayName": {
+        "en": "Cook County Community Vaccination Program"
+      },
+      "displayURL": "https://vaccine.cookcountyil.gov",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "iy4q5Hxj7Gx5ambJY4mdLrIhgG6R_4vEX5lCmW1Tl-Q",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "VkxOrLaK62dg2_4IO7smnwv8xwdGq-pKsFYRUp0vyQg",
+        "y": "VvZgKXaF96bzBMnfAUtz1om-3oYHUOgpx9EGbFtnsF8"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://s3.us-east-2.amazonaws.com/shc.vaccine.cookcountyil.gov#EgULK0aHMEYrZGejnLP2s3LpDIhzdF9GmO15hrqtP2s": {
+      "displayName": {
+        "en": "Cook County Community Vaccination Program"
+      },
+      "displayURL": "https://vaccine.cookcountyil.gov",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "EgULK0aHMEYrZGejnLP2s3LpDIhzdF9GmO15hrqtP2s",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "-WHo673rLreq3RaE3E6UBFAWQndGMy8iRj3iSMwXxPE",
+        "y": "ZmKRVXVjQ4mhkfFWG9TtbkVCElW_IrETwI42t6TGEgk"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://s3.us-east-2.amazonaws.com/shc.vaccine.cookcountyil.gov#MeB5Xl54rMTHgfAblHFhJR-WZ95McrrtnbgbnlBE1mA": {
+      "displayName": {
+        "en": "Cook County Community Vaccination Program"
+      },
+      "displayURL": "https://vaccine.cookcountyil.gov",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "MeB5Xl54rMTHgfAblHFhJR-WZ95McrrtnbgbnlBE1mA",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "Zs1SESrmMPLfFW6pbkKvGJEPHvM34ROV_G0qFnrFOIs",
+        "y": "7MVAw1xo9GT3CDJEy_3WfUZtsGCJwfiacptnOB8QJQo"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://s3.us-east-2.amazonaws.com/shc.vaccine.cookcountyil.gov#FiQcwskJsU4jKq50IORlrplJe6Cj9EyfsWldvzNGHkM": {
+      "displayName": {
+        "en": "Cook County Community Vaccination Program"
+      },
+      "displayURL": "https://vaccine.cookcountyil.gov",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "FiQcwskJsU4jKq50IORlrplJe6Cj9EyfsWldvzNGHkM",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "kf_Yc4zW25uV3NZcce_0nb1ANtLGKgCVtMang1f0XbY",
+        "y": "nqBoYe4d0Ppy1fEKLJ4BQRlvIpBIW9l18zp0I13HN_Y"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://s3.us-east-2.amazonaws.com/shc.vaccine.cookcountyil.gov#_EKTZCsgEqwR1R3oVaib1O9_R0KWehcROkU1aA883OE": {
+      "displayName": {
+        "en": "Cook County Community Vaccination Program"
+      },
+      "displayURL": "https://vaccine.cookcountyil.gov",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "_EKTZCsgEqwR1R3oVaib1O9_R0KWehcROkU1aA883OE",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "Jx54pXp8_umlqAaqAd9sBYZ-GCRq1Luj0JfZUTLkSb0",
+        "y": "w6k41v6T7pLWM8q8L9cPfvg2hAkOcVerj4AjMTpMQzI"
       },
       "credentialType": [
         "https://smarthealth.cards#immunization"
