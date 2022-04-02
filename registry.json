@@ -10059,6 +10059,19 @@
       "validFromDT": "2022-03-30T09:52:00.000Z",
       "validUntilDT": "2024-03-29T09:52:00.000Z",
       "didDocument": "-----BEGIN CERTIFICATE-----\nMIICdzCCAh6gAwIBAgIUcPMIlxJ1BOZZsux5G2AoEb9A0/8wCgYIKoZIzj0EAwIwXTELMAkGA1UEBhMCU0cxEjAQBgNVBAgMCVNpbmdhcG9yZTEbMBkGA1UECgwSTWluaXN0cnkgT2YgSGVhbHRoMR0wGwYDVQQDDBRjc2NhLm5vdGFyaXNlLmdvdi5zZzAeFw0yMjAzMzAwOTUyMDBaFw0yNDAzMjkwOTUyMDBaMFwxCzAJBgNVBAYTAlNHMRIwEAYDVQQIDAlTaW5nYXBvcmUxGzAZBgNVBAoMEk1pbmlzdHJ5IE9mIEhlYWx0aDEcMBoGA1UEAwwTZHNjLm5vdGFyaXNlLmdvdi5zZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABMvHL1NxBxprIwHOz7h3TubfCEVUeMbczyyfDDrQwvt0K+251yZQ3Gsot7sQVbnr0r8eCvZnHyVjeQIATfyyyNWjgbwwgbkwDgYDVR0PAQH/BAQDAgeAMB0GA1UdDgQWBBS10kutOIxDlSNPhgpFflsxfZV3SzAfBgNVHSMEGDAWgBQ5NwWzOLn5niMN0cLBsMOzMpcBpTA1BgNVHR8ELjAsMCqgKKAmhiRodHRwczovL3d3dy5ub3RhcmlzZS5nb3Yuc2cvY3NjYS5jcmwwMAYDVR0lBCkwJwYLKwYBBAGON49lAQEGCysGAQQBjjePZQECBgsrBgEEAY43j2UBAzAKBggqhkjOPQQDAgNHADBEAiBQ70m7lOx7hxpsiZvnk9IhrNxRwj/GZdC7CkQNd1ZJ3wIgf2mKvZ1YdvcVEwsJoiR+ZT/VNa6ZZbH5JVUklEclRxI=\n-----END CERTIFICATE-----"
+    },
+    "qiD+pDXhCb8=": {
+      "displayName": {
+        "en": "Gov of Lebanon"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "v"
+      ],
+      "validFromDT": "2022-04-01T10:39:00.000Z",
+      "validUntilDT": "2022-10-01T10:39:00.000Z",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIICgDCCAiegAwIBAgIIeYgody9ziIEwCgYIKoZIzj0EAwIwgYsxCzAJBgNVBAYTAkxCMQ0wCwYDVQQIDARKbmFoMQ8wDQYDVQQHDAZCZWlydXQxKTAnBgNVBAoMIE1pbmlzdHJ5IG9mIFB1YmxpYyBIZWFsdGggKE1PUEgpMRgwFgYDVQQLDA9TaXJlbiBBbmFseXRpY3MxFzAVBgNVBAMMDkNTQ0FfREdDX0xCXzAxMB4XDTIyMDQwMTEwMzkwMFoXDTIyMTAwMTEwMzkwMFowdDEYMBYGA1UECxMPU2lyZW4gQW5hbHl0aWNzMSkwJwYDVQQKEyBNaW5pc3RyeSBvZiBQdWJsaWMgSGVhbHRoIChNT1BIKTEPMA0GA1UECBMGQmVpcnV0MQ8wDQYDVQQHEwZCZWlydXQxCzAJBgNVBAYTAkxCMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEhCj8gyqrMeWbGYoPiWV3a0KL19YyY7RCDYYuLerZYkTAhRdi3tkw4TpTogIAaBy+WsfRX5Dndti/LAQgNa39saOBijCBhzAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0OBBYEFJ0xQUhsTxIa9dgcRN/BwVGvVsWpMB8GA1UdIwQYMBaAFIzKL6KfshyUQbA6k6uuBXsZUbR9MB0GA1UdHwQWMBQwEqAQoA6GDGh0dHA6Ly9lbXB0eTAWBgNVHSUEDzANBgsrBgEEAY43j2UBAjAKBggqhkjOPQQDAgNHADBEAiBQagIDKEWDu+VWou8ofux9ZOxiOsklznnPecELGpjPpwIgVLlLR06QlqTPzful1enoX6xFYSz3UkZYKbgh5MNwIIE=\n-----END CERTIFICATE-----"
     }
   },
   "SmartHealthCards": {
@@ -22693,6 +22706,27 @@
         "crv": "P-256",
         "x": "Jx54pXp8_umlqAaqAd9sBYZ-GCRq1Luj0JfZUTLkSb0",
         "y": "w6k41v6T7pLWM8q8L9cPfvg2hAkOcVerj4AjMTpMQzI"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://www.testdirectly.com/KeyPublisher/0000500020/SHC#766pfdc-NKZLQSbZv5qSoWH7vQfDwfCwEWJrj-kkoSE": {
+      "displayName": {
+        "en": "Laborant LLC"
+      },
+      "displayURL": "https://www.arcpointcs.com/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "766pfdc-NKZLQSbZv5qSoWH7vQfDwfCwEWJrj-kkoSE",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "YWlMvw9JbMOPz2nHFCZCBc43y7vMcuNNgCMD6iCO4ko",
+        "y": "Uox9TpY__LuGNo54NW5UNBcW806pILu-NTru7F-8FQU"
       },
       "credentialType": [
         "https://smarthealth.cards#immunization"

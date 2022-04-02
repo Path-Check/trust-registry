@@ -10057,6 +10057,19 @@
       "validFromDT": "2022-03-30T09:52:00.000Z",
       "validUntilDT": "2024-03-29T09:52:00.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEy8cvU3EHGmsjAc7PuHdO5t8IRVR4xtzPLJ8MOtDC+3Qr7bnXJlDcayi3uxBVuevSvx4K9mcfJWN5AgBN/LLI1Q=="
+    },
+    "qiD+pDXhCb8=": {
+      "displayName": {
+        "en": "Gov of Lebanon"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "v"
+      ],
+      "validFromDT": "2022-04-01T10:39:00.000Z",
+      "validUntilDT": "2022-10-01T10:39:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEhCj8gyqrMeWbGYoPiWV3a0KL19YyY7RCDYYuLerZYkTAhRdi3tkw4TpTogIAaBy+WsfRX5Dndti/LAQgNa39sQ=="
     }
   },
   "SHC": {
@@ -17700,6 +17713,19 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEJx54pXp8/umlqAaqAd9sBYZ+GCRq1Luj0JfZUTLkSb3DqTjW/pPuktYzyrwv1w9++DaECQ5xV6uPgCMxOkxDMg=="
+    },
+    "https://www.testdirectly.com/KeyPublisher/0000500020/SHC#766pfdc-NKZLQSbZv5qSoWH7vQfDwfCwEWJrj-kkoSE": {
+      "displayName": {
+        "en": "Laborant LLC"
+      },
+      "displayURL": "https://www.arcpointcs.com/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEYWlMvw9JbMOPz2nHFCZCBc43y7vMcuNNgCMD6iCO4kpSjH1Olj/8u4Y2jng1blQ0FxbzTqkgu741Ou7sX7wVBQ=="
     }
   }
 }
