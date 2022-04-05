@@ -10070,6 +10070,21 @@
       "validFromDT": "2022-04-01T10:39:00.000Z",
       "validUntilDT": "2022-10-01T10:39:00.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEhCj8gyqrMeWbGYoPiWV3a0KL19YyY7RCDYYuLerZYkTAhRdi3tkw4TpTogIAaBy+WsfRX5Dndti/LAQgNa39sQ=="
+    },
+    "FQyLctAwMZA=": {
+      "displayName": {
+        "en": "Gov of Malaysia"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2021-07-30T09:39:55.000Z",
+      "validUntilDT": "2023-07-30T09:39:55.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEbP5zZhl/Nfvfk9Ocmj4kVz6BnMesxexyPMHW+vbveCzQwCj4MOkQaQcC932W3+f5/FV2081EKlp2zhL9ks0qLQ=="
     }
   },
   "SHC": {
@@ -17726,6 +17741,19 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEYWlMvw9JbMOPz2nHFCZCBc43y7vMcuNNgCMD6iCO4kpSjH1Olj/8u4Y2jng1blQ0FxbzTqkgu741Ou7sX7wVBQ=="
+    },
+    "https://treat.com/shc-issuer#JWMPgElQkZr2hl4NVVMSgnm5hKkHESS8c_uNpFckTYM": {
+      "displayName": {
+        "en": "Treat"
+      },
+      "displayURL": "https://treat.com/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEjk4jnrvEfeGU0Ql+gc6h97yotd5vvm2R+2G2GCrHqt+6Jdnph/q/beC7lu4t7e5EfpLsGCn22+w5E27qVGNDpQ=="
     }
   }
 }

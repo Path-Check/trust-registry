@@ -10072,6 +10072,21 @@
       "validFromDT": "2022-04-01T10:39:00.000Z",
       "validUntilDT": "2022-10-01T10:39:00.000Z",
       "didDocument": "-----BEGIN CERTIFICATE-----\nMIICgDCCAiegAwIBAgIIeYgody9ziIEwCgYIKoZIzj0EAwIwgYsxCzAJBgNVBAYTAkxCMQ0wCwYDVQQIDARKbmFoMQ8wDQYDVQQHDAZCZWlydXQxKTAnBgNVBAoMIE1pbmlzdHJ5IG9mIFB1YmxpYyBIZWFsdGggKE1PUEgpMRgwFgYDVQQLDA9TaXJlbiBBbmFseXRpY3MxFzAVBgNVBAMMDkNTQ0FfREdDX0xCXzAxMB4XDTIyMDQwMTEwMzkwMFoXDTIyMTAwMTEwMzkwMFowdDEYMBYGA1UECxMPU2lyZW4gQW5hbHl0aWNzMSkwJwYDVQQKEyBNaW5pc3RyeSBvZiBQdWJsaWMgSGVhbHRoIChNT1BIKTEPMA0GA1UECBMGQmVpcnV0MQ8wDQYDVQQHEwZCZWlydXQxCzAJBgNVBAYTAkxCMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEhCj8gyqrMeWbGYoPiWV3a0KL19YyY7RCDYYuLerZYkTAhRdi3tkw4TpTogIAaBy+WsfRX5Dndti/LAQgNa39saOBijCBhzAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0OBBYEFJ0xQUhsTxIa9dgcRN/BwVGvVsWpMB8GA1UdIwQYMBaAFIzKL6KfshyUQbA6k6uuBXsZUbR9MB0GA1UdHwQWMBQwEqAQoA6GDGh0dHA6Ly9lbXB0eTAWBgNVHSUEDzANBgsrBgEEAY43j2UBAjAKBggqhkjOPQQDAgNHADBEAiBQagIDKEWDu+VWou8ofux9ZOxiOsklznnPecELGpjPpwIgVLlLR06QlqTPzful1enoX6xFYSz3UkZYKbgh5MNwIIE=\n-----END CERTIFICATE-----"
+    },
+    "FQyLctAwMZA=": {
+      "displayName": {
+        "en": "Gov of Malaysia"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2021-07-30T09:39:55.000Z",
+      "validUntilDT": "2023-07-30T09:39:55.000Z",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIICAzCCAamgAwIBAgIUEtiiB6JMLHWcx1SkwOZ0Z4ILYDUwCgYIKoZIzj0EAwIwWzELMAkGA1UEBhMCTVkxLzAtBgNVBAMMJk1hbGF5c2lhIENvdmlkMTkgQ291bnRyeSBTaWduaW5nIENBIDAxMRswGQYDVQQKDBJNaW5pc3RyeSBvZiBIZWFsdGgwHhcNMjEwNzMwMDkzOTU1WhcNMjMwNzMwMDkzOTU1WjBMMQswCQYDVQQGEwJNWTEgMB4GA1UEAwwXTWFsYXlzaWEgQ292aWQxOSBEU0MgMDExGzAZBgNVBAoMEk1pbmlzdHJ5IG9mIEhlYWx0aDBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABGz+c2YZfzX735PTnJo+JFc+gZzHrMXscjzB1vr273gs0MAo+DDpEGkHAvd9lt/n+fxVdtPNRCpads4S/ZLNKi2jWjBYMB0GA1UdDgQWBBRSScGTNGjwcx2767gEJTwy8WsxmTAfBgNVHSMEGDAWgBQasvKdOJd2lrfiMp7I6hnr1kd68jAJBgNVHRMEAjAAMAsGA1UdDwQEAwIHgDAKBggqhkjOPQQDAgNIADBFAiAG6+Vyp8zn28t6tLUf3rCu0B37pC3w/USvKEBWOACn6AIhALCOW3BRdRYNhljX0NOS81mtBfbY/aiPHculBjJw6zC/\n-----END CERTIFICATE-----"
     }
   },
   "SmartHealthCards": {
@@ -22727,6 +22742,27 @@
         "crv": "P-256",
         "x": "YWlMvw9JbMOPz2nHFCZCBc43y7vMcuNNgCMD6iCO4ko",
         "y": "Uox9TpY__LuGNo54NW5UNBcW806pILu-NTru7F-8FQU"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://treat.com/shc-issuer#JWMPgElQkZr2hl4NVVMSgnm5hKkHESS8c_uNpFckTYM": {
+      "displayName": {
+        "en": "Treat"
+      },
+      "displayURL": "https://treat.com/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "JWMPgElQkZr2hl4NVVMSgnm5hKkHESS8c_uNpFckTYM",
+        "crv": "P-256",
+        "x": "jk4jnrvEfeGU0Ql-gc6h97yotd5vvm2R-2G2GCrHqt8",
+        "y": "uiXZ6Yf6v23gu5buLe3uRH6S7Bgp9tvsORNu6lRjQ6U",
+        "use": "sig",
+        "alg": "ES256"
       },
       "credentialType": [
         "https://smarthealth.cards#immunization"
