@@ -10085,6 +10085,21 @@
       "validFromDT": "2021-07-30T09:39:55.000Z",
       "validUntilDT": "2023-07-30T09:39:55.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEbP5zZhl/Nfvfk9Ocmj4kVz6BnMesxexyPMHW+vbveCzQwCj4MOkQaQcC932W3+f5/FV2081EKlp2zhL9ks0qLQ=="
+    },
+    "h9wqAy+GiEs=": {
+      "displayName": {
+        "en": "Gov of Colombia"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-04-04T21:02:34.000Z",
+      "validUntilDT": "2024-04-03T21:02:34.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEIRa3WfYnCYTaHv78wrlFo3X0LOQcMU8kpBzloaEuc+yYjUlpjk8cds5sTXXOgv3f7rsnvZHmzRyjxwApXJlcgA=="
     }
   },
   "SHC": {
@@ -17754,6 +17769,18 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEjk4jnrvEfeGU0Ql+gc6h97yotd5vvm2R+2G2GCrHqt+6Jdnph/q/beC7lu4t7e5EfpLsGCn22+w5E27qVGNDpQ=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/zRBZsbKdoME7HivKpjAL4ZEb8JQBD9Cn#N2maG8qOhITe_zyPqcrCa6LT_mW18ZtFPy09cGAB24w": {
+      "displayName": {
+        "en": "Genesis Health System"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEDNo1BEwoRPNRDYsulhhxu9jOxkvCuEVU4IaCs3H6PJ3MH8csqsT+fleL0jvIwgg434hCnMfkwRmg/Ya9F+1Kwg=="
     }
   }
 }
