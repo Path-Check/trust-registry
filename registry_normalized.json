@@ -17781,6 +17781,18 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEDNo1BEwoRPNRDYsulhhxu9jOxkvCuEVU4IaCs3H6PJ3MH8csqsT+fleL0jvIwgg434hCnMfkwRmg/Ya9F+1Kwg=="
+    },
+    "https://pvc.service.yukon.ca/issuer#5xg8uSlGi4aHdSG4KG9R8auOmKh5VS38Ao44KmYMHgo": {
+      "displayName": {
+        "en": "Government of Yukon"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEMWssbIORcN27ebWveCRSjNBUGZKyx7wJVFH2Hqb89gO03KjVDrbDMTNSWTivGTDV/9hrLjBultrFCJRMNAAitw=="
     }
   }
 }
