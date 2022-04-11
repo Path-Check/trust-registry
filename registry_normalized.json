@@ -17793,6 +17793,19 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEMWssbIORcN27ebWveCRSjNBUGZKyx7wJVFH2Hqb89gO03KjVDrbDMTNSWTivGTDV/9hrLjBultrFCJRMNAAitw=="
+    },
+    "https://epicproxy.et1296.epichosted.com/APIProxyPRD/api/epic/2021/Security/Open/EcKeys/32001/SHC#EaQNVA8yremdk_91EEzZMZt2R4PHMiyThhwrxK0r0u4": {
+      "displayName": {
+        "en": "Duly Health and Care"
+      },
+      "displayURL": "https://www.dulyhealthandcare.com/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEs+3BPiwy5G2/61zBJ5OdaBYXM8acz66TtxOcoJjxgGOvdH5ngFCiItFab0uhCJ1jANRjGjl6gwYXqwHK0eiotA=="
     }
   }
 }
