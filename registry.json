@@ -14627,7 +14627,7 @@
     },
     "https://fhirprd.edward.org/fhirprd/api/epic/2021/Security/Open/EcKeys/32001/SHC#ZvPXhRNWGOraLDWrTFJC68JFclcWj8zdT-XE32CpomY": {
       "displayName": {
-        "en": "DuPage Medical Group and Edward-Elmhurst Health"
+        "en": "Edward-Elmhurst Health"
       },
       "entityType": "issuer",
       "status": "current",
@@ -22841,6 +22841,27 @@
         "x": "s-3BPiwy5G2_61zBJ5OdaBYXM8acz66TtxOcoJjxgGM",
         "y": "r3R-Z4BQoiLRWm9LoQidYwDUYxo5eoMGF6sBytHoqLQ",
         "kid": "EaQNVA8yremdk_91EEzZMZt2R4PHMiyThhwrxK0r0u4",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epicproxy.et1098.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#r50AoONSfsSfFy2bYhKGJqr4GzCyDXIK5XvYMhQoBrk": {
+      "displayName": {
+        "en": "Tanner Health System"
+      },
+      "displayURL": "https://www.tanner.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "RlWRi7TRQ-n2fbZHmwW7A2A_fw_ovdwcCqFwWjzUuEU",
+        "y": "b775U1Y8_oMMFwYCQVzac1XtePyK8s4i_VGtiddDoFM",
+        "kid": "r50AoONSfsSfFy2bYhKGJqr4GzCyDXIK5XvYMhQoBrk",
         "use": "sig",
         "kty": "EC",
         "alg": "ES256",
