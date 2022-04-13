@@ -18150,7 +18150,7 @@
         "crv": "P-256",
         "x": "9B8CKA868OKjH3ydtM1jw2ax-wo0qCHP3qDR3b9jilY",
         "y": "pEudYHfIMz20vz-WNZargtgDDXj6GQeN410x8u2xjQ0",
-        "crlVersion": 22
+        "crlVersion": 23
       },
       "credentialType": [
         "https://smarthealth.cards#immunization"
