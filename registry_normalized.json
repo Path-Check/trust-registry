@@ -17819,6 +17819,32 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAERlWRi7TRQ+n2fbZHmwW7A2A/fw/ovdwcCqFwWjzUuEVvvvlTVjz+gwwXBgJBXNpzVe14/IryziL9Ua2J10OgUw=="
+    },
+    "https://fhir.tmcaz.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#ppnA6VBtBokd072FZXXFo8yCCo-_CRODMerPILOKiUI": {
+      "displayName": {
+        "en": "Tucson Medical Center"
+      },
+      "displayURL": "https://www.tmcaz.com/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEOhaKRcphX4ALcbQFhvvAx6EhqVfrLzAevRo2A6LvKr67f0jmjvTGb2Vdao/7PlRe823qwoEzr42DtDmrS1W8GQ=="
+    },
+    "https://epx1.chsli.org/FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC#ALVEROpd2CNyaE4RcZgG6T9cM38Erfg8oSIgiK_JSVo": {
+      "displayName": {
+        "en": "Catholic Health"
+      },
+      "displayURL": "https://www.chsli.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE4/b1EEw0pxGPktGHHX72SNAgEDAp55iDt/GjTEJCxlplQFIamGPID5/OkihUoWQOFT64+X9WyJQNV9KUWmAAsw=="
     }
   }
 }
