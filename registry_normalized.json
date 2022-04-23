@@ -17886,6 +17886,19 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEKo1S6jIAuLNwF9k0duwZ8l5vsHQEEEE4rQRe66Cd8KJF+rBmzpEcdhRcTG4mn1UYywH1yNbNvXAyt1skILKIQg=="
+    },
+    "https://hy-vee.com/my-pharmacy/static#C9m4nqmNWHe4eX_Dg_tyoLkMS-x3KvNfP0lMBx8Jd34": {
+      "displayName": {
+        "en": "Hy-Vee"
+      },
+      "displayURL": "https://www.hy-vee.com/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEKo1S6jIAuLNwF9k0duwZ8l5vsHQEEEE4rQRe66Cd8KJF+rBmzpEcdhRcTG4mn1UYywH1yNbNvXAyt1skILKIQg=="
     }
   }
 }
