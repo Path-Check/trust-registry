@@ -22938,7 +22938,7 @@
       "validFromDT": "2021-01-01T01:00:00.000Z",
       "didDocument": {
         "alg": "ES256",
-        "crlVersion": 12,
+        "crlVersion": 15,
         "crv": "P-256",
         "kid": "TKPyzMtKh7WQaCzsw6rOK8ZUOZlND2VcBwhFIIcCqUE",
         "kty": "EC",
@@ -22987,6 +22987,27 @@
         "crv": "P-256",
         "x": "Ko1S6jIAuLNwF9k0duwZ8l5vsHQEEEE4rQRe66Cd8KI",
         "y": "RfqwZs6RHHYUXExuJp9VGMsB9cjWzb1wMrdbJCCyiEI"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://fhir.lluh.org/interconnect-fhir-prd/api/epic/2021/Security/Open/EcKeys/32001/SHC#mXSAa7v7IdgkKcJPtri7_YmQjhIpEPmNXeI_i2M42iM": {
+      "displayName": {
+        "en": "Loma Linda University Health, Riverside University Health System, SAC Health System, and Affiliates"
+      },
+      "displayURL": "https://mychart.ieccn.org/MyChart",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "lxYiyebHMPaGSYDaIf8eZbl7e_6hz_sPPbzV4X3im3c",
+        "y": "fVvWHGgdsPxYSA0vgNgzrCB7PM8n5-s_GhPY-wjgKZo",
+        "kid": "mXSAa7v7IdgkKcJPtri7_YmQjhIpEPmNXeI_i2M42iM",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
       },
       "credentialType": [
         "https://smarthealth.cards#immunization"
