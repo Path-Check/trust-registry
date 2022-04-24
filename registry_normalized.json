@@ -17899,6 +17899,19 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEKo1S6jIAuLNwF9k0duwZ8l5vsHQEEEE4rQRe66Cd8KJF+rBmzpEcdhRcTG4mn1UYywH1yNbNvXAyt1skILKIQg=="
+    },
+    "https://fhir.lluh.org/interconnect-fhir-prd/api/epic/2021/Security/Open/EcKeys/32001/SHC#mXSAa7v7IdgkKcJPtri7_YmQjhIpEPmNXeI_i2M42iM": {
+      "displayName": {
+        "en": "Loma Linda University Health, Riverside University Health System, SAC Health System, and Affiliates"
+      },
+      "displayURL": "https://mychart.ieccn.org/MyChart",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAElxYiyebHMPaGSYDaIf8eZbl7e/6hz/sPPbzV4X3im3d9W9YcaB2w/FhIDS+A2DOsIHs8zyfn6z8aE9j7COApmg=="
     }
   }
 }
