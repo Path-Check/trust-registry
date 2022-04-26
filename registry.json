@@ -10117,6 +10117,66 @@
       "validFromDT": "2022-04-18T07:36:08.000Z",
       "validUntilDT": "2024-04-07T07:36:08.000Z",
       "didDocument": "-----BEGIN CERTIFICATE-----\nMIICjzCCAjWgAwIBAgIJAPS0Vbm3L3MUMAoGCCqGSM49BAMCMIGBMQswCQYDVQQGEwJDWTEQMA4GA1UECAwHTmljb3NpYTEQMA4GA1UEBwwHTmljb3NpYTEbMBkGA1UECgwSTWluaXN0cnkgb2YgSGVhbHRoMRYwFAYDVQQLDA1JVCBEZXBhcnRtZW50MRkwFwYDVQQDDBBDU0NBX0VVRENDX0NZXzAxMB4XDTIyMDQxODA3MzYwOFoXDTI0MDQwNzA3MzYwOFowgYAxCzAJBgNVBAYTAkNZMRAwDgYDVQQIDAdOaWNvc2lhMRAwDgYDVQQHDAdOaWNvc2lhMRswGQYDVQQKDBJNaW5pc3RyeSBvZiBIZWFsdGgxFjAUBgNVBAsMDUlUIERlcGFydG1lbnQxGDAWBgNVBAMMD0RTQ19FVURDQ19DWV8wMTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABCvvCxuLNrXT1J0EZsrEA5Wztyc+bJSUr9uPANRSq4tQg/fCBH6c6MNkbQcNDlx//uxVnOg/KDXOxrJng0E6a5ujgZQwgZEwMAYDVR0fBCkwJzAloCOgIYYfaHR0cDovL2NybC5ldWRjYy5nb3YuY3kvZHNjLmNybDAwBgNVHSUEKTAnBgsrBgEEAY43j2UBAQYLKwYBBAGON49lAQIGCysGAQQBjjePZQEDMCsGA1UdEAQkMCKADzIwMjIwNDE4MDAwMDAwWoEPMjAyNDA0MTgwMDAwMDBaMAoGCCqGSM49BAMCA0gAMEUCIGB8CXeKXX8+84a/y/ZombgBUa8LYoF0gSR7FpmdO9z4AiEAmz5ZwmoQJKQ3PYpDhv7B4SLWfoHr9EzXvipI0XT1F6s=\n-----END CERTIFICATE-----"
+    },
+    "kBt6NBX/31s=": {
+      "displayName": {
+        "en": "Gov of Luxembourg"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-04-25T13:19:53.000Z",
+      "validUntilDT": "2024-04-24T13:19:53.000Z",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIIE4DCCApSgAwIBAgIIOZ0+vdLd2S4wQQYJKoZIhvcNAQEKMDSgDzANBglghkgBZQMEAgEFAKEcMBoGCSqGSIb3DQEBCDANBglghkgBZQMEAgEFAKIDAgEgMFUxCzAJBgNVBAYTAkxVMR0wGwYDVQQKDBRJTkNFUlQgcHVibGljIGFnZW5jeTEnMCUGA1UEAwweR3JhbmQgRHVjaHkgb2YgTHV4ZW1ib3VyZyBDU0NBMB4XDTIyMDQyNTEzMTk1M1oXDTI0MDQyNDEzMTk1M1owWDELMAkGA1UEBhMCTFUxGzAZBgNVBAoMEk1pbmlzdHJ5IG9mIEhlYWx0aDEsMCoGA1UEAwwjR3JhbmQgRHVjaHkgb2YgTHV4ZW1ib3VyZyBEUyBEQ0MgMTAwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAR4fRuYxuDQrgzblSrbx8On5vRftZYtIjcqbYIb4Ggmz7XG7XHZY2zngNsFacb+rQbwjsU1BlsW6kH+HJnWeQGDo4IBEjCCAQ4wHQYDVR0OBBYEFL6hQmzUUd35tdEd6V2feFj2es/8MB8GA1UdIwQYMBaAFBrPR8eY5TVMj59Vq6ia+ePHPJ17MCsGA1UdEgQkMCKBDmNzY2FAaW5jZXJ0Lmx1pBAwDjEMMAoGA1UEBwwDTFVYMCsGA1UdEAQkMCKADzIwMjIwNDI1MTMxOTUzWoEPMjAyMjEwMjIxMzE5NTNaMDUGA1UdHwQuMCwwKqAooCaGJGh0dHA6Ly9yZXBvc2l0b3J5LmluY2VydC5sdS9jc2NhLmNybDAOBgNVHQ8BAf8EBAMCB4AwKwYDVR0RBCQwIoEOY3NjYUBpbmNlcnQubHWkEDAOMQwwCgYDVQQHDANMVVgwQQYJKoZIhvcNAQEKMDSgDzANBglghkgBZQMEAgEFAKEcMBoGCSqGSIb3DQEBCDANBglghkgBZQMEAgEFAKIDAgEgA4ICAQAma8s5IINzKY5Lm0xduPiK1gcOp6wOyAqchqEDGAJ0vsdaKlbX0UyLvyQBw3hnh4zZrrp2Dpf8rKmg/X4znZtCWJL9JKcTItx8J2KxQ8WFgRglgsd6ATXyCKprFtYdLgDlOpzyNoVxtFjoF1aERrJisQIYOLZQN2ee2CJTbXKRPIgLZQKcNffruc66O2JP0sOITj4o9SopoLlmfFgwNByqfdmb8EcCTllp1gZmL8Q0QK6+69TgYy91yUjW3ZwMWEjKIAD7Hln18vTl3dmXSF2QMUliTJO7aWSuSeqkVHE0spzZ34pBhQLGhW/QiGAzplNuCkNtl1B+8zwsKgNVCBJiED4eHNN+5MM4ckcYNcnTwwEt78EhjE89biiC/HuMLNX7fqh0cZHGeu4TqYso1F6f4wWF1FiK4gqeSrMvPu+/CgWHJTzyOsvV0Ud+gJv+q/7quhymboVochcNGIqv+qn+EJfv5EnFqSpkCE4OI0on/Bj+w6yPSCfE8x2h/hs8Jm+cQoENahMH/lUzGqvOIwQ1Nboyszq8YhDZXi18Jnm1fO79A3/FgWKCwRJ7I5xRt9bBJDDYaXsMsoL61pE3cgs2Qq1pal2zcN471IwiRIuY8r/rd0Dm8bNLZj6lju5+oK53il4YyEPcmb98WHM7dXy12iVOyr3opW3pP1Ub69jgNQ==\n-----END CERTIFICATE-----"
+    },
+    "oUcCNXKCMqY=": {
+      "displayName": {
+        "en": "Gov of Luxembourg"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-04-25T13:20:49.000Z",
+      "validUntilDT": "2024-04-24T13:20:49.000Z",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIIE4DCCApSgAwIBAgIIXEI7Kb+6jz8wQQYJKoZIhvcNAQEKMDSgDzANBglghkgBZQMEAgEFAKEcMBoGCSqGSIb3DQEBCDANBglghkgBZQMEAgEFAKIDAgEgMFUxCzAJBgNVBAYTAkxVMR0wGwYDVQQKDBRJTkNFUlQgcHVibGljIGFnZW5jeTEnMCUGA1UEAwweR3JhbmQgRHVjaHkgb2YgTHV4ZW1ib3VyZyBDU0NBMB4XDTIyMDQyNTEzMjA0OVoXDTI0MDQyNDEzMjA0OVowWDELMAkGA1UEBhMCTFUxGzAZBgNVBAoMEk1pbmlzdHJ5IG9mIEhlYWx0aDEsMCoGA1UEAwwjR3JhbmQgRHVjaHkgb2YgTHV4ZW1ib3VyZyBEUyBEQ0MgMTIwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAShkvR4v+TdN2/tdUTHIkHkCUPQkoQy1gX4a3Qn2oZ7vj+QIFKjjB3kbHJU9169WlOPPiVj1YtixR8h1pYi4INBo4IBEjCCAQ4wHQYDVR0OBBYEFD2eZqi7WYKEnVXvEaE56M7VsrfDMB8GA1UdIwQYMBaAFBrPR8eY5TVMj59Vq6ia+ePHPJ17MCsGA1UdEgQkMCKBDmNzY2FAaW5jZXJ0Lmx1pBAwDjEMMAoGA1UEBwwDTFVYMCsGA1UdEAQkMCKADzIwMjIwNDI1MTMyMDQ5WoEPMjAyMjEwMjIxMzIwNDlaMDUGA1UdHwQuMCwwKqAooCaGJGh0dHA6Ly9yZXBvc2l0b3J5LmluY2VydC5sdS9jc2NhLmNybDAOBgNVHQ8BAf8EBAMCB4AwKwYDVR0RBCQwIoEOY3NjYUBpbmNlcnQubHWkEDAOMQwwCgYDVQQHDANMVVgwQQYJKoZIhvcNAQEKMDSgDzANBglghkgBZQMEAgEFAKEcMBoGCSqGSIb3DQEBCDANBglghkgBZQMEAgEFAKIDAgEgA4ICAQBAMIACkCczSVAJ5sEExkHopwkAbA4kxEyeOdWlhNZymvDFbdkC8xeh9SPzl1krt4mDMwr9nsKgZB9P+ESAG8Ilc2S7YwJmqWLLKxIWVIAcW5FLnM/yDrEm1ggow+KR51qEVezezMAqQgTzmN5BO8/qelVHabwlXrrFHNEFcK7OM92oBFD+F6itEGiJpS7nutrI44at+UVygQO5piCG2PKU7gJEHXaC8TUxxaE5d0YdjF9XMy4xMsVpfEqlo/mPFsZ8XC1UFtqLa83NCQrCoBr6ZFHicYfd2B/xEdromanmJS4HU7oIkLGGxvqsUKW1zjiDWgeVVr/7RL+3NON4fO51StlRhnJYL4VV3M285cFgAzhYf2uDgrRliSz2Ht3JeT3Kcaz6re+0S0S5gkCAotcs5dsC1LAs284VC2Hs94icC5E8OLpfqWD0dtbpl9WrTqMwhIAPCXpr2cvanxMhB7xTZqbHDsr0A/bVFuGufT1bnvhUFH4oh8sHPJV7lNs7MBV09UMBVrifMaf12T/9vG5ExbBeTHqF9l1At5uO/cylqIOCYR6Fssfz9lB+cVZXSMS9Ke+/eNIR9KIuHLZwhhZHdTpo1ZIu/MRl57AKCYnkG4dmFZVqE/xI5A6NOT7xktoG1WxxgtYsB3QU/FdfgolzffX/l1jnBFZJkijktD5AgQ==\n-----END CERTIFICATE-----"
+    },
+    "kkHWkCukFRI=": {
+      "displayName": {
+        "en": "Gov of Singapore"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-04-25T03:11:29.000Z",
+      "validUntilDT": "2024-04-24T03:11:29.000Z",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIICeDCCAh6gAwIBAgIUYFHqadfDiuF9adqEQozfAAiNHX0wCgYIKoZIzj0EAwIwXTELMAkGA1UEBhMCU0cxEjAQBgNVBAgMCVNpbmdhcG9yZTEbMBkGA1UECgwSTWluaXN0cnkgT2YgSGVhbHRoMR0wGwYDVQQDDBRjc2NhLm5vdGFyaXNlLmdvdi5zZzAeFw0yMjA0MjUwMzExMjlaFw0yNDA0MjQwMzExMjlaMFwxCzAJBgNVBAYTAlNHMRIwEAYDVQQIDAlTaW5nYXBvcmUxGzAZBgNVBAoMEk1pbmlzdHJ5IE9mIEhlYWx0aDEcMBoGA1UEAwwTZHNjLm5vdGFyaXNlLmdvdi5zZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABD+TT5hDhs6EK3CQi2IOcPQidsPKBS7HWVip+FfPlPQ6Hs4E7NVnOQOo1I3EeMFoDaO701i8SpvMza9Uau/H9uejgbwwgbkwDgYDVR0PAQH/BAQDAgeAMB0GA1UdDgQWBBTmTmeFeDBoilmiVnS6dfuve93lnTAfBgNVHSMEGDAWgBQ5NwWzOLn5niMN0cLBsMOzMpcBpTA1BgNVHR8ELjAsMCqgKKAmhiRodHRwczovL3d3dy5ub3RhcmlzZS5nb3Yuc2cvY3NjYS5jcmwwMAYDVR0lBCkwJwYLKwYBBAGON49lAQEGCysGAQQBjjePZQECBgsrBgEEAY43j2UBAzAKBggqhkjOPQQDAgNIADBFAiAKAJLh3iKvIxWUW//UiiV6Jmj6uWeTuDJZCRYiLzf3eQIhAKE5rhOqeOr0NNw2/xoiAKgx3h8sLufgmvVEPEhnRO97\n-----END CERTIFICATE-----"
+    },
+    "p37P713chgg=": {
+      "displayName": {
+        "en": "Gov of Singapore"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-04-25T03:35:40.000Z",
+      "validUntilDT": "2024-04-24T03:35:40.000Z",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIICeDCCAh6gAwIBAgIUXfBtRiKJDuv+WKQeC++zkPg+CZYwCgYIKoZIzj0EAwIwXTELMAkGA1UEBhMCU0cxEjAQBgNVBAgMCVNpbmdhcG9yZTEbMBkGA1UECgwSTWluaXN0cnkgT2YgSGVhbHRoMR0wGwYDVQQDDBRjc2NhLm5vdGFyaXNlLmdvdi5zZzAeFw0yMjA0MjUwMzM1NDBaFw0yNDA0MjQwMzM1NDBaMFwxCzAJBgNVBAYTAlNHMRIwEAYDVQQIDAlTaW5nYXBvcmUxGzAZBgNVBAoMEk1pbmlzdHJ5IE9mIEhlYWx0aDEcMBoGA1UEAwwTZHNjLm5vdGFyaXNlLmdvdi5zZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABAMPY8HMcXFeeiumRDZUNDKYbc1gmaKuQ5uCt15rQOvk15ceD+hS9ly3CLR6uUrPCcZgbnLWgyFKr98r9Xz77rijgbwwgbkwDgYDVR0PAQH/BAQDAgeAMB0GA1UdDgQWBBSUxQf4x6emKigtgyhssX84uZHSizAfBgNVHSMEGDAWgBQ5NwWzOLn5niMN0cLBsMOzMpcBpTA1BgNVHR8ELjAsMCqgKKAmhiRodHRwczovL3d3dy5ub3RhcmlzZS5nb3Yuc2cvY3NjYS5jcmwwMAYDVR0lBCkwJwYLKwYBBAGON49lAQEGCysGAQQBjjePZQECBgsrBgEEAY43j2UBAzAKBggqhkjOPQQDAgNIADBFAiEAps8yZJJe3/Fjk53BwouRdF6GW5eifk7HEoSFr3b2KIoCIFwGymc84viINV+lP1ZKpz5X+pR1XNT5ryJId0XJZyLM\n-----END CERTIFICATE-----"
     }
   },
   "SmartHealthCards": {
@@ -22938,7 +22998,7 @@
       "validFromDT": "2021-01-01T01:00:00.000Z",
       "didDocument": {
         "alg": "ES256",
-        "crlVersion": 15,
+        "crlVersion": 16,
         "crv": "P-256",
         "kid": "TKPyzMtKh7WQaCzsw6rOK8ZUOZlND2VcBwhFIIcCqUE",
         "kty": "EC",
@@ -23008,6 +23068,27 @@
         "kty": "EC",
         "alg": "ES256",
         "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://myelectronicvaccinecard.oregon.gov/creds#PlKCsSW0QNOFNgh5hKIvRbHzmExaQPSPknJzK9gvyk4": {
+      "displayName": {
+        "en": "Oregon Health Authority"
+      },
+      "displayURL": "https://www.oregon.gov/oha/pages/index.aspx",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "PlKCsSW0QNOFNgh5hKIvRbHzmExaQPSPknJzK9gvyk4",
+        "use": "sig",
+        "crv": "P-256",
+        "x": "wsgp80n4_-cGjq0r-NGD-t4QcvO-Uplq-057uJInUnM",
+        "y": "dU_5wr43pdEg3K0p7OqbR3tYfgX8XCYaPPDqBgPWDuE",
+        "alg": "ES256"
       },
       "credentialType": [
         "https://smarthealth.cards#immunization"
