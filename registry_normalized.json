@@ -10175,6 +10175,45 @@
       "validFromDT": "2022-04-25T03:35:40.000Z",
       "validUntilDT": "2024-04-24T03:35:40.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEAw9jwcxxcV56K6ZENlQ0MphtzWCZoq5Dm4K3XmtA6+TXlx4P6FL2XLcItHq5Ss8JxmBuctaDIUqv3yv1fPvuuA=="
+    },
+    "4ikbLHbM1xM=": {
+      "displayName": {
+        "en": "Gov of Poland"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t"
+      ],
+      "validFromDT": "2022-04-21T08:24:28.000Z",
+      "validUntilDT": "2024-04-20T08:24:27.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE2lqRTFL8NpbenY0NmO3C98OfBeC3m0E1BXQ9Ps9bvv+s6xpTC1uxO6hnkFpfMPwah7rQms+e31LYkfCfQhZt1A=="
+    },
+    "GCts5YyKfpI=": {
+      "displayName": {
+        "en": "Gov of Poland"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "v"
+      ],
+      "validFromDT": "2022-04-21T08:25:38.000Z",
+      "validUntilDT": "2024-04-20T08:25:37.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEQ88hCY6sOa7/95q9MOE2u7jfLDHZsr2j1+Tuv5aZ57dIORhLb0H1lja7vVMXB1OyHL8qjBEKuxqcihnk1bWd6A=="
+    },
+    "Z/cybJ0GUUU=": {
+      "displayName": {
+        "en": "Gov of Poland"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "r"
+      ],
+      "validFromDT": "2022-04-21T08:23:16.000Z",
+      "validUntilDT": "2024-04-20T08:23:15.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEUmAL+OVah+Iy1P/6a44JP7HnJAIloGZda8P73OrY9pIvwZ0mPIgBli3le+FkJm2jOVNzcw09fp2R8b2AFkrObg=="
     }
   },
   "SHC": {
@@ -18045,6 +18084,19 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE02++ywa8HRHn3p6oDrykfw5TajXlKixi/hML1Z9sgHwL1J+1fg8CaNjjPpcRpqQurd3q4vLGqDzO+cz9aOwFqA=="
+    },
+    "https://ssbdiagnosticshc.com#GpShZ4FCuuk_oIMqsPj9M5U2tgECoJ9nIYy2tORD-vo": {
+      "displayName": {
+        "en": "SSB Diagnostic"
+      },
+      "displayURL": "https://covid19testhawaii.com",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEGtASdbC01SQ8WTaImuwcfdQmRNSHJ82D/cMQkD6o8n05pL6k1/kk3Jk4MV2xynX+wQ0YNqfscebFkSD1w9QDGA=="
     }
   }
 }
