@@ -10214,6 +10214,21 @@
       "validFromDT": "2022-04-21T08:23:16.000Z",
       "validUntilDT": "2024-04-20T08:23:15.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEUmAL+OVah+Iy1P/6a44JP7HnJAIloGZda8P73OrY9pIvwZ0mPIgBli3le+FkJm2jOVNzcw09fp2R8b2AFkrObg=="
+    },
+    "3TnANQ0RLnM=": {
+      "displayName": {
+        "en": "Gov of Slovenia"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-04-28T12:44:46.000Z",
+      "validUntilDT": "2024-04-27T12:44:46.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEyZmbjdLBaw1oW3OU3qvHousP0v8E4nKhvrHcGpeYXuYGKmZDq66vQvAgNI6OBs0RRVQBy+CQ3Ap/sM+A9Aqqww=="
     }
   },
   "SHC": {
