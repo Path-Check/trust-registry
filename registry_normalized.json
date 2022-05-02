@@ -10229,6 +10229,34 @@
       "validFromDT": "2022-04-28T12:44:46.000Z",
       "validUntilDT": "2024-04-27T12:44:46.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEyZmbjdLBaw1oW3OU3qvHousP0v8E4nKhvrHcGpeYXuYGKmZDq66vQvAgNI6OBs0RRVQBy+CQ3Ap/sM+A9Aqqww=="
+    },
+    "SVePeyrJHKw=": {
+      "displayName": {
+        "en": "Gov of Switzerland"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-01-11T14:38:46.000Z",
+      "validUntilDT": "2025-01-11T14:38:46.000Z",
+      "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2uZ/IRJXf4ktyLHP3SQT9/LD4o0jO14gizth+pElTDho26bLh1R2Er+rDfQ6NWJU/nrAbRSXs8y6SCOezbSiOTFh8GdfQyDb9VazsWP+92P6q89VGsmjmboJd51ptDXPi/u34UkxOMqcvLMkXuvIOgoAU4WXOyiXdQPx08M/smW4HYeFrXWcQxmNsRkxzBT2yukrT4HwhQQM18yg8k2Kamyd6MCqxfIHNQ9o7fT8eLWoc79WXqr26p8fm1PLas70Ro7LQjNdzmLzjv92eeH61A5e+Vbse7GTR0OfjVEnA8zqfSW2yftoJNQUZWg3i3RIV2CbUUady4PEsa4pARCr/QIDAQAB"
+    },
+    "Nzah4qJrsTI=": {
+      "displayName": {
+        "en": "Gov of Lebanon"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "v"
+      ],
+      "validFromDT": "2022-05-01T10:39:00.000Z",
+      "validUntilDT": "2022-11-01T11:39:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE2dnjU8GXvJtGcndbsp1sN4DGv1GNZZQtMZAib3s+8ft6cxPpI7jH/MbuWAS3dQd2DRBmQ1nqal/CT1dijTDILQ=="
     }
   },
   "SHC": {
