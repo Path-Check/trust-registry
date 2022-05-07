@@ -10257,6 +10257,66 @@
       "validFromDT": "2022-05-01T10:39:00.000Z",
       "validUntilDT": "2022-11-01T11:39:00.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE2dnjU8GXvJtGcndbsp1sN4DGv1GNZZQtMZAib3s+8ft6cxPpI7jH/MbuWAS3dQd2DRBmQ1nqal/CT1dijTDILQ=="
+    },
+    "+VD9C2Ba1Nc=": {
+      "displayName": {
+        "en": "Gov of Austria"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-04-22T08:56:20.000Z",
+      "validUntilDT": "2024-04-22T08:56:20.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEnUCwHzUFZ+mgTU6DTrGGVCmqBGp2Sf3IyqFYl7sNoFv/wZalMMZB+ELjfR2C004iK7RygtVe/si82YRs0MPLCw=="
+    },
+    "6bIOyLG6PvM=": {
+      "displayName": {
+        "en": "Gov of Croatia"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-05-03T19:55:37.000Z",
+      "validUntilDT": "2024-05-02T19:55:36.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEjuRgEwZ/BJ5kgAvVphm6MFLjure30Xh9TIV5WNXidi6AxH/E0N+WZ7/1eWgglu3fIxSnlP6hAZtda0Y9zFIXRQ=="
+    },
+    "4KBF0rWZIck=": {
+      "displayName": {
+        "en": "Gov of Iceland"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-05-06T14:48:54.000Z",
+      "validUntilDT": "2024-05-05T14:48:54.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEiphDOt0kU+Kdo89BFr1FedhfiZRUEHi1AJ9tLX3sN+bgw109d11ll97BVaImBAHGoWlh4iXQKS2GeKm2mXGfsw=="
+    },
+    "YmxYYw+LB84=": {
+      "displayName": {
+        "en": "Gov of Iceland"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-05-06T14:53:05.000Z",
+      "validUntilDT": "2024-05-05T14:53:05.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE7FNjCEoUVb/YPjRuU0qwwZgXiBj6OvvbqIZxiCJ28CjOqRBKo7ugGWhTRFz8lIYR+Sr4N1Gez/rMpF7OwkOXbA=="
     }
   },
   "SHC": {
