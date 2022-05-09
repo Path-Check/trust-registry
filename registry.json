@@ -23140,7 +23140,7 @@
       "validFromDT": "2021-01-01T01:00:00.000Z",
       "didDocument": {
         "alg": "ES256",
-        "crlVersion": 76,
+        "crlVersion": 79,
         "crv": "P-256",
         "kid": "TKPyzMtKh7WQaCzsw6rOK8ZUOZlND2VcBwhFIIcCqUE",
         "kty": "EC",
@@ -23404,6 +23404,27 @@
         "kid": "N2maG8qOhITe_zyPqcrCa6LT_mW18ZtFPy09cGAB24w",
         "use": "sig",
         "alg": "ES256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://haiku-canto-prod.chmca.org/ARR-FHIR-PRD/api/epic/2021/Security/Open/EcKeys/32001/SHC#1j8HNfXiWLFT8qTSld_2uvCgYjyAdxjhig4XzBkRvRA": {
+      "displayName": {
+        "en": "Akron Children’s Hospital"
+      },
+      "displayURL": "https://www.akronchildrens.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "bjbnA_QTWR6qCQu-m5CDKgBqu98NlDZcQ5Kyph2qgkY",
+        "y": "yeAM-TYxH2JmkfVehTU1Cw3tTB3Jw_-ZaKofmOir9fY",
+        "kid": "1j8HNfXiWLFT8qTSld_2uvCgYjyAdxjhig4XzBkRvRA",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
       },
       "credentialType": [
         "https://smarthealth.cards#immunization"
