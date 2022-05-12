@@ -18367,7 +18367,7 @@
         "crv": "P-256",
         "x": "9B8CKA868OKjH3ydtM1jw2ax-wo0qCHP3qDR3b9jilY",
         "y": "pEudYHfIMz20vz-WNZargtgDDXj6GQeN410x8u2xjQ0",
-        "crlVersion": 42
+        "crlVersion": 43
       },
       "credentialType": [
         "https://smarthealth.cards#immunization"
@@ -23140,7 +23140,7 @@
       "validFromDT": "2021-01-01T01:00:00.000Z",
       "didDocument": {
         "alg": "ES256",
-        "crlVersion": 95,
+        "crlVersion": 103,
         "crv": "P-256",
         "kid": "TKPyzMtKh7WQaCzsw6rOK8ZUOZlND2VcBwhFIIcCqUE",
         "kty": "EC",
@@ -23425,6 +23425,26 @@
         "kty": "EC",
         "alg": "ES256",
         "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://fhir-myrecord.cerner.com/r4/4ek42qnrCibOKYPH3Swwzqc3pT1bonJw#N2maG8qOhITe_zyPqcrCa6LT_mW18ZtFPy09cGAB24w": {
+      "displayName": {
+        "en": "Indiana University Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "crv": "P-256",
+        "kty": "EC",
+        "x": "DNo1BEwoRPNRDYsulhhxu9jOxkvCuEVU4IaCs3H6PJ0",
+        "y": "zB_HLKrE_n5Xi9I7yMIION-IQpzH5MEZoP2GvRftSsI",
+        "kid": "N2maG8qOhITe_zyPqcrCa6LT_mW18ZtFPy09cGAB24w",
+        "use": "sig",
+        "alg": "ES256"
       },
       "credentialType": [
         "https://smarthealth.cards#immunization"
