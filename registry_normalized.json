@@ -10317,6 +10317,81 @@
       "validFromDT": "2022-05-06T14:53:05.000Z",
       "validUntilDT": "2024-05-05T14:53:05.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE7FNjCEoUVb/YPjRuU0qwwZgXiBj6OvvbqIZxiCJ28CjOqRBKo7ugGWhTRFz8lIYR+Sr4N1Gez/rMpF7OwkOXbA=="
+    },
+    "/HBvuzeVUZM=": {
+      "displayName": {
+        "en": "Gov of Indonesia"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-05-13T08:08:18.000Z",
+      "validUntilDT": "2024-05-12T08:08:18.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEncu7vtyIkl17rmcYTTlrJtZlPaWG4z6z+QROpNUgrr+3+0D+eOuu6YGgJ/TrwCa+1QQhM9+p5eRVnc35zK5wpw=="
+    },
+    "JA5CROLPOco=": {
+      "displayName": {
+        "en": "Gov of Indonesia"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-05-13T07:17:52.000Z",
+      "validUntilDT": "2024-05-12T07:17:52.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEy7jh9bGDj5lS5b3at5JschaHLhwcwFlG8phE/+iNbJgtJpGIgUqNhP0uStS6bpX07iKjx75UwUPFyM8eeWEDGw=="
+    },
+    "e4JQ8yQqbm8=": {
+      "displayName": {
+        "en": "Gov of Indonesia"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-05-13T07:34:10.000Z",
+      "validUntilDT": "2024-05-12T07:34:10.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAELargaet+JKHmuBuJl1yQqcmPVi2z5H15fUU7S+g17KbnLwGUcwM6gk50vRCS97+YdTVKN24KINovN9Bd1z6MfQ=="
+    },
+    "efCsHBIGji8=": {
+      "displayName": {
+        "en": "Gov of Indonesia"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-05-13T08:13:19.000Z",
+      "validUntilDT": "2024-05-12T08:13:19.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEZzVEUqLsozqhacQikEi/g0+A0OQwSWfIOxAloMASUfCI/8G93ecomGKNfUTIcRcnGzLeDAwAbT1DbSTx0MXTrQ=="
+    },
+    "hhNMZ5bwcOc=": {
+      "displayName": {
+        "en": "Gov of Indonesia"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-05-13T08:17:05.000Z",
+      "validUntilDT": "2024-05-12T08:17:05.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE38At9Wmpp3GwmuvmnWRV467ycIu9DIxEIxM35IxlT9vqJxEWhyZ2Wg3sTa618IRd+U6VljlaEJuTVHHuZcWwtQ=="
     }
   },
   "SHC": {
