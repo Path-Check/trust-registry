@@ -10392,6 +10392,36 @@
       "validFromDT": "2022-05-13T08:17:05.000Z",
       "validUntilDT": "2024-05-12T08:17:05.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE38At9Wmpp3GwmuvmnWRV467ycIu9DIxEIxM35IxlT9vqJxEWhyZ2Wg3sTa618IRd+U6VljlaEJuTVHHuZcWwtQ=="
+    },
+    "cJsuzNIdcHA=": {
+      "displayName": {
+        "en": "Gov of Spain"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-05-03T12:00:00.000Z",
+      "validUntilDT": "2026-05-03T11:59:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE8hTSdBqxxyAyUhmxrCjAIUQkRUverBe6qKPtMvPfqz5xrmmehfF4mUX7Tl1+XFCiQWye43/qDitCDFw4sHPf+Q=="
+    },
+    "ZtJVElOdWm0=": {
+      "displayName": {
+        "en": "Gov of Vietnam"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2021-07-15T11:43:43.000Z",
+      "validUntilDT": "2026-07-14T11:43:43.000Z",
+      "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs683/CIJci81XiAyyyn/LBzvV7Q47tQIDBjX1+dcbGhN7eaQQvM3L8tpibNiWVBEP9jWOzHMJUGv5uOjXs76z5fPEWHNkb8my2qyJt5N3SXQQOafa4lj9awvY7KFZmPwivyfXYw19nlgk+rhJHNVzZ3Hzx+Dy4lmJpUgdh5j9Hd7M9PvVvgoeHZ7KoegfanoPRFhVNwp6BpDOBHHLTQLQ5TUsGNSl6TXo0PO5YgpZRxBjA5zh02YxLRQ3vglLDKxVfmhkO5z3kK2xczVWmE6fZ9l6dnh54Tht043T4WuFLygJCO+yiyVsiNc2G5Y8f3cP7Vf1B9su2ueB2ZnmPGMiwIDAQAB"
     }
   },
   "SHC": {
@@ -18337,6 +18367,18 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEDNo1BEwoRPNRDYsulhhxu9jOxkvCuEVU4IaCs3H6PJ3MH8csqsT+fleL0jvIwgg434hCnMfkwRmg/Ya9F+1Kwg=="
+    },
+    "https://healthcardcert.lawallet.com#m5kZX-HpcSSBUQ2gJqA1FgEFAU1ljHqMtvdGoRNzzj4": {
+      "displayName": {
+        "en": "State of Louisiana"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE3/qZ8qF+nQaepk+L3jDU/55SzMhEIMcqHsJjOorQXKuhiTmOkaTlO9nmnsfyq9WiDduRJXbVGPJCtPJKGBjGdw=="
     }
   }
 }
