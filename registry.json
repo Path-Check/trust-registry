@@ -18472,7 +18472,7 @@
         "crv": "P-256",
         "x": "9B8CKA868OKjH3ydtM1jw2ax-wo0qCHP3qDR3b9jilY",
         "y": "pEudYHfIMz20vz-WNZargtgDDXj6GQeN410x8u2xjQ0",
-        "crlVersion": 46
+        "crlVersion": 47
       },
       "credentialType": [
         "https://smarthealth.cards#immunization"
@@ -23245,7 +23245,7 @@
       "validFromDT": "2021-01-01T01:00:00.000Z",
       "didDocument": {
         "alg": "ES256",
-        "crlVersion": 132,
+        "crlVersion": 136,
         "crv": "P-256",
         "kid": "TKPyzMtKh7WQaCzsw6rOK8ZUOZlND2VcBwhFIIcCqUE",
         "kty": "EC",
