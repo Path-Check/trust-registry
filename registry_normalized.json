@@ -10422,6 +10422,36 @@
       "validFromDT": "2021-07-15T11:43:43.000Z",
       "validUntilDT": "2026-07-14T11:43:43.000Z",
       "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs683/CIJci81XiAyyyn/LBzvV7Q47tQIDBjX1+dcbGhN7eaQQvM3L8tpibNiWVBEP9jWOzHMJUGv5uOjXs76z5fPEWHNkb8my2qyJt5N3SXQQOafa4lj9awvY7KFZmPwivyfXYw19nlgk+rhJHNVzZ3Hzx+Dy4lmJpUgdh5j9Hd7M9PvVvgoeHZ7KoegfanoPRFhVNwp6BpDOBHHLTQLQ5TUsGNSl6TXo0PO5YgpZRxBjA5zh02YxLRQ3vglLDKxVfmhkO5z3kK2xczVWmE6fZ9l6dnh54Tht043T4WuFLygJCO+yiyVsiNc2G5Y8f3cP7Vf1B9su2ueB2ZnmPGMiwIDAQAB"
+    },
+    "VubkOgeOJHA=": {
+      "displayName": {
+        "en": "Gov of Italy"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-05-18T09:23:08.000Z",
+      "validUntilDT": "2024-05-17T09:23:07.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE2MbVmPY6Us+MGrEiP1lce5jzZKUuvbRGGP9TIHnCTJYefRmSEIuBvMle+4mb3gYtMWtkfY9mE5WQ9HYFDvLGTA=="
+    },
+    "xJzkJGzIV3k=": {
+      "displayName": {
+        "en": "Gov of Italy"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-05-18T09:22:37.000Z",
+      "validUntilDT": "2024-05-17T09:22:36.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEwCNpcwRXc5zbrNTl24xEz1NUzN+LECCnoRKo9a5xOJz1cFV0a63I2AJ//fn3SCao2A+fQN1PUKUQUbmLPTmhiQ=="
     }
   },
   "SHC": {
@@ -18379,6 +18409,19 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE3/qZ8qF+nQaepk+L3jDU/55SzMhEIMcqHsJjOorQXKuhiTmOkaTlO9nmnsfyq9WiDduRJXbVGPJCtPJKGBjGdw=="
+    },
+    "https://dvc.mohw.gov.tw#e321KG2oVcL8QVUG59NKlgEg20kkJwiqpJ9jBvZdz-o": {
+      "displayName": {
+        "en": "Government of Taiwan"
+      },
+      "displayURL": "https://www.mohw.gov.tw/mp-2.html",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEKmgDuJ+3Qj2w2o3fFUOI6bWXfrXFOS2t/+pQkNwRgNzIvNbvmVpzQDPNwWkRGFD/tcrm9DAUscZYyvCnrcPbcA=="
     }
   }
 }
