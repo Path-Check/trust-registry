@@ -23290,7 +23290,7 @@
       "validFromDT": "2021-01-01T01:00:00.000Z",
       "didDocument": {
         "alg": "ES256",
-        "crlVersion": 153,
+        "crlVersion": 161,
         "crv": "P-256",
         "kid": "TKPyzMtKh7WQaCzsw6rOK8ZUOZlND2VcBwhFIIcCqUE",
         "kty": "EC",
@@ -23635,6 +23635,27 @@
         "kid": "e321KG2oVcL8QVUG59NKlgEg20kkJwiqpJ9jBvZdz-o",
         "x": "KmgDuJ-3Qj2w2o3fFUOI6bWXfrXFOS2t_-pQkNwRgNw",
         "y": "yLzW75lac0AzzcFpERhQ_7XK5vQwFLHGWMrwp63D23A",
+        "alg": "ES256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://senegal.tbi.ohms.oracle.com#VEccqX9LvPZJXqv11staEs0qPN2OR9bMS_PXEAZODXg": {
+      "displayName": {
+        "en": "République du Sénégal"
+      },
+      "displayURL": "https://www.sante.gouv.sn/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "crv": "P-256",
+        "kty": "EC",
+        "x": "Sjnn3wQ8CbHa-yJP3y5SFCsHAg_A-s8D_wOAlx2RvkU",
+        "y": "molVzF_KJpgfYZcqa6cjeslhnPuGKr10AN5S2ti-JLs",
+        "kid": "VEccqX9LvPZJXqv11staEs0qPN2OR9bMS_PXEAZODXg",
+        "use": "sig",
         "alg": "ES256"
       },
       "credentialType": [

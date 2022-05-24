@@ -18437,6 +18437,19 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEKmgDuJ+3Qj2w2o3fFUOI6bWXfrXFOS2t/+pQkNwRgNzIvNbvmVpzQDPNwWkRGFD/tcrm9DAUscZYyvCnrcPbcA=="
+    },
+    "https://senegal.tbi.ohms.oracle.com#VEccqX9LvPZJXqv11staEs0qPN2OR9bMS_PXEAZODXg": {
+      "displayName": {
+        "en": "République du Sénégal"
+      },
+      "displayURL": "https://www.sante.gouv.sn/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAESjnn3wQ8CbHa+yJP3y5SFCsHAg/A+s8D/wOAlx2RvkWaiVXMX8ommB9hlyprpyN6yWGc+4YqvXQA3lLa2L4kuw=="
     }
   }
 }
