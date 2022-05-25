@@ -10467,6 +10467,36 @@
       "validFromDT": "2022-04-08T16:10:52.000Z",
       "validUntilDT": "2024-04-07T16:10:52.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE9YqgNXmmXgWijLg6ci7eRK/PVWrb1YSBqzpKek8r4L/Qhl+R+4l+hJi2Q+ShyhJtBL2D9yYajyYykkC++Lpmxw=="
+    },
+    "4LmAwH++JF8=": {
+      "displayName": {
+        "en": "Gov of Estonia"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-05-17T11:03:14.000Z",
+      "validUntilDT": "2024-11-12T11:03:14.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAESRQNwfbHTrs/l83+e/2tJ9SChNHWK5/Tkg/KhEggFV4+c9mw2zxuQRdx3TLGsV0P+ReXCC/47bUIt/5uzYk8Fg=="
+    },
+    "xyO+2E2eszc=": {
+      "displayName": {
+        "en": "Gov of Singapore"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-05-25T03:19:17.000Z",
+      "validUntilDT": "2024-05-24T03:19:17.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEY0/hJSbft4m5EbQri/S4HGHGoZWCqLn5zqqbVGop8nsh+30bGTDfaWKd7mf5n7jMZhmyU2AEzODoFzgBI7Xmqg=="
     }
   },
   "SHC": {
