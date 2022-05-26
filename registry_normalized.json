@@ -10497,6 +10497,186 @@
       "validFromDT": "2022-05-25T03:19:17.000Z",
       "validUntilDT": "2024-05-24T03:19:17.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEY0/hJSbft4m5EbQri/S4HGHGoZWCqLn5zqqbVGop8nsh+30bGTDfaWKd7mf5n7jMZhmyU2AEzODoFzgBI7Xmqg=="
+    },
+    "2TzfucvrtPM=": {
+      "displayName": {
+        "en": "Gov of France"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-06-14T22:00:00.000Z",
+      "validUntilDT": "2024-06-14T22:00:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEIe/k4eH0AzXKJPFXCywzT3iiF3zActf3FtMDFLA3W5cz3qLGSoJlh/kZj/QnR5+jAqrpHtpnIXUbZggFY/e4SA=="
+    },
+    "2ZzbzrhNVtw=": {
+      "displayName": {
+        "en": "Gov of France"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-05-24T22:00:00.000Z",
+      "validUntilDT": "2024-05-24T22:00:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEqRFOaCZ8OnuDWEoq3StEvhzhwvZ/lKEJKKkAm6emtw9bYabgOOTyQCQB8iRmHJWj2e27xxuHGnPUmIxpdF65CQ=="
+    },
+    "AtpG5fbIlZM=": {
+      "displayName": {
+        "en": "Gov of France"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-07-14T22:00:00.000Z",
+      "validUntilDT": "2024-07-14T22:00:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEIxET2q/3EuDB5qz9WDCjlB+78esP5oGEeEqa8S5XkFMdTPvFfdLanwTZjLMM1n4bnwjn6qdgm/g4bmRXg8h8RQ=="
+    },
+    "CG22MhxbZzw=": {
+      "displayName": {
+        "en": "Gov of France"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-06-09T22:00:00.000Z",
+      "validUntilDT": "2024-06-09T22:00:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEp/yDdIY+skdT/zTSHzT+B70IUuyEdkYPU36ZVrtWxkI14L2Ufe8KHfCq3YvR52gYLTR3CvloK1019F+rW8EgFQ=="
+    },
+    "EtI6ptXcgT0=": {
+      "displayName": {
+        "en": "Gov of France"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-11-14T23:00:00.000Z",
+      "validUntilDT": "2024-11-14T23:00:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEEJdWhwjmpKh8VfWLns7ZcTmz7lOsrjvWMMkk0hThKEVOndNmLBaDwSJLijTGnRVG7HgiTYytWvATMLLjqOgvmg=="
+    },
+    "K3FL/LvBIrA=": {
+      "displayName": {
+        "en": "Gov of France"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-10-14T22:00:00.000Z",
+      "validUntilDT": "2024-10-14T22:00:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEGxUb08PhbgUpaFyRNRFkqFXpwTHwVb3PHPmyHCMADN3IluZZRl03Kv7tcPf/GFnjr2BV2Z9N4zCLrf5fvyRpjg=="
+    },
+    "PA+jVy9xf+4=": {
+      "displayName": {
+        "en": "Gov of France"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-09-14T22:00:00.000Z",
+      "validUntilDT": "2024-09-14T22:00:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEZVxJWo8UCyDPUBfBYqujbiby5NlRL2TuF17TOniVyYKem2Abedu4FkMkyZavKogn4KVNeC5FI7FH9qzXyf7GvA=="
+    },
+    "c9ljP/LO7l4=": {
+      "displayName": {
+        "en": "Gov of France"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-09-09T22:00:00.000Z",
+      "validUntilDT": "2024-09-09T22:00:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAExqtPfCAJKUkDYNGirBOLfRk3epRDxHSu0SvcKVBzs+0nvSslrOoIw4o+UFxI3IZ5mA5ton/cp4HYuOWuYoSTwg=="
+    },
+    "gs5a7TF8sMM=": {
+      "displayName": {
+        "en": "Gov of France"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-08-14T22:00:00.000Z",
+      "validUntilDT": "2024-08-14T22:00:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAElTSv0mC5UPtjTfgv/hiDug3AdPPtQFz1zYIA94kd8JMss/PVC/JCAAGFN3TuJpOKkjpnjoxzkXoTVZ0UckU1MA=="
+    },
+    "kq7IQyNOr2Q=": {
+      "displayName": {
+        "en": "Gov of France"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-06-09T22:00:00.000Z",
+      "validUntilDT": "2024-06-09T22:00:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE4t7fRkKL29Y/ZdwflBWH8IIURb14hiSVpKWTgJ1kmrckVunfb/ptRyxzpmYvHe6AS4Nzu3Kpk4RtDBvmYRrBNQ=="
+    },
+    "qmMcHGjoNCM=": {
+      "displayName": {
+        "en": "Gov of France"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-09-09T22:00:00.000Z",
+      "validUntilDT": "2024-09-09T22:00:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEHOw6BeJqLwWg6fnv6fHz7drmX4CgwDNMuUVSB1thYkgJ4KyC048J95fU/yBiQwFt7GjZDYFX1LVOGnT1vu7jww=="
+    },
+    "yDbs9MkkEoM=": {
+      "displayName": {
+        "en": "Gov of France"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-06-14T22:00:00.000Z",
+      "validUntilDT": "2024-06-14T22:00:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEt9j2T4NNAPT01zMzL+Fr2oO0pgb0gybdWNu43E7bJ5WLJHTX7wFVhrY/g9uK+Kd60Kxw0qaSgQJwLtpc0v68jg=="
     }
   },
   "SHC": {
