@@ -10323,7 +10323,7 @@
         "en": "Gov of Indonesia"
       },
       "entityType": "issuer",
-      "status": "current",
+      "status": "terminated",
       "credentialType": [
         "t",
         "v",
@@ -10338,7 +10338,7 @@
         "en": "Gov of Indonesia"
       },
       "entityType": "issuer",
-      "status": "current",
+      "status": "terminated",
       "credentialType": [
         "t",
         "v",
@@ -10353,7 +10353,7 @@
         "en": "Gov of Indonesia"
       },
       "entityType": "issuer",
-      "status": "current",
+      "status": "terminated",
       "credentialType": [
         "t",
         "v",
@@ -10368,7 +10368,7 @@
         "en": "Gov of Indonesia"
       },
       "entityType": "issuer",
-      "status": "current",
+      "status": "terminated",
       "credentialType": [
         "t",
         "v",
@@ -10383,7 +10383,7 @@
         "en": "Gov of Indonesia"
       },
       "entityType": "issuer",
-      "status": "current",
+      "status": "terminated",
       "credentialType": [
         "t",
         "v",
@@ -10677,6 +10677,21 @@
       "validFromDT": "2022-06-14T22:00:00.000Z",
       "validUntilDT": "2024-06-14T22:00:00.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEt9j2T4NNAPT01zMzL+Fr2oO0pgb0gybdWNu43E7bJ5WLJHTX7wFVhrY/g9uK+Kd60Kxw0qaSgQJwLtpc0v68jg=="
+    },
+    "7Kxw3+O5bzs=": {
+      "displayName": {
+        "en": "Gov of Togo"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-05-27T00:15:08.000Z",
+      "validUntilDT": "2024-05-26T00:15:08.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEbdoT9Ekb/OZ40LPfmU6vBKfP+jJpGUJ372Dm4DEsp3WYKPRcU82a9kemJ9IepgJkX0Vq1jababqJ4mzyckb+Hg=="
     }
   },
   "SHC": {
