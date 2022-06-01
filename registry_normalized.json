@@ -10692,6 +10692,21 @@
       "validFromDT": "2022-05-27T00:15:08.000Z",
       "validUntilDT": "2024-05-26T00:15:08.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEbdoT9Ekb/OZ40LPfmU6vBKfP+jJpGUJ372Dm4DEsp3WYKPRcU82a9kemJ9IepgJkX0Vq1jababqJ4mzyckb+Hg=="
+    },
+    "HPY5pjISktg=": {
+      "displayName": {
+        "en": "Gov of Tunisia"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-05-30T13:32:03.000Z",
+      "validUntilDT": "2024-05-29T13:32:03.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEU3cJYiJ+61umVyy/MNDun7+XHJ69b7T/wwZ4c8hMvRv+k+BuZjsBTXH2OCAAu8eo5s2+rNlE525oKnXfajs3YQ=="
     }
   },
   "SHC": {
@@ -18675,6 +18690,19 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAESjnn3wQ8CbHa+yJP3y5SFCsHAg/A+s8D/wOAlx2RvkWaiVXMX8ommB9hlyprpyN6yWGc+4YqvXQA3lLa2L4kuw=="
+    },
+    "https://rxhub.luhs.org/fhir/api/epic/2021/Security/Open/EcKeys/32001/SHC#4loR7Ete5nJI2Uo16NyxALWM1wjqtkXP85p2m8k7jyA": {
+      "displayName": {
+        "en": "Loyola Medicine"
+      },
+      "displayURL": "https://www.loyolamedicine.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE93ZFw9R7jogq7gC3tSfap8Af9mxv2/R6P2DGackAnGs6sHDp9gpATqsx+6d32xblTBjQQXK+bAc5rozsF9UfTg=="
     }
   }
 }
