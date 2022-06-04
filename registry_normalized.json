@@ -10720,6 +10720,99 @@
       "validFromDT": "2022-06-01T10:39:00.000Z",
       "validUntilDT": "2022-12-01T11:39:00.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE7utYgCTgOT1hSmBxEHBdoz7kG+ilOTCi3bvoLF1JMTH4halJVMfyyYTK6Kd1FG/HjAb7I46MLbm/dsZIO4zl0w=="
+    },
+    "xlOr639kqJw=": {
+      "displayName": {
+        "en": "Gov of Spain"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-06-02T08:30:00.000Z",
+      "validUntilDT": "2024-06-02T08:29:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAElwfWWGPC68YB103Q4BsjoSS4qPtZPcPadUtwBiEbq7lB2YQURWSV2RV/PkdrgR7jIxfPp+dWvFE65WlobQf/qw=="
+    },
+    "18SDcLZwp2w=": {
+      "displayName": {
+        "en": "Gov of Malta"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "r"
+      ],
+      "validFromDT": "2022-05-26T00:00:00.000Z",
+      "validUntilDT": "2024-05-26T23:59:59.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEPpWMG62ywH5vrKysVXNMt8KMUj6Vg1GNQ8Hb8pVcBwyEjap1wvei9yyOJR/abVbnjG+l+OVD+Y5QjMEA5a8BEQ=="
+    },
+    "68GUC3zJiis=": {
+      "displayName": {
+        "en": "Gov of Malta"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "r"
+      ],
+      "validFromDT": "2022-05-26T00:00:00.000Z",
+      "validUntilDT": "2024-05-26T23:59:59.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEMMh8LoUTdPNOYbWr+3Tyl6Bl1xH9FTlwYuekgg7C3lzQ68T0HBM9OtGduGvFNTNAKVlXBl8/K0V8mRGQEi73iQ=="
+    },
+    "7Zfpj2hFdZI=": {
+      "displayName": {
+        "en": "Gov of Malta"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t"
+      ],
+      "validFromDT": "2022-05-26T00:00:00.000Z",
+      "validUntilDT": "2024-05-26T23:59:59.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE3xfqPtVW+pxIBJfORDjOEw5UYtj6hRybZP3pe9nU1bV30JnNqN4FaNK8yq12TwqjQPMxMh5cLa0QUdVJ5KK+sg=="
+    },
+    "O9/onlS4MfU=": {
+      "displayName": {
+        "en": "Gov of Malta"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "v"
+      ],
+      "validFromDT": "2022-05-26T00:00:00.000Z",
+      "validUntilDT": "2024-05-26T23:59:59.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEIGMA4GA2MePLKcWAfOjLzCtEq0QG22QMkpXUxfrswKVvg1p0WXLZ4tH6BGdJDWiyRFc7nsJ4DPGpNBDvJrr4lg=="
+    },
+    "Vu9ZtIFwyLs=": {
+      "displayName": {
+        "en": "Gov of Malta"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "v"
+      ],
+      "validFromDT": "2022-05-26T00:00:00.000Z",
+      "validUntilDT": "2024-05-26T23:59:59.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEd8WOHa/cQ+JIog47HmP9qviuyBw0jbSHqBw3fJoGbqmrubZP9rMlg4m9xk0z8Y5Rofs+ply5mo45BqcMkwsx1w=="
+    },
+    "vYkcKLPmDBo=": {
+      "displayName": {
+        "en": "Gov of Malta"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t"
+      ],
+      "validFromDT": "2022-05-26T00:00:00.000Z",
+      "validUntilDT": "2024-05-26T23:59:59.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEFHXVxxPkuzAcE5VHx4tYyb+hY49PB/g2JIbgHpfsZXlEca6EKnxx3TyWLiGrRcyHjrRHX24yi+6OGNDJl9H+/w=="
     }
   },
   "SHC": {
