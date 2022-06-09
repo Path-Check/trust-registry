@@ -10813,6 +10813,36 @@
       "validFromDT": "2022-05-26T00:00:00.000Z",
       "validUntilDT": "2024-05-26T23:59:59.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEFHXVxxPkuzAcE5VHx4tYyb+hY49PB/g2JIbgHpfsZXlEca6EKnxx3TyWLiGrRcyHjrRHX24yi+6OGNDJl9H+/w=="
+    },
+    "1MMhk6+1uBk=": {
+      "displayName": {
+        "en": "Gov of Monaco"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-05-17T11:51:52.000Z",
+      "validUntilDT": "2023-11-16T11:51:52.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEuYg8pBvtgCQxyeMKIX0qetG2XXDsZPJqolUpGnN3qxgNjEKcTCWZdb2lSb+wBn0cWBquDyjgGvn5KL/u5rw1Ig=="
+    },
+    "DmsMpEZnQAA=": {
+      "displayName": {
+        "en": "Gov of Georgia"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-06-07T16:38:56.000Z",
+      "validUntilDT": "2024-06-06T16:38:55.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAERHPqs7XQwXiKuDwJmzlVRffNcPK1noUthOV1usrtNpw6cp50rIFAYIJFIG7/Bmei1Um7qXCYZB6PyRCnIoWtsA=="
     }
   },
   "SHC": {
@@ -18809,6 +18839,58 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE93ZFw9R7jogq7gC3tSfap8Af9mxv2/R6P2DGackAnGs6sHDp9gpATqsx+6d32xblTBjQQXK+bAc5rozsF9UfTg=="
+    },
+    "https://webproxy.allina.com/FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC#VcGBmQIW3DxECXXEHQBkbcyqOPFevpEz3Cghsjh--WE": {
+      "displayName": {
+        "en": "Allina Health System"
+      },
+      "displayURL": "https://account.allinahealth.org/dashboard/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEOyztZJjJX85p+NB8toqJCsDyrfVciy0dmkyC5rhoSl7sjhgX45DdIscu3x1LDqZB+plkzoBfJaX16rp5bAOn9Q=="
+    },
+    "https://epicproxy.bhsala.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#JYaFsJ6ltkJVsolJUds8mxxMQLfYR6RrfoMR_U-mdPE": {
+      "displayName": {
+        "en": "Brookwood Baptist Health"
+      },
+      "displayURL": "https://www.brookwoodbaptisthealth.com/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEHIYx0N0kilU9uaUJMpx66ar37MlCgWBC0LIYkUM8S+6uNSpmmfP34LLIx2jNzEHM0XNBIHR6KTGgqC4luMYTlQ=="
+    },
+    "https://cnesp001.carene.org/FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC#UPhXyYBV4mAMlCsVtscAJP2KfP7T3kBn7R70dS9P3Lg": {
+      "displayName": {
+        "en": "Care New England"
+      },
+      "displayURL": "https://www.carenewengland.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEQMUAJ1kkztzD485UzUS+mqGzDFw5QQG3pkfV28M9ifnsx7LCgcZbnnaH6vtuqjqJDHoNGX7XpubWRP7HxrEhwQ=="
+    },
+    "https://mobileproxy.sjhsyr.org/FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC#lQ8T0rLMtcgtNcsltiZPcjWwVMkxgkOZahrEhqkBogY": {
+      "displayName": {
+        "en": "St. Joseph’s Hospital Health Center"
+      },
+      "displayURL": "https://www.sjhsyr.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEPQ3J+bn9QX6saDp1aUDxQc/HEt3MDY6APuQeH5746O0l5+5PMkDiVDDw/p48PdqsQDRoYrem3YFpM19QyAANmw=="
     }
   }
 }

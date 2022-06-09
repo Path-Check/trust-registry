@@ -10815,6 +10815,36 @@
       "validFromDT": "2022-05-26T00:00:00.000Z",
       "validUntilDT": "2024-05-26T23:59:59.000Z",
       "didDocument": "-----BEGIN CERTIFICATE-----\nMIICfTCCAiOgAwIBAgIIJohLHPoqwc8wCgYIKoZIzj0EAwIwSjELMAkGA1UEBhMCTVQxHDAaBgNVBAoME0dvdmVybm1lbnQgb2YgTWFsdGExHTAbBgNVBAMMFE1hbHRhIERDQyBTaWduaW5nIENBMB4XDTIyMDUyNjAwMDAwMFoXDTI0MDUyNjIzNTk1OVowRjEZMBcGA1UEAwwQTUxULURTQy1URVNULTAwNzEcMBoGA1UECgwTR292ZXJubWVudCBvZiBNYWx0YTELMAkGA1UEBhMCTVQwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAQUddXHE+S7MBwTlUfHi1jJv6Fjj08H+DYkhuAel+xleURxroQqfHHdPJYuIatFzIeOtEdfbjKL7o4Y0MmX0f7/o4H2MIHzMA4GA1UdDwEB/wQEAwIHgDAaBgNVHSUBAf8EEDAOBgwrBgEEAQCON49lAQEwHQYDVR0OBBYEFGOfIHq1ifEgKCaMe3XYQzrdbswdMHkGA1UdIwRyMHCAFBAKrfpMM+L9q43d4ZZu/o6/HHCtoU6kTDBKMQswCQYDVQQGEwJNVDEcMBoGA1UECgwTR292ZXJubWVudCBvZiBNYWx0YTEdMBsGA1UEAwwUTWFsdGEgRENDIFNpZ25pbmcgQ0GCCBPstyedOizTMCsGA1UdEAQkMCKADzIwMjIwNTI2MDAwMDAwWoEPMjAyMjExMjYyMzU5NTlaMAoGCCqGSM49BAMCA0gAMEUCIHTKyZzoHe77Sbj1cHINPHHLi0XG/YNBHrT7uC5m/wCPAiEA+CRIdtiQXuYUlVR12cvGMP5uVKfm1vevOm3o8vPBy5Q=\n-----END CERTIFICATE-----"
+    },
+    "1MMhk6+1uBk=": {
+      "displayName": {
+        "en": "Gov of Monaco"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-05-17T11:51:52.000Z",
+      "validUntilDT": "2023-11-16T11:51:52.000Z",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIIE7DCCAtSgAwIBAgIUAPxlaqmG0+g4upN8LAxqY09aOwIwDQYJKoZIhvcNAQELBQAwZjELMAkGA1UEBhMCTUMxHzAdBgNVBAoMFlByaW5jaXBhbGl0eSBvZiBNb25hY28xITAfBgNVBAsMGEZvcmVpZ24gT2ZmaWNlIG9mIE1vbmFjbzETMBEGA1UEAwwKQ1NDQVBLSV9NQzAeFw0yMjA1MTcxMTUxNTJaFw0yMzExMTYxMTUxNTJaMHcxCzAJBgNVBAYTAk1DMR8wHQYDVQQKDBZQcmluY2lwYWxpdHkgb2YgTW9uYWNvMS4wLAYDVQQLDCVNaW5pc3RyeSBvZiBIZWFsdGggYW5kIFNvY2lhbCBBZmZhaXJzMRcwFQYDVQQDDA5EU1BLSV9NQ19ER0NfMTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABLmIPKQb7YAkMcnjCiF9KnrRtl1w7GTyaqJVKRpzd6sYDYxCnEwlmXW9pUm/sAZ9HFgarg8o4Br5+Si/7ua8NSKjggFKMIIBRjAoBgNVHREEITAfggt3d3cuZ291di5tY6QQMA4xDDAKBgNVBAcMA01DTzA1BgNVHRIELjAshhhodHRwczovL2NzY2EtbWNvLmdvdXYubWOkEDAOMQwwCgYDVQQHDANNQ08wDgYDVR0PAQH/BAQDAgeAMDMGA1UdJQQsMCoGDCsGAQQBAI43j2UBAQYMKwYBBAEAjjePZQECBgwrBgEEAQCON49lAQMwKwYDVR0QBCQwIoAPMjAyMjA1MTcwODU1NTZagQ8yMDIyMTExNzA4NTU1NlowHQYDVR0OBBYEFD4COUgKjhRoKvyrUI4BB6TBexGYMB8GA1UdIwQYMBaAFDAynHz+fY8C7cUSWuDrV7/ohYkpMDEGA1UdHwQqMCgwJqAkoCKGIGh0dHBzOi8vY3NjYS1tY28uZ291di5tYy9NQ08uY3JsMA0GCSqGSIb3DQEBCwUAA4ICAQAJbzTq839h//1qq5oKTchCm8x7CVQL/dlf5mSglcENNjRVvk0EzSi/WqCHaYxIa3GhQwoJcftLBSNWZFr9HdNu0OpcqMrlPhZJh+Lid8VjhRIOaEBjPv2WOPiMW36LGvFJFjasoEz8DtL3h3kw2IPRnfeQwiwwQMJWhbh6Pa36nboSFKIkFpAEq55VwQtCjCJ5Ru59RyjIr65tEumjduXGezBDyu687JOd6YA6n2SXrKY50RAtM70ME1U/fXiyFwH5nnHvFfADDFWRLXpsCJc7sHmWFJzE+APguoNt54PyoYpKZiEKrBeBB1/uPFkAYnWeq9KrR2Vi5tIH1xZj275ZctHzjV/w28H2Ykso3Z+cALy1i89tE9Q2qs0rwJxCcad5i1EWpPNAy/k3oKN3bYH/cL00E1eOIljMXXGVWcgz1dcQcfCgnKaHID3V8ASOuj+nCupx3/dt3BhOYHdQ3qgRc8dUh8m4v4xoha7lloMfIP4SoeooewazXhbAfy+jxq4ELPpNnlhHbPogo/QgQAvqFMXzGn38ag/Vxfar5djY/DRqx8dS25igmyfvgMykkdrr7zZSU2SpiZ5C+lYZewU+DTSXdFUqbrHKvPw2htU1jpBYKd/CMCcfkK02QiEVdiGVNOy0Og7SgTPHTzzjbycJGhkXzJ5RKCrkuHvertXqDQ==\n-----END CERTIFICATE-----"
+    },
+    "DmsMpEZnQAA=": {
+      "displayName": {
+        "en": "Gov of Georgia"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-06-07T16:38:56.000Z",
+      "validUntilDT": "2024-06-06T16:38:55.000Z",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIIDLTCCAtKgAwIBAgIUfF7P7DaL5Jp1pPtAtgal8PBhrugwCgYIKoZIzj0EAwIwgYMxHzAdBgNVBAMMFkRHQyBDb3VudHJ5IFNpZ25pbmcgQ0ExKjAoBgNVBAsMIVB1YmxpYyBTZXJ2aWNlIERldmVsb3BtZW50IEFnZW5jeTEnMCUGA1UECgweTWluaXN0cnkgb2YgSnVzdGljZSBvZiBHZW9yZ2lhMQswCQYDVQQGEwJHRTAeFw0yMjA2MDcxNjM4NTZaFw0yNDA2MDYxNjM4NTVaMIHVMRgwFgYDVQQDDA9ER0MgRFMgU2lnbmVyIDIxLTArBgNVBAsMJExFUEwgSW5mb3JtYXRpb24gVGVjaG5vbG9naWVzIEFnZW5jeTF9MHsGA1UECgx0TWluaXN0cnkgb2YgSW50ZXJuYWxseSBEaXNwbGFjZWQgUGVyc29ucyBGcm9tIHRoZSBPY2N1cGllZCBUZXJyaXRvcmllcywgTGFib3VyLCBIZWFsdGggYW5kIFNvY2lhbCBBZmZhaXJzIG9mIEdlb3JnaWExCzAJBgNVBAYTAkdFMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAERHPqs7XQwXiKuDwJmzlVRffNcPK1noUthOV1usrtNpw6cp50rIFAYIJFIG7/Bmei1Um7qXCYZB6PyRCnIoWtsKOBzzCBzDAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFGdNMng/by4nCNGrYeB79TXd3c2wMDAGA1UdJQQpMCcGCysGAQQBjjePZQEDBgsrBgEEAY43j2UBAQYLKwYBBAGON49lAQIwOgYDVR0fBDMwMTAvoC2gK4YpaHR0cDovL2NybC5jcmEuZ2UvZGdjY291bnRyeXNpZ25pbmdjYS5jcmwwHQYDVR0OBBYEFKX74nvD+Udz9/N/j3NqS389Ij47MA4GA1UdDwEB/wQEAwIHgDAKBggqhkjOPQQDAgNJADBGAiEA3OzzcvTApNzGmA92ND6M22CcC+9VzwYeXm8h9Xc0/6cCIQD8nOiYMqrNl7TtwueiMssC9HUqYLBpgB8sfR1qiJBeyA==\n-----END CERTIFICATE-----"
     }
   },
   "SmartHealthCards": {
@@ -23636,7 +23666,7 @@
       "validFromDT": "2021-01-01T01:00:00.000Z",
       "didDocument": {
         "alg": "ES256",
-        "crlVersion": 207,
+        "crlVersion": 213,
         "crv": "P-256",
         "kid": "TKPyzMtKh7WQaCzsw6rOK8ZUOZlND2VcBwhFIIcCqUE",
         "kty": "EC",
@@ -24020,6 +24050,90 @@
         "x": "93ZFw9R7jogq7gC3tSfap8Af9mxv2_R6P2DGackAnGs",
         "y": "OrBw6fYKQE6rMfund9sW5UwY0EFyvmwHOa6M7BfVH04",
         "kid": "4loR7Ete5nJI2Uo16NyxALWM1wjqtkXP85p2m8k7jyA",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://webproxy.allina.com/FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC#VcGBmQIW3DxECXXEHQBkbcyqOPFevpEz3Cghsjh--WE": {
+      "displayName": {
+        "en": "Allina Health System"
+      },
+      "displayURL": "https://account.allinahealth.org/dashboard/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "OyztZJjJX85p-NB8toqJCsDyrfVciy0dmkyC5rhoSl4",
+        "y": "7I4YF-OQ3SLHLt8dSw6mQfqZZM6AXyWl9eq6eWwDp_U",
+        "kid": "VcGBmQIW3DxECXXEHQBkbcyqOPFevpEz3Cghsjh--WE",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epicproxy.bhsala.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#JYaFsJ6ltkJVsolJUds8mxxMQLfYR6RrfoMR_U-mdPE": {
+      "displayName": {
+        "en": "Brookwood Baptist Health"
+      },
+      "displayURL": "https://www.brookwoodbaptisthealth.com/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "HIYx0N0kilU9uaUJMpx66ar37MlCgWBC0LIYkUM8S-4",
+        "y": "rjUqZpnz9-CyyMdozcxBzNFzQSB0eikxoKguJbjGE5U",
+        "kid": "JYaFsJ6ltkJVsolJUds8mxxMQLfYR6RrfoMR_U-mdPE",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://cnesp001.carene.org/FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC#UPhXyYBV4mAMlCsVtscAJP2KfP7T3kBn7R70dS9P3Lg": {
+      "displayName": {
+        "en": "Care New England"
+      },
+      "displayURL": "https://www.carenewengland.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "QMUAJ1kkztzD485UzUS-mqGzDFw5QQG3pkfV28M9ifk",
+        "y": "7MeywoHGW552h-r7bqo6iQx6DRl-16bm1kT-x8axIcE",
+        "kid": "UPhXyYBV4mAMlCsVtscAJP2KfP7T3kBn7R70dS9P3Lg",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://mobileproxy.sjhsyr.org/FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC#lQ8T0rLMtcgtNcsltiZPcjWwVMkxgkOZahrEhqkBogY": {
+      "displayName": {
+        "en": "St. Joseph’s Hospital Health Center"
+      },
+      "displayURL": "https://www.sjhsyr.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "PQ3J-bn9QX6saDp1aUDxQc_HEt3MDY6APuQeH5746O0",
+        "y": "JefuTzJA4lQw8P6ePD3arEA0aGK3pt2BaTNfUMgADZs",
+        "kid": "lQ8T0rLMtcgtNcsltiZPcjWwVMkxgkOZahrEhqkBogY",
         "use": "sig",
         "kty": "EC",
         "alg": "ES256",
