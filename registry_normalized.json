@@ -10843,6 +10843,21 @@
       "validFromDT": "2022-06-07T16:38:56.000Z",
       "validUntilDT": "2024-06-06T16:38:55.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAERHPqs7XQwXiKuDwJmzlVRffNcPK1noUthOV1usrtNpw6cp50rIFAYIJFIG7/Bmei1Um7qXCYZB6PyRCnIoWtsA=="
+    },
+    "GaMFkOwQiSQ=": {
+      "displayName": {
+        "en": "Gov of Seychelles"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-04-05T17:46:47.000Z",
+      "validUntilDT": "2024-04-04T17:46:47.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAETri+03AeZQGUv/sYFe5jicMLJHc4fmm976PnoXL7rZu2zoAhNrWUZD9m24qI5eX7/mVDEgvM4XnalzRXwU37sA=="
     }
   },
   "SHC": {
