@@ -3442,6 +3442,19 @@
         "VerifiableCredential",
         "ProofOfVaccinationCredential"
       ]
+    },
+    "did:indonesia": {
+      "displayName": {
+        "en": "Gov of Indonesia"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-12-15T01:00:00.000Z",
+      "didDocument": "-----BEGIN PUBLIC KEY-----\n3sY2pM3VbuN15rZ48hVsC27HmXBRnEAfaRxkhuCjFcxd\n-----END PUBLIC KEY-----",
+      "credentialType": [
+        "VerifiableCredential",
+        "ProofOfVaccinationCredential"
+      ]
     }
   },
   "EUDCC": {
