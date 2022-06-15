@@ -659,6 +659,20 @@
       ],
       "publicKey": "MIIBoDANBgkqhkiG9w0BAQEFAAOCAY0AMIIBiAKCAYEAseZKWDmIk5eqh7Kq7bZl0x/kM1dB04wc9QZ5XQrbHW/KnWoceTDD6QKz4PTKpcZX0Q3b8CBHWikDub6H7sZlD9VhBodp7I88y1Tvrz0riK+0/w2eVc3veaZwtDAN79B3e8tcKV57G8u3VUK0lpd1fGXr91OYtyaq1K8kmZIBDh3nI359FynwRvcOaVjb6bE6DVGmy6fNYbEhVdUbVzpurO1kPGF0QmkRv5NBFVlEYG0bOxTpZ+vsoAxOVmTqQwLNo/AK+5pCcH2O2UwoSk7XYvB6vJRn51dj7xQ2SlvEbU4micJ5cQ5vFxYN3fZfakkn6wpcucvRKlMKqFOVbjFG/6wne9SChCNygKpREJqy8qmRwsntEVShA62c6+8dam05dFLhNNpecwTpPP+5y5HeXEZWzsxN/n6YkIXbTh37C52ESuZ3/pnz6WMVJ3vCxmEIjYowVkc4otP7Imb6dD0EsN8eih1gF6JH11FO5+yfKKWqAijCOyg8vQKBfnWxKYQPAgED"
     },
+    "JPN#arTykoK9lkf2/yoC95RNdJ6XhGM=": {
+      "displayName": {
+        "en": "Gov of Japan"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2019-06-19T01:15:19.000Z",
+      "validUntilDT": "2035-06-19T01:15:19.000Z",
+      "credentialType": [
+        "icao.vacc",
+        "icao.test"
+      ],
+      "publicKey": "MIIBtTCCAU0GByqGSM49AgEwggFAAgEBMDwGByqGSM49AQECMQD//////////////////////////////////////////v////8AAAAAAAAAAP////8wZAQw//////////////////////////////////////////7/////AAAAAAAAAAD////8BDCzMS+n4j7n5JiOBWvj+C0ZGB2cbv6BQRIDFAiPUBOHWsZWOY2KLtGdKoXI7dPsKu8EYQSqh8oivosFN46xxx7zIK10bh07Younm5hZ90HgglQqOFUC8l2/VSlsOlReOHJ2Crc2F95KliYsb12emL+Sktwp+PQdvSiaFHzp2jETtfC4wApgsc4dfoGdekMdfJDqDl8CMQD////////////////////////////////HY02B9Dct31gaDbJIsKd67OwZaszFKXMCAQEDYgAEoc4jwnDoyj+pWS9XgmcKbmUZyaaoOx2KDJrve5NcE0A4LIOoE+o7n3KgqVhR1nOzZ+NPnsASHoNlUuRK5Dmv95K61EBDrfJpXLHa5vx6GATbzVlcWnHJH24z8TL84jQ2"
+    },
     "JP#arTykoK9lkf2/yoC95RNdJ6XhGM=": {
       "displayName": {
         "en": "Gov of Japan"
