@@ -15,6 +15,7 @@ describe("Trust Registry", () => {
       credentialType: ["https://smarthealth.cards#immunization"],
       governanceFrameworkURI: "SmartHealthCards",
       displayName: { en: "State of California" },
+      displayURL: "https://myvaccinerecord.cdph.ca.gov/"
       entityType: "issuer",
       status: "current",
       validFromDT: "2021-01-01T01:00:00.000Z",
