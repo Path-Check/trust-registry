@@ -10945,6 +10945,7 @@
       "displayName": {
         "en": "State of Louisiana"
       },
+      "displayURL": "https://lawallet.com/covid-19/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -10965,6 +10966,7 @@
       "displayName": {
         "en": "Rite Aid Pharmacy"
       },
+      "displayURL": "https://www.riteaid.com/pharmacy/vaccination-digital-proof",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -10985,6 +10987,7 @@
       "displayName": {
         "en": "CVS Health"
       },
+      "displayURL": "https://care.cvs.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -11108,6 +11111,7 @@
       "displayName": {
         "en": "Government of Ontario"
       },
+      "displayURL": "https://covid-19.ontario.ca/proof-covid-19-vaccination",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -11149,6 +11153,7 @@
       "displayName": {
         "en": "Baptist Health"
       },
+      "displayURL": "https://mychart.baptist-health.org/mychart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -11169,6 +11174,7 @@
       "displayName": {
         "en": "Sutter Health"
       },
+      "displayURL": "https://mho.sutterhealth.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -11189,6 +11195,7 @@
       "displayName": {
         "en": "Virginia Department of Health"
       },
+      "displayURL": "https://vase.vdh.virginia.gov/vacapps/f?p=545:1",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -11209,7 +11216,7 @@
       "displayName": {
         "en": "Southeast Health"
       },
-      "displayURL": "https://www.southeasthealth.org/",
+      "displayURL": "https://mychart.southeasthealth.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -11250,6 +11257,7 @@
       "displayName": {
         "en": "Virginia Hospital Center"
       },
+      "displayURL": "https://myvhc.virginiahospitalcenter.com/MyChartPRD/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -11292,15 +11300,16 @@
       "displayName": {
         "en": "Government of Alberta"
       },
+      "displayURL": "https://covidrecords.alberta.ca/home",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
       "didDocument": {
-        "kid": "JoO-sJHpheZboXdsUK4NtfulfvpiN1GlTdNnXN3XAnM",
-        "alg": "ES256",
         "kty": "EC",
-        "crv": "P-256",
+        "kid": "JoO-sJHpheZboXdsUK4NtfulfvpiN1GlTdNnXN3XAnM",
         "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
         "x": "GsriV0gunQpl2X9KgrDZ4EDCtIdfOmdzhdlosWrMqKk",
         "y": "S99mZMCcJRsn662RaAmk_elvGiUs8IvSA7qBh04kaw0"
       },
@@ -11312,6 +11321,7 @@
       "displayName": {
         "en": "eHealth Saskatchewan"
       },
+      "displayURL": "https://www.ehealthsask.ca/MySaskHealthRecord/MySaskHealthRecord/Pages/default.aspx",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -11332,7 +11342,7 @@
       "displayName": {
         "en": "Cedars-Sinai Medical Center"
       },
-      "displayURL": "https://www.cedars-sinai.org/",
+      "displayURL": "https://mycslink.cedars-sinai.org/mycslink",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -11353,6 +11363,7 @@
       "displayName": {
         "en": "State of New York"
       },
+      "displayURL": "https://covid19vaccine.health.ny.gov/excelsior-pass-and-excelsior-pass-plus",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -11394,6 +11405,7 @@
       "displayName": {
         "en": "UC Davis Health"
       },
+      "displayURL": "https://mychart.ucdavis.edu/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -11435,6 +11447,7 @@
       "displayName": {
         "en": "Golden Valley Health Centers"
       },
+      "displayURL": "https://mychart.gvhc.org/MyChartPRD/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -11455,6 +11468,7 @@
       "displayName": {
         "en": "Cottage Health"
       },
+      "displayURL": "https://mychart.sbch.org/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -11517,7 +11531,7 @@
       "displayName": {
         "en": "UNC Health Care System"
       },
-      "displayURL": "https://www.unchealthcare.org/",
+      "displayURL": "https://myuncchart.org/MyChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -11538,7 +11552,7 @@
       "displayName": {
         "en": "Centura Health"
       },
-      "displayURL": "https://www.centura.org/",
+      "displayURL": "https://epic.mycenturahealth.org/MCH",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -11559,7 +11573,7 @@
       "displayName": {
         "en": "City of Hope"
       },
-      "displayURL": "https://www.cityofhope.org/",
+      "displayURL": "https://www.mycityofhope.org/Mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -11580,6 +11594,7 @@
       "displayName": {
         "en": "UC Health (Cincinnati)"
       },
+      "displayURL": "https://my.uchealth.com/myuchealth",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -11600,6 +11615,7 @@
       "displayName": {
         "en": "Spectrum Health"
       },
+      "displayURL": "https://mychart.spectrumhealth.org/MyChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -11620,7 +11636,7 @@
       "displayName": {
         "en": "Advocate Aurora Health"
       },
-      "displayURL": "https://www.advocateaurorahealth.org/",
+      "displayURL": "https://livewell.aah.org/Chart/accesscheck.asp",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -11641,7 +11657,7 @@
       "displayName": {
         "en": "Mt Sinai - FL"
       },
-      "displayURL": "https://www.msmc.com/",
+      "displayURL": "https://mychart.msmc.com/MyChart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -11662,7 +11678,7 @@
       "displayName": {
         "en": "Presbyterian Healthcare Services"
       },
-      "displayURL": "https://www.phs.org",
+      "displayURL": "https://mypres.phs.org",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -11683,7 +11699,7 @@
       "displayName": {
         "en": "UnityPoint Health"
       },
-      "displayURL": "https://www.unitypoint.org/",
+      "displayURL": "https://chart.myunitypoint.org/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -11704,7 +11720,7 @@
       "displayName": {
         "en": "QuadMed"
       },
-      "displayURL": "https://www.quadmedical.com/",
+      "displayURL": "https://mychart.myquadmedical.com/MyChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -11746,6 +11762,7 @@
       "displayName": {
         "en": "CentraCare"
       },
+      "displayURL": "https://mychart.centracare.com/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -11766,7 +11783,7 @@
       "displayName": {
         "en": "Johns Hopkins Medicine"
       },
-      "displayURL": "https://hopkinsmedicine.org/",
+      "displayURL": "https://mychart.hopkinsmedicine.org/mychart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -11787,6 +11804,7 @@
       "displayName": {
         "en": "Allegheny Health Network"
       },
+      "displayURL": "https://mychart.ahn.org/MyChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -11807,6 +11825,7 @@
       "displayName": {
         "en": "Parkview Health"
       },
+      "displayURL": "https://mychart.parkview.com/MyChart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -11867,6 +11886,7 @@
       "displayName": {
         "en": "UC Health (San Diego / Irvine / Riverside) and Affiliates"
       },
+      "displayURL": "https://myucsdchart.ucsd.edu/ucsd",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -11887,6 +11907,7 @@
       "displayName": {
         "en": "Franciscan Missionaries of Our Lady Health System, Inc."
       },
+      "displayURL": "https://fmolhs.org/mychart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -11907,6 +11928,7 @@
       "displayName": {
         "en": "BJC HealthCare and Washington University Physicians"
       },
+      "displayURL": "https://www.mypatientchart.org/MyChart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -11927,6 +11949,7 @@
       "displayName": {
         "en": "UMass Memorial Health"
       },
+      "displayURL": "https://mychartonline.umassmemorial.org/MyChart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -11947,7 +11970,7 @@
       "displayName": {
         "en": "UConn Health"
       },
-      "displayURL": "https://health.uconn.edu/",
+      "displayURL": "https://mychart.uconn.edu/MyChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12009,7 +12032,7 @@
       "displayName": {
         "en": "Premise Health"
       },
-      "displayURL": "https://premisehealth.com/",
+      "displayURL": "https://www.mypremisehealth.com/MyChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12030,7 +12053,7 @@
       "displayName": {
         "en": "Molina Healthcare"
       },
-      "displayURL": "https://www.molinahealthcare.com/",
+      "displayURL": "https://mychart.molinahealthcare.com/mychart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12051,7 +12074,7 @@
       "displayName": {
         "en": "Montage Health"
       },
-      "displayURL": "https://www.montagehealth.org/",
+      "displayURL": "https://mychart.montagehealth.org/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12072,6 +12095,7 @@
       "displayName": {
         "en": "Englewood Hospital and Medical Center"
       },
+      "displayURL": "https://mychart.englewoodhealth.org/MyChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12092,6 +12116,7 @@
       "displayName": {
         "en": "Kennedy Krieger Institute"
       },
+      "displayURL": "https://mychart.kennedykrieger.org/mychart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12132,7 +12157,7 @@
       "displayName": {
         "en": "Middlesex Health"
       },
-      "displayURL": "https://middlesexhealth.org/",
+      "displayURL": "https://mychart.middlesexhealth.org/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12153,6 +12178,7 @@
       "displayName": {
         "en": "Phelps Health"
       },
+      "displayURL": "https://mychart.phelpshealth.org/MyChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12173,6 +12199,7 @@
       "displayName": {
         "en": "The University of Texas Health Science Center at Houston"
       },
+      "displayURL": "https://myuthealth.org/MyChart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12193,7 +12220,7 @@
       "displayName": {
         "en": "Hartford HealthCare"
       },
-      "displayURL": "https://hartfordhealthcare.org/",
+      "displayURL": "https://mychartplus.org/myChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12214,7 +12241,7 @@
       "displayName": {
         "en": "UW Health"
       },
-      "displayURL": "https://www.uwhealth.org/",
+      "displayURL": "https://mychart.uwhealth.org/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12235,7 +12262,7 @@
       "displayName": {
         "en": "Mercyhealth"
       },
-      "displayURL": "https://mercyhealthsystem.org/",
+      "displayURL": "https://mychart.mercyhealthsystem.org/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12256,6 +12283,7 @@
       "displayName": {
         "en": "The University of Vermont Medical Center"
       },
+      "displayURL": "https://mychart.uvmhealth.org/MyChart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12276,6 +12304,7 @@
       "displayName": {
         "en": "Froedtert Health"
       },
+      "displayURL": "https://id.my.froedtert.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12296,6 +12325,7 @@
       "displayName": {
         "en": "Carle Foundation Hospital"
       },
+      "displayURL": "https://www.mycarle.com/MyChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12337,7 +12367,7 @@
       "displayName": {
         "en": "Community Medical Centers"
       },
-      "displayURL": "https://communitymedical.org/",
+      "displayURL": "https://mychart.communitymedical.org/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12356,8 +12386,9 @@
     },
     "https://epincoming.slhs.org/Interconnect-FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC#SwWtG4lfTAZQjLs7q5QyFtQF2SStbMn_zFx_x9xoUu8": {
       "displayName": {
-        "en": "St. Luke’s Health System (Idaho)"
+        "en": "St. Luke's Health System (Idaho)"
       },
+      "displayURL": "https://mysaintlukes.corp.saint-lukes.org/MyChartPRD",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12398,6 +12429,7 @@
       "displayName": {
         "en": "Texas Health Resources"
       },
+      "displayURL": "https://mychart.texashealth.org/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12418,6 +12450,7 @@
       "displayName": {
         "en": "MediSys Health Network"
       },
+      "displayURL": "https://mychart.medisys.org/MyChart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12438,7 +12471,7 @@
       "displayName": {
         "en": "Mercy Medical Center"
       },
-      "displayURL": "https://www.mercycare.org/",
+      "displayURL": "https://mychart.mercycare.org/MyChart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12459,6 +12492,7 @@
       "displayName": {
         "en": "Aspirus"
       },
+      "displayURL": "https://myaspirus.org/MyChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12479,7 +12513,7 @@
       "displayName": {
         "en": "Community Health Network"
       },
-      "displayURL": "https://www.ecommunity.com",
+      "displayURL": "https://mychart.ecommunity.com/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12500,6 +12534,7 @@
       "displayName": {
         "en": "Alaska Tribal Health System"
       },
+      "displayURL": "https://anmc.org/patients-visitors/myhealth/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12520,6 +12555,7 @@
       "displayName": {
         "en": "CarolinaEast Medical Center"
       },
+      "displayURL": "https://www.carolinaeasthealth.com/patients-and-visitors/patient-portal/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12540,6 +12576,7 @@
       "displayName": {
         "en": "Tenet HealthSystem Medical Inc."
       },
+      "displayURL": "https://www.tenethealth.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12560,6 +12597,7 @@
       "displayName": {
         "en": "My VCU Health"
       },
+      "displayURL": "https://www.vcuhealth.org/my-vcu-health/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12580,6 +12618,7 @@
       "displayName": {
         "en": "Charleston Area Medical Center"
       },
+      "displayURL": "https://www.camc.org/patients-and-visitors/patient-information/patientlink",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12600,6 +12639,7 @@
       "displayName": {
         "en": "Blanchard Valley Health System"
       },
+      "displayURL": "https://www.bvhealthsystem.org/im-a-patient/patient-portal/myhealth-patient-portal/myhealth-patient-portal",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12620,6 +12660,7 @@
       "displayName": {
         "en": "Margaret Mary Health"
       },
+      "displayURL": "https://www.mmhealth.org/for-patients/patient-portal/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12640,6 +12681,7 @@
       "displayName": {
         "en": "Westchester Medical Center Health Network"
       },
+      "displayURL": "https://cernerhealth.com/oauth/authenticate?redirect_uri=https%3A%2F%2Fcernerhealth.com%2Fsaml%2Fsso%2Fresponse%3Fmessage_id%3D_47ebb130-d6b0-4029-9f56-43ff111d9888%26issuer%3Dhttps%253A%252F%252Fmycare.wmchealth.org%252Fsession-api%252Fprotocol%252Fsaml2%252Fmetadata&sign_in_only=on&client_id=4e6edfdd19dc425fa968f4266d62adbe",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12660,6 +12702,7 @@
       "displayName": {
         "en": "Dignity Health"
       },
+      "displayURL": "https://login.dignityhealth.org/#/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12680,6 +12723,7 @@
       "displayName": {
         "en": "San Joaquin General Hospital"
       },
+      "displayURL": "https://www.sanjoaquingeneral.org/portals-patient",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12700,6 +12744,7 @@
       "displayName": {
         "en": "Chinese Hospital"
       },
+      "displayURL": "https://chinesehospital-sf.org/patient-portal/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12720,6 +12765,7 @@
       "displayName": {
         "en": "Indiana Regional Medical Center"
       },
+      "displayURL": "https://www.irmc.org/patients-and-visitors/patient-portal/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12740,6 +12786,7 @@
       "displayName": {
         "en": "University of Alabama Hospital"
       },
+      "displayURL": "https://www.uabmedicine.org/me?_ga=2.246174851.649315599.1649955640-1679145760.1649955640",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12760,6 +12807,7 @@
       "displayName": {
         "en": "Silver Cross Hospital"
       },
+      "displayURL": "https://www.silvercross.org/mysilvercross/mysilvercross-faqs/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12800,6 +12848,7 @@
       "displayName": {
         "en": "LifeBridge Health"
       },
+      "displayURL": "https://www.lifebridgehealth.org/Uploads/Public/enewsletters/patientportal/PatientPortal.htm",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12820,6 +12869,7 @@
       "displayName": {
         "en": "Hamilton Health Care System"
       },
+      "displayURL": "https://www.hamiltonhealth.com/patients-visitors/patient-portal-portal-el-paciente/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12840,6 +12890,7 @@
       "displayName": {
         "en": "Urology Partners of North Texas"
       },
+      "displayURL": "https://cernerhealth.com/oauth/authenticate?redirect_uri=https%3A%2F%2Fcernerhealth.com%2Fsaml%2Fsso%2Fresponse%3Fmessage_id%3D_0c20fd87-f766-4248-93d0-9d0c74f34305%26issuer%3Dhttps%253A%252F%252F100864.iqhealth.com%252Fsession-api%252Fprotocol%252Fsaml2%252Fmetadata&sign_in_only=on&client_id=621f5d0ff53c43bba807b8c29f048657",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12860,6 +12911,7 @@
       "displayName": {
         "en": "Magruder Hospital"
       },
+      "displayURL": "https://www.magruderhospital.com/patient-portal",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12900,6 +12952,7 @@
       "displayName": {
         "en": "Emory Healthcare GOLD Patient Portal"
       },
+      "displayURL": "https://www.emoryhealthcare.org/patient-portal/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12920,6 +12973,7 @@
       "displayName": {
         "en": "Los Angeles County Department of Health Services"
       },
+      "displayURL": "https://dhs.lacounty.gov/lahealthportal/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12940,6 +12994,7 @@
       "displayName": {
         "en": "Adventist Health"
       },
+      "displayURL": "https://accounts.myadventisthealthportal.org/saml2/sso/login?authenticationRequestId=6b261b37-fe1b-4850-a35e-4650156f720a",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12960,6 +13015,7 @@
       "displayName": {
         "en": "Methodist Health System"
       },
+      "displayURL": "https://nmhs.consumeridp.us-1.healtheintent.com/saml2/sso/login?authenticationRequestId=0ebcd58f-1f6d-459c-973e-750f1c17ba16",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -12980,6 +13036,7 @@
       "displayName": {
         "en": "South Central Regional Medical Center"
       },
+      "displayURL": "https://scrmc.com/patient-portal/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13000,6 +13057,7 @@
       "displayName": {
         "en": "First Choice Community HealthCare"
       },
+      "displayURL": "https://www.fcch.com/index.php?page=patient-portal",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13020,6 +13078,7 @@
       "displayName": {
         "en": "Tenet Healthcare Corporation"
       },
+      "displayURL": "https://www.tenethealth.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13040,6 +13099,7 @@
       "displayName": {
         "en": "University Medical Center"
       },
+      "displayURL": "https://www.nextmd.com/ud2/Login/Login.aspx",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13060,6 +13120,7 @@
       "displayName": {
         "en": "San Juan Regional Medical Center"
       },
+      "displayURL": "https://www.sanjuanregional.com/patientportal",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13080,6 +13141,7 @@
       "displayName": {
         "en": "Mission Health"
       },
+      "displayURL": "https://missionhealth.org/patient-portal/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13100,6 +13162,7 @@
       "displayName": {
         "en": "Yavapai Regional Medical Center"
       },
+      "displayURL": "https://www.yrmc.org/health-information-management/yrmc-careconnect",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13120,6 +13183,7 @@
       "displayName": {
         "en": "Sturdy Memorial Hospital and Sturdy Memorial Associates"
       },
+      "displayURL": "https://www.sturdymemorial.org/patient-portal/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13140,6 +13204,7 @@
       "displayName": {
         "en": "Mineola District Hospital"
       },
+      "displayURL": "https://minneolahealth.consumeridp.us-1.healtheintent.com/saml2/sso/login?authenticationRequestId=28186ce5-6a57-49b5-a2bb-8e4a829b6aa3",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13160,6 +13225,7 @@
       "displayName": {
         "en": "Barnabas Health"
       },
+      "displayURL": "https://www.rwjbh.org/patients-visitors/patient-portal/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13180,6 +13246,7 @@
       "displayName": {
         "en": "Covenant Health"
       },
+      "displayURL": "https://www.covenanthealth.com/mycovenanthealth/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13200,6 +13267,7 @@
       "displayName": {
         "en": "Doctors Hospital at Renaissance"
       },
+      "displayURL": "https://cernerhealth.com/oauth/authenticate?redirect_uri=https%3A%2F%2Fcernerhealth.com%2Fsaml%2Fsso%2Fresponse%3Fmessage_id%3D_df595312-aad7-4327-9ea6-77eb1ee048d2%26issuer%3Dhttps%253A%252F%252Fmydhr.iqhealth.com%252Fsession-api%252Fprotocol%252Fsaml2%252Fmetadata&sign_in_only=on&client_id=525f51c3d7254f3fbd9227400dd2c70b",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13220,6 +13288,7 @@
       "displayName": {
         "en": "Cabell Huntington Hospital and Marshall Health"
       },
+      "displayURL": "https://cabellhuntington.org/patients-and-visitors/my-health-file/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13240,6 +13309,7 @@
       "displayName": {
         "en": "Hudson Physicians, S.C"
       },
+      "displayURL": "https://hudsonphysicians.com/iqhealth-patient-portal/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13260,6 +13330,7 @@
       "displayName": {
         "en": "Katherine Shaw Bethea Hospital"
       },
+      "displayURL": "https://www.ksbhospital.com/patient-portal/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13280,6 +13351,7 @@
       "displayName": {
         "en": "Ellis Medicine"
       },
+      "displayURL": "http://www.ellismedicine.org/portal/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13300,6 +13372,7 @@
       "displayName": {
         "en": "Central Maine Healthcare"
       },
+      "displayURL": "https://www.cmhc.org/patients-visitors/patient-portal/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13320,6 +13393,7 @@
       "displayName": {
         "en": "Logansport Memorial Hospital"
       },
+      "displayURL": "https://www.logansportmemorial.org/patient-portal/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13340,6 +13414,7 @@
       "displayName": {
         "en": "Boca Raton Regional Hospital"
       },
+      "displayURL": "https://www.brrh.com/Patient-Connect.aspx",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13360,6 +13435,7 @@
       "displayName": {
         "en": "University of Tennessee Medical Center"
       },
+      "displayURL": "https://www.utmedicalcenter.org/patients-visitors/portal/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13380,6 +13456,7 @@
       "displayName": {
         "en": "University Medical Center of El Paso"
       },
+      "displayURL": "https://cernerhealth.com/oauth/authenticate?redirect_uri=https%3A%2F%2Fcernerhealth.com%2Fsaml%2Fsso%2Fresponse%3Fmessage_id%3D_8dff90a9-ed61-426c-a68d-5ba86c83a7eb%26issuer%3Dhttps%253A%252F%252Fmyhealthep.iqhealth.com%252Fsession-api%252Fprotocol%252Fsaml2%252Fmetadata&sign_in_only=on&client_id=308ae31baf564559ab04f60a45b3a730",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13400,6 +13477,7 @@
       "displayName": {
         "en": "SoutheastHEALTH"
       },
+      "displayURL": "https://www.sehealth.org/patients-visitors/patient-portal/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13420,6 +13498,7 @@
       "displayName": {
         "en": "Memorial Hospital"
       },
+      "displayURL": "https://www.mhchester.com/patient-portal",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13440,6 +13519,7 @@
       "displayName": {
         "en": "Broward Health"
       },
+      "displayURL": "https://www.browardhealth.org/pages/patient-portal",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13460,6 +13540,7 @@
       "displayName": {
         "en": "My Ascension Seton"
       },
+      "displayURL": "https://www.seton.net/mysetonhealth/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13480,6 +13561,7 @@
       "displayName": {
         "en": "University of New Mexico"
       },
+      "displayURL": "https://cernerhealth.com/oauth/authenticate?redirect_uri=https%3A%2F%2Fcernerhealth.com%2Fsaml%2Fsso%2Fresponse%3Fmessage_id%3D_b4db8cd8-de36-453d-9c73-46a1a8b0d1d8%26issuer%3Dhttps%253A%252F%252Fmyhealthunm.iqhealth.com%252Fsession-api%252Fprotocol%252Fsaml2%252Fmetadata&sign_in_only=on&client_id=62bd791fa5c44b1d9cc8f8b9e48b210d",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13500,6 +13582,7 @@
       "displayName": {
         "en": "Pomona Valley Hospital Medical Center"
       },
+      "displayURL": "https://www.pvhmc.org/patient-portal/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13520,6 +13603,7 @@
       "displayName": {
         "en": "My Health Kaweah Health"
       },
+      "displayURL": "https://www.kaweahhealth.org/patients-visitors/for-patients/myhealth-kaweah-health/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13540,6 +13624,7 @@
       "displayName": {
         "en": "Medical Associates Clinic"
       },
+      "displayURL": "https://www.mahealthcare.com/patient-care-health-info/patient-station",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13560,6 +13645,7 @@
       "displayName": {
         "en": "Roper St. Francis Healthcare"
       },
+      "displayURL": "https://www.rsfh.com/myhealth/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13580,6 +13666,7 @@
       "displayName": {
         "en": "Capital Health"
       },
+      "displayURL": "https://www.capitalhealth.org/myportal",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13600,6 +13687,7 @@
       "displayName": {
         "en": "Health Quest"
       },
+      "displayURL": "https://www.nuvancehealth.org/patients-and-visitors/patient-portals",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13620,6 +13708,7 @@
       "displayName": {
         "en": "Community HealthCare System"
       },
+      "displayURL": "https://mychart.comhs.org/MyChart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13660,6 +13749,7 @@
       "displayName": {
         "en": "Fairfield Memorial Hospital"
       },
+      "displayURL": "https://www.yourcareeverywhere.com/account/fairfield-memorial-hospital.html",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13680,6 +13770,7 @@
       "displayName": {
         "en": "Penn State Health St. Joseph"
       },
+      "displayURL": "https://cernerhealth.com/oauth/authenticate?redirect_uri=https%3A%2F%2Fcernerhealth.com%2Fsaml%2Fsso%2Fresponse%3Fmessage_id%3D_e5152f71-2f8e-46d1-bfc3-b48d59c0fd54%26issuer%3Dhttps%253A%252F%252Fmypennstatehershey.iqhealth.com%252Fsession-api%252Fprotocol%252Fsaml2%252Fmetadata&sign_in_only=on&client_id=7a5c43bd406a47e0977750f9fc35cee9",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13700,6 +13791,7 @@
       "displayName": {
         "en": "St. Joseph's Health"
       },
+      "displayURL": "https://www.stjosephshealth.org/portal",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13720,6 +13812,7 @@
       "displayName": {
         "en": "Rutland Regional Medical Center"
       },
+      "displayURL": "https://cernerhealth.com/oauth/re-authenticate?client_id=3c2a2cf5e54942a7acf7b071755d8127&redirect_uri=https://myrrmchealthsite.iqhealth.com/login/cerner-health/authenticated&locale=en-us&sign_in_only=on",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13740,6 +13833,7 @@
       "displayName": {
         "en": "Tenet HealthSystem Medical Inc."
       },
+      "displayURL": "https://www.tenethealth.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13760,6 +13854,7 @@
       "displayName": {
         "en": "Clara Barton Hospital"
       },
+      "displayURL": "https://www.clarabartonhospital.com/patient-portal-how-to",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13780,6 +13875,7 @@
       "displayName": {
         "en": "Baptist Health South Florida"
       },
+      "displayURL": "https://baptisthealth.net/patient-resources/mybaptisthealth-patient-portal",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13800,6 +13896,7 @@
       "displayName": {
         "en": "Maury Regional Health"
       },
+      "displayURL": "https://www.mauryregional.com/patient-and-visitor-information/patient-portal",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13820,6 +13917,7 @@
       "displayName": {
         "en": "Pagosa Springs Medical Center"
       },
+      "displayURL": "https://pagosaspringsmedicalcenter.org/patients-families/healthelife/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13840,6 +13938,7 @@
       "displayName": {
         "en": "Asquam Community Health Collaborative"
       },
+      "displayURL": "https://spearehospital.com/patientportal/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13860,6 +13959,7 @@
       "displayName": {
         "en": "Missouri Delta Medical Center"
       },
+      "displayURL": "https://www.missouridelta.com/patient-portal/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13880,6 +13980,7 @@
       "displayName": {
         "en": "Georgia Regents Health System"
       },
+      "displayURL": "https://www.augustahealth.org/patient-family-info/vip",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13900,6 +14001,7 @@
       "displayName": {
         "en": "East Jefferson General Hospital"
       },
+      "displayURL": "https://mylcmchealth.org/MyChart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13940,6 +14042,7 @@
       "displayName": {
         "en": "Union General Hospital"
       },
+      "displayURL": "https://www.uniongeneralhealthsystem.com/patients/patient-portal/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13960,6 +14063,7 @@
       "displayName": {
         "en": "University of South Alabama Medical Center"
       },
+      "displayURL": "https://cernerhealth.com/oauth/authenticate?redirect_uri=https%3A%2F%2Fcernerhealth.com%2Fsaml%2Fsso%2Fresponse%3Fmessage_id%3D_0f1fe98f-2df2-4961-a115-db4d5cce0908%26issuer%3Dhttps%253A%252F%252Fmyusahealth.iqhealth.com%252Fsession-api%252Fprotocol%252Fsaml2%252Fmetadata&sign_in_only=on&client_id=427a49fe62c843b0b5222b2d44568fbd",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -13980,6 +14084,7 @@
       "displayName": {
         "en": "Cook County Health"
       },
+      "displayURL": "https://cookcountyhealth.org/patients-visitors/mycookcountyhealth/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14000,6 +14105,7 @@
       "displayName": {
         "en": "Stony Brook Medicine"
       },
+      "displayURL": "https://www.stonybrookmedicine.edu/patient-portal",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14040,6 +14146,7 @@
       "displayName": {
         "en": "Columbus Regional Healthcare System"
       },
+      "displayURL": "https://www.crhealthcare.org/mycolumbushealth/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14060,6 +14167,7 @@
       "displayName": {
         "en": "Kaleida Health"
       },
+      "displayURL": "https://www.kaleidahealth.org/MyKaleida/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14080,6 +14188,7 @@
       "displayName": {
         "en": "Moffitt Cancer Center"
       },
+      "displayURL": "https://my.moffitt.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14100,6 +14209,7 @@
       "displayName": {
         "en": "Olathe Health"
       },
+      "displayURL": "https://www.olathehealth.org/patients-and-visitors/patient-portal/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14120,6 +14230,7 @@
       "displayName": {
         "en": "Ascension"
       },
+      "displayURL": "https://healthcare.ascension.org/Patient-Resources",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14140,6 +14251,7 @@
       "displayName": {
         "en": "CoxHealth"
       },
+      "displayURL": "https://www.coxhealth.com/portals/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14160,6 +14272,7 @@
       "displayName": {
         "en": "Doctors Care"
       },
+      "displayURL": "https://doctorscare.com/patientportal/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14180,6 +14293,7 @@
       "displayName": {
         "en": "Tenet HealthSystem Medical Inc."
       },
+      "displayURL": "https://www.tenethealth.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14200,6 +14314,7 @@
       "displayName": {
         "en": "Centra Health"
       },
+      "displayURL": "https://www.centrahealth.com/HealthyU",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14220,6 +14335,7 @@
       "displayName": {
         "en": "Regional Medical Center"
       },
+      "displayURL": "https://www.trmchealth.org/patients-visitors/my-patient-record/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14240,6 +14356,7 @@
       "displayName": {
         "en": "Trinity Health North Dakota"
       },
+      "displayURL": "https://www.trinityhealth.org/patients-visitors/patient-portal/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14260,6 +14377,7 @@
       "displayName": {
         "en": "Methodist Le Bonheur Healthcare"
       },
+      "displayURL": "https://www.methodisthealth.org/My-Account/Patient-Portal-Access/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14280,6 +14398,7 @@
       "displayName": {
         "en": "Sarah Bush Lincoln Health Center"
       },
+      "displayURL": "https://www.sarahbush.org/patient-portal/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14300,6 +14419,7 @@
       "displayName": {
         "en": "West Tennessee Healthcare"
       },
+      "displayURL": "https://www.wth.org/patient-portal/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14320,6 +14440,7 @@
       "displayName": {
         "en": "Holland Hospital"
       },
+      "displayURL": "https://www.hollandhospital.org/hh/holland-hospital-patient-portal.aspx",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14360,6 +14481,7 @@
       "displayName": {
         "en": "St. John's Health"
       },
+      "displayURL": "https://www.stjohns.health/patients-visitors/patient-portals/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14380,6 +14502,7 @@
       "displayName": {
         "en": "MedStar Health"
       },
+      "displayURL": "https://www.medstarhealth.org/mymedstar-patient-portal",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14400,6 +14523,7 @@
       "displayName": {
         "en": "MIT Medical"
       },
+      "displayURL": "https://medical.mit.edu/make-appointment/about-healthelife",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14420,6 +14544,7 @@
       "displayName": {
         "en": "Lafayette General Medical Center"
       },
+      "displayURL": "https://ochsnerlg.org/myhealth",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14440,6 +14565,7 @@
       "displayName": {
         "en": "Midwest Medical Center"
       },
+      "displayURL": "https://midwestmedicalcenter.consumeridp.us-1.healtheintent.com/saml2/sso/login?authenticationRequestId=9435c209-8ded-446f-b9cb-e7b835598b63",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14460,6 +14586,7 @@
       "displayName": {
         "en": "NewYork-Presbyterian Brooklyn Methodist Hospital"
       },
+      "displayURL": "https://weillcornell.org/weill-cornell-connect",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14480,6 +14607,7 @@
       "displayName": {
         "en": "Einstein Healthcare Network"
       },
+      "displayURL": "https://www.einstein.edu/myhealth",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14500,6 +14628,7 @@
       "displayName": {
         "en": "Lowell General Hospital"
       },
+      "displayURL": "https://www.lowellgeneral.org/patients-and-visitors/for-patients/mytuftsmed",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14520,6 +14649,7 @@
       "displayName": {
         "en": "United Medical Physicians"
       },
+      "displayURL": "https://tvddc.mygportal.com/PP72/Account/LogOn",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14540,6 +14670,7 @@
       "displayName": {
         "en": "Plumas District Hospital"
       },
+      "displayURL": "https://www.pdh.org/patients/healthelife",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14560,6 +14691,7 @@
       "displayName": {
         "en": "Fisher-Titus Medical Center"
       },
+      "displayURL": "https://www.fishertitus.org/patients-guests/patient-portal/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14580,6 +14712,7 @@
       "displayName": {
         "en": "Conway Medical Center"
       },
+      "displayURL": "https://www.conwaymedicalcenter.com/patients-visitors/patient-portal/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14600,6 +14733,7 @@
       "displayName": {
         "en": "Munson Healthcare"
       },
+      "displayURL": "https://www.munsonhealthcare.org/new-patient-portals/patient-portals-home-new",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14620,6 +14754,7 @@
       "displayName": {
         "en": "Northside Hospital"
       },
+      "displayURL": "https://www.northside.com/patient-portal",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14640,6 +14775,7 @@
       "displayName": {
         "en": "Western Connecticut Health Network"
       },
+      "displayURL": "https://www.nuvancehealth.org/patients-and-visitors/patient-portals",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14660,6 +14796,7 @@
       "displayName": {
         "en": "Torrance Memorial"
       },
+      "displayURL": "https://www.torrancememorial.org/patients-visitors/portal/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14680,6 +14817,7 @@
       "displayName": {
         "en": "Wyoming Medical Center"
       },
+      "displayURL": "https://wyomingmedicalcenter.org/patients-visitors/patient-portal",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14720,6 +14858,7 @@
       "displayName": {
         "en": "Monongalia General Hospital"
       },
+      "displayURL": "https://cernerhealth.com/oauth/re-authenticate?client_id=174937a2c69b4010beba117baab5e205&redirect_uri=https://mymongen.iqhealth.com/login/cerner-health/authenticated&locale=en-us&sign_in_only=on",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14740,6 +14879,7 @@
       "displayName": {
         "en": "Keck Medicine of USC"
       },
+      "displayURL": "https://www.keckmedicine.org/my-usc-chart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14760,6 +14900,7 @@
       "displayName": {
         "en": "Henry Community Health"
       },
+      "displayURL": "https://www.hchcares.org/about/myhealthelife/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14780,6 +14921,7 @@
       "displayName": {
         "en": "Huntsville Hospital Health System"
       },
+      "displayURL": "https://www.huntsvillehospital.org/patient-portal",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14800,6 +14942,7 @@
       "displayName": {
         "en": "Dignity Health"
       },
+      "displayURL": "https://login.dignityhealth.org/#/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14820,6 +14963,7 @@
       "displayName": {
         "en": "Children's Hospital Los Angeles"
       },
+      "displayURL": "https://www.chla.org/mychildrensla-patient-portal",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14840,6 +14984,7 @@
       "displayName": {
         "en": "Lakeland Regional Health"
       },
+      "displayURL": "https://www.mylrh.org/patient-portal/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14860,6 +15005,7 @@
       "displayName": {
         "en": "Truman Medical Centers"
       },
+      "displayURL": "https://www.universityhealthkc.org/patients-visitors/myuhealth/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14880,6 +15026,7 @@
       "displayName": {
         "en": "Winona Health Services"
       },
+      "displayURL": "https://www.winonahealth.org/patient-information/my-winona-health/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14900,6 +15047,7 @@
       "displayName": {
         "en": "Columbia St. Mary's"
       },
+      "displayURL": "https://healthcare.ascension.org/locations/wisconsin/wimil/milwaukee-ascension-columbia-st-marys-hospital-milwaukee/my-patient-resources",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14920,6 +15068,7 @@
       "displayName": {
         "en": "Lawrence Memorial Hospital"
       },
+      "displayURL": "https://www.lmh.org/my-patient-portal/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14940,6 +15089,7 @@
       "displayName": {
         "en": "Children's Mercy Hospital"
       },
+      "displayURL": "https://www.childrensmercy.org/your-visit/patient-portal/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14960,6 +15110,7 @@
       "displayName": {
         "en": "Borgess Health Alliance Inc."
       },
+      "displayURL": "https://healthcare.ascension.org/Patient-Resources",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14980,6 +15131,7 @@
       "displayName": {
         "en": "Wood County Hospital"
       },
+      "displayURL": "https://www.woodcountyhospital.org/patients-visitors/my-health-records-information/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15000,6 +15152,7 @@
       "displayName": {
         "en": "Memorial Hermann"
       },
+      "displayURL": "https://accounts.everydaywell.memorialhermann.org/saml2/sso/login?authenticationRequestId=51436c78-ab1f-4145-aed2-ed0c81146139",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15020,6 +15173,7 @@
       "displayName": {
         "en": "Aultman"
       },
+      "displayURL": "https://aultman.org/home/patients-and-visitors/patient-support/patient-portal",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15040,6 +15194,7 @@
       "displayName": {
         "en": "North Kansas City Hospital and Meritas Health"
       },
+      "displayURL": "https://www.nkch.org/meritas/for-patients/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15060,6 +15215,7 @@
       "displayName": {
         "en": "Children's National Hospital"
       },
+      "displayURL": "https://childrensnational.org/specialty-care-patients/manage-your-care/patient-portals",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15080,6 +15236,7 @@
       "displayName": {
         "en": "Billings Clinic"
       },
+      "displayURL": "https://www.billingsclinic.com/patientconnect/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15100,6 +15257,7 @@
       "displayName": {
         "en": "MyNCH Health Portal"
       },
+      "displayURL": "https://nchmd.org/patients-and-visitors/health-portal/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15120,6 +15278,7 @@
       "displayName": {
         "en": "Riverside Medical Group"
       },
+      "displayURL": "https://www.riversidemedgroup.com/myhealth-at-riverside/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15140,6 +15299,7 @@
       "displayName": {
         "en": "NorthBay Healthcare"
       },
+      "displayURL": "https://www.northbay.org/mynorthbaydoc/index.cfm",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15160,6 +15320,7 @@
       "displayName": {
         "en": "University of Missouri Health Care"
       },
+      "displayURL": "https://www.muhealth.org/patient-login",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15180,6 +15341,7 @@
       "displayName": {
         "en": "San Antonio Regional Hospital"
       },
+      "displayURL": "https://cernerhealth.com/oauth/authenticate?redirect_uri=https%3A%2F%2Fcernerhealth.com%2Fsaml%2Fsso%2Fresponse%3Fmessage_id%3D_a8c17ce8-2847-4ab7-8465-a339755d9814%26issuer%3Dhttps%253A%252F%252F4myhealth.iqhealth.com%252Fsession-api%252Fprotocol%252Fsaml2%252Fmetadata&sign_in_only=on&client_id=3b12fc8a734b4c36b2ad8bf307180e3a",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15200,6 +15362,7 @@
       "displayName": {
         "en": "Marcus Daly Memorial Hospital"
       },
+      "displayURL": "https://www.bitterroothealth.org/patients-and-visitors/patient-portal/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15220,6 +15383,7 @@
       "displayName": {
         "en": "Barnabas Health"
       },
+      "displayURL": "https://www.rwjbh.org/patients-visitors/patient-portal/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15240,6 +15404,7 @@
       "displayName": {
         "en": "Banner Health"
       },
+      "displayURL": "https://mybanner.bannerhealth.com/portal-login?_ga=2.211224533.1966852915.1649957132-1501833769.1649957132",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15260,6 +15425,7 @@
       "displayName": {
         "en": "Detroit Medical Center"
       },
+      "displayURL": "https://www.dmc.org/portal",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15280,7 +15446,7 @@
       "displayName": {
         "en": "Pediatric Physicians' Organization at Children's"
       },
-      "displayURL": "https://www.ppochildrens.org/locate-a-practice/",
+      "displayURL": "https://mychart.chppoc.org/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15301,6 +15467,7 @@
       "displayName": {
         "en": "The Guthrie Clinic"
       },
+      "displayURL": "https://e.guthrie.org/mychart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15321,7 +15488,7 @@
       "displayName": {
         "en": "Spectrum Health Lakeland"
       },
-      "displayURL": "https://www.spectrumhealthlakeland.org/",
+      "displayURL": "https://www.spectrumhealthlakeland.org/patient-visitor-guide/my-chart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15342,6 +15509,7 @@
       "displayName": {
         "en": "MaineHealth"
       },
+      "displayURL": "https://mychart.mainehealth.org/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15362,6 +15530,7 @@
       "displayName": {
         "en": "MemorialCare"
       },
+      "displayURL": "https://mymemorialcare.memorialcare.org/MyChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15382,7 +15551,7 @@
       "displayName": {
         "en": "Renown Health"
       },
-      "displayURL": "https://www.renown.org/en/",
+      "displayURL": "https://mychart.renown.org/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15401,9 +15570,9 @@
     },
     "https://fhir.seattlechildrens.org/fhir/api/epic/2021/Security/Open/EcKeys/32001/SHC#sLs5T5-kmtEAMY-KBvQqCuWiCWvfjAHUOH3b__-w10A": {
       "displayName": {
-        "en": "Seattle Children’s"
+        "en": "Seattle Children's"
       },
-      "displayURL": "https://www.seattlechildrens.org/",
+      "displayURL": "https://mychart.seattlechildrens.org/mychart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15424,6 +15593,7 @@
       "displayName": {
         "en": "SSM Health"
       },
+      "displayURL": "https://mychart.ssmhc.com/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15442,8 +15612,9 @@
     },
     "https://fhirprd.edward.org/fhirprd/api/epic/2021/Security/Open/EcKeys/32001/SHC#ZvPXhRNWGOraLDWrTFJC68JFclcWj8zdT-XE32CpomY": {
       "displayName": {
-        "en": "Edward-Elmhurst Health"
+        "en": "DuPage Medical Group and Edward-Elmhurst Health"
       },
+      "displayURL": "https://mychart.dupagemedicalgroup.com/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15464,7 +15635,7 @@
       "displayName": {
         "en": "Scripps Health"
       },
-      "displayURL": "https://www.scripps.org/",
+      "displayURL": "https://myscripps.org/MyChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15485,7 +15656,7 @@
       "displayName": {
         "en": "Sparrow Health System"
       },
-      "displayURL": "https://www.sparrow.org/",
+      "displayURL": "https://mychart.sparrow.org/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15506,6 +15677,7 @@
       "displayName": {
         "en": "Providence St. Joseph Health"
       },
+      "displayURL": "https://mychartwa.providence.org/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15526,6 +15698,7 @@
       "displayName": {
         "en": "Providence St. Joseph Health"
       },
+      "displayURL": "https://mychartwa.providence.org/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15546,6 +15719,7 @@
       "displayName": {
         "en": "Providence St. Joseph Health"
       },
+      "displayURL": "https://mychartwa.providence.org/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15566,6 +15740,7 @@
       "displayName": {
         "en": "Kaiser Permanente"
       },
+      "displayURL": "https://healthy.kaiserpermanente.org",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15586,6 +15761,7 @@
       "displayName": {
         "en": "Kaiser Permanente"
       },
+      "displayURL": "https://healthy.kaiserpermanente.org",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15606,6 +15782,7 @@
       "displayName": {
         "en": "Kaiser Permanente"
       },
+      "displayURL": "https://healthy.kaiserpermanente.org",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15626,6 +15803,7 @@
       "displayName": {
         "en": "Kaiser Permanente"
       },
+      "displayURL": "https://healthy.kaiserpermanente.org",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15646,6 +15824,7 @@
       "displayName": {
         "en": "Kaiser Permanente"
       },
+      "displayURL": "https://healthy.kaiserpermanente.org",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15666,6 +15845,7 @@
       "displayName": {
         "en": "Kaiser Permanente"
       },
+      "displayURL": "https://healthy.kaiserpermanente.org",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15686,6 +15866,7 @@
       "displayName": {
         "en": "Kaiser Permanente"
       },
+      "displayURL": "https://healthy.kaiserpermanente.org",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15706,6 +15887,7 @@
       "displayName": {
         "en": "Kaiser Permanente"
       },
+      "displayURL": "https://healthy.kaiserpermanente.org",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15726,6 +15908,7 @@
       "displayName": {
         "en": "Kaiser Permanente"
       },
+      "displayURL": "https://healthy.kaiserpermanente.org",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15746,6 +15929,7 @@
       "displayName": {
         "en": "Kaiser Permanente"
       },
+      "displayURL": "https://healthy.kaiserpermanente.org",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15766,6 +15950,7 @@
       "displayName": {
         "en": "Kaiser Permanente"
       },
+      "displayURL": "https://healthy.kaiserpermanente.org",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15786,6 +15971,7 @@
       "displayName": {
         "en": "Kaiser Permanente"
       },
+      "displayURL": "https://healthy.kaiserpermanente.org",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15806,6 +15992,7 @@
       "displayName": {
         "en": "Kaiser Permanente"
       },
+      "displayURL": "https://healthy.kaiserpermanente.org",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15826,6 +16013,7 @@
       "displayName": {
         "en": "Kaiser Permanente"
       },
+      "displayURL": "https://healthy.kaiserpermanente.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15846,6 +16034,7 @@
       "displayName": {
         "en": "Kaiser Permanente"
       },
+      "displayURL": "https://healthy.kaiserpermanente.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15866,6 +16055,7 @@
       "displayName": {
         "en": "Kaiser Permanente"
       },
+      "displayURL": "https://healthy.kaiserpermanente.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15886,6 +16076,7 @@
       "displayName": {
         "en": "Kaiser Permanente"
       },
+      "displayURL": "https://healthy.kaiserpermanente.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15906,6 +16097,7 @@
       "displayName": {
         "en": "Kaiser Permanente"
       },
+      "displayURL": "https://healthy.kaiserpermanente.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15926,6 +16118,7 @@
       "displayName": {
         "en": "Kaiser Permanente"
       },
+      "displayURL": "https://healthy.kaiserpermanente.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15946,6 +16139,7 @@
       "displayName": {
         "en": "Kaiser Permanente"
       },
+      "displayURL": "https://healthy.kaiserpermanente.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15966,6 +16160,7 @@
       "displayName": {
         "en": "Kaiser Permanente"
       },
+      "displayURL": "https://healthy.kaiserpermanente.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15986,6 +16181,7 @@
       "displayName": {
         "en": "Kaiser Permanente"
       },
+      "displayURL": "https://healthy.kaiserpermanente.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16006,6 +16202,7 @@
       "displayName": {
         "en": "Kaiser Permanente"
       },
+      "displayURL": "https://healthy.kaiserpermanente.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16026,6 +16223,7 @@
       "displayName": {
         "en": "Kaiser Permanente"
       },
+      "displayURL": "https://healthy.kaiserpermanente.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16046,6 +16244,7 @@
       "displayName": {
         "en": "Kaiser Permanente"
       },
+      "displayURL": "https://healthy.kaiserpermanente.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16066,6 +16265,7 @@
       "displayName": {
         "en": "Kaiser Permanente"
       },
+      "displayURL": "https://healthy.kaiserpermanente.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16086,7 +16286,7 @@
       "displayName": {
         "en": "Hennepin Healthcare"
       },
-      "displayURL": "https://www.hennepinhealthcare.org/",
+      "displayURL": "https://mychart.hcmc.org/MyChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16107,6 +16307,7 @@
       "displayName": {
         "en": "Bronson Healthcare Group"
       },
+      "displayURL": "https://mychart.bronsonhealth.com/MyChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16127,7 +16328,7 @@
       "displayName": {
         "en": "Atrius Health"
       },
-      "displayURL": "https://www.atriushealth.org/",
+      "displayURL": "https://myhealth.atriushealth.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16148,6 +16349,7 @@
       "displayName": {
         "en": "Contra Costa Health Services"
       },
+      "displayURL": "https://mychart.cchealth.org/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16168,6 +16370,7 @@
       "displayName": {
         "en": "LCMC Health"
       },
+      "displayURL": "https://patientportal.lcmchealth.org/MyChart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16188,6 +16391,7 @@
       "displayName": {
         "en": "WellSpan Health"
       },
+      "displayURL": "https://my.wellspan.org/MyWellSpan",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16208,7 +16412,7 @@
       "displayName": {
         "en": "Group Health Cooperative - South Central Wisconsin"
       },
-      "displayURL": "https://ghcscw.com/",
+      "displayURL": "https://ghcmychart.com/mychart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16229,7 +16433,7 @@
       "displayName": {
         "en": "Hackensack Meridian Health"
       },
-      "displayURL": "https://www.hackensackmeridianhealth.org/",
+      "displayURL": "https://mychart.hmhn.org/mychart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16250,6 +16454,7 @@
       "displayName": {
         "en": "Memorial Healthcare System"
       },
+      "displayURL": "https://mychart.mhs.net/mychart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16270,6 +16475,7 @@
       "displayName": {
         "en": "North Memorial Health"
       },
+      "displayURL": "https://mychart.northmemorial.com/NorthMemorial",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16290,7 +16496,7 @@
       "displayName": {
         "en": "Austin Regional Clinic"
       },
-      "displayURL": "https://www.austinregionalclinic.com/",
+      "displayURL": "https://mychart.austinregionalclinic.com/mychart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16311,6 +16517,7 @@
       "displayName": {
         "en": "Beaumont Health"
       },
+      "displayURL": "https://mybeaumontchart.com/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16331,6 +16538,7 @@
       "displayName": {
         "en": "Ochsner Health System"
       },
+      "displayURL": "https://my.ochsner.org/prd",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16351,6 +16559,7 @@
       "displayName": {
         "en": "UCHealth"
       },
+      "displayURL": "https://my.uchealth.com/myuchealth",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16392,6 +16601,7 @@
       "displayName": {
         "en": "State of California"
       },
+      "displayURL": "https://myvaccinerecord.cdph.ca.gov/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16412,6 +16622,7 @@
       "displayName": {
         "en": "United Healthcare Services, Inc."
       },
+      "displayURL": "https://www.uhc.com/sign-in",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16432,6 +16643,7 @@
       "displayName": {
         "en": "Yale New Haven Health System and Yale University"
       },
+      "displayURL": "https://mychart.ynhhs.org/MyChart-PRD",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16452,6 +16664,7 @@
       "displayName": {
         "en": "Salem Health"
       },
+      "displayURL": "https://mychart.salemhealth.org/MyChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16472,6 +16685,7 @@
       "displayName": {
         "en": "Lehigh Valley Health Network"
       },
+      "displayURL": "https://www.mylvhn.org/MyChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16492,6 +16706,7 @@
       "displayName": {
         "en": "Government of Yukon"
       },
+      "displayURL": "https://yukon.ca/en/vaccine-proof",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16518,6 +16733,7 @@
       "displayName": {
         "en": "BioReference Laboratories"
       },
+      "displayURL": "https://www.bioreference.com/patient-portal",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16541,6 +16757,7 @@
       "displayName": {
         "en": "Premier Health"
       },
+      "displayURL": "https://mychart.premierhealthpartners.org/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16561,7 +16778,7 @@
       "displayName": {
         "en": "Baptist Memorial Health Care"
       },
-      "displayURL": "https://www.baptistonline.org/",
+      "displayURL": "https://mychart.baptistonecare.org/prd/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16582,7 +16799,7 @@
       "displayName": {
         "en": "Baylor Scott & White Health"
       },
-      "displayURL": "https://www.bswhealth.com/",
+      "displayURL": "https://my.bswhealth.com/login",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16623,6 +16840,7 @@
       "displayName": {
         "en": "Gundersen Health System"
       },
+      "displayURL": "https://mychart.gundersenhealth.org/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16664,6 +16882,7 @@
       "displayName": {
         "en": "eHealth Saskatchewan"
       },
+      "displayURL": "https://www.ehealthsask.ca/MySaskHealthRecord/MySaskHealthRecord/Pages/default.aspx",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16684,6 +16903,7 @@
       "displayName": {
         "en": "Sydney Local Health District"
       },
+      "displayURL": "https://www.nsw.gov.au/covid-19/vaccination/proof",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16725,6 +16945,7 @@
       "displayName": {
         "en": "South Shore Health"
       },
+      "displayURL": "https://mychart.southshorehealth.org/MyChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16745,7 +16966,7 @@
       "displayName": {
         "en": "OSF HealthCare"
       },
-      "displayURL": "https://www.osfhealthcare.org/",
+      "displayURL": "https://www.osfmychart.org/osfmychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16766,7 +16987,7 @@
       "displayName": {
         "en": "Penn Medicine"
       },
-      "displayURL": "https://www.pennmedicine.org",
+      "displayURL": "https://secure.mypennmedicine.org/MyPennMedicine",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16787,7 +17008,7 @@
       "displayName": {
         "en": "Kelsey-Seybold Clinic"
       },
-      "displayURL": "https://www.kelsey-seybold.com",
+      "displayURL": "https://www.mykelseyonline.com/MyChart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16808,6 +17029,7 @@
       "displayName": {
         "en": "UHealth – University of Miami Health System"
       },
+      "displayURL": "https://myuhealthchart.com/mychart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16828,6 +17050,7 @@
       "displayName": {
         "en": "UCSF Health"
       },
+      "displayURL": "https://www.ucsfhealth.org/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16848,6 +17071,7 @@
       "displayName": {
         "en": "Monroe Clinic"
       },
+      "displayURL": "https://mychart.monroeclinic.org/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16868,7 +17092,7 @@
       "displayName": {
         "en": "Denver Health"
       },
-      "displayURL": "https://www.denverhealth.org/",
+      "displayURL": "https://mychart.denverhealth.org/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16889,7 +17113,7 @@
       "displayName": {
         "en": "Hawaii Pacific Health"
       },
-      "displayURL": "https://www.hawaiipacifichealth.org/",
+      "displayURL": "https://mychart.hawaiipacifichealth.org/web",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16910,6 +17134,7 @@
       "displayName": {
         "en": "Government of the Northwest Territories"
       },
+      "displayURL": "https://www.hss.gov.nt.ca/en/services/covid-19/request-electronic-proof-vaccination",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16932,6 +17157,7 @@
       "displayName": {
         "en": "Atrium Health"
       },
+      "displayURL": "https://my.atriumhealth.org/MyAtriumHealth",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16952,7 +17178,7 @@
       "displayName": {
         "en": "UT Health San Antonio"
       },
-      "displayURL": "https://www.uthscsa.edu/",
+      "displayURL": "https://mychart.utmedicinesa.com/mychart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16973,7 +17199,7 @@
       "displayName": {
         "en": "One Brooklyn Health System"
       },
-      "displayURL": "https://onebrooklynhealth.org/",
+      "displayURL": "https://www.myonebrooklynhealth.org/MyChart/Authentication/Login",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16994,6 +17220,7 @@
       "displayName": {
         "en": "Deaconess Health System"
       },
+      "displayURL": "https://www.viewmychart.com/MyChart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17014,6 +17241,7 @@
       "displayName": {
         "en": "University Health Care System"
       },
+      "displayURL": "https://www.universityhealth.org/patient-visitor-information/for-patients/medical-records-online-charts/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17034,7 +17262,7 @@
       "displayName": {
         "en": "Mary Washington Healthcare"
       },
-      "displayURL": "https://www.marywashingtonhealthcare.com/",
+      "displayURL": "https://mychart.mwhc.com/MyChart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17055,6 +17283,7 @@
       "displayName": {
         "en": "Mass General Brigham"
       },
+      "displayURL": "https://patientgateway.massgeneralbrigham.org/mychart-prd",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17075,6 +17304,7 @@
       "displayName": {
         "en": "Express Scripts"
       },
+      "displayURL": "https://www.express-scripts.com/login?routingPage=/frontend/consumer/%23/user/profile",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17095,6 +17325,7 @@
       "displayName": {
         "en": "Emory BLUE Patient Portal"
       },
+      "displayURL": "https://www.emoryhealthcare.org/patient-portal/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17115,7 +17346,7 @@
       "displayName": {
         "en": "Walgreens"
       },
-      "displayURL": "https://www.walgreens.com",
+      "displayURL": "https://www.walgreens.com/topic/promotion/covid-vaccine.jsp",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17136,7 +17367,7 @@
       "displayName": {
         "en": "State of Utah"
       },
-      "displayURL": "https://docket.care",
+      "displayURL": "https://immunize.utah.gov/usiis/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17157,7 +17388,7 @@
       "displayName": {
         "en": "State of New Jersey"
       },
-      "displayURL": "https://docket.care",
+      "displayURL": "https://covid19.nj.gov/pages/vaxrecords",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17220,6 +17451,7 @@
       "displayName": {
         "en": "Essentia Health"
       },
+      "displayURL": "https://www.essentiamychart.org/MyChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17260,7 +17492,7 @@
       "displayName": {
         "en": "Samaritan Health Services"
       },
-      "displayURL": "https://www.samhealth.org/",
+      "displayURL": "https://mychart.samhealth.org/MyChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17281,7 +17513,7 @@
       "displayName": {
         "en": "University of Mississippi Medical Center"
       },
-      "displayURL": "https://www.umc.edu/",
+      "displayURL": "https://www.umc.edu/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17302,6 +17534,7 @@
       "displayName": {
         "en": "Hattiesburg Clinic and Forrest Health"
       },
+      "displayURL": "https://iris.hattiesburgclinic.com/iris",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17322,7 +17555,7 @@
       "displayName": {
         "en": "Catholic Health System"
       },
-      "displayURL": "https://www.chsbuffalo.org",
+      "displayURL": "https://mychart.chsbuffalo.org/MyChart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17343,7 +17576,7 @@
       "displayName": {
         "en": "NYU Langone Health System"
       },
-      "displayURL": "https://nyulangone.org/",
+      "displayURL": "https://mychart.nyulmc.org/mychart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17364,7 +17597,7 @@
       "displayName": {
         "en": "Bryan Health"
       },
-      "displayURL": "https://www.bryanhealth.com/",
+      "displayURL": "https://mychart.bryanhealth.org/MyChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17385,7 +17618,7 @@
       "displayName": {
         "en": "PeaceHealth"
       },
-      "displayURL": "https://www.peacehealth.org/",
+      "displayURL": "https://my.peacehealth.org/MyPeaceHealth/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17447,6 +17680,7 @@
       "displayName": {
         "en": "United Health Services"
       },
+      "displayURL": "https://mychart.nyuhs.org/MyChart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17467,7 +17701,7 @@
       "displayName": {
         "en": "ProMedica"
       },
-      "displayURL": "https://www.promedica.org/",
+      "displayURL": "https://mychart.promedica.org/MyChart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17509,6 +17743,7 @@
       "displayName": {
         "en": "Mayo Clinic"
       },
+      "displayURL": "https://mayoclinichealthsystem.org/patient-online-services",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17529,7 +17764,7 @@
       "displayName": {
         "en": "Genesis Healthcare System"
       },
-      "displayURL": "https://www.genesishcs.org/",
+      "displayURL": "https://mychart.genesishcs.org/mychart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17550,6 +17785,7 @@
       "displayName": {
         "en": "Delaware Immunization Program"
       },
+      "displayURL": "https://delvax.dhss.delaware.gov/delvax_public/Application/PublicPortal",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17568,9 +17804,9 @@
     },
     "https://epicmobile.corp.saint-lukes.org/FHIRPROXY/api/epic/2021/Security/Open/EcKeys/32001/SHC#QF4owq0tMZAMYoMJWpLosERtLrzVtKL-lIzvTFY332g": {
       "displayName": {
-        "en": "Saint Luke’s Health System KC"
+        "en": "Saint Luke's Health System KC"
       },
-      "displayURL": "https://www.saintlukeskc.org/",
+      "displayURL": "https://mysaintlukes.corp.saint-lukes.org/MyChartPRD",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17612,7 +17848,7 @@
       "displayName": {
         "en": "Erlanger Health System"
       },
-      "displayURL": "https://www.erlanger.org/",
+      "displayURL": "https://mychart.erlanger.org/MyChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17633,7 +17869,7 @@
       "displayName": {
         "en": "Northwestern Medicine"
       },
-      "displayURL": "https://www.nm.org/",
+      "displayURL": "https://mynm.nm.org/MyChart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17654,6 +17890,7 @@
       "displayName": {
         "en": "University of Maryland Medical System"
       },
+      "displayURL": "https://myportfolio.umm.edu/MyChart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17674,6 +17911,7 @@
       "displayName": {
         "en": "ThedaCare, Bellin Health, and Affiliates"
       },
+      "displayURL": "https://my.thedacare.org/MyChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17694,6 +17932,7 @@
       "displayName": {
         "en": "Boston Medical Center"
       },
+      "displayURL": "https://mychart.bmc.org/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17714,7 +17953,7 @@
       "displayName": {
         "en": "Northwest Community Hospital"
       },
-      "displayURL": "https://www.nch.org/",
+      "displayURL": "https://www.nch.org/landing/coronavirus/digital-proof-of-vaccination/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17735,7 +17974,7 @@
       "displayName": {
         "en": "Cleveland Clinic"
       },
-      "displayURL": "https://my.clevelandclinic.org/",
+      "displayURL": "https://mychart.clevelandclinic.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17880,6 +18119,7 @@
       "displayName": {
         "en": "Kentucky Registry"
       },
+      "displayURL": "https://kyir.chfs.ky.gov/webiznet_kyir/Login.aspx",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17900,6 +18140,7 @@
       "displayName": {
         "en": "Kentucky Registry"
       },
+      "displayURL": "https://kyir.chfs.ky.gov/webiznet_kyir/Login.aspx",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17920,6 +18161,7 @@
       "displayName": {
         "en": "Atrium Health"
       },
+      "displayURL": "https://my.atriumhealth.org/MyAtriumHealth",
       "displayLogo": "./logos/atrium-health.svg",
       "entityType": "issuer",
       "status": "current",
@@ -17961,7 +18203,7 @@
       "displayName": {
         "en": "Houston Methodist"
       },
-      "displayURL": "https://www.houstonmethodist.org",
+      "displayURL": "https://mychart.houstonmethodist.org/mychart-prod/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18002,7 +18244,7 @@
       "displayName": {
         "en": "Vidant Health"
       },
-      "displayURL": "https://www.vidanthealth.com/",
+      "displayURL": "https://mychart.vidanthealth.com/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18043,6 +18285,7 @@
       "displayName": {
         "en": "Washington State Department of Health"
       },
+      "displayURL": "https://waverify.doh.wa.gov/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18063,6 +18306,7 @@
       "displayName": {
         "en": "State of Colorado"
       },
+      "displayURL": "https://mycolorado.state.co.us/myvaccine-record",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18083,7 +18327,7 @@
       "displayName": {
         "en": "The Christ Hospital"
       },
-      "displayURL": "https://www.thechristhospital.com/",
+      "displayURL": "https://www.thechristhospitalmychart.com/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18104,7 +18348,7 @@
       "displayName": {
         "en": "Boulder Community Health"
       },
-      "displayURL": "https://www.bch.org/",
+      "displayURL": "https://my.bch.org/MyChartPRD",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18125,6 +18369,7 @@
       "displayName": {
         "en": "OCHIN"
       },
+      "displayURL": "https://mychart.ochin.org/mychart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18145,6 +18390,7 @@
       "displayName": {
         "en": "Michigan Medicine"
       },
+      "displayURL": "https://www.myuofmhealth.org/MyChart-PRD",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18165,7 +18411,7 @@
       "displayName": {
         "en": "Duke University Health System"
       },
-      "displayURL": "https://www.dukehealth.org/",
+      "displayURL": "https://www.dukemychart.org/home",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18186,7 +18432,7 @@
       "displayName": {
         "en": "State of Colorado"
       },
-      "displayURL": "https://mycolorado.page.link/shc",
+      "displayURL": "https://mycolorado.gov/myvaccine-record",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18207,7 +18453,7 @@
       "displayName": {
         "en": "Monument Health"
       },
-      "displayURL": " https://monument.health/",
+      "displayURL": "https://mychart.regionalhealth.org/MyChart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18228,6 +18474,7 @@
       "displayName": {
         "en": "Hospital Sisters Health System"
       },
+      "displayURL": "https://www.myhshs.org/myhshs",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18248,6 +18495,7 @@
       "displayName": {
         "en": "SUNY Upstate"
       },
+      "displayURL": "https://www.upstate.edu/healthcare/mychart.php",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18289,7 +18537,7 @@
       "displayName": {
         "en": "Novant Health"
       },
-      "displayURL": "https://www.novanthealth.org/",
+      "displayURL": "https://www.novantmychart.org/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18310,7 +18558,7 @@
       "displayName": {
         "en": "FirstHealth of the Carolinas"
       },
-      "displayURL": "https://www.firsthealth.org/",
+      "displayURL": "https://www.firsthealthmychart.org/mychartprd",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18331,7 +18579,7 @@
       "displayName": {
         "en": "Oregon Health & Science University"
       },
-      "displayURL": "https://www.ohsu.edu/",
+      "displayURL": "https://mychartweb.ohsu.edu/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18352,6 +18600,7 @@
       "displayName": {
         "en": "Inova Health System"
       },
+      "displayURL": "https://mychart.inova.org/mychart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18370,9 +18619,9 @@
     },
     "https://ic.valleychildrens.org/fhir/api/epic/2021/Security/Open/EcKeys/32001/SHC#aHCZwBl5-1MUcNssdZJiu_XUD75sGxNPbEG04Oum2kg": {
       "displayName": {
-        "en": "Valley Children’s Healthcare"
+        "en": "Valley Children's Healthcare"
       },
-      "displayURL": "https://www.valleychildrens.org/",
+      "displayURL": "https://mychart.valleychildrens.org/portal",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18393,7 +18642,7 @@
       "displayName": {
         "en": "El Rio Health"
       },
-      "displayURL": "https://www.elrio.org/",
+      "displayURL": "https://elriomychart.org/MyChart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18414,7 +18663,7 @@
       "displayName": {
         "en": "GW University Medical Faculty Associates"
       },
-      "displayURL": "https://gwdocs.com/",
+      "displayURL": "https://mychart.gwdocs.com/MyChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18433,9 +18682,9 @@
     },
     "https://fhir.archildrens.org/fhir/api/epic/2021/Security/Open/EcKeys/32001/SHC#nQbMGYnIP4z_aCA5fXOy-wH1O8Rv_FJE0yjnfCsc0Fs": {
       "displayName": {
-        "en": "Arkansas Children’s"
+        "en": "Arkansas Children's"
       },
-      "displayURL": "https://www.archildrens.org/",
+      "displayURL": "https://mychart.archildrens.org/mychart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18456,7 +18705,7 @@
       "displayName": {
         "en": "Hospital for Special Surgery"
       },
-      "displayURL": "https://www.hss.edu/",
+      "displayURL": "https://myhss.hss.edu/MyHSS/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18477,7 +18726,7 @@
       "displayName": {
         "en": "University of Michigan Health-West"
       },
-      "displayURL": "https://uofmhealthwest.org/",
+      "displayURL": "https://www.myuofmhealth.org/MyChart-PRD",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18498,6 +18747,7 @@
       "displayName": {
         "en": "Sanford Health"
       },
+      "displayURL": "https://www.mysanfordchart.org/MyChart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18518,7 +18768,7 @@
       "displayName": {
         "en": "Ballad Health"
       },
-      "displayURL": "https://www.balladhealth.org/",
+      "displayURL": "https://mychart.balladhealth.org/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18539,7 +18789,7 @@
       "displayName": {
         "en": "Confluence Health"
       },
-      "displayURL": "https://www.confluencehealth.org/",
+      "displayURL": "https://mychart.confluencehealth.org/MyChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18560,7 +18810,7 @@
       "displayName": {
         "en": "WakeMed"
       },
-      "displayURL": "https://www.wakemed.org/",
+      "displayURL": "https://mychart.wakemed.org/MyChart-PRD",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18581,6 +18831,7 @@
       "displayName": {
         "en": "University of Pittsburgh Medical Center (UPMC)"
       },
+      "displayURL": "https://myupmc.upmc.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18601,7 +18852,7 @@
       "displayName": {
         "en": "Norton Healthcare"
       },
-      "displayURL": "https://nortonhealthcare.com/",
+      "displayURL": "https://mychart.nortonhealthcare.org/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18622,7 +18873,7 @@
       "displayName": {
         "en": "UNC Health Care System"
       },
-      "displayURL": "https://www.unchealthcare.org/",
+      "displayURL": "https://myuncchart.org/MyChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18664,7 +18915,7 @@
       "displayName": {
         "en": "UI Health"
       },
-      "displayURL": "https://hospital.uillinois.edu/",
+      "displayURL": "https://mychart.uillinois.edu/MyChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18685,6 +18936,7 @@
       "displayName": {
         "en": "Covenant Healthcare"
       },
+      "displayURL": "https://mychart.chs-mi.com/MyChartPRD",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18705,7 +18957,7 @@
       "displayName": {
         "en": "TidalHealth"
       },
-      "displayURL": "https://tidalhealth.org/",
+      "displayURL": "https://mychart.tidalhealth.org/MyChart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18726,7 +18978,7 @@
       "displayName": {
         "en": "Sansum Clinic"
       },
-      "displayURL": "https://www.sansumclinic.org/",
+      "displayURL": "https://mychart.sansumclinic.org/MyChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18767,7 +19019,7 @@
       "displayName": {
         "en": "Meritus Health"
       },
-      "displayURL": "https://www.meritushealth.com/",
+      "displayURL": "https://mychart.meritushealth.com/meritus",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18788,7 +19040,7 @@
       "displayName": {
         "en": "The Portland Clinic"
       },
-      "displayURL": "https://www.theportlandclinic.com/",
+      "displayURL": "https://mychart.tpcllp.com/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18830,6 +19082,7 @@
       "displayName": {
         "en": "Legacy Health"
       },
+      "displayURL": "https://myhealth.lhs.org/MyHealth",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18850,6 +19103,7 @@
       "displayName": {
         "en": "Health Ventures"
       },
+      "displayURL": "https://www.mychartiowa.com/mychartprd",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18870,6 +19124,7 @@
       "displayName": {
         "en": "University Health"
       },
+      "displayURL": "https://mychart.universityhealthsystem.com/mychart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18888,9 +19143,9 @@
     },
     "https://mobileapps.texaschildrens.org/FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC#rlB2N8ozLUBETUWWLgsQymnj6xnoNgyOiANHnZowZKc": {
       "displayName": {
-        "en": "Texas Children’s Hospital"
+        "en": "Texas Children's Hospital"
       },
-      "displayURL": "https://www.texaschildrens.org/",
+      "displayURL": "https://mychart.texaschildrens.org/mychart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18911,7 +19166,7 @@
       "displayName": {
         "en": "Vancouver Clinic"
       },
-      "displayURL": "https://tvc.org/",
+      "displayURL": "https://mychart.tvc.org/mychart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18975,7 +19230,7 @@
       "displayName": {
         "en": "Hospital for Special Surgery"
       },
-      "displayURL": "https://www.hss.edu/",
+      "displayURL": "https://myhss.hss.edu/MyHSS/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -19017,6 +19272,7 @@
       "displayName": {
         "en": "Northern Light Health"
       },
+      "displayURL": "https://northernlighthealth.org/myNorthernLightHealth",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -19037,6 +19293,7 @@
       "displayName": {
         "en": "UMC Southern Nevada"
       },
+      "displayURL": "https://umconnect.umcsn.com/MyChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -19057,6 +19314,7 @@
       "displayName": {
         "en": "Government of Puerto Rico"
       },
+      "displayURL": "https://www.vacuid.pr.gov/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -19077,6 +19335,7 @@
       "displayName": {
         "en": "Geisinger"
       },
+      "displayURL": "https://www.geisinger.org/mygeisinger",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -19137,6 +19396,7 @@
       "displayName": {
         "en": "Eisenhower Health"
       },
+      "displayURL": "https://mychart.emc.org/mychart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -19177,7 +19437,7 @@
       "displayName": {
         "en": "Dartmouth-Hitchcock Health"
       },
-      "displayURL": "https://www.dartmouth-hitchcock.org/",
+      "displayURL": "https://www.mydh.org/portal/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -19198,7 +19458,7 @@
       "displayName": {
         "en": "Mount Sinai Health System"
       },
-      "displayURL": "https://www.mountsinai.org/",
+      "displayURL": "https://mychart.mountsinai.org/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -19239,7 +19499,7 @@
       "displayName": {
         "en": "Reliant Medical Group"
       },
-      "displayURL": "https://reliantmedicalgroup.org/",
+      "displayURL": "https://mychart.reliantmedicalgroup.org/mychart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -19301,6 +19561,7 @@
       "displayName": {
         "en": "University of Kansas"
       },
+      "displayURL": "https://mychart.kansashealthsystem.com/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -19384,6 +19645,7 @@
       "displayName": {
         "en": "Department of Health, Government of Nunavut"
       },
+      "displayURL": "https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/vaccines/vaccine-proof/get-canadian.html",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -19425,6 +19687,7 @@
       "displayName": {
         "en": "NOVO Health Technology Group"
       },
+      "displayURL": "https://novohealth.com/patient-app/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -19590,6 +19853,7 @@
       "displayName": {
         "en": "ChristianaCare"
       },
+      "displayURL": "https://christianacare.org/patients/myhealth/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -19610,6 +19874,7 @@
       "displayName": {
         "en": "Jackson Health System"
       },
+      "displayURL": "https://jacksonhealth.org/patient-tools/myjacksonhealth/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -19630,6 +19895,7 @@
       "displayName": {
         "en": "Cayman Islands Health Services Authority"
       },
+      "displayURL": "https://www.hsa.ky/our-services/patient-portal-info/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -19650,6 +19916,7 @@
       "displayName": {
         "en": "Penn State Health"
       },
+      "displayURL": "https://www.pennstatehealth.org/patients-visitors/billing-medical-records/my-health-patient-portal",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -19710,6 +19977,7 @@
       "displayName": {
         "en": "Cedars-Sinai Health System"
       },
+      "displayURL": "https://www.cedars-sinai.org/mycslink.html",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -19730,6 +19998,7 @@
       "displayName": {
         "en": "Walmart"
       },
+      "displayURL": "https://www.walmart.com/cp/digital-vaccine-record/9508321",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -19750,6 +20019,7 @@
       "displayName": {
         "en": "Primary Health Medical Group"
       },
+      "displayURL": "https://mycw3.eclinicalweb.com/phmg/jsp/100mp/login_otp.jsp",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -19770,6 +20040,7 @@
       "displayName": {
         "en": "Government of Canada - Gouvernement du Canada"
       },
+      "displayURL": "https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/vaccines/vaccine-proof/get-canadian.html",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -19790,6 +20061,7 @@
       "displayName": {
         "en": "Government of Alberta"
       },
+      "displayURL": "https://covidrecords.alberta.ca/home",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -19852,6 +20124,7 @@
       "displayName": {
         "en": "University of Chicago Medical Center"
       },
+      "displayURL": "https://www.uchicagomedicine.org/patients-visitors/patient-information/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -19893,6 +20166,7 @@
       "displayName": {
         "en": "University of Iowa and our Community Connect Hospitals and Clinics: Cass Health, ISH, JCHC, MMC, VBCH and WMC"
       },
+      "displayURL": "https://mychart.uihealthcare.com/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -20039,6 +20313,7 @@
       "displayName": {
         "en": "Hoag Clinic"
       },
+      "displayURL": "https://www.hoagconnect.org/mychart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -20059,7 +20334,7 @@
       "displayName": {
         "en": "Greater Baltimore Medical Center"
       },
-      "displayURL": "https://www.gbmc.org/",
+      "displayURL": "https://eportal.gbmc.org/MyChart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -20100,6 +20375,7 @@
       "displayName": {
         "en": "Government of New Brunswick"
       },
+      "displayURL": "https://myhealth.gnb.ca/en",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -20120,6 +20396,7 @@
       "displayName": {
         "en": "The State of Rhode Island"
       },
+      "displayURL": "https://covid.ri.gov/covid-19-prevention/401health-app",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -20227,7 +20504,7 @@
     },
     "https://fhir-ehr.cerner.com/r4/18c2ddf7-cb55-4622-a2b3-eb9aad8f5a43#N2maG8qOhITe_zyPqcrCa6LT_mW18ZtFPy09cGAB24w": {
       "displayName": {
-        "en": "Boston Children’s Hospital Employees"
+        "en": "Boston Children's Hospital Employees"
       },
       "entityType": "issuer",
       "status": "current",
@@ -20249,6 +20526,7 @@
       "displayName": {
         "en": "Illinois Department of Public Health"
       },
+      "displayURL": "https://idphportal.illinois.gov/s/?language=en_US",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -20269,7 +20547,7 @@
       "displayName": {
         "en": "Singing River Health System"
       },
-      "displayURL": "https://singingriverhealthsystem.com/",
+      "displayURL": "https://mychart.mysrhs.com/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -20288,7 +20566,7 @@
     },
     "https://epicproxy.connecticutchildrens.org/FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC#kHmORnHhng11wAxRDSIIa_O9EdlHmVpNoRPXG2kjgvU": {
       "displayName": {
-        "en": "Connecticut Children’s"
+        "en": "Connecticut Children's"
       },
       "displayURL": "https://www.connecticutchildrens.org/",
       "entityType": "issuer",
@@ -20332,6 +20610,7 @@
       "displayName": {
         "en": "Conemaugh"
       },
+      "displayURL": "https://www.conemaugh.org/patients-and-visitors/patients-and-visitors/conemaugh-mychart-patient-portal",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -20373,7 +20652,7 @@
       "displayName": {
         "en": "Community Health Network"
       },
-      "displayURL": "https://www.ecommunity.com",
+      "displayURL": "https://mychart.ecommunity.com/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -20415,6 +20694,7 @@
       "displayName": {
         "en": "MyMichigan Health"
       },
+      "displayURL": "https://www.midmichigan.org/mychart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -20477,6 +20757,7 @@
       "displayName": {
         "en": "Hattiesburg Clinic and Forrest Health"
       },
+      "displayURL": "https://iris.hattiesburgclinic.com/iris",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -20703,7 +20984,7 @@
       "displayName": {
         "en": "Hospital for Special Surgery"
       },
-      "displayURL": "https://www.hss.edu/",
+      "displayURL": "https://myhss.hss.edu/MyHSS/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -20724,7 +21005,7 @@
       "displayName": {
         "en": "Hospital for Special Surgery"
       },
-      "displayURL": "https://www.hss.edu/",
+      "displayURL": "https://myhss.hss.edu/MyHSS/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -20745,7 +21026,7 @@
       "displayName": {
         "en": "Mercy Health Services (MD)"
       },
-      "displayURL": "https://mdmercy.com",
+      "displayURL": "https://mychart.mdmercy.com/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -20766,7 +21047,7 @@
       "displayName": {
         "en": "Columbus Regional Health"
       },
-      "displayURL": "https://www.crh.org/",
+      "displayURL": "https://mychart.crh.org/mychart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -20787,7 +21068,7 @@
       "displayName": {
         "en": "Cambridge Health Alliance"
       },
-      "displayURL": "https://www.challiance.org/",
+      "displayURL": "https://mychart.challiance.org/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -20808,7 +21089,7 @@
       "displayName": {
         "en": "Northeast Georgia Health System"
       },
-      "displayURL": "https://www.nghs.com/",
+      "displayURL": "https://mychart.nghs.com/MyChart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -20829,7 +21110,7 @@
       "displayName": {
         "en": "Saint Francis Health System"
       },
-      "displayURL": "https://www.saintfrancis.com/",
+      "displayURL": "https://mychart.saintfrancis.com/mychart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -20850,6 +21131,7 @@
       "displayName": {
         "en": "Asante"
       },
+      "displayURL": "https://mychart.asante.org/MyChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -20870,7 +21152,7 @@
       "displayName": {
         "en": "Sentara Healthcare"
       },
-      "displayURL": "https://www.sentara.com/",
+      "displayURL": "https://myhealth.sentara.com/account/log-in",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -20891,6 +21173,7 @@
       "displayName": {
         "en": "St. Luke's Hospital"
       },
+      "displayURL": "https://www.mystlukeschart.org/MyStLukesChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -20911,7 +21194,7 @@
       "displayName": {
         "en": "UF Health"
       },
-      "displayURL": "https://ufhealth.org/",
+      "displayURL": "https://mychart.shands.org/mychartprd/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -20973,6 +21256,7 @@
       "displayName": {
         "en": "Altru Health System"
       },
+      "displayURL": "https://mychart.altru.org",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -20993,7 +21277,7 @@
       "displayName": {
         "en": "NorthShore University HealthSystem"
       },
-      "displayURL": "https://www.northshore.org/",
+      "displayURL": "https://www.northshoreconnect.org/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -21014,7 +21298,7 @@
       "displayName": {
         "en": "Southcoast Health"
       },
-      "displayURL": "https://www.southcoast.org/",
+      "displayURL": "https://mychart.southcoast.org/MyChart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -21035,7 +21319,7 @@
       "displayName": {
         "en": "Garnet Health"
       },
-      "displayURL": "https://www.garnethealth.org/",
+      "displayURL": "https://mychart.garnethealth.org/GH",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -21056,6 +21340,7 @@
       "displayName": {
         "en": "Government of Prince Edward Island"
       },
+      "displayURL": "https://www.princeedwardisland.ca/en/information/health-and-wellness/covid-19-immunization-record",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -21077,6 +21362,7 @@
       "displayName": {
         "en": "Government of Prince Edward Island"
       },
+      "displayURL": "https://www.princeedwardisland.ca/en/information/health-and-wellness/covid-19-immunization-record",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -21098,6 +21384,7 @@
       "displayName": {
         "en": "Government of Prince Edward Island"
       },
+      "displayURL": "https://www.princeedwardisland.ca/en/information/health-and-wellness/covid-19-immunization-record",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -21119,6 +21406,7 @@
       "displayName": {
         "en": "Government of Prince Edward Island"
       },
+      "displayURL": "https://www.princeedwardisland.ca/en/information/health-and-wellness/covid-19-immunization-record",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -21140,6 +21428,7 @@
       "displayName": {
         "en": "Government of Prince Edward Island"
       },
+      "displayURL": "https://www.princeedwardisland.ca/en/information/health-and-wellness/covid-19-immunization-record",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -21161,6 +21450,7 @@
       "displayName": {
         "en": "Government of Prince Edward Island"
       },
+      "displayURL": "https://www.princeedwardisland.ca/en/information/health-and-wellness/covid-19-immunization-record",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -21182,6 +21472,7 @@
       "displayName": {
         "en": "Government of Prince Edward Island"
       },
+      "displayURL": "https://www.princeedwardisland.ca/en/information/health-and-wellness/covid-19-immunization-record",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -21203,6 +21494,7 @@
       "displayName": {
         "en": "Government of Prince Edward Island"
       },
+      "displayURL": "https://www.princeedwardisland.ca/en/information/health-and-wellness/covid-19-immunization-record",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -21224,6 +21516,7 @@
       "displayName": {
         "en": "Government of Prince Edward Island"
       },
+      "displayURL": "https://www.princeedwardisland.ca/en/information/health-and-wellness/covid-19-immunization-record",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -21245,6 +21538,7 @@
       "displayName": {
         "en": "Government of Prince Edward Island"
       },
+      "displayURL": "https://www.princeedwardisland.ca/en/information/health-and-wellness/covid-19-immunization-record",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -21266,6 +21560,7 @@
       "displayName": {
         "en": "Government of Prince Edward Island"
       },
+      "displayURL": "https://www.princeedwardisland.ca/en/information/health-and-wellness/covid-19-immunization-record",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -21287,6 +21582,7 @@
       "displayName": {
         "en": "Government of Prince Edward Island"
       },
+      "displayURL": "https://www.princeedwardisland.ca/en/information/health-and-wellness/covid-19-immunization-record",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -21308,6 +21604,7 @@
       "displayName": {
         "en": "Government of Prince Edward Island"
       },
+      "displayURL": "https://www.princeedwardisland.ca/en/information/health-and-wellness/covid-19-immunization-record",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -21329,7 +21626,7 @@
       "displayName": {
         "en": "Parkland Health"
       },
-      "displayURL": "https://www.parklandhospital.com/",
+      "displayURL": "https://mychart.pmh.org/MyChart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -21560,6 +21857,7 @@
       "displayName": {
         "en": "Palos Health"
       },
+      "displayURL": "https://mychart.paloshealth.com/MyChart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -21580,7 +21878,7 @@
       "displayName": {
         "en": "Baylor Medicine"
       },
-      "displayURL": "https://www.bcm.edu/",
+      "displayURL": "https://mychart.bcm.edu/MyChartPRD/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -21601,6 +21899,7 @@
       "displayName": {
         "en": "Summit Health"
       },
+      "displayURL": "https://mychart.bmctotalcare.com/mychart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -21662,7 +21961,7 @@
       "displayName": {
         "en": "Lahey Health"
       },
-      "displayURL": "https://www.lahey.org/",
+      "displayURL": "https://mylaheychart.org/MyChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -21683,6 +21982,7 @@
       "displayName": {
         "en": "New Hanover Regional Medical Center"
       },
+      "displayURL": "https://mychart.nhrmc.org/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -21703,7 +22003,7 @@
       "displayName": {
         "en": "John Muir Health"
       },
-      "displayURL": "https://www.johnmuirhealth.com/",
+      "displayURL": "https://idp.johnmuirhealth.com/as/authorization.oauth2?client_id=jmh-sso&response_type=code&scope=openid&redirect_uri=https://www.johnmuirhealth.com/mychartprdsso",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -21724,7 +22024,7 @@
       "displayName": {
         "en": "Cape Cod HealthCare"
       },
-      "displayURL": "https://www.capecodhealth.org/",
+      "displayURL": "https://mychart.capecodhealth.org/MyChart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -21745,7 +22045,7 @@
       "displayName": {
         "en": "East Boston Neighborhood Health Center"
       },
-      "displayURL": "https://www.ebnhc.org/",
+      "displayURL": "https://mychart.ebnhc.org/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -21766,6 +22066,7 @@
       "displayName": {
         "en": "Beth Israel Lahey Health Mount Auburn Hospital"
       },
+      "displayURL": "https://mychart.mah.org/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -21786,7 +22087,7 @@
       "displayName": {
         "en": "Prisma Health"
       },
-      "displayURL": "https://www.prismahealth.org/",
+      "displayURL": "https://mychart.prismahealth.org/MyChart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -21807,7 +22108,7 @@
       "displayName": {
         "en": "CaroMont Health"
       },
-      "displayURL": "https://www.caromonthealth.org/",
+      "displayURL": "https://mychart.caromonthealth.org/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -21828,7 +22129,7 @@
       "displayName": {
         "en": "Valley Medical Center"
       },
-      "displayURL": "https://www.valleymed.org/",
+      "displayURL": "https://mychart.valleymed.org/MyChart_PRD/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -21849,7 +22150,7 @@
       "displayName": {
         "en": "Wellstar"
       },
-      "displayURL": "https://www.wellstar.org/",
+      "displayURL": "https://mychart.wellstar.org/MyChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -21896,6 +22197,7 @@
       "displayName": {
         "en": "Outpost Healthcare"
       },
+      "displayURL": "https://www.outpost.health/patients",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -21916,7 +22218,7 @@
       "displayName": {
         "en": "North Mississippi Health Services"
       },
-      "displayURL": "https://www.nmhs.net/",
+      "displayURL": "https://www.myconnection.org/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -21937,6 +22239,7 @@
       "displayName": {
         "en": "Cleveland Clinic Martin Health"
       },
+      "displayURL": "https://mychart.clevelandclinic.org",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -21957,7 +22260,7 @@
       "displayName": {
         "en": "MultiCare"
       },
-      "displayURL": "https://www.multicare.org/",
+      "displayURL": "https://mychart.multicare.org/mymulticare",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -21978,7 +22281,7 @@
       "displayName": {
         "en": "Stanford Health Care"
       },
-      "displayURL": "https://stanfordhealthcare.org/",
+      "displayURL": "https://myhealth.stanfordhealthcare.org/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -21999,7 +22302,7 @@
       "displayName": {
         "en": "University of Utah Health"
       },
-      "displayURL": "https://healthcare.utah.edu/",
+      "displayURL": "https://mychart.med.utah.edu/mychart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -22020,7 +22323,7 @@
       "displayName": {
         "en": "AnMed Health"
       },
-      "displayURL": "https://anmedhealth.org/",
+      "displayURL": "https://mychart.anmedhealth.org/MyChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -22041,7 +22344,7 @@
       "displayName": {
         "en": "AdventHealth"
       },
-      "displayURL": "https://www.adventhealth.com/",
+      "displayURL": "https://account.adventhealth.com/login",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -22062,7 +22365,7 @@
       "displayName": {
         "en": "Hill Physicians Medical Group"
       },
-      "displayURL": "https://www.hillphysicians.com/",
+      "displayURL": "https://www.myhillchart.com/MyChart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -22122,8 +22425,9 @@
     },
     "https://cookicfg.cookchildrens.org/CookFHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC#pyimkiqzNnxaHuVOntfWNfZdxcGHZXgJuUB0mRlqq5o": {
       "displayName": {
-        "en": "Cook Children’s"
+        "en": "Cook Children's"
       },
+      "displayURL": "https://www.cookchildrens.org/mycookchildrens/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -22193,6 +22497,7 @@
       "displayName": {
         "en": "Reid Health"
       },
+      "displayURL": "https://myreidhealth.org/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -22420,6 +22725,7 @@
       "displayName": {
         "en": "Bon Secours Health System"
       },
+      "displayURL": "https://www.bonsecours.com/patient-resources/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -22440,7 +22746,7 @@
       "displayName": {
         "en": "District of Columbia Department of Health"
       },
-      "displayURL": "https://dchealth.dc.gov/",
+      "displayURL": "https://vaccinerecord.dc.gov/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -22481,7 +22787,7 @@
       "displayName": {
         "en": "Arizona Department of Health Services"
       },
-      "displayURL": "https://www.azdhs.gov/",
+      "displayURL": "https://azdhs.gov/preparedness/epidemiology-disease-control/immunization/azmyir/index.php",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -22502,6 +22808,7 @@
       "displayName": {
         "en": "Maryland Department of Health"
       },
+      "displayURL": "https://health.maryland.gov/phpa/OIDEOR/IMMUN/Pages/immunet-for-public.aspx",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -22522,7 +22829,7 @@
       "displayName": {
         "en": "Mississippi State Department of Health"
       },
-      "displayURL": "https://msdh.ms.gov/",
+      "displayURL": "https://msdh.ms.gov/msdhsite/_static/14,0,71,969.html",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -22543,7 +22850,7 @@
       "displayName": {
         "en": "State of Louisiana"
       },
-      "displayURL": "https://ldh.la.gov/",
+      "displayURL": "https://lawallet.com/covid-19/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -22564,7 +22871,7 @@
       "displayName": {
         "en": "Washington State Department of Health"
       },
-      "displayURL": "https://www.doh.wa.gov/",
+      "displayURL": "https://waverify.doh.wa.gov/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -22583,9 +22890,9 @@
     },
     "https://epicproxy.et0815.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#OT577c8Cvwa1Bx6LYdKx2LBgzuE7eKO95-5inZPjx-s": {
       "displayName": {
-        "en": "Children’s Wisconsin"
+        "en": "Children's Wisconsin"
       },
-      "displayURL": "https://childrenswi.org/",
+      "displayURL": "https://mychart.chw.org/MyChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -22606,7 +22913,7 @@
       "displayName": {
         "en": "Owensboro Health"
       },
-      "displayURL": "https://www.owensborohealth.org",
+      "displayURL": "https://mychart.omhs.org/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -22627,7 +22934,7 @@
       "displayName": {
         "en": "Self Regional Healthcare"
       },
-      "displayURL": "https://www.selfregional.org/",
+      "displayURL": "https://mychart.selfregional.org/MySRH",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -22648,6 +22955,7 @@
       "displayName": {
         "en": "Genesis Healthcare System"
       },
+      "displayURL": "https://genesishealth.consumeridp.us-1.healtheintent.com/saml2/sso/login?authenticationRequestId=e510d561-bef4-4e4a-8d86-e2e0c7d8bed8",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -22668,6 +22976,7 @@
       "displayName": {
         "en": "MyHealthHome"
       },
+      "displayURL": "https://cernerhealth.com/oauth/authenticate?redirect_uri=https%3A%2F%2Fcernerhealth.com%2Fsaml%2Fsso%2Fresponse%3Fmessage_id%3D_9898b7b1-37cc-4660-950b-2f6f0c912eb4%26issuer%3Dhttps%253A%252F%252Fmyhealthhome.iqhealth.com%252Fsession-api%252Fprotocol%252Fsaml2%252Fmetadata&sign_in_only=on&client_id=ff0b09db809a42a8b121deb8b9ec7903",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -22688,6 +22997,7 @@
       "displayName": {
         "en": "MyHealthHome"
       },
+      "displayURL": "https://cernerhealth.com/oauth/authenticate?redirect_uri=https%3A%2F%2Fcernerhealth.com%2Fsaml%2Fsso%2Fresponse%3Fmessage_id%3D_9898b7b1-37cc-4660-950b-2f6f0c912eb4%26issuer%3Dhttps%253A%252F%252Fmyhealthhome.iqhealth.com%252Fsession-api%252Fprotocol%252Fsaml2%252Fmetadata&sign_in_only=on&client_id=ff0b09db809a42a8b121deb8b9ec7903",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -22708,6 +23018,7 @@
       "displayName": {
         "en": "MyHealthHome"
       },
+      "displayURL": "https://cernerhealth.com/oauth/authenticate?redirect_uri=https%3A%2F%2Fcernerhealth.com%2Fsaml%2Fsso%2Fresponse%3Fmessage_id%3D_9898b7b1-37cc-4660-950b-2f6f0c912eb4%26issuer%3Dhttps%253A%252F%252Fmyhealthhome.iqhealth.com%252Fsession-api%252Fprotocol%252Fsaml2%252Fmetadata&sign_in_only=on&client_id=ff0b09db809a42a8b121deb8b9ec7903",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -22728,6 +23039,7 @@
       "displayName": {
         "en": "MyHealthHome"
       },
+      "displayURL": "https://cernerhealth.com/oauth/authenticate?redirect_uri=https%3A%2F%2Fcernerhealth.com%2Fsaml%2Fsso%2Fresponse%3Fmessage_id%3D_9898b7b1-37cc-4660-950b-2f6f0c912eb4%26issuer%3Dhttps%253A%252F%252Fmyhealthhome.iqhealth.com%252Fsession-api%252Fprotocol%252Fsaml2%252Fmetadata&sign_in_only=on&client_id=ff0b09db809a42a8b121deb8b9ec7903",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -22748,6 +23060,7 @@
       "displayName": {
         "en": "Lutheran Health Network MyHealthHome"
       },
+      "displayURL": "https://cernerhealth.com/oauth/authenticate?redirect_uri=https%3A%2F%2Fcernerhealth.com%2Fsaml%2Fsso%2Fresponse%3Fmessage_id%3D_f52a5b97-cf66-4fd1-9586-bb373a6704c7%26issuer%3Dhttps%253A%252F%252Flutheranhealth.patientportal.us-1.healtheintent.com%252Fsession-api%252Fprotocol%252Fsaml2%252Fmetadata&sign_in_only=on&client_id=aea0e1256ae6446ca3044b73a000324d",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -22768,7 +23081,7 @@
       "displayName": {
         "en": "Yuma Regional Medical Center"
       },
-      "displayURL": "https://www.yumaregional.org/Home",
+      "displayURL": "https://mycare.yumaregional.org/mycare",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -22789,7 +23102,7 @@
       "displayName": {
         "en": "Grady Health"
       },
-      "displayURL": "https://www.gradyhealth.org/",
+      "displayURL": "https://mychart.gradyhealth.org/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -22830,6 +23143,7 @@
       "displayName": {
         "en": "SolutionHealth"
       },
+      "displayURL": "https://mychart.solutionhealth.org/mychartprd",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -22850,6 +23164,7 @@
       "displayName": {
         "en": "Concord Hospital"
       },
+      "displayURL": "https://www.concordhospital.org/patients-visitors/my-patient-connect/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -22952,7 +23267,7 @@
       "displayName": {
         "en": "El Camino Hospital"
       },
-      "displayURL": "https://www.elcaminohealth.org/",
+      "displayURL": "https://mycare.elcaminohospital.org/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -22993,7 +23308,7 @@
       "displayName": {
         "en": "Cambridge Health Alliance"
       },
-      "displayURL": "https://www.challiance.org/",
+      "displayURL": "https://mychart.challiance.org/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -23014,7 +23329,7 @@
       "displayName": {
         "en": "Cambridge Health Alliance"
       },
-      "displayURL": "https://www.challiance.org/",
+      "displayURL": "https://mychart.challiance.org/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -23035,7 +23350,7 @@
       "displayName": {
         "en": "Riverside Medical Clinic"
       },
-      "displayURL": "https://www.riversidemedicalclinic.com/",
+      "displayURL": "https://myhealthyconnection.riversidemedicalclinic.com/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -23056,7 +23371,7 @@
       "displayName": {
         "en": "Methodist Hospitals (IN)"
       },
-      "displayURL": "https://methodisthospitals.org/",
+      "displayURL": "https://mychart.methodisthospitals.org/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -23077,7 +23392,7 @@
       "displayName": {
         "en": "UVA Health"
       },
-      "displayURL": "https://uvahealth.com/",
+      "displayURL": "https://mychart.healthsystem.virginia.edu/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -23118,7 +23433,7 @@
       "displayName": {
         "en": "Baptist Healthcare System"
       },
-      "displayURL": "https://www.baptisthealth.com",
+      "displayURL": "https://www.baptisthealth.com/mychart/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -23139,7 +23454,7 @@
       "displayName": {
         "en": "iHealth Labs, Inc"
       },
-      "displayURL": "https://ihealthlabs.com/products/ihealth-verified-covid-test-service",
+      "displayURL": "https://ihealthlabs.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -23158,9 +23473,9 @@
     },
     "https://EPROXY1.chsomaha.org/FHIRPROXY/api/epic/2021/Security/Open/EcKeys/32001/SHC#o0OFwVwCCyBFOFooP-hoMWJUeUWf1ubfa8qVjjDzFCw": {
       "displayName": {
-        "en": "Children’s Hospital & Medical Center"
+        "en": "Children's Hospital & Medical Center"
       },
-      "displayURL": "https://www.childrensomaha.org/",
+      "displayURL": "https://connect.childrensomaha.org/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -23181,6 +23496,7 @@
       "displayName": {
         "en": "Jefferson Health"
       },
+      "displayURL": "https://my.jeffersonhealth.org",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -23201,7 +23517,7 @@
       "displayName": {
         "en": "Trinity Health"
       },
-      "displayURL": "https://www.trinity-health.org/",
+      "displayURL": "https://www.trinity-health.org/patient-portals/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -23222,7 +23538,7 @@
       "displayName": {
         "en": "Trinity Health of New England"
       },
-      "displayURL": "https://www.trinityhealthofne.org/",
+      "displayURL": "https://www.trinityhealthofne.org/patient-portal/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -23243,7 +23559,7 @@
       "displayName": {
         "en": "Riverbend Medical Group"
       },
-      "displayURL": "https://www.trinityhealthofne.org/location/trinity-health-of-new-england-medical-group-springfield",
+      "displayURL": "https://mychart.riverbendmedical.com/MyChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -23306,6 +23622,7 @@
       "displayName": {
         "en": "BioReference Laboratories"
       },
+      "displayURL": "https://www.bioreference.com/patient-portal",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -23350,7 +23667,7 @@
       "displayName": {
         "en": "UK HealthCare"
       },
-      "displayURL": "https://ukhealthcare.uky.edu/",
+      "displayURL": "https://mychart.uky.edu/MyChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -23371,7 +23688,7 @@
       "displayName": {
         "en": "Cape Fear Valley Health"
       },
-      "displayURL": "https://www.capefearvalley.com/home/index.aspx",
+      "displayURL": "https://www.capefearvalley.com/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -23560,7 +23877,7 @@
       "displayName": {
         "en": "Laborant LLC"
       },
-      "displayURL": "https://www.arcpointcs.com/",
+      "displayURL": "https://arcpointlabs.com/coral-springs/covid-testing-options/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -23581,7 +23898,6 @@
       "displayName": {
         "en": "Treat"
       },
-      "displayURL": "https://treat.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -23602,6 +23918,7 @@
       "displayName": {
         "en": "Genesis Health System"
       },
+      "displayURL": "https://www.genesishealth.com/mygenesis-home/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -23622,6 +23939,7 @@
       "displayName": {
         "en": "Government of Yukon"
       },
+      "displayURL": "https://yukon.ca/en/vaccine-proof",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -23648,7 +23966,7 @@
       "displayName": {
         "en": "Duly Health and Care"
       },
-      "displayURL": "https://www.dulyhealthandcare.com/",
+      "displayURL": "https://mychart.dupagemd.com/MyChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -23669,7 +23987,7 @@
       "displayName": {
         "en": "Tanner Health System"
       },
-      "displayURL": "https://www.tanner.org/",
+      "displayURL": "https://www.tannermychart.org",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -23690,7 +24008,7 @@
       "displayName": {
         "en": "Tucson Medical Center"
       },
-      "displayURL": "https://www.tmcaz.com/",
+      "displayURL": "https://mychart.tmcaz.com/MyChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -23711,7 +24029,7 @@
       "displayName": {
         "en": "Catholic Health"
       },
-      "displayURL": "https://www.chsli.org/",
+      "displayURL": "https://www.chsli.org/catholic-health-mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -23738,7 +24056,7 @@
       "validFromDT": "2021-01-01T01:00:00.000Z",
       "didDocument": {
         "alg": "ES256",
-        "crlVersion": 227,
+        "crlVersion": 230,
         "crv": "P-256",
         "kid": "TKPyzMtKh7WQaCzsw6rOK8ZUOZlND2VcBwhFIIcCqUE",
         "kty": "EC",
@@ -23775,7 +24093,7 @@
       "displayName": {
         "en": "Hy-Vee"
       },
-      "displayURL": "https://www.hy-vee.com/",
+      "displayURL": "https://www.hy-vee.com/my-pharmacy/digital-vaccine-records",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -23817,7 +24135,7 @@
       "displayName": {
         "en": "Oregon Health Authority"
       },
-      "displayURL": "https://www.oregon.gov/oha/pages/index.aspx",
+      "displayURL": "https://myelectronicvaccinecard.oregon.gov/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -23909,6 +24227,7 @@
       "displayName": {
         "en": "Orlando Health and Bayfront Health St. Petersburg"
       },
+      "displayURL": "https://www.orlandohealth.com/patient-portal",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -23950,7 +24269,7 @@
       "displayName": {
         "en": "CommUnityCare Health Centers"
       },
-      "displayURL": "https://communitycaretx.org/",
+      "displayURL": "https://mychart.communitycaretx.org/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -23971,6 +24290,7 @@
       "displayName": {
         "en": "Marshfield Clinic Health System"
       },
+      "displayURL": "https://login.cattailsservices.com/Account/SignIn",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -23991,6 +24311,7 @@
       "displayName": {
         "en": "Southwest General Health Center"
       },
+      "displayURL": "https://www.swgeneral.com/patients-visitors/healthelife/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -24009,9 +24330,9 @@
     },
     "https://haiku-canto-prod.chmca.org/ARR-FHIR-PRD/api/epic/2021/Security/Open/EcKeys/32001/SHC#1j8HNfXiWLFT8qTSld_2uvCgYjyAdxjhig4XzBkRvRA": {
       "displayName": {
-        "en": "Akron Children’s Hospital"
+        "en": "Akron Children's Hospital"
       },
-      "displayURL": "https://www.akronchildrens.org/",
+      "displayURL": "https://www.akronchildrens.org/pages/MyChart.html",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -24032,6 +24353,7 @@
       "displayName": {
         "en": "Indiana University Health"
       },
+      "displayURL": "https://myiuhealth.org/?_ga=2.30318335.1930817085.1505420414-161027848.1490886421",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -24052,6 +24374,7 @@
       "displayName": {
         "en": "State of Louisiana"
       },
+      "displayURL": "https://lawallet.com/covid-19/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
