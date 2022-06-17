@@ -17980,9 +17980,9 @@
     },
     "https://hkc.nationwidechildrens.org/FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC#e09rUHZUE_9ZfduHpQktUv7sOsk_ayGeVAdiIkmIaAQ": {
       "displayName": {
-        "en": "Nationwide Children’s Hospital"
+        "en": "Nationwide Children's Hospital"
       },
-      "displayURL": "https://www.nationwidechildrens.org/",
+      "displayURL": "https://www.nationwidechildrens.org/family-resources-education/mobile-apps/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -19504,6 +19504,19 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE4Oqpp8MbWLjn1vtNIQ4+t6phpguPubaNfpBW3P5SmaQVpG0ot3rR+OIFB4ELSNrFy4/qQFIewqbFxLgxKdIe6A=="
+    },
+    "https://mycynchealth.org#5LvhU3xdh35pTFEM089S_PG46FSHBlVdrd4D-RLEJaU": {
+      "displayName": {
+        "en": "CyncHealth Nebraska"
+      },
+      "displayURL": "https://www.mycynchealth.org/login",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEjB5WTV9NdIazcA2WMGDgct87YRzU6SCZhotITUL5eGXXTrxczmmBRHQaCUga8RX5a7Xh2SogZsfzPj+cXm1yMw=="
     }
   }
 }
