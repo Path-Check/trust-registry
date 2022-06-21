@@ -18894,7 +18894,7 @@
       "displayName": {
         "en": "Hurley Medical Center"
       },
-      "displayURL": "https://www.hurleymc.com/",
+      "displayURL": "https://mychart.hurleymc.com/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
