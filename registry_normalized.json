@@ -19517,6 +19517,31 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEjB5WTV9NdIazcA2WMGDgct87YRzU6SCZhotITUL5eGXXTrxczmmBRHQaCUga8RX5a7Xh2SogZsfzPj+cXm1yMw=="
+    },
+    "https://api.cvshealth.com/public#Kt6Xmv-9dpM2mbpbzxTM0P3YGbAW-WIJD0EE3_ddH00": {
+      "displayName": {
+        "en": "CVS Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEyXG6HMBHEgT+df4+mvTSyyV2vdHJLaf4pUV/fHR79NjuqSe/mvCbRwFwRM9Lpbu/8zmDvM1JxmWwkUvf1VeDcQ=="
+    },
+    "https://docket.care/id#4S5oS222XceZXz5ROPy8lyQhSIbPk4eTrMXXThyMGqA": {
+      "displayName": {
+        "en": "State of Idaho"
+      },
+      "displayURL": "https://healthandwelfare.idaho.gov/covid-19-vaccination",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE+3MMGDAGtHivymPrsydbakabyg1atOZUsXgRSqbnDta7yxGG0TqJG5UujWikQVw4Qet41B0LkjEDyqBW/aOiqQ=="
     }
   }
 }

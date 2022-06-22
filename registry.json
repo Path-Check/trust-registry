@@ -24056,7 +24056,7 @@
       "validFromDT": "2021-01-01T01:00:00.000Z",
       "didDocument": {
         "alg": "ES256",
-        "crlVersion": 250,
+        "crlVersion": 252,
         "crv": "P-256",
         "kid": "TKPyzMtKh7WQaCzsw6rOK8ZUOZlND2VcBwhFIIcCqUE",
         "kty": "EC",
@@ -24908,6 +24908,47 @@
         "use": "sig",
         "x": "jB5WTV9NdIazcA2WMGDgct87YRzU6SCZhotITUL5eGU",
         "y": "1068XM5pgUR0GglIGvEV-Wu14dkqIGbH8z4_nF5tcjM"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://api.cvshealth.com/public#Kt6Xmv-9dpM2mbpbzxTM0P3YGbAW-WIJD0EE3_ddH00": {
+      "displayName": {
+        "en": "CVS Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "crv": "P-256",
+        "x": "yXG6HMBHEgT-df4-mvTSyyV2vdHJLaf4pUV_fHR79Ng",
+        "y": "7qknv5rwm0cBcETPS6W7v_M5g7zNScZlsJFL39VXg3E",
+        "kty": "EC",
+        "use": "sig",
+        "alg": "ES256",
+        "kid": "Kt6Xmv-9dpM2mbpbzxTM0P3YGbAW-WIJD0EE3_ddH00"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://docket.care/id#4S5oS222XceZXz5ROPy8lyQhSIbPk4eTrMXXThyMGqA": {
+      "displayName": {
+        "en": "State of Idaho"
+      },
+      "displayURL": "https://healthandwelfare.idaho.gov/covid-19-vaccination",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "use": "sig",
+        "crv": "P-256",
+        "kid": "4S5oS222XceZXz5ROPy8lyQhSIbPk4eTrMXXThyMGqA",
+        "x": "-3MMGDAGtHivymPrsydbakabyg1atOZUsXgRSqbnDtY",
+        "y": "u8sRhtE6iRuVLo1opEFcOEHreNQdC5IxA8qgVv2joqk",
+        "alg": "ES256"
       },
       "credentialType": [
         "https://smarthealth.cards#immunization"
