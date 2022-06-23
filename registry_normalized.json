@@ -10915,6 +10915,19 @@
       "validFromDT": "2022-06-10T08:30:00.000Z",
       "validUntilDT": "2024-06-10T08:29:00.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAElpS+MegEWvmYu5JRH1k2v78mVG9MlBkhgWC/OrDyXF7B15LzMhm1O3EM44K8vAFPGViXUuRO1zmrCmmtchZT5g=="
+    },
+    "GxVcR9pTElc=": {
+      "displayName": {
+        "en": "Gov of Italy"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "r"
+      ],
+      "validFromDT": "2022-06-22T10:06:57.000Z",
+      "validUntilDT": "2024-06-21T10:06:56.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEocoPRP7GdGnE3yZIbw5TAERX5wABekituBTRnPrG1d0gHA7wcA9TiyLSgVP+gth34lSMjpvKxENjJeWEe3M1wA=="
     }
   },
   "SHC": {
@@ -19542,6 +19555,45 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE+3MMGDAGtHivymPrsydbakabyg1atOZUsXgRSqbnDta7yxGG0TqJG5UujWikQVw4Qet41B0LkjEDyqBW/aOiqQ=="
+    },
+    "https://epicproxy.et0764.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#LBHy9yteMf6D1ZOlGHxVZ2VJlT073apFfgck7uEnHUU": {
+      "displayName": {
+        "en": "Confluence Health"
+      },
+      "displayURL": "https://mychart.confluencehealth.org/MyChart",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEnivTGpbONM4TcSi9m0a8+LcPp0Qu+RkY/CKaTmBI/gwr3ohtv6drgo5UxB7L20eZh0q/rw5ZS8Rt/5g39C1+BA=="
+    },
+    "https://edhwebportal.hitchcock.org/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#z6FF4HeX1EdoV8suJV4RtcYq98-RGaqHyPIq2GBUqss": {
+      "displayName": {
+        "en": "Dartmouth-Hitchcock Health"
+      },
+      "displayURL": "https://www.mydh.org/portal/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEEuKd1Oiiw1j0XY/zZ3vqs2hkqqpuM8C9IOUYXnYy5pXaYMaMPMkZVY0GQWf0gBdKCO/wRePhNiW+1gUqjnALwQ=="
+    },
+    "https://epsoap.conehealth.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#c4YIskOBonG1i9MK3foSK0u32Ocnr21Z2A7VVPD0X6o": {
+      "displayName": {
+        "en": "Cone Health"
+      },
+      "displayURL": "https://www.conehealth.com/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEFU7ktBtfC2gkQIRYOzFkFqH9P8zfE5l/7d+CKdvGyMqDGdk0rMGPQ3jmkNt4RjSbfnXCVxxgbPoic3IQeEWQlQ=="
     }
   }
 }
