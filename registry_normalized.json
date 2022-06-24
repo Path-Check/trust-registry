@@ -10928,6 +10928,36 @@
       "validFromDT": "2022-06-22T10:06:57.000Z",
       "validUntilDT": "2024-06-21T10:06:56.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEocoPRP7GdGnE3yZIbw5TAERX5wABekituBTRnPrG1d0gHA7wcA9TiyLSgVP+gth34lSMjpvKxENjJeWEe3M1wA=="
+    },
+    "HUOTMBM2tGk=": {
+      "displayName": {
+        "en": "Gov of Switzerland"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-06-23T14:22:05.000Z",
+      "validUntilDT": "2025-06-23T14:22:05.000Z",
+      "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAq5Z3FXsLu5D+PK2VHRjdLjOrk78+sTwQHhMB7mJlgG2QiNT7JX4BBq6kh679Hw+t+qhyyaqUlXb2su/jz7QbOWjkxlM+CFsk0PXQgvZtISl0lGDBt0gukjc9dIJryAIzi3H6sWQxeZhO0koJiYtL5xe5GXnXjp8JtkiRxriXDkY5UOgoEewCxIILoBn9dNgC7+Z9pj4anpom9oU8CwkL8UJGIfxsj2g9eKeMGElYDKBJCN3AFM4m6IfhJU3GqDs8SOGLrkFVBhwKt7dLfWi5vn8ZB3GTIM4TSo2MIgdJrpQMdBY+Z179tHO75qjqHkQyQgitE27Wo7u5KN5aTkLn5QIDAQAB"
+    },
+    "HjS8YEkE3cU=": {
+      "displayName": {
+        "en": "Gov of Finland"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-06-22T08:00:00.000Z",
+      "validUntilDT": "2024-06-22T20:59:59.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE08W1RJyOwzKKG4/DQc63cdFZd+Jbw+JfzWgF0b/681+eUW1wjgJSFlBMTiL9OxEtoG3Ii0ROPabwQtUavsGk4g=="
     }
   },
   "SHC": {
@@ -19594,6 +19624,45 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEFU7ktBtfC2gkQIRYOzFkFqH9P8zfE5l/7d+CKdvGyMqDGdk0rMGPQ3jmkNt4RjSbfnXCVxxgbPoic3IQeEWQlQ=="
+    },
+    "https://EpicProxy.hhchealth.org/FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC#m8kmkOYQiUDyoMlF8672ZE7CGCtapeamus0P3bK9yEo": {
+      "displayName": {
+        "en": "Hartford HealthCare"
+      },
+      "displayURL": "https://mychartplus.org/myChart",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEuuwbKL/ZdX3dxjLYIvZ07hfBJ1NQ1gDepqHp1PorWx9FaRSzpCabRlhzbeRaYt5XkW+aOQM7M6Qbnr8v8fdP3w=="
+    },
+    "https://SF1.rmcps.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#_Pr7qPqkGk9ScHxxOy1EtA1ckzpe7w4wN_lkCIbmUtU": {
+      "displayName": {
+        "en": "Riverside Medical Clinic"
+      },
+      "displayURL": "https://myhealthyconnection.riversidemedicalclinic.com/mychart",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEHOLqz/Z5TBFqzmDZlEj0rZm0UdXfvZRyYS2bvWB9sJ3cS1czJdUrkcJqjM+ZcghUgElCGWGJjMsflr/ka24zJQ=="
+    },
+    "https://shc.cdr-healthmed.com/issuer#5K75_U4qKM0yxpVb4KIuA1poRrLZuxHvMNkUw7-sexE": {
+      "displayName": {
+        "en": "CDR Health"
+      },
+      "displayURL": "https://www.patientportalfl.com/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE0yI3aKFmDBveNzn4h1BQDask3n3StRj+s2Le6Dll9tW+GUxVuTgt8YbJD4nb4zk/WlQqHUzG2cSVN105SkxWGg=="
     }
   }
 }
