@@ -10958,6 +10958,36 @@
       "validFromDT": "2022-06-22T08:00:00.000Z",
       "validUntilDT": "2024-06-22T20:59:59.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE08W1RJyOwzKKG4/DQc63cdFZd+Jbw+JfzWgF0b/681+eUW1wjgJSFlBMTiL9OxEtoG3Ii0ROPabwQtUavsGk4g=="
+    },
+    "+TjdHsRA9SU=": {
+      "displayName": {
+        "en": "Gov of Singapore"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-06-25T03:30:05.000Z",
+      "validUntilDT": "2024-06-24T03:30:05.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE2CnBuPNBZv3Q335eiK8GekAYzQZc5qw9ia9J2tgfz50KCcX/KO4NopERFkTNQKlrrs9YmE5ahhwS/2hk1UF23g=="
+    },
+    "Saf0s5eMkIQ=": {
+      "displayName": {
+        "en": "Gov of Spain"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-06-20T11:00:00.000Z",
+      "validUntilDT": "2024-06-20T10:59:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEej6yg+gtP53DoIr1rtWVVHPsyqLRbdOwhHEpC+oFAo0zpgfxXgdb3BigabKwZy04+3uPTDqXpVYSgE0oFr+ihg=="
     }
   },
   "SHC": {
@@ -19663,6 +19693,19 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE0yI3aKFmDBveNzn4h1BQDask3n3StRj+s2Le6Dll9tW+GUxVuTgt8YbJD4nb4zk/WlQqHUzG2cSVN105SkxWGg=="
+    },
+    "https://epicproxy.et0939.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#yMKx_IeaZkm9qVTh8hYzU0GFmS78a94I2ksJ-1xSzx8": {
+      "displayName": {
+        "en": "Spartanburg Regional Healthcare System"
+      },
+      "displayURL": "https://www.spartanburgregional.com/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEw1/bhC3qJ1n9xazkpKJyndYnF6deGHGOBAGbU5le/genhC5nEJgYa9EETPppIG0cNiCPB/lC7L4ciaYuJi1c/A=="
     }
   }
 }
