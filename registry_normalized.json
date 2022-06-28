@@ -3470,6 +3470,21 @@
     }
   },
   "DCC": {
+    "tK6wRrcGVbk=": {
+      "displayName": {
+        "en": "Gov of Singapore"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-06-10T10:06:18.000Z",
+      "validUntilDT": "2023-06-10T10:06:18.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE25GxWy5MOfJXBJ7mPml+LAs1XySTinsY/fQHtulpN2kL2Z40VYzXgrpcta3HoepEcfZ2qR1H0Ol7S96bKHB7yQ=="
+    },
     "AM6ZZ6DrF1I=": {
       "displayName": {
         "en": "Gov of Uruguay"

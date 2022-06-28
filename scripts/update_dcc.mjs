@@ -74,7 +74,7 @@ export async function update(registry) {
   const res = await fetch('https://de.dscg.ubirch.com/trustList/DSC', {method: 'GET', mode: 'no-cors'})
   const DSC = JSON.parse((await res.text()).split('\n')[1])
 
-  const currentCerts = ['AM6ZZ6DrF1I=']; // Uruguay's key is fixed.
+  const currentCerts = ['AM6ZZ6DrF1I=', 'tK6wRrcGVbk=']; // Keys from Uruguay and Singapore are fixed.
 
   DSC.certificates.forEach((e) => {
     currentCerts.push(e.kid);
