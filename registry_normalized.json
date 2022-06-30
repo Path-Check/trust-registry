@@ -11108,6 +11108,21 @@
       "validFromDT": "2022-08-02T22:00:00.000Z",
       "validUntilDT": "2024-08-02T22:00:00.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEWIfQOA5OJDlblwZr6WHe5kG0W08MQGM+M3KEcTdEvpXMQ/wxyqJRIK/QrRYwcia58wj9y3hViWJ9SmcJVtxgVA=="
+    },
+    "7PpSwSlvogM=": {
+      "displayName": {
+        "en": "Gov of Spain"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-06-20T10:30:00.000Z",
+      "validUntilDT": "2023-06-20T10:29:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE00q9talfH28Bklu1NWSmYyYAp1q++S17YDt4sLo2UmAjtfDhVqHyGIzY0LK9BbhyinSaTQvXmOV6aDjf3FtTmg=="
     }
   },
   "SHC": {
