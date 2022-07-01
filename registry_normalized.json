@@ -11338,6 +11338,7 @@
       "displayName": {
         "en": "OhioHealth"
       },
+      "displayURL": "https://mychart.ohiohealth.com/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -11428,7 +11429,7 @@
       "displayName": {
         "en": "Franciscan Alliance"
       },
-      "displayURL": "https://www.franciscanhealth.org/",
+      "displayURL": "https://franciscanmychart.org/Mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -11454,7 +11455,7 @@
       "displayName": {
         "en": "Riverside Health System"
       },
-      "displayURL": "https://www.riversideonline.com/",
+      "displayURL": "https://mychart.riversideonline.com",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14783,6 +14784,7 @@
       "displayName": {
         "en": "Beth Israel Lahey Health"
       },
+      "displayURL": "https://www.bilh.org/patient-portal",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14808,7 +14810,7 @@
       "displayName": {
         "en": "St. Elizabeth Healthcare"
       },
-      "displayURL": "https://stelizabeth.com/",
+      "displayURL": "https://mychart.stelizabeth.com/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -14847,7 +14849,7 @@
       "displayName": {
         "en": "ProHealth"
       },
-      "displayURL": "https://www.prohealthcare.org/",
+      "displayURL": "https://mychart.prohealthcare.org/MyChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15185,6 +15187,7 @@
       "displayName": {
         "en": "UPMC Central PA"
       },
+      "displayURL": "https://mypinnaclehealth.org/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15339,7 +15342,7 @@
       "displayName": {
         "en": "The University of Texas MD Anderson Cancer Center"
       },
-      "displayURL": "https://www.mdanderson.org/",
+      "displayURL": "https://my.mdanderson.org/Account/Login",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15404,7 +15407,7 @@
       "displayName": {
         "en": "Bayhealth Medical Center"
       },
-      "displayURL": "https://www.bayhealth.org/",
+      "displayURL": "https://epmychart.bayhealth.org/Mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15624,6 +15627,7 @@
       "displayName": {
         "en": "The Ohio State University Wexner Medical Center"
       },
+      "displayURL": "https://wexnermedical.osu.edu/features/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -15829,7 +15833,7 @@
       "displayName": {
         "en": "Lexington Medical Center"
       },
-      "displayURL": "https://www.lexmed.com/",
+      "displayURL": "https://mychart.lexmed.com/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16164,9 +16168,9 @@
     },
     "https://fhir.slhn.org/fhir/api/epic/2021/Security/Open/EcKeys/32001/SHC#jDJxOJi3e2z_hgqb7oCQkKLq_MngZQJSz2JiuDAKQbA": {
       "displayName": {
-        "en": "St. Luke’s University Health Network"
+        "en": "St. Luke's University Health Network"
       },
-      "displayURL": "https://www.slhn.org/",
+      "displayURL": "https://www.slhn.org/mychart/login",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -16244,7 +16248,7 @@
       "displayName": {
         "en": "Henry Ford Health System"
       },
-      "displayURL": "https://www.henryford.com/",
+      "displayURL": "https://mychart.hfhs.org/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -17490,7 +17494,7 @@
       "displayName": {
         "en": "UCLA"
       },
-      "displayURL": "https://www.uclahealth.org/",
+      "displayURL": "https://my.uclahealth.org/MyChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18193,6 +18197,7 @@
       "displayName": {
         "en": "Albertsons Companies"
       },
+      "displayURL": "https://www.albertsons.com/pharmacy/covid-19.html",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -18422,6 +18427,7 @@
       "displayName": {
         "en": "Albertsons Companies"
       },
+      "displayURL": "https://www.albertsons.com/pharmacy/covid-19.html",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -19514,7 +19520,7 @@
       "displayName": {
         "en": "UCLA"
       },
-      "displayURL": "https://www.uclahealth.org/",
+      "displayURL": "https://my.uclahealth.org/MyChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -19527,7 +19533,7 @@
       "displayName": {
         "en": "UCLA"
       },
-      "displayURL": "https://www.uclahealth.org/",
+      "displayURL": "https://my.uclahealth.org/MyChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -19540,7 +19546,7 @@
       "displayName": {
         "en": "UCLA"
       },
-      "displayURL": "https://www.uclahealth.org/",
+      "displayURL": "https://my.uclahealth.org/MyChart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -19592,7 +19598,7 @@
       "displayName": {
         "en": "Bismarck"
       },
-      "displayURL": "https://www.bismarckpharmacy.com/",
+      "displayURL": "https://www.bismarckpharmacy.com/immunizations",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -19644,6 +19650,7 @@
       "displayName": {
         "en": "Giant Eagle Pharmacy"
       },
+      "displayURL": "https://www.gianteagle.com/covidvaccine#electronic-record",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -19682,6 +19689,7 @@
       "displayName": {
         "en": "KMART PHARMACY"
       },
+      "displayURL": "https://pharmacy.kmart.com/newrx-immunization",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -19707,6 +19715,7 @@
       "displayName": {
         "en": "Pharmaca"
       },
+      "displayURL": "https://www.pharmacarx.com/",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
