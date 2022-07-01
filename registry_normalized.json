@@ -11123,6 +11123,21 @@
       "validFromDT": "2022-06-20T10:30:00.000Z",
       "validUntilDT": "2023-06-20T10:29:00.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE00q9talfH28Bklu1NWSmYyYAp1q++S17YDt4sLo2UmAjtfDhVqHyGIzY0LK9BbhyinSaTQvXmOV6aDjf3FtTmg=="
+    },
+    "WlKJrMM2i9k=": {
+      "displayName": {
+        "en": "Gov of Lithuania"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-06-30T22:15:26.000Z",
+      "validUntilDT": "2024-06-30T22:15:26.000Z",
+      "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAv+b4ktiqqFml/L9nydMUEkq2OI3FYgfD1ErjizKn5WCfD3ggdu3KsVPTkS09JFx62/bzlHWECnyYjppXW6nFyZ4zl9557p5HYsgFFlsYv9SKP5JYovtnuJUgyc/wlo4lPeXMNMqSxSH+lHMRDdDWDHBxGdWoyNI0VXSkNTiASWf3TwnI0oeQQ09IpodY72iLQMCjYFqeotl0RR/8y1E+AOu1jvXXYH5y8SpHxiPGIbsmjXKv85mjfQvcXtNnw752zK5pfuv0iItEpbjGIKsec4xi8lUr8fAtwPwoo3jbGGWAdDJtkrLQuc5Iz8/OhoFiwJnaJSbbl6bvAlKGWEFTpwIDAQAB"
     }
   },
   "SHC": {
