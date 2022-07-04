@@ -11493,6 +11493,126 @@
       "validFromDT": "2022-05-18T11:45:34.000Z",
       "validUntilDT": "2024-05-17T11:45:34.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtubU9tZPwYevcvbM6bcs+tlj9aIxzmtLPjl2IxNHkkLTdXKw6C0dTryjKhfT3GcnpB4KyJFWNiBgNhvSEV13dA=="
+    },
+    "02/qsZyiry0=": {
+      "displayName": {
+        "en": "Gov of Bahrain"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-06-01T00:00:00.000Z",
+      "validUntilDT": "2024-06-01T00:00:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAED7I9DYHnOqEDZJV8XKIdAs78gHoNGm1UjuM9WR6an+SUjH0LDWKFUs272hK7X6h1oSB2dsz/vp+RIeX72OmE0Q=="
+    },
+    "CkHpSzTdb3k=": {
+      "displayName": {
+        "en": "Gov of New Zealand"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-06-29T02:47:26.000Z",
+      "validUntilDT": "2032-10-24T02:47:25.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAERngymZrUw+m8wh7P5jZaRkEHtAUAUa9ZlV2BcTYAV2GE8wzW0c1kR7RkfWkxMsVPEp6eTSVotWqAW9hk5ld3Kw=="
+    },
+    "GOFjfK1oSww=": {
+      "displayName": {
+        "en": "Gov of New Zealand"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-06-29T02:51:31.000Z",
+      "validUntilDT": "2032-10-24T02:51:30.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEOUmBgvYngVlTv9vU2EL/Wqjc/Tklfk0PXqu4km6osE9HfdH2I4TA1n3XWTtjArJCVNohGq8P2cjTmfne4eFHpQ=="
+    },
+    "L34763CzxPE=": {
+      "displayName": {
+        "en": "Gov of New Zealand"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-06-29T02:30:15.000Z",
+      "validUntilDT": "2032-10-24T02:30:14.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEu5R/LW1zow+KAlPM4QTNdf6ZD2hoVB+P6hSlqmvdUCGGzNQ3HXoEa7fg1Nw0Rxcsr03aw9Vl6jT+sRWqKmrhTg=="
+    },
+    "Sm+mnVD3epY=": {
+      "displayName": {
+        "en": "Gov of New Zealand"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-06-29T02:34:56.000Z",
+      "validUntilDT": "2032-10-24T02:34:55.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE4tC0KDq7iKx1mp+erBBMvcRXHiChqzoh4wh8j35Nt1HQDMe7l7hzGK+HgaYIsLZNlg66JspQ35upwp1mQbTNRw=="
+    },
+    "dD4lxgwMRCA=": {
+      "displayName": {
+        "en": "Gov of New Zealand"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-06-29T02:43:13.000Z",
+      "validUntilDT": "2032-10-24T02:43:12.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEJydbfm+u2vubDE3arpZdTlRrhgmdwUlEEArEOovkN2pTIDsCQ75OgK1HmtCAKRAasC44TZqQ/ACGKspmZlrviw=="
+    },
+    "hJV730LIThk=": {
+      "displayName": {
+        "en": "Gov of New Zealand"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-06-29T02:22:12.000Z",
+      "validUntilDT": "2032-10-24T02:22:11.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEDvv3qJVKlxeNqstKLZwtOHvRW78ZeGuSQtkRB1X5gsfbODf5dXwd/lkPVwvlyZ5IIdzoNDXd6s++DOIDsMo5ug=="
+    },
+    "RRwz+Y7YmR8=": {
+      "displayName": {
+        "en": "Gov of South Korea"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-05-26T04:54:04.000Z",
+      "validUntilDT": "2024-05-25T04:54:04.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEWDzo58FOiRSg/eVPYGMMMFj4dgE1BtJOpkn2gmi7MNHBHPFXlcdeT1MA3tLSiQEE9nGJRYasnUVRdfkshxycWA=="
     }
   },
   "SHC": {
