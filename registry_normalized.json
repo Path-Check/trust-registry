@@ -11348,6 +11348,301 @@
       "validFromDT": "2022-06-30T22:15:26.000Z",
       "validUntilDT": "2024-06-30T22:15:26.000Z",
       "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAv+b4ktiqqFml/L9nydMUEkq2OI3FYgfD1ErjizKn5WCfD3ggdu3KsVPTkS09JFx62/bzlHWECnyYjppXW6nFyZ4zl9557p5HYsgFFlsYv9SKP5JYovtnuJUgyc/wlo4lPeXMNMqSxSH+lHMRDdDWDHBxGdWoyNI0VXSkNTiASWf3TwnI0oeQQ09IpodY72iLQMCjYFqeotl0RR/8y1E+AOu1jvXXYH5y8SpHxiPGIbsmjXKv85mjfQvcXtNnw752zK5pfuv0iItEpbjGIKsec4xi8lUr8fAtwPwoo3jbGGWAdDJtkrLQuc5Iz8/OhoFiwJnaJSbbl6bvAlKGWEFTpwIDAQAB"
+    },
+    "1mhJAPkGoTI=": {
+      "displayName": {
+        "en": "Gov of the Netherlands"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "v"
+      ],
+      "validFromDT": "2022-06-29T10:49:18.000Z",
+      "validUntilDT": "2033-06-26T10:49:18.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEoCWU2Q6uXujdA4EOy+4vv5IdEtyAvtmryWjNS7NFLpvpw0W1YKFPA241lF6zQNkP8Fj3ycA2gsXDhPVPCYgOFw=="
+    },
+    "Fk97A2WHdKk=": {
+      "displayName": {
+        "en": "Gov of the Netherlands"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "v"
+      ],
+      "validFromDT": "2022-06-29T10:50:07.000Z",
+      "validUntilDT": "2033-06-26T10:50:07.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE1GUqD3ChA0ecWyJBWG8rmmcNGQY05EeULUx0NaIKAxLrYUBgeu4XaqbX9cnq5ktoNLKF8t7J7zmtDOrKRZJQFA=="
+    },
+    "GHEPcIekXjA=": {
+      "displayName": {
+        "en": "Gov of the Netherlands"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t"
+      ],
+      "validFromDT": "2022-06-29T09:21:03.000Z",
+      "validUntilDT": "2033-06-26T09:21:03.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEywngJdR5rkk/5ZRqQu44M66x2yefN90TB69TOo/FIUUSk0BWlNSO1WSGmAYBhTO+uHaYIqiFCJxBEnDdzPQMfQ=="
+    },
+    "K57kn2CzOZM=": {
+      "displayName": {
+        "en": "Gov of the Netherlands"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "r"
+      ],
+      "validFromDT": "2022-06-29T09:15:18.000Z",
+      "validUntilDT": "2033-06-26T09:15:18.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEo3oZOKt2xk/GcnP03wpNmVKOGWbNRMWC+ALdlW66jyZgLxpU27AcC3QO6t/t42Cyxu9HfV9kM5qjOCBAGgdDSw=="
+    },
+    "R1cBKUcYM7k=": {
+      "displayName": {
+        "en": "Gov of the Netherlands"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "r"
+      ],
+      "validFromDT": "2022-06-29T09:17:29.000Z",
+      "validUntilDT": "2033-06-26T09:17:29.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEmOloh2Tl2OkWwkLz6LcLcb0km+UEagPv2DGGZqheQMR+K7GpEv7MK8cT34377cW3JbzU+rFm9qRkv7pmOFo+4A=="
+    },
+    "SqxWbzIFRso=": {
+      "displayName": {
+        "en": "Gov of the Netherlands"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t"
+      ],
+      "validFromDT": "2022-06-29T09:22:52.000Z",
+      "validUntilDT": "2033-06-26T09:22:52.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEu0UBHnb4JBvjoYzsbkvXPHm2yqt3HNm4ytS9rxr8bJXHdVA6EhCH0OIXZZj6n7fT5WduzXfTa0yfIohL8n/j3g=="
+    },
+    "oEki3VGflrs=": {
+      "displayName": {
+        "en": "Gov of the Netherlands"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "r"
+      ],
+      "validFromDT": "2022-06-29T09:18:55.000Z",
+      "validUntilDT": "2033-06-26T09:18:55.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEYVJOSIFiDNfYQqKQSzezcJzsYm1EHY+ph500bFESM0GPmb9XQEHbsvdTvzCwSl01iN56KNbY9POqcC33ECmxVQ=="
+    },
+    "weM+F/cIulM=": {
+      "displayName": {
+        "en": "Gov of the Netherlands"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "v"
+      ],
+      "validFromDT": "2022-06-29T10:39:03.000Z",
+      "validUntilDT": "2033-06-26T10:39:03.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEMjRYS1au2N/zK6T4Q+gAEkK3CHrPUbcvOjF4JZ47jnRqadJvsrTW73hB6ssXr672071qDJ+N6eDxI8PJeT/eUw=="
+    },
+    "z27pPcNC70s=": {
+      "displayName": {
+        "en": "Gov of the Netherlands"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t"
+      ],
+      "validFromDT": "2022-06-29T09:55:51.000Z",
+      "validUntilDT": "2033-06-26T09:55:51.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE2EgoE31SdHpCR0wn5dIqdfk9+oJzsiISn7jpFB1UBVcn/vjut4+7D4JweDnyoHMJBL7U83gR1V+Pj6yEiGoo5w=="
+    },
+    "F3g5fqyS1BE=": {
+      "displayName": {
+        "en": "Gov of Lebanon"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "v"
+      ],
+      "validFromDT": "2022-07-01T10:39:02.000Z",
+      "validUntilDT": "2023-01-01T11:39:02.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEPDu2S+2+7CbtfSiIy1sDrgBQ/H2ghNX8P02Bacoo7234Gp4E6TE3YvIsg/6is4dZC2BP5TL/3rDj4wlOdnU5HA=="
+    },
+    "blJfz2yN0Rw=": {
+      "displayName": {
+        "en": "Gov of Madagascar"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-05-18T11:45:34.000Z",
+      "validUntilDT": "2024-05-17T11:45:34.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtubU9tZPwYevcvbM6bcs+tlj9aIxzmtLPjl2IxNHkkLTdXKw6C0dTryjKhfT3GcnpB4KyJFWNiBgNhvSEV13dA=="
+    },
+    "02/qsZyiry0=": {
+      "displayName": {
+        "en": "Gov of Bahrain"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-06-01T00:00:00.000Z",
+      "validUntilDT": "2024-06-01T00:00:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAED7I9DYHnOqEDZJV8XKIdAs78gHoNGm1UjuM9WR6an+SUjH0LDWKFUs272hK7X6h1oSB2dsz/vp+RIeX72OmE0Q=="
+    },
+    "CkHpSzTdb3k=": {
+      "displayName": {
+        "en": "Gov of New Zealand"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-06-29T02:47:26.000Z",
+      "validUntilDT": "2032-10-24T02:47:25.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAERngymZrUw+m8wh7P5jZaRkEHtAUAUa9ZlV2BcTYAV2GE8wzW0c1kR7RkfWkxMsVPEp6eTSVotWqAW9hk5ld3Kw=="
+    },
+    "GOFjfK1oSww=": {
+      "displayName": {
+        "en": "Gov of New Zealand"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-06-29T02:51:31.000Z",
+      "validUntilDT": "2032-10-24T02:51:30.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEOUmBgvYngVlTv9vU2EL/Wqjc/Tklfk0PXqu4km6osE9HfdH2I4TA1n3XWTtjArJCVNohGq8P2cjTmfne4eFHpQ=="
+    },
+    "L34763CzxPE=": {
+      "displayName": {
+        "en": "Gov of New Zealand"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-06-29T02:30:15.000Z",
+      "validUntilDT": "2032-10-24T02:30:14.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEu5R/LW1zow+KAlPM4QTNdf6ZD2hoVB+P6hSlqmvdUCGGzNQ3HXoEa7fg1Nw0Rxcsr03aw9Vl6jT+sRWqKmrhTg=="
+    },
+    "Sm+mnVD3epY=": {
+      "displayName": {
+        "en": "Gov of New Zealand"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-06-29T02:34:56.000Z",
+      "validUntilDT": "2032-10-24T02:34:55.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE4tC0KDq7iKx1mp+erBBMvcRXHiChqzoh4wh8j35Nt1HQDMe7l7hzGK+HgaYIsLZNlg66JspQ35upwp1mQbTNRw=="
+    },
+    "dD4lxgwMRCA=": {
+      "displayName": {
+        "en": "Gov of New Zealand"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-06-29T02:43:13.000Z",
+      "validUntilDT": "2032-10-24T02:43:12.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEJydbfm+u2vubDE3arpZdTlRrhgmdwUlEEArEOovkN2pTIDsCQ75OgK1HmtCAKRAasC44TZqQ/ACGKspmZlrviw=="
+    },
+    "hJV730LIThk=": {
+      "displayName": {
+        "en": "Gov of New Zealand"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-06-29T02:22:12.000Z",
+      "validUntilDT": "2032-10-24T02:22:11.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEDvv3qJVKlxeNqstKLZwtOHvRW78ZeGuSQtkRB1X5gsfbODf5dXwd/lkPVwvlyZ5IIdzoNDXd6s++DOIDsMo5ug=="
+    },
+    "RRwz+Y7YmR8=": {
+      "displayName": {
+        "en": "Gov of South Korea"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-05-26T04:54:04.000Z",
+      "validUntilDT": "2024-05-25T04:54:04.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEWDzo58FOiRSg/eVPYGMMMFj4dgE1BtJOpkn2gmi7MNHBHPFXlcdeT1MA3tLSiQEE9nGJRYasnUVRdfkshxycWA=="
+    },
+    "pvKR9AI12vs=": {
+      "displayName": {
+        "en": "Gov of New Zealand"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-06-29T02:39:01.000Z",
+      "validUntilDT": "2032-10-24T02:39:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE63HhqBod+WiqRGfpvUcki8LIhIUH//B7j6xAZhvJGJuASmrIJvXUdFdBE3G2kU7cmjt4R7AkCOu0w+sgHovmFw=="
+    },
+    "pZvS5IWUMlU=": {
+      "displayName": {
+        "en": "Gov of Kosovo"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-07-05T20:23:11.000Z",
+      "validUntilDT": "2024-07-05T20:23:11.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEyntT8VHoJ/WwxU887u+S4rqTOLUhjztrdtVn6bT2ngjRXxB4VRfmhey4vv55PuT3nYIs7WyCq01gZQdYEKytKg=="
     }
   },
   "SHC": {
