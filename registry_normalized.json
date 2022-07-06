@@ -11613,6 +11613,36 @@
       "validFromDT": "2022-05-26T04:54:04.000Z",
       "validUntilDT": "2024-05-25T04:54:04.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEWDzo58FOiRSg/eVPYGMMMFj4dgE1BtJOpkn2gmi7MNHBHPFXlcdeT1MA3tLSiQEE9nGJRYasnUVRdfkshxycWA=="
+    },
+    "pvKR9AI12vs=": {
+      "displayName": {
+        "en": "Gov of New Zealand"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-06-29T02:39:01.000Z",
+      "validUntilDT": "2032-10-24T02:39:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE63HhqBod+WiqRGfpvUcki8LIhIUH//B7j6xAZhvJGJuASmrIJvXUdFdBE3G2kU7cmjt4R7AkCOu0w+sgHovmFw=="
+    },
+    "pZvS5IWUMlU=": {
+      "displayName": {
+        "en": "Gov of Kosovo"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-07-05T20:23:11.000Z",
+      "validUntilDT": "2024-07-05T20:23:11.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEyntT8VHoJ/WwxU887u+S4rqTOLUhjztrdtVn6bT2ngjRXxB4VRfmhey4vv55PuT3nYIs7WyCq01gZQdYEKytKg=="
     }
   },
   "SHC": {
