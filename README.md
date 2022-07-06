@@ -60,6 +60,7 @@ The CSV file has the following collumns, formatted accordingly:
 - [x] State of Nevada
 <details>
   <summary>Show More</summary>
+  
 - [x] State of New Jersey
 - [x] State of New Mexico
 - [x] State of New York
