@@ -11634,7 +11634,7 @@
         "en": "Gov of Kosovo"
       },
       "entityType": "issuer",
-      "status": "current",
+      "status": "terminated",
       "credentialType": [
         "t",
         "v",
@@ -11643,6 +11643,21 @@
       "validFromDT": "2022-07-05T20:23:11.000Z",
       "validUntilDT": "2024-07-05T20:23:11.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEyntT8VHoJ/WwxU887u+S4rqTOLUhjztrdtVn6bT2ngjRXxB4VRfmhey4vv55PuT3nYIs7WyCq01gZQdYEKytKg=="
+    },
+    "UsQyhCf8Lyc=": {
+      "displayName": {
+        "en": "Gov of Kosovo"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-07-06T10:18:43.000Z",
+      "validUntilDT": "2024-07-06T10:18:43.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEQOy6l5mYfM7k/Z2GUEO5DBvoI/yGl3AckbpVwv5s4Gd3uQHEetIXQgX6JziE0rFlvsl9lDyyYgmK6kDgJQYByQ=="
     }
   },
   "SHC": {
@@ -19432,7 +19447,7 @@
     },
     "https://www.international.gc.ca/gac-amc/assets/json#I5DRdYrpTIXAGrV_DBISTM41I6ZRPegcHDhHR0rzxDI": {
       "displayName": {
-        "en": ""
+        "en": "Global Affairs Canada"
       },
       "entityType": "issuer",
       "status": "current",
@@ -19444,7 +19459,7 @@
     },
     "https://www.international.gc.ca/gac-amc/assets/json#iZZ94jAeytPZoKFlL-J5062TPUDehImz7CWChJU6Qis": {
       "displayName": {
-        "en": ""
+        "en": "Global Affairs Canada"
       },
       "entityType": "issuer",
       "status": "current",
@@ -20370,6 +20385,19 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEw1/bhC3qJ1n9xazkpKJyndYnF6deGHGOBAGbU5le/genhC5nEJgYa9EETPppIG0cNiCPB/lC7L4ciaYuJi1c/A=="
+    },
+    "https://epicproxy.et1030.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#7Ew8XQNna_zgQ6Tq9kNMPCsxzAnFbK6_Mm2TZRXjQ-Q": {
+      "displayName": {
+        "en": "St. Charles Health System"
+      },
+      "displayURL": "https://www.stcharleshealthcare.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEZc4IXsGaRzsjOq5fbomPmg056yIbE9adMEwSzt5u0kHm2DENJm+5DwUUDYkNriQcoZM3eJtQ4hiiJajet5MlyQ=="
     }
   }
 }

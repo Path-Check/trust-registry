@@ -11636,7 +11636,7 @@
         "en": "Gov of Kosovo"
       },
       "entityType": "issuer",
-      "status": "current",
+      "status": "terminated",
       "credentialType": [
         "t",
         "v",
@@ -11645,6 +11645,21 @@
       "validFromDT": "2022-07-05T20:23:11.000Z",
       "validUntilDT": "2024-07-05T20:23:11.000Z",
       "didDocument": "-----BEGIN CERTIFICATE-----\nMIICCzCCAXSgAwIBAgIBJzANBgkqhkiG9w0BAQsFADBvMSYwJAYDVQQDDB1CSElTIE5hdGlvbmFsIGVIZWFsdGggUm9vdCBDQTEbMBkGA1UECwwSTWluaXN0cnkgb2YgSGVhbHRoMRswGQYDVQQKDBJNaW5pc3RyeSBvZiBIZWFsdGgxCzAJBgNVBAYTAlhLMCIYDzIwMjIwNzA1MjAyMzExWhgPMjAyNDA3MDUyMDIzMTFaMGsxIjAgBgNVBAMMGUJISVMgTmF0aW9uYWwgZUhlYWx0aCBEU0MxGzAZBgNVBAsMEk1pbmlzdHJ5IG9mIEhlYWx0aDEbMBkGA1UECgwSTWluaXN0cnkgb2YgSGVhbHRoMQswCQYDVQQGEwJYSzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABMp7U/FR6Cf1sMVPPO7vkuK6kzi1IY87a3bVZ+m09p4I0V8QeFUX5oXsuL7+eT7k952CLO1sgqtNYGUHWBCsrSowDQYJKoZIhvcNAQELBQADgYEAUYB4ulwizxqD3KMZe8xrVmt7IUfFVAtYrJq24d7wRKLKXRiBzN9T38VJP7GTzwMLbfJ5bivRaY1yshb2KIPaA+fPOIeKtVsP1eokLvEahNS9WII29kabx9hOE2buPRwqG5/ehUKOCRH2/2acVDbaCaZvRx4Aj46yiP377RB/BRI=\n-----END CERTIFICATE-----"
+    },
+    "UsQyhCf8Lyc=": {
+      "displayName": {
+        "en": "Gov of Kosovo"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-07-06T10:18:43.000Z",
+      "validUntilDT": "2024-07-06T10:18:43.000Z",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIICCzCCAXSgAwIBAgIBODANBgkqhkiG9w0BAQsFADBvMSYwJAYDVQQDDB1CSElTIE5hdGlvbmFsIGVIZWFsdGggUm9vdCBDQTEbMBkGA1UECwwSTWluaXN0cnkgb2YgSGVhbHRoMRswGQYDVQQKDBJNaW5pc3RyeSBvZiBIZWFsdGgxCzAJBgNVBAYTAlhLMCIYDzIwMjIwNzA2MTAxODQzWhgPMjAyNDA3MDYxMDE4NDNaMGsxIjAgBgNVBAMMGUJISVMgTmF0aW9uYWwgZUhlYWx0aCBEU0MxGzAZBgNVBAsMEk1pbmlzdHJ5IG9mIEhlYWx0aDEbMBkGA1UECgwSTWluaXN0cnkgb2YgSGVhbHRoMQswCQYDVQQGEwJYSzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABEDsupeZmHzO5P2dhlBDuQwb6CP8hpdwHJG6VcL+bOBnd7kBxHrSF0IF+ic4hNKxZb7JfZQ8smIJiupA4CUGAckwDQYJKoZIhvcNAQELBQADgYEAK/VKUp2AB02NE9MGrv+oxyUtnpexVqcpOumtBUgp+P7peCEa42xgbFxFVdrhsYsVpKW94mlIEfns7rPU38AWDoiMajypKL1cssbMcF2DvERipzMUGrF0hx8Q23Dm1rVeQRAELr46RTYPPNbMMoHD0FXIIu1n+WKJL81o2sJiiVE=\n-----END CERTIFICATE-----"
     }
   },
   "SmartHealthCards": {
@@ -24790,7 +24805,7 @@
       "validFromDT": "2021-01-01T01:00:00.000Z",
       "didDocument": {
         "alg": "ES256",
-        "crlVersion": 295,
+        "crlVersion": 307,
         "crv": "P-256",
         "kid": "TKPyzMtKh7WQaCzsw6rOK8ZUOZlND2VcBwhFIIcCqUE",
         "kty": "EC",
@@ -25829,6 +25844,27 @@
         "x": "w1_bhC3qJ1n9xazkpKJyndYnF6deGHGOBAGbU5le_gc",
         "y": "p4QuZxCYGGvRBEz6aSBtHDYgjwf5Quy-HImmLiYtXPw",
         "kid": "yMKx_IeaZkm9qVTh8hYzU0GFmS78a94I2ksJ-1xSzx8",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epicproxy.et1030.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#7Ew8XQNna_zgQ6Tq9kNMPCsxzAnFbK6_Mm2TZRXjQ-Q": {
+      "displayName": {
+        "en": "St. Charles Health System"
+      },
+      "displayURL": "https://www.stcharleshealthcare.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "Zc4IXsGaRzsjOq5fbomPmg056yIbE9adMEwSzt5u0kE",
+        "y": "5tgxDSZvuQ8FFA2JDa4kHKGTN3ibUOIYoiWo3reTJck",
+        "kid": "7Ew8XQNna_zgQ6Tq9kNMPCsxzAnFbK6_Mm2TZRXjQ-Q",
         "use": "sig",
         "kty": "EC",
         "alg": "ES256",
