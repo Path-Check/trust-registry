@@ -24805,7 +24805,7 @@
       "validFromDT": "2021-01-01T01:00:00.000Z",
       "didDocument": {
         "alg": "ES256",
-        "crlVersion": 312,
+        "crlVersion": 317,
         "crv": "P-256",
         "kid": "TKPyzMtKh7WQaCzsw6rOK8ZUOZlND2VcBwhFIIcCqUE",
         "kty": "EC",
@@ -25142,7 +25142,7 @@
     },
     "https://dvc.mohw.gov.tw#e321KG2oVcL8QVUG59NKlgEg20kkJwiqpJ9jBvZdz-o": {
       "displayName": {
-        "en": "Government of Taiwan"
+        "en": "Taiwan"
       },
       "displayURL": "https://www.mohw.gov.tw/mp-2.html",
       "entityType": "issuer",
@@ -25890,6 +25890,27 @@
         "crv": "P-256",
         "x": "Me3J4DxPWF2V_ZS8aTmkzA7l0hDpd2h_MUnu_aTYc8M",
         "y": "B8G41DyRJFUFa9xuoQULrFNmDK3RsG4GpWBDNaxnaPY"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epicedi.leememorial.org/FHIR-prd/api/epic/2021/Security/Open/EcKeys/32001/SHC#u2vVlB0dvaWy1ZkXEDUmiVg4LAeZCWxuwqAFWc_HrVI": {
+      "displayName": {
+        "en": "Lee Health"
+      },
+      "displayURL": "https://www.leehealth.org/covid-19-vaccine/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "dNFgo4-ORd7i1zozAYzzd0pc5tUN0scw6wmWI1K0Hz8",
+        "y": "uka0T22jsGHH2Mi3TpC71yC1WL_kLjk2moTktvdlXSc",
+        "kid": "u2vVlB0dvaWy1ZkXEDUmiVg4LAeZCWxuwqAFWc_HrVI",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
       },
       "credentialType": [
         "https://smarthealth.cards#immunization"
