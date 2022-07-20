@@ -11658,6 +11658,111 @@
       "validFromDT": "2022-07-06T10:18:43.000Z",
       "validUntilDT": "2024-07-06T10:18:43.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEQOy6l5mYfM7k/Z2GUEO5DBvoI/yGl3AckbpVwv5s4Gd3uQHEetIXQgX6JziE0rFlvsl9lDyyYgmK6kDgJQYByQ=="
+    },
+    "1zK8NJAcco4=": {
+      "displayName": {
+        "en": "Gov of Chile"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-07-06T10:18:43.000Z",
+      "validUntilDT": "2024-07-06T10:18:43.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEsG7Rt8Zs7NzNAGoCmuJJAdoJgdN5a565v+/I0HMUPdYrzwwzE996cB6oSnryESkSZN3+Zxykq3C6M8hio+ov+Q=="
+    },
+    "dRaoglJBOPs=": {
+      "displayName": {
+        "en": "Gov of Colombia"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-07-06T10:18:43.000Z",
+      "validUntilDT": "2024-07-06T10:18:43.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEF1ol2FDeF/TXHKYceLe34dZ6VCpoQgcNyamJ/anzwar9yliPaey4R4gldaZm1ztVwsh+qr19XnLL+vn3HePa5w=="
+    },
+    "8icT6vzL7Rg=": {
+      "displayName": {
+        "en": "Gov of Ecuador"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-07-06T10:18:43.000Z",
+      "validUntilDT": "2024-07-06T10:18:43.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEPlqDTWtbsjLIijMpCYhqnj27Q8I6ITFbXW+Bc9/BVxTLwuaVoFcfl487JIREGr34huxSQqBSJV/CtR1L5Vlo3A=="
+    },
+    "Y95t4KMGwww=": {
+      "displayName": {
+        "en": "Gov of Peru"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-07-06T10:18:43.000Z",
+      "validUntilDT": "2024-07-06T10:18:43.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEpo2OENZhnqO6VQjSJ8jNIo7ut1P6R4s8YY6koFz3XoGY+j78hzHBhg3Kk1gcW5LWQS/ymGqWNLdUVjvl031QSQ=="
+    },
+    "mtvkV3qrrDQ=": {
+      "displayName": {
+        "en": "Gov of Paraguay"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-07-06T10:18:43.000Z",
+      "validUntilDT": "2024-07-06T10:18:43.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEaOVB6yngy83gwPBwxE0NuZuNvhLKlMHt/pMdQID/WA84xWulPoO8brJ7TpT+6HW/GSla/HHLi4yraRaWbe5+oQ=="
+    },
+    "jd4FUVxAJjY=": {
+      "displayName": {
+        "en": "Gov of Suriname"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-07-06T10:18:43.000Z",
+      "validUntilDT": "2024-07-06T10:18:43.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEO2yDyYNEY26MjPfAnaapY1fvWAWIthh0lunN99Yv9YwhiZM0buFWjQzE0BceCye+rSS63umGpBFe0yWAhYm46Q=="
+    },
+    "BU47qZy5zME=": {
+      "displayName": {
+        "en": "Gov of El Salvador"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-07-06T10:18:43.000Z",
+      "validUntilDT": "2024-07-06T10:18:43.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEVatjrbsNHMyyPxQS6Nj3DoLyGTa1eLF3MQgvNqyyCCYyi3GalLhMfmZxD/qvnGbGS4IhZdFa77MBSoAsrvlMvw=="
     }
   },
   "SHC": {
