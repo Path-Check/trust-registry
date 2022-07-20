@@ -74,7 +74,8 @@ export async function update(registry) {
   const res = await fetch('https://de.dscg.ubirch.com/trustList/DSC', {method: 'GET', mode: 'no-cors'})
   const DSC = JSON.parse((await res.text()).split('\n')[1])
 
-  const currentCerts = ['AM6ZZ6DrF1I=', 'tK6wRrcGVbk=']; // Keys from Uruguay and Singapore are fixed.
+  const currentCerts = ['AM6ZZ6DrF1I=', 'tK6wRrcGVbk=', "1zK8NJAcco4=", "dRaoglJBOPs=", "8icT6vzL7Rg=", 
+  "Y95t4KMGwww=", "mtvkV3qrrDQ=", "jd4FUVxAJjY=", "BU47qZy5zME="]; // Keys from Uruguay, Lacpass and Singapore are fixed.
 
   DSC.certificates.forEach((e) => {
     currentCerts.push(e.kid);
@@ -124,61 +125,6 @@ export async function update(registry) {
       }
     }
   }); 
-
-
-  /**
-
-  UK Keys merged with the EU Gateway on Oct 28, 2022
-
-  const resUK = await fetch('https://covid-status.service.nhsx.nhs.uk/pubkeys/keys.json', {method: 'GET', mode: 'no-cors'})
-  const UKKeys = JSON.parse(await resUK.text());
-  
-  UKKeys.forEach((e) => {
-    currentCerts.push(e.kid);
-
-    let displayName = "Gov of the United Kingdom";
-    let pubKeyPEM = getPublicKeyPEM(e.publicKey);
-    
-    let newReg = {
-      "displayName": {  "en": displayName },
-      "entityType": "issuer",
-      "status": "current",
-      "credentialType": ['t', 'v', 'r'],
-      "validFromDT": "2021-01-01T01:00:00.000Z",
-      "didDocument": pubKeyPEM
-    }
-
-    if (!registry["EUDCC"][e.kid]) {
-      console.log(colors.added, e.kid, 'has been added', newReg);
-    } else {
-      const oldReg = registry["EUDCC"][e.kid];
-
-      let changed = false;
-      if (newReg.validFromDT !== oldReg.validFromDT) {
-        console.log(colors.modified, e.kid, 'has changed Valid From Date', newReg.validFromDT, oldReg.validFromDT);
-        oldReg.validFromDT = newReg.validFromDT;
-        changed = true;
-      }
-      if (newReg.validUntilDT !== oldReg.validUntilDT) {
-        console.log(colors.modified, e.kid, 'has changed Valid Until Date', newReg.validUntilDT, oldReg.validUntilDT);
-        oldReg.validUntilDT = newReg.validUntilDT;
-        changed = true;
-      }
-      if (newReg.didDocument !== oldReg.didDocument) {
-        console.log(colors.modified, e.kid, 'has changed Public Key PEM', newReg.didDocument, oldReg.didDocument);
-        changed = true;
-      }
-      if (!deepEqual(newReg.credentialType, oldReg.credentialType)) {
-        console.log(colors.modified, e.kid, 'has changed credential types', newReg.credentialType, oldReg.credentialType);
-        oldReg.credentialType = newReg.credentialType;
-        changed = true;
-      }
-      if (!changed) {
-        console.log(colors.unchanged, displayName + " (" + e.kid + ")");
-      }
-    }
-  });  
-   */
 
   Object.entries(registry["EUDCC"]).forEach(([k,v]) => {
     if (!currentCerts.includes(k) && v.status === "current") {
