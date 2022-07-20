@@ -8,7 +8,8 @@
     "test": "mocha --experimental-json-modules tests/*.mjs --exit",
     "update": "node --experimental-json-modules scripts/update.mjs",
     "normalize": "node --experimental-json-modules scripts/normalize.mjs",
-    "flatten": "node --experimental-json-modules scripts/flatten.mjs"
+    "flatten": "node --experimental-json-modules scripts/flatten.mjs",
+    "fix_dates": "node --experimental-json-modules scripts/fix_dates.mjs"
   },
   "repository": {
     "type": "git",
