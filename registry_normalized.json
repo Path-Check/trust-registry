@@ -20529,6 +20529,32 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEdNFgo4+ORd7i1zozAYzzd0pc5tUN0scw6wmWI1K0Hz+6RrRPbaOwYcfYyLdOkLvXILVYv+QuOTaahOS292VdJw=="
+    },
+    "https://rpsouth.catholichealth.net/fhir/api/epic/2021/Security/Open/EcKeys/32001/SHC#DycAtkoQV5M2g9UMtsOC7D07rCaQM91phKbS4FuzAgU": {
+      "displayName": {
+        "en": "CommonSpirit Health"
+      },
+      "displayURL": "https://www.commonspirit.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEdRnBAmwT+Q9zE1WZ9v6UfLlu7CcXQzoYYQYE7E4RG2qMMqzdGOu1k0/ipCaAIxooZjmXg3ac2mZh7lI1XLmE0w=="
+    },
+    "https://external.fastmed.com/FHIRproxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#zWvWe-FEE5LXNs8BHbL3cMpu9vqvMz5yla9M9rFUjyY": {
+      "displayName": {
+        "en": "FastMed"
+      },
+      "displayURL": "https://www.fastmed.com/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAElrBei6Cngws2+nxry/X05OchwzsgACklqBg5GbvRmL/zXgEbQ2TlwjOpzatB4hQz7y+OBKUb/pnzhh7M1DIC9A=="
     }
   }
 }
