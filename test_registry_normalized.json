@@ -1,5 +1,36 @@
 {
-  "CRED": {},
+  "CRED": {
+    "1A9.PCF.PW": {
+      "displayName": {
+        "en": "PathCheck Test Keys"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-02-29T01:25:35.057Z",
+      "credentialType": [
+        "BADGE",
+        "STATUS",
+        "COUPON",
+        "PASSKEY"
+      ],
+      "publicKey": "MFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAE/PzeViu5gQyb4rNf4wZfyM2vLF4Fb4+fZFeIXXULUOveFZ6uNNwpKoBlKfsgiqbWBQMa/v1uOC5aHEhaGEW57g=="
+    },
+    "KEYS.PATHCHECK.ORG": {
+      "displayName": {
+        "en": "PathCheck Test Keys"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-02-29T01:25:35.057Z",
+      "credentialType": [
+        "BADGE",
+        "STATUS",
+        "COUPON",
+        "PASSKEY"
+      ],
+      "publicKey": "MFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAE6DeIun4EgMBLUmbtjQw7DilMJ82YIvOR2jz/IK0R/F7/zXY1z+gqvFXfDcJqR5clbAYlO9lHmvb4lsPLZHjugQ=="
+    }
+  },
   "ICAO": {},
   "DIVOC": {},
   "DCC": {
@@ -1126,7 +1157,7 @@
     },
     "Rjene8QvRwA=": {
       "displayName": {
-        "en": "Test Keys for the DCC"
+        "en": "PathCheck Test Keys"
       },
       "entityType": "issuer",
       "status": "current",

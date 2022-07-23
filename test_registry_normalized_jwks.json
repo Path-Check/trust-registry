@@ -1,5 +1,46 @@
 {
-  "CRED": {},
+  "CRED": {
+    "1A9.PCF.PW": {
+      "displayName": {
+        "en": "PathCheck Test Keys"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-02-29T01:25:35.057Z",
+      "credentialType": [
+        "BADGE",
+        "STATUS",
+        "COUPON",
+        "PASSKEY"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "_PzeViu5gQyb4rNf4wZfyM2vLF4Fb4-fZFeIXXULUOs",
+        "y": "3hWerjTcKSqAZSn7IIqm1gUDGv79bjguWhxIWhhFue4",
+        "crv": "secp256k1"
+      }
+    },
+    "KEYS.PATHCHECK.ORG": {
+      "displayName": {
+        "en": "PathCheck Test Keys"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-02-29T01:25:35.057Z",
+      "credentialType": [
+        "BADGE",
+        "STATUS",
+        "COUPON",
+        "PASSKEY"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "6DeIun4EgMBLUmbtjQw7DilMJ82YIvOR2jz_IK0R_F4",
+        "y": "_812Nc_oKrxV3w3CakeXJWwGJTvZR5r2-JbDy2R47oE",
+        "crv": "secp256k1"
+      }
+    }
+  },
   "ICAO": {},
   "DIVOC": {},
   "DCC": {
@@ -1519,7 +1560,7 @@
     },
     "Rjene8QvRwA=": {
       "displayName": {
-        "en": "Test Keys for the DCC"
+        "en": "PathCheck Test Keys"
       },
       "entityType": "issuer",
       "status": "current",
