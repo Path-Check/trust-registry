@@ -3,6 +3,1500 @@
   "ICAO": {},
   "DIVOC": {},
   "DCC": {
+    "pgM4dDtABSg=": {
+      "displayName": {
+        "en": "Slovakia Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "W6fufxhi1gBb42JIEHwd-f4dhypR0w8kDHgW_x-JZgM",
+        "y": "edi69EIE9dSi3M7nHN_LUyBpTwPxeOW5korwH1niVB4",
+        "crv": "P-256"
+      }
+    },
+    "X3SRAZXFzss=": {
+      "displayName": {
+        "en": "Sweden Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "FzWPFb4pCXJONcqkz-MsHoHCrEw7FTFpRwDj7w380LM",
+        "y": "6fVP_3XaVr1JDDivPPJgeqgL4j5ZXDCSRVwM6KNvoH4",
+        "crv": "P-256"
+      }
+    },
+    "vGebfy0Ro5k=": {
+      "displayName": {
+        "en": "Holy See (Vatican City State) Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "eeqpML6eR2NB906QeKTaMjRJGGSGWPuNrYNKGC88Pkw",
+        "y": "Lewoy6pWg5A5woZsRJ8LsCxHwkCmjgd30-AryZvaKu8",
+        "crv": "P-256"
+      }
+    },
+    "CFUoOhVtOgo=": {
+      "displayName": {
+        "en": "Poland Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "FvlXRFujlBzXIBXFHJdou39COYjhYbeqxd_zVagfovY",
+        "y": "Uf4oj5iGnAuem1TSotax-FUgvn-GbcUg7BTrL-ePAQQ",
+        "crv": "P-256"
+      }
+    },
+    "GO0rf1TneQQ=": {
+      "displayName": {
+        "en": "Poland Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "vIt6jL8YRDbg_J6FqsmiKUnl2DRGHK9LW2hj2oXUNX8",
+        "y": "ahRH9vUh9GTHynUDeqDk95kCvKlF24kQb9Sg7QVgSxg",
+        "crv": "P-256"
+      }
+    },
+    "Ol12Ruv8LLo=": {
+      "displayName": {
+        "en": "Poland Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "7ZecCrW-7MqENkc1lIDXgazpr4sXreUTf1YC5-1lYTY",
+        "y": "Ny9XhUbq5ERvY4vjHOt_-k87tnChsKhn5RePm8sBhOI",
+        "crv": "P-256"
+      }
+    },
+    "v58a8hf49kE=": {
+      "displayName": {
+        "en": "San Marino Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "B5WoESvabtzS4vCd04PToefLnRmsoCzUFcJNS1kAIno",
+        "y": "JGhO4HON4EwgAX_fNrxsIat8SdnFHG2SSHJHjJT9Qdo",
+        "crv": "P-256"
+      }
+    },
+    "h4NjE+gbkic=": {
+      "displayName": {
+        "en": "Ukraine Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "7bsg5USrEFBhIDJh5c0Ggq7i8t-ss2Ei8Nb-mkWnPuo",
+        "y": "5t6QHzsyNjJrzlBDUQOmO1dutijnQHyvOgshEshGmAY",
+        "crv": "P-256"
+      }
+    },
+    "lHHRhMo9GWg=": {
+      "displayName": {
+        "en": "Belgium Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "S0WaB-wj6gZtAxyarewP7DwNVFxqGzcR_nHGkxWdfSQ",
+        "y": "O0rCl159NPKftq2YrnpuKkJDf5rsV9aW7v26xbLWjYE",
+        "crv": "P-256"
+      }
+    },
+    "uxvl+dsyrBw=": {
+      "displayName": {
+        "en": "Greece Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "Bcc6ApRZrh9_qCuMnxIRpUujI19bKkG-agj_6rPOiX8",
+        "y": "Fcs31r4abc1dNePQBUVnUqBfzVbkMhXKwaDQai_cwgI",
+        "crv": "P-256"
+      }
+    },
+    "HBDru8SfeDE=": {
+      "displayName": {
+        "en": "United Arab Emirates Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "OO2cZK6qpH8c44XrfxUIF7dxQBpsTDB_LOHO26Orzfg",
+        "y": "gkv1Ueraigf5N-KSlYwqchhOzrkN9zZzgqbpdLdouMc",
+        "crv": "P-256"
+      }
+    },
+    "TfwLMHDXIws=": {
+      "displayName": {
+        "en": "Latvia Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "RAHqm3CP5Y1rUv1AL2IReLm3dUUKTnfza4C7p2W9xwE",
+        "y": "sFb_yHV3E-vUNJZCbHFeUZH9OK1i0vVm7F5FZ-XxsYM",
+        "crv": "P-256"
+      }
+    },
+    "JLxre3vSwyg=": {
+      "displayName": {
+        "en": "Switzerland Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "RSA",
+        "n": "0bVecdVEUBEaB6Uu8VtXrtVnN0Fa9-hAcO0XcjLgLVDB89Y4-huGO94Y93TY43x9eXRRWcNleacBR0OdzDpAUOfdUbvrw2nNSb5OhhKG-mHbuBaImWKpvima0BeK0Gid01IG8u83SKBOabU34WUn5m37mPj0YonqFOyjnyCE1wrnaeG95lh0ZC5WCUB2BqNI4ZZQXwDCCC5STka3l02ZNAIHMoHLmgqAqWbXXS5r41ltumbRRaVGu47pSURpzz_wCZep6HnmhNvOE_T5lNzlolxgcltKc7VZtcoZnK9JFkT7tk4GR2H4mnA1lxAHOkJOaEkZxT6Nrm5r8OvA0ybuMQ",
+        "e": "AQAB"
+      }
+    },
+    "OTAXaM3aBRM=": {
+      "displayName": {
+        "en": "Italy Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "NKnu3zonECaNkWhuaa7TCSKLneydG7CpVZ7f-D_BXP0",
+        "y": "i306XA5iXpHkRPZVUkSZmYhutMDrheg6sfwMRdql3aY",
+        "crv": "P-256"
+      }
+    },
+    "NSbroRZKHVQ=": {
+      "displayName": {
+        "en": "Iceland Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "r_Of2kK3BRGoz6XKyKahGHjjZsK8QQVomXkUUAGwBDk",
+        "y": "xfwdDUk83fE3RYlaiBT16SCw27hXT8quT8GC94kmmTA",
+        "crv": "P-256"
+      }
+    },
+    "xAE9ugovQD4=": {
+      "displayName": {
+        "en": "Iceland Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "xXdzLy6zdYpp5ole_mGhzSKOHSOdntCx5hg1j8TImJ4",
+        "y": "Xf6oHtF_tfMIez_aK2QiGWG8jRxwexJUvRxBANKg12Q",
+        "crv": "P-256"
+      }
+    },
+    "wvF5U2HdbDw=": {
+      "displayName": {
+        "en": "Iceland Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "RSA",
+        "n": "9mbkn_qyxDAxE4moLyAdvokxIYF5SCsMSwa-SBrMy-IljHzYkIN-9-3AKkZe4Qn1MjFDpVcuXhm2yMEYQhwjMcpVuWEvJltYzG-v0JFkwImLbT5B8Trgy6p1kFSE8D0k0-BAfGExTnb3qDjor0FOEDPyPQD-5rOSKmh5cEPFPRgl53cA6KiNh5Tr9YoUtxZL-44r3UgDkklC_YiJQsJBkJNFjlKYdfpsLcL4tH3WVtP0Ugil7Y-745eW_70Tcyiwn0ujvvIVXCm101FVdXzWqgXAxoHXK_GqGbYjBUQ3NP7GUDRKD5o55W2Hu2no4fqIkk_B48Y-ZhoyClAB9g2dyw",
+        "e": "AQAB"
+      }
+    },
+    "bIwe3F4lAk4=": {
+      "displayName": {
+        "en": "Iceland Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "RSA",
+        "n": "9mbkn_qyxDAxE4moLyAdvokxIYF5SCsMSwa-SBrMy-IljHzYkIN-9-3AKkZe4Qn1MjFDpVcuXhm2yMEYQhwjMcpVuWEvJltYzG-v0JFkwImLbT5B8Trgy6p1kFSE8D0k0-BAfGExTnb3qDjor0FOEDPyPQD-5rOSKmh5cEPFPRgl53cA6KiNh5Tr9YoUtxZL-44r3UgDkklC_YiJQsJBkJNFjlKYdfpsLcL4tH3WVtP0Ugil7Y-745eW_70Tcyiwn0ujvvIVXCm101FVdXzWqgXAxoHXK_GqGbYjBUQ3NP7GUDRKD5o55W2Hu2no4fqIkk_B48Y-ZhoyClAB9g2dyw",
+        "e": "AQAB"
+      }
+    },
+    "6jqyJk80bUU=": {
+      "displayName": {
+        "en": "Czechia Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "QLV3BtN60prQ7I1EG5gLwQGsirtPCYl9fCo3_8pqrT8",
+        "y": "wiQbpPMq3fURLkkpr64ggkzn8Ywtm-aq2YYiYDSHO2U",
+        "crv": "P-256"
+      }
+    },
+    "m6so0I2uIyw=": {
+      "displayName": {
+        "en": "Romania Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "Kr13WPR4mLTAxbD8l8bk4fFPn5lM4L2mk6TEeFYe2CQ",
+        "y": "vUfWpeo9WHwGTOBRYJfChwlbq9rPM1lKwEHAPe5UBNQ",
+        "crv": "P-256"
+      }
+    },
+    "iBcf6v0wTGo=": {
+      "displayName": {
+        "en": "common Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "0VonfEc__kr272WsyY7wsFog7a2uK4xQ7Wpwmuq_W24",
+        "y": "78F351QkJ3e5qxmquMRefybpOAY28z0jEYZIM64NZDU",
+        "crv": "P-256"
+      }
+    },
+    "rDaQ7oNhzJY=": {
+      "displayName": {
+        "en": "common Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "EUuBngaTcUm752y2Oejb12duoAidksGoqwSkDrhqg0w",
+        "y": "7dAybJ81MfWwyDf1oUOifnWCsk7KEq8RddRpYPUs4sQ",
+        "crv": "P-256"
+      }
+    },
+    "GUrOLlJ4gqw=": {
+      "displayName": {
+        "en": "common Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "RSA",
+        "n": "hE4q9ZRkAV646aqBSPn7JYQmmTlG3w-gfbWDFSA7ZVnkZfVvOpBMapdoKVyQN8YijEE9tMRHKdYUmRvCKaq6VWI6ZktJ3fiOC45ZLhKwz9xtogy9lLZWF06zDi8nvRCYPyKXHcPbjP6daKQfBQdeC62EVee9Zw-a_cqKqmuMpP2j31C0H1byFrRJD64qPXqbaPbappEdy2ep3RI95fT5L8pC84Z5I96OJ3mEWkvJqb7sZ_C4-Q-ecTXkX1ukQ_y3ytnvPQSLt7LMc4rjJt9G_0l47REHEJuZtZgzJFeF1IwABbLLBCRnXNYutNZPDlVOBmG3a6HNnAiYu7ModY2n2UtmyuRz5_1p5nIp_sTP64jHWXePM9ayp4AzuvSkNd7ZAYcSH287hwT3NWl37hqvFitKMCoJgVjFSxQn70UiIJVdp3nEYxXzgsQ1AbsE0FTkoKL4Qr1qOV5roaO6czikylm5LhWsJ8mRyAtiSKm8Zi-l5-2G77g_KeU8vmbpg4_D",
+        "e": "AQAB"
+      }
+    },
+    "RyE339iCLcc=": {
+      "displayName": {
+        "en": "common Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "RMGgP_wYb8oqXs4p2W1vEGWhxzeNaFrIvbrUSi48L0A",
+        "y": "DrDAERUZCLo_2jKsY082FZpBa8myiGvOHjMBqxcxAiU",
+        "crv": "P-256"
+      }
+    },
+    "WvN+EyYEOGw=": {
+      "displayName": {
+        "en": " Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "WiZEGhzqWDQ-nsNQEjO40FfAHivA04cmSDs_KMBzkHU",
+        "y": "J6U0yUk70g2RqO9Mg_RtOLaKZvWAERvIkUxSQUizjmc",
+        "crv": "P-256"
+      }
+    },
+    "N0IaJHrNGuQ=": {
+      "displayName": {
+        "en": "common Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "qgU9KBs-AfoiO5pwc4rehLF_5Byt163iW7nB1k6R3I4",
+        "y": "XtD5cNA74XBypqrKXw4CbRBnzwgY-whk_M6z2VN0rWY",
+        "crv": "P-256"
+      }
+    },
+    "ZC2xUlhj1/0=": {
+      "displayName": {
+        "en": "common Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "19DRvsOxDufoWpEcWWLw2UhiKVD0UNLy_1vV0h8qLmk",
+        "y": "vz7QjGk4qC8nQB6R6Ci8mJ1QTLBIOK33r351teUQPMw",
+        "crv": "P-256"
+      }
+    },
+    "x0AlG3+naLk=": {
+      "displayName": {
+        "en": "common Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "vt1XdVZwK51Y77VGapPCdz8w8cCXZPVOv72timZysho",
+        "y": "ctTsyeIaM3WpXQPcxFm6h_ZWjz_U00FyQCmRlVx2k-E",
+        "crv": "P-256"
+      }
+    },
+    "n3ogzad6yYM=": {
+      "displayName": {
+        "en": "common Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "JxkCfE0j92MXIrEWIc9sLRvHfl6yPkKLJlqXrnoMA64",
+        "y": "ArQXAUm_hP0zzogLscTDqJj_jrdVznM9dHfCC5aAPUE",
+        "crv": "P-256"
+      }
+    },
+    "El1clRw9fBA=": {
+      "displayName": {
+        "en": "common Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "qth8EXiMtITi0IwWxSmPbn_bz163SMRtXQweqlK67_A",
+        "y": "ti7SSTSP1GNeuzKACxJGQZVrtpD3nGP22A240njOh2o",
+        "crv": "P-256"
+      }
+    },
+    "N7sbWSSfdrI=": {
+      "displayName": {
+        "en": "common Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "aWDGfVHx9AhzJzEH6BBeD1QVGEMZEN_0S0quZIIkFyI",
+        "y": "3mUJPMoF_zseiCuHPQVHwCLUt5szxGZKyy-8P7hpAxE",
+        "crv": "P-256"
+      }
+    },
+    "1ft4b9fYbKU=": {
+      "displayName": {
+        "en": "common Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "5id-9M1hM9JwOWA8Q9mypO2UMToB0J6XxgxkpAbB68w",
+        "y": "tJtqM8nPE5B-0EUG1D3iaaCnCeKpemtJj7s4q8yFyKc",
+        "crv": "P-256"
+      }
+    },
+    "Mki8ONlUfmM=": {
+      "displayName": {
+        "en": "common Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "JCO3kBYzA5c5WRO-nstzMXkUV6ntfRs-cyOd-FDhsM8",
+        "y": "S6TesLWXMxEoWOUxiqL-8Rtl6u_nGPKxGfOHKjU_8_0",
+        "crv": "P-256"
+      }
+    },
+    "0jQJ2sVK9r0=": {
+      "displayName": {
+        "en": "common Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "ToA09k6IqCiY0STN-cOE6E2xvz6uS48eoBqIFSxiqIg",
+        "y": "5jinV3lUDP13YlbxQ5qUOvIKeox9uyRd3YhXHtBGqEQ",
+        "crv": "P-256"
+      }
+    },
+    "+FB2dlA1OvM=": {
+      "displayName": {
+        "en": " Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "cx1DcmV2PBLHIJOTb0v7K1EGzLXvN7Ovj4b2Fh9xQd8",
+        "y": "cV92SKjj_IbNpZEFs8Jvs18hB58EKiyzDEalUZ-txdU",
+        "crv": "P-256"
+      }
+    },
+    "Zm9v": {
+      "displayName": {
+        "en": "common Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "wSNj1xu-YQSf8GnmT1wkrTptQAeVUwdq7ChM-5IK5WA",
+        "y": "1aAmpX0snNUH6agisZmqaGZxZcZfNz5jBZvhME2Tut4",
+        "crv": "P-256"
+      }
+    },
+    "RueIjzrH/Kw=": {
+      "displayName": {
+        "en": "common Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "SJ3z0F8GzhlGLMRj-1eToHPNjwh8igCP2yN414GzkFI",
+        "y": "r3TE7LDwHdbYRaiKV9EucugjNgMVRTq0yHXcMmY78b0",
+        "crv": "P-256"
+      }
+    },
+    "9KSSmoHUSEQ=": {
+      "displayName": {
+        "en": "common Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "REVEuwn37he__YXAJGRQfnl6a8PCe3symzGVixxj99w",
+        "y": "4BneAUrdZEiNZa2Bwy6sb_hnBceRf_w6UD2k32Q2BPo",
+        "crv": "P-256"
+      }
+    },
+    "rOEasKd4s8w=": {
+      "displayName": {
+        "en": "common Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "2UwskBXebd4zWWBc5rS9BttKIl8lHR2GIAe264Fuask",
+        "y": "ODn4ycFr7GMRCgh-pX__mDNT2C_1lPkvPAzt88_KDgU",
+        "crv": "P-256"
+      }
+    },
+    "w2HdTeZB7gI=": {
+      "displayName": {
+        "en": "common Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "D-Zyy0i2OTPsIRZ8ct3onK97rxu05fVoz9WhOeFDUtk",
+        "y": "gLA60kX__JT9kpFwkhy-ByV8OH9dP3eXgg2lY2BRKJo",
+        "crv": "P-256"
+      }
+    },
+    "+Bi+vUT/D7Y=": {
+      "displayName": {
+        "en": " Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "wSNj1xu-YQSf8GnmT1wkrTptQAeVUwdq7ChM-5IK5WA",
+        "y": "1aAmpX0snNUH6agisZmqaGZxZcZfNz5jBZvhME2Tut4",
+        "crv": "P-256"
+      }
+    },
+    "0P0uOr2qymo=": {
+      "displayName": {
+        "en": "common Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "wBCsSANDjDa8dY60Fm9yIjorrLBTPIG7RH36gF8Nu-s",
+        "y": "Qw1gLYi6ixp-5zk0I3-2dX5_zhqyKVzRLZwrSWvrbt4",
+        "crv": "P-256"
+      }
+    },
+    "4jcEyhrcaeY=": {
+      "displayName": {
+        "en": "common Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "AqKR2QCljDJRoTQJB4Xz-XXEMw0Or_M3lxSI5LH8bOw",
+        "y": "54k3sbYeVl2NYugV0TYrMDa-wCMdPr7LvQqvdgdhRiI",
+        "crv": "P-256"
+      }
+    },
+    "HBRDs3WkXQc=": {
+      "displayName": {
+        "en": "common Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "PbYFJ1C14SgF2HkvZIIs1K4cb7yddb3KB6YbDPQ0bRQ",
+        "y": "VQmFdGxXJ30Dp9_8CVCRi2gv-74gyHzvgadrwtBVJ-Y",
+        "crv": "P-256"
+      }
+    },
+    "Mk0jdOOrzrU=": {
+      "displayName": {
+        "en": "common Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "RSA",
+        "n": "lkD1nRcgUeWcivpMakxVCyq6BNE66JoovuMdCO6_7TSx9MIpkKo5REmUUFM6NxFRIvRmz7Vt2B5ABlfUbvPymoYmtsI2DEaury2XZuMnSG5jXTsVemK9g77OfmfBc6OdK31rD5CKz07EAMSzEcgDyac6668nAk1msiKUxJhiI5gEoDyEYPNz0pjpBasce5Y1MpfGd2-3OWY2JjqhMb3iN-R12TN9NRCYw3robiK1KzVnExQ9DLIWvWSskLD3KcrPH5ocCkKVqhutyPeuGcuUPoBcv3ML_E4lb4cbmrxakCgb0yryCMHa41Agen7REW20D-GjY0vSoKCoqXlubLSzmw",
+        "e": "AQAB"
+      }
+    },
+    "VA/djmNETc8=": {
+      "displayName": {
+        "en": "common Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "OKHKHk0ASF7i925oLcO-jFJZyfxOiL_CxdR2lA2vbY8",
+        "y": "X2TlV1Jr4ymNYkYGlAioapUcAcBeA3-Qk-bwbCvLfio",
+        "crv": "P-256"
+      }
+    },
+    "gklWpqtW+Tg=": {
+      "displayName": {
+        "en": "Portugal Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "0t4JasNP49m0muhS27VfC1dq2ntZbGcXsIDnRNAJSGg",
+        "y": "mLCQ3jXRbE4D-0fzdp2yWaTHfiD_k1v4OVAX5z607-g",
+        "crv": "P-256"
+      }
+    },
+    "dfIFAKzFq0c=": {
+      "displayName": {
+        "en": "Singapore Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "bqHnZYLsKTHaT3mzPvEYDAekNAikT6UyF5tQ5G281aU",
+        "y": "CTEEOm1XsuBlmv_jS8myG0KrkMYVE6ipnGVGBDoCSzU",
+        "crv": "P-256"
+      }
+    },
+    "Lo+DKQVxcos=": {
+      "displayName": {
+        "en": "Singapore Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "rQhA0TTCOgBNx9l798low0fdhnGsSr5TKsmnN7qxLQg",
+        "y": "NOJeqjTHGeLQmFAlpwtmf1bJJ_kjlVpRFp390K7pCqQ",
+        "crv": "P-256"
+      }
+    },
+    "gtsQTR82V6w=": {
+      "displayName": {
+        "en": "Slovenia Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "p7NEJHAyIVwZPfB5bvz4756ICGwhOn5iRhWJHuREQSs",
+        "y": "7RqUH1SttD4DE04FApmEAZEsOZpSoKUTXJ9kVZxhAB4",
+        "crv": "P-256"
+      }
+    },
+    "En0XM4x+Qm0=": {
+      "displayName": {
+        "en": "Georgia Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "dbrCbLgPZnv3JWkoA7m4Qpc-kG9mhbl98w_DZs_e2BE",
+        "y": "h9mrkWVz9lN2o86sWYUrIumDuT4uJ82m-p0UK1Foqng",
+        "crv": "P-256"
+      }
+    },
+    "y3g27v8r51I=": {
+      "displayName": {
+        "en": "Croatia Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "_A2niKWybkqciyvlA8qltQjWbYsieJ3ryOqBXqFukUU",
+        "y": "cw9uCNWBnYXKfjoFDDwynUjol9H6oTD7iudcZx-sVpY",
+        "crv": "P-256"
+      }
+    },
+    "nAj5VPXn/t4=": {
+      "displayName": {
+        "en": "Hungary Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "0LXn_cnJmHU3xQaLGMn0XDPnOkPh45tkHV_fsEy31BM",
+        "y": "NbjGdPfn-WjBmlXqad3p-eEtExy_2Rytg9eLk3Ovi8M",
+        "crv": "P-256"
+      }
+    },
+    "IAPAel6V04Y=": {
+      "displayName": {
+        "en": "Hungary Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "kspUf-6_GCg4g35ROPXOKFbJ19u0GzcHTWz1XRWSI2c",
+        "y": "Wooxt7_bHp3ZlN_J4ujEaJpqIvWlQLYfIL_yEo_E60E",
+        "crv": "P-256"
+      }
+    },
+    "DhspllZjSVY=": {
+      "displayName": {
+        "en": "Netherlands Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "mcNCX0lhlqcvJ_YHl_-TDLbIO09nTsRUr7KP23Qp3KU",
+        "y": "FwHJ6txJK01bMGicfd3sTYVt1XhXSC0tbyPOLFmyaFs",
+        "crv": "P-256"
+      }
+    },
+    "428FOlUxNRM=": {
+      "displayName": {
+        "en": "Netherlands Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "BbIPTAojfbLQqhLc9qcABZ89z73huizgOTBL1fYSfa0",
+        "y": "TL5a4f5etlroGmSU4IGv3a3h-95LR9ZCdsHauV2tdts",
+        "crv": "P-256"
+      }
+    },
+    "SPQ+0opWAuM=": {
+      "displayName": {
+        "en": "Netherlands Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "tUE2YGK3GuxfLSWQaNiGadD2pGcnvb8IW8jbikKnZyc",
+        "y": "nvIxhixxiB2On2ZvPRr-ejLGt_sE77jyd3_-D4ZHcjs",
+        "crv": "P-256"
+      }
+    },
+    "STPDGKKF4N8=": {
+      "displayName": {
+        "en": "Bulgaria Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "ykt1NbLMlJC1PP5fjeFixwSbSb-xH4YR0gkuLCA5sQs",
+        "y": "UgS9IM15YYE1EB3TLhzaq-TeaCARZO9eXgR6YU4jgsI",
+        "crv": "P-256"
+      }
+    },
+    "2Rk3X8HntrI=": {
+      "displayName": {
+        "en": "Austria Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "rdVc9a0bltR6jm1BPTA3u0cyJNYKuF1uRk8h7h04-XA",
+        "y": "USfZGB7fv6Eg18JllyjOnBAp3Jqmis9Q_VMTtRaXQXc",
+        "crv": "P-256"
+      }
+    },
+    "DEsVUSvpFAE=": {
+      "displayName": {
+        "en": "Germany Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "8j47QegkiZmEmzSvBpKiSNR_W-ymw5N3nsuur_22f9o",
+        "y": "S57PXc189pyBTVVtbxNkts4OSgh0BdFfml_pgETQmvQ",
+        "crv": "P-256"
+      }
+    },
+    "uE7ViYTSegg=": {
+      "displayName": {
+        "en": "Denmark Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "vQkNQqranGNTlHFjWXxt0alM1Em0Byl0K3414K-Lh4Q",
+        "y": "hTPz7KIddqBqG4TbylBMqTDYCHrsTxOP4iBRrQE3pyU",
+        "crv": "P-256"
+      }
+    },
+    "dZl5Qc0tmyE=": {
+      "displayName": {
+        "en": "Finland Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "6YUW9o6l_VRU1mv0RzI6pywiQk9xSVB_FkBRLGwaHSM",
+        "y": "yJ7JvS1USNXSmTTGv_zZLaYQjP-2mRzxS1ycMN2Fjz4",
+        "crv": "P-256"
+      }
+    },
+    "mRxapyixSJ0=": {
+      "displayName": {
+        "en": "Luxembourg Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "m_hWr9LHCrycA-Zq27FFzPkOfV3bWHVyctNNVbnLnfA",
+        "y": "YefXV1SXFSGpeMXviXFZ4HbFelyWmmPVPRq-9WoNEn4",
+        "crv": "P-256"
+      }
+    },
+    "cKqkRgtW0Xw=": {
+      "displayName": {
+        "en": "France Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "mnpWq9jI5KhCukndjsufKTNdbkduRQxCrVKz-uizlJA",
+        "y": "mbDx9N-PjsnBk3oRcsOc4Qo_f8C4JK92gcK8W7CI0cU",
+        "crv": "P-256"
+      }
+    },
+    "U5vvB3k2Cj4=": {
+      "displayName": {
+        "en": "France Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "TdygPqv_l6tWFqHFEIEZxfdhtbrBpDgVjmUN4CKOu_E",
+        "y": "EBcJFVUP-DdAWpsLSNIUp0mT-9m8pOl6qTBK2FkUwmw",
+        "crv": "P-256"
+      }
+    },
+    "1vxpTLgc6ws=": {
+      "displayName": {
+        "en": "France Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "v_8cxDcfQpeN0_RUDFJNvv2Dl0vX_y98doknafqaZJg",
+        "y": "dJseOFsOTbqb3lt5n7Yclufb5hOY2BrRhclIY1s8NG8",
+        "crv": "P-256"
+      }
+    },
+    "B4BbJQx1lYQ=": {
+      "displayName": {
+        "en": "Spain Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "eMLmnzwEz2ccCnIcpheqC6mcoT_Wwh3mrsqhhCZ70lQ",
+        "y": "TsbjazZlwC4MfjaQc5dNU-cyvdUbgHnZn4dJsZdxJkA",
+        "crv": "P-256"
+      }
+    },
+    "3PTiCX6Zkk8=": {
+      "displayName": {
+        "en": "Spain Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "qJqnCWiSXn6RCq-cH6cPM5hr2YuPjCe6nvDcm8TatpLs7Bs6nIdq44nSS90zqQfx",
+        "y": "DHdVE9hvHygMifwAHuKFgWbtFMlHT4lIR2MzMh5edf3v6ZMXpjxyo4eptpDJxQ5z",
+        "crv": "P-384"
+      }
+    },
+    "ySfOUkBMkOk=": {
+      "displayName": {
+        "en": "Spain Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "RSA",
+        "n": "vP-oHwXGxlWQevkm4akGYAIJwasFOrFQG-rmMVnNMdr5jm7MUD6KFAm8pJVUgCGngM-b5oJAcFK2uqBUqPWUYeAXAIzuCf_NrQS7xUOlzQkgYBt3pwnKYgaV0LcU4h5esHPxo7oUJD_-IwO9Rxq9nLhT9tt8xQmO9eph5mSZxil81SMPQHKFUs25_z_dDfGH9f9ta4jyBkkdziMkzR7oKU3W0lf186tfG-6vk94mPPFGTBCg8nQU6vagr5wlCe-QcrI_EQx9gRZnCrcIWONkwP2msmiJ-mUxxtkKn9Y9GyES6yon3Btsb0ZjrwZ5TKruELyAmRzCDtu-GpZt8Vifzw",
+        "e": "AQAB"
+      }
+    },
+    "dKgTNt6Pr/8=": {
+      "displayName": {
+        "en": "Spain Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "v9QjDJBuHoyjFj5S09Mjff6dLskGYA4dQZ-Hqi2EQOI",
+        "y": "GGxa0nu5SAhYTa8nU9HNwHW0KJnWcYtsMkuo7iX8egw",
+        "crv": "P-256"
+      }
+    },
+    "9BrghrfaWnU=": {
+      "displayName": {
+        "en": "Spain Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "SV30jitIyiI3ygtWRUFD_DXrx9JHrq2VWmdH3dwbrD8",
+        "y": "eCNlU2QHoUFUalMMwzmkN0MGti4s8Cbakzv0id1ZAjU",
+        "crv": "P-256"
+      }
+    },
+    "tCM87WnaaQE=": {
+      "displayName": {
+        "en": "Spain Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "DOg7lpxitz9-ytOAKFXxS7F4qc9IfKWrj388ETiCbLE",
+        "y": "ELqGHlhKfuMFzywhe0UaYOmcbfYhhvd2QMMZfINOTmo",
+        "crv": "P-256"
+      }
+    },
+    "dAacIEGMNcE=": {
+      "displayName": {
+        "en": "Liechtenstein Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "dRONZMFNTpyg8cRP8uVmscHjdfKotSCTIfnZQb9NWuA",
+        "y": "T8mYbbPQoU9PFssKpqiENWd7sZl4EMwH9hUVkr_bcyE",
+        "crv": "P-256"
+      }
+    },
+    "pXjP4Y6sns4=": {
+      "displayName": {
+        "en": "Liechtenstein Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "iO9c7u35s7GF1I6gTyy7W3l4WkEil7N6s_Zbs613fvo",
+        "y": "ITx2eL6yzmysHC2jVab-YVoxiwKyZ9X3vAn56zyxCTU",
+        "crv": "P-256"
+      }
+    },
+    "7/MOPvQI+WY=": {
+      "displayName": {
+        "en": "Liechtenstein Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "IjUSzW6EsS4U-yWuH9asbOHSH-KUeAVHcQ0xCIMOY5E",
+        "y": "37bBS8tAw4WoQQrehHpj_bjMbuDL4piC_loUgMaA8zY",
+        "crv": "P-256"
+      }
+    },
+    "GZ2cfMLwyK8=": {
+      "displayName": {
+        "en": "Liechtenstein Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "FzWPFb4pCXJONcqkz-MsHoHCrEw7FTFpRwDj7w380LM",
+        "y": "6fVP_3XaVr1JDDivPPJgeqgL4j5ZXDCSRVwM6KNvoH4",
+        "crv": "P-256"
+      }
+    },
+    "BlF4ts8oNcg=": {
+      "displayName": {
+        "en": "Ireland Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "uR_KP4IMjV-pzv-5pUbL0lXrxakBBHnOSX9z7W68J1U",
+        "y": "GgOl_CiBIrdnD03lNk6Iudrru03wCPvy4SvzkyFXEKU",
+        "crv": "P-256"
+      }
+    },
+    "zcntcNTF2bE=": {
+      "displayName": {
+        "en": "Lithuania Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "RSA",
+        "n": "ln8KJexGtrETM7eq0lSp3jnUgNtQrKlkiLxnYXup_Tix1ax_EfzEw46tNF3p6vG5shfmU8mL73IEeYGpWXP2fvrnw6wLam04Q_musPDg_ZayqhWT3mNQENCLUuLexkgN_XJn2ipIyUXwxCPAB9hDm67X7CGfmFcPgVWgECgEUH1UoPZaXtmPNYtf_xGhJKA2GJ6CVGq8w6Gq2mXSCKSA41OJUHdEBAmqPGfHLOGbVBECKFTfSmQ5OLIQievObTk9OkAgP6hDrO_2ZrCmTQ-jtRQr1nqrevDaCQr4GbTST6f8XcZSIxk_SrX3WKEyyb1XhHGt5275-ohOsnO3DXpMtQ",
+        "e": "AQAB"
+      }
+    },
+    "H6KcgU3y0DY=": {
+      "displayName": {
+        "en": "Cyprus Test Keys form the EU DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "46dyjRPrZ0XTNa6BIICXyAD3kJvFRXG3QS32iLTQkyU",
+        "y": "OUwGxjV6p0zOFcOTPFJFelgLQcRIeMSx4b4QXyi0QcM",
+        "crv": "P-256"
+      }
+    },
     "MTE=": {
       "displayName": {
         "en": "Test Keys for the WHO's DDCC"
