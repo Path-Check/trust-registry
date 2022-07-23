@@ -98,6 +98,8 @@ export async function update(registry) {
         
         currentCerts.push(label);
 
+        delete newKey["crlVersion"]
+
         if (!registry["SmartHealthCards"][label]) {
           let newReg = {
               "displayName": {  "en": e.name },
