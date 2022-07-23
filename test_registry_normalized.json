@@ -1,0 +1,180 @@
+{
+  "CRED": {},
+  "ICAO": {},
+  "DIVOC": {},
+  "DCC": {
+    "MTE=": {
+      "displayName": {
+        "en": "Test Keys for the WHO's DDCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "validUntilDT": "2022-12-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEFDMpzOeGjkFpJ1mc9lo0884v/aVafspp7YkZo5TULw9g9/GngNing7+3ot1rJ5boEo27zvnT0WjblSmXGjbnuQ=="
+    },
+    "Rjene8QvRwA=": {
+      "displayName": {
+        "en": "Test Keys for the DCC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T08:00:00.000Z",
+      "validUntilDT": "2022-12-01T08:00:00.000Z",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEZCXqsjvOXckflK0ORMvBHYC8n/TbbAq8DkQI+k+vP3pS9fWqCEkA282jWCY3Q++13R7XfpxRk0FaQfPMD08IGw=="
+    },
+    "1zK8NJAcco4=": {
+      "displayName": {
+        "en": "Gov of Chile"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-05-06T19:01:23.000Z",
+      "validUntilDT": "2024-05-05T19:01:23.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEsG7Rt8Zs7NzNAGoCmuJJAdoJgdN5a565v+/I0HMUPdYrzwwzE996cB6oSnryESkSZN3+Zxykq3C6M8hio+ov+Q=="
+    },
+    "dRaoglJBOPs=": {
+      "displayName": {
+        "en": "Gov of Colombia"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-05-04T12:20:24.000Z",
+      "validUntilDT": "2024-05-03T12:20:24.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEF1ol2FDeF/TXHKYceLe34dZ6VCpoQgcNyamJ/anzwar9yliPaey4R4gldaZm1ztVwsh+qr19XnLL+vn3HePa5w=="
+    },
+    "8icT6vzL7Rg=": {
+      "displayName": {
+        "en": "Gov of Ecuador"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-04-07T21:25:13.000Z",
+      "validUntilDT": "2024-04-06T21:25:13.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEPlqDTWtbsjLIijMpCYhqnj27Q8I6ITFbXW+Bc9/BVxTLwuaVoFcfl487JIREGr34huxSQqBSJV/CtR1L5Vlo3A=="
+    },
+    "Y95t4KMGwww=": {
+      "displayName": {
+        "en": "Gov of Peru"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-02-07T19:40:35.000Z",
+      "validUntilDT": "2024-02-07T19:40:35.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEpo2OENZhnqO6VQjSJ8jNIo7ut1P6R4s8YY6koFz3XoGY+j78hzHBhg3Kk1gcW5LWQS/ymGqWNLdUVjvl031QSQ=="
+    },
+    "mtvkV3qrrDQ=": {
+      "displayName": {
+        "en": "Gov of Paraguay"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-04-28T18:34:58.000Z",
+      "validUntilDT": "2024-04-27T18:34:58.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEaOVB6yngy83gwPBwxE0NuZuNvhLKlMHt/pMdQID/WA84xWulPoO8brJ7TpT+6HW/GSla/HHLi4yraRaWbe5+oQ=="
+    },
+    "jd4FUVxAJjY=": {
+      "displayName": {
+        "en": "Gov of Suriname"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-02-02T20:40:25.000Z",
+      "validUntilDT": "2024-02-02T20:40:25.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEO2yDyYNEY26MjPfAnaapY1fvWAWIthh0lunN99Yv9YwhiZM0buFWjQzE0BceCye+rSS63umGpBFe0yWAhYm46Q=="
+    },
+    "BU47qZy5zME=": {
+      "displayName": {
+        "en": "Gov of El Salvador"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-01-26T20:27:29.000Z",
+      "validUntilDT": "2024-01-26T20:27:29.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEVatjrbsNHMyyPxQS6Nj3DoLyGTa1eLF3MQgvNqyyCCYyi3GalLhMfmZxD/qvnGbGS4IhZdFa77MBSoAsrvlMvw=="
+    }
+  },
+  "SHC": {
+    "https://ekeys-qa.ny.gov/epass/doh/dvc/2021#jwuzRIxqyNdBSgy0_MPhNcA4tqqw2SFZfbnsucnhTEs": {
+      "displayName": {
+        "en": "NY State Test Keys "
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEHNBXsXwkatIRRXefv24KyyDKgFReim79i5Vyy1v0mbG8QMo2ObBhNCnfDerBBc+SL3tfENBEflx0y1LRGL4SDQ=="
+    },
+    "https://spec.smarthealth.cards/examples/issuer#3Kfdg-XwP-7gXyywtUfUADwBumDOPKMQx-iELL11W9s": {
+      "displayName": {
+        "en": "Test Keys for SHC's Demo"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE11XvRWy1I2S0EyJlyf/bWfw/TQ5CJJNLw78bHXNxcgx5lfDG87WG8JjQq5ys98qjvIDIxPoCNzc3s6QAHpVjLw=="
+    },
+    "https://spec.smarthealth.cards/examples/issuer#EBKOr72QQDcTBUuVzAzkfBTGew0ZA16GuWty64nS-sw": {
+      "displayName": {
+        "en": "Test Keys for SHC's Demo"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEPQHApUWm94mflvswQgAnfHlETMwJFqjUVSs7WU6LQy7uaPwg77xXlVmMNtFWwkg0L9GrlqLkIOEVfXxx5GwtZA=="
+    }
+  }
+}
