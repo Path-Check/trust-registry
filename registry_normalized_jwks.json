@@ -15473,6 +15473,26 @@
         "y": "MotxmpS4TH5mcQ_6r5xmxkuCIWXRWu-zAUqALK75TL8",
         "crv": "P-256"
       }
+    },
+    "7mMAr1PyW9A=": {
+      "displayName": {
+        "en": "Gov of Singapore"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-07-25T03:47:38.000Z",
+      "validUntilDT": "2024-07-24T03:47:38.000Z",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "GElh_MCIXPJ7300x0IX1Jr5__7gU4opY4s4SV1jd4fQ",
+        "y": "7eSsjM2aaabGfo7Edk7HJqA3E_gg6NF3Q-2SrHk0K8Y",
+        "crv": "P-256"
+      }
     }
   },
   "SHC": {
