@@ -9,7 +9,8 @@
     "update": "node --experimental-json-modules scripts/update.mjs",
     "normalize": "node --experimental-json-modules scripts/normalize.mjs",
     "flatten": "node --experimental-json-modules scripts/flatten.mjs",
-    "fix_dates": "node --experimental-json-modules scripts/fix_dates.mjs"
+    "fix_dates": "node --experimental-json-modules scripts/fix_dates.mjs",
+    "did_document": "node --experimental-json-modules scripts/did_document.mjs"
   },
   "repository": {
     "type": "git",
