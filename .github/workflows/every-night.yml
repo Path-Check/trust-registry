@@ -23,6 +23,7 @@ jobs:
       - run: npm run-script update
       - run: npm run-script normalize
       - run: npm run-script flatten
+      - run: npm run-script did_document ${{ secrets.SIGNER_PRIVATE_KEY }}
       - run: npm test
 
       - uses: peter-evans/create-pull-request@v3.10.1

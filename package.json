@@ -23,6 +23,7 @@
   "author": "Vitor Pamplona",
   "license": "GPL-3.0-only",
   "dependencies": {
+    "@digitalbazaar/ed25519-signature-2020": "^4.0.1",
     "@fidm/x509": "^1.2.1",
     "chai-http": "^4.3.0",
     "chalk": "^4.1.2",
@@ -31,6 +32,7 @@
     "express": "^4.17.1",
     "heroku-ssl-redirect": "^0.1.1",
     "i18n-iso-countries": "^6.8.0",
+    "jsonld-signatures": "^10.0.0",
     "jwk-to-pem": "^2.0.5"
   },
   "devDependencies": {
