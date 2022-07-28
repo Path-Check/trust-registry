@@ -8,6 +8,14 @@ import fs from 'fs';
 async function normalize(registry_file, out_file, isPEM) {
   let registry_source = JSON.parse(fs.readFileSync(registry_file));
 
+  function cleanPEM(pem) {
+    return pem.replace("-----BEGIN PUBLIC KEY-----", "").replace("-----END PUBLIC KEY-----", "").replace(/\n/g, "").replace(/\r/g, "")
+  }
+
+  function cleanPEMCert(pem) {
+    return pem.replace("-----BEGIN CERTIFICATE-----", "").replace("-----END CERTIFICATE-----", "").replace(/\n/g, "").replace(/\r/g, "")
+  }
+
   let registry = {} 
   // Rename frameworks 
   registry["CRED"] = registry_source["CRED"] 
@@ -16,13 +24,31 @@ async function normalize(registry_file, out_file, isPEM) {
   registry["DCC"] = registry_source["EUDCC"] 
   registry["SHC"] = registry_source["SmartHealthCards"] 
 
-  function cleanPEM(pem) {
-    return pem.replace("-----BEGIN PUBLIC KEY-----", "").replace("-----END PUBLIC KEY-----", "").replace(/\n/g, "").replace(/\r/g, "")
-  }
+  // Builds the certificate stack
+  let certs = {}
+  for (let framework in registry) {
+    for (let kid in registry[framework]) {
+      let v = registry[framework][kid]
+      try {
+        if (typeof (v.didDocument) === "string" && v.didDocument.includes("CERTIFICATE")) {
+          let cert = Certificate.fromPEM(v.didDocument);
+          certs[cert.subjectKeyIdentifier] = v.didDocument;
+        }
+      } catch(e) {
+      }
+    } 
+  } 
 
-  function cleanPEMCert(pem) {
-    return pem.replace("-----BEGIN CERTIFICATE-----", "").replace("-----END CERTIFICATE-----", "").replace(/\n/g, "").replace(/\r/g, "")
-  }
+  const res = await fetch('https://de.dscg.ubirch.com/trustList/CSCA', {method: 'GET', mode: 'no-cors'})
+  const CSCAs = JSON.parse((await res.text()).split('\n')[1])
+
+  CSCAs.certificates.forEach((e) => {
+    let certPEM = `-----BEGIN CERTIFICATE-----\n${e.rawData}\n-----END CERTIFICATE-----`;
+    let cert = Certificate.fromPEM(certPEM);
+
+    if (cert.subjectKeyIdentifier)
+      certs[cert.subjectKeyIdentifier] = certPEM;
+  });
 
   function didToPEM(didDocument) {
     if (typeof (didDocument) === "string") {
@@ -38,11 +64,26 @@ async function normalize(registry_file, out_file, isPEM) {
     }
   }
 
-  async function didToJWK(didDocument) {
+  function findChain(didDocument, kid) {
+    let cert = Certificate.fromPEM(didDocument);
+    let x5c = [cleanPEMCert(didDocument)];
+
+    if (cert.subjectKeyIdentifier && cert.subjectKeyIdentifier != cert.authorityKeyIdentifier) {
+      if (cert.authorityKeyIdentifier in certs) {
+        x5c.push(...findChain(certs[cert.authorityKeyIdentifier], kid))
+      } else {
+        console.log(kid + ": Certificate Not Found: " + cert.authorityKeyIdentifier);
+      }
+    }
+
+    return x5c;
+  }
+
+  async function didToJWK(didDocument, kid) {
     if (typeof (didDocument) === "string") {
       if (didDocument.includes("CERTIFICATE")) {
         let jwk = createPublicKey(didDocument).export({format: 'jwk'});
-        jwk['x5c'] = [cleanPEMCert(didDocument)] 
+        jwk['x5c'] = findChain(didDocument, kid)
         return jwk;
       } else if (didDocument.includes("PUBLIC KEY")) {
         return createPublicKey(didDocument).export({format: 'jwk'});
@@ -62,7 +103,7 @@ async function normalize(registry_file, out_file, isPEM) {
         if (isPEM)
           v['publicKey'] = didToPEM(v.didDocument);
         else {
-          v['publicKeyJwk'] = await didToJWK(v.didDocument);
+          v['publicKeyJwk'] = await didToJWK(v.didDocument, framework + ":" + kid);
         }
       } catch(e) {
         console.log(kid)
@@ -79,8 +120,10 @@ async function normalize(registry_file, out_file, isPEM) {
   });
 }
 
+console.log("Production");
 await normalize("registry.json", "registry_normalized.json", true);
-await normalize("test_registry.json", "test_registry_normalized.json", true);
-
 await normalize("registry.json", "registry_normalized_jwks.json", false);
+
+console.log("Test");
+await normalize("test_registry.json", "test_registry_normalized.json", true);
 await normalize("test_registry.json", "test_registry_normalized_jwks.json", false);
