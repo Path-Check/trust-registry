@@ -7,7 +7,7 @@ const {purposes: {AssertionProofPurpose}} = jsigs;
 
 const privateKey = process.argv.slice(2)[0];
 
-import {resolveDID} from './DidWebResolver.mjs'
+import {resolveDID} from './DIDWEBResolver.mjs'
 
 let registry = JSON.parse(fs.readFileSync("registry_normalized_jwks.json"));
 
