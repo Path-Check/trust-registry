@@ -20,6 +20,10 @@ async function normalize(registry_file, out_file, isPEM) {
     return pem.replace("-----BEGIN PUBLIC KEY-----", "").replace("-----END PUBLIC KEY-----", "").replace(/\n/g, "").replace(/\r/g, "")
   }
 
+  function cleanPEMCert(pem) {
+    return pem.replace("-----BEGIN CERTIFICATE-----", "").replace("-----END CERTIFICATE-----", "").replace(/\n/g, "").replace(/\r/g, "")
+  }
+
   function didToPEM(didDocument) {
     if (typeof (didDocument) === "string") {
       if (didDocument.includes("CERTIFICATE"))
@@ -37,7 +41,9 @@ async function normalize(registry_file, out_file, isPEM) {
   async function didToJWK(didDocument) {
     if (typeof (didDocument) === "string") {
       if (didDocument.includes("CERTIFICATE")) {
-        return createPublicKey(didDocument).export({format: 'jwk'});
+        let jwk = createPublicKey(didDocument).export({format: 'jwk'});
+        jwk['x5c'] = [cleanPEMCert(didDocument)] 
+        return jwk;
       } else if (didDocument.includes("PUBLIC KEY")) {
         return createPublicKey(didDocument).export({format: 'jwk'});
       } else
