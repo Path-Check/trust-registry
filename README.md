@@ -1,10 +1,35 @@
 # Global Trust Registry by the PathCheck Foundation
 
-This is an implemenation of [ToIP's Trust Registry Protocol V1 Specification](https://wiki.trustoverip.org/display/HOME/ToIP+Trust+Registry+Protocol+Specification) to serve as main repository of trusted issuers of COVID Credentials using multiple standards (EU's DCC, DIVOC, Smart Health Cards, Good Health Pass, etc). Entities selected to be in this server have been validated by the PathCheck Foundation or one of its partners. 
+PathCheck's Global Trust Regitry serves as main repository of trusted issuers of COVID Credentials from multiple standards (EU's DCC, DIVOC, Smart Health Cards, Good Health Pass, ICAO VDS, LAC Pass etc). This repository merges different Trust List formats in a main registry and exports the entire key set in several formats and in two main environments: production and testing. 
 
-Join the team on [Matrix/Element](https://matrix.to/#/#pcf-universal-verifier:matrix.org) or [Slack](https://join.slack.com/t/pathcheck/shared_invite/zt-gs0bf4h0-2I92eiVThkNLojL2e_VQvA).
+# Structure
 
-# Data Model
+We offer 6 static content formats and 1 dynamic server. Users can simply import the entire database from the JSON or CSV files directly or load records one by one from the NodeJS app. 
+
+The main production repository leaves on [registry.json](https://github.com/Path-Check/trust-registry/blob/main/registry.json). This file is updated every day with keys from the EU DCC Gateway and the VCI directory. ICAO's updates happen monthly. Keys that are not part of any external Trust Framework are updated manually by the team. There is also a registry for test keys [test_registry.json](https://github.com/Path-Check/trust-registry/blob/main/test_registry.json). 
+
+After [registry.json](https://github.com/Path-Check/trust-registry/blob/main/registry.json) is updated, our scripts generate equivalent registries in several formats, including: 
+- [did.json](https://github.com/Path-Check/trust-registry/blob/main/did.json): A Signed DID Document referenced by a `DID:WEB` URI and signed by a second DID Document in the [signer](https://github.com/Path-Check/trust-registry/blob/signer/did.json) directory
+- [registry_normalized.json](https://github.com/Path-Check/trust-registry/blob/main/registry_normalized.json): A JSON file with only the leaf public keys in a PEM format without headers/footers
+- [registry_normalized.csv](https://github.com/Path-Check/trust-registry/blob/main/registry_normalized.csv): A CSV table with only the leaf public keys in a PEM format without headers/footers
+- [registry_normalized_jwks.json](https://github.com/Path-Check/trust-registry/blob/main/registry_normalized_jwks.json): A JSON structure with public keys as JWKs and the certificate chains as `x5c` properties inside each key 
+- [registry_normalized_jwks.csv](https://github.com/Path-Check/trust-registry/blob/main/registry_normalized_jwks.csv): A CSV table with public keys as [DID:JWKs](https://github.com/quartzjer/did-jwk/blob/main/spec.md) and the certificate chains as `x5c` properties inside each key 
+
+The same structure is created for the  [test_registry.json](https://github.com/Path-Check/trust-registry/blob/main/test_registry.json).
+
+# KeyID Mappings
+
+In order to merge all certificates into one list while correctly representing each specification's key Id resolving needs, the repository makes the following changes: 
+
+- ICAO Seals: keyID is the certificate's issuer `CN` (OID 2.5.4.6) + `#` + the `SubjectKeyIdentifier` (e.g. `BE#0PFBaOWBSJ+lLM1O1/iDtarttAs=`) 
+- SmartHealth Cards: keyID is the certificate's issuer `URL` + `#` + the key ID from the JWKs (e.g. `https://spec.smarthealth.cards/examples/issuer#EBKOr72QQDcTBUuVzAzkfBTGew0ZA16GuWty64nS-s`)
+- EU DCC: keyID remains the same, first 8 bytes of the SHA-256 fingerprint of the DSC encoded in DER (raw) format  (e.g. `pgM4dDtABSg=`)
+- DIVOC: keyID remains the same, the DID of the country's root of trust (e.g. `did:india`)
+- CRED: keyID remains the same, the domain name reference for the DNS TXT record (e.g. `1A9.PCF.PW`)
+
+The DID Document ([did.json](https://github.com/Path-Check/trust-registry/blob/main/did.json)) file prefixes all keyIDs with the `DID:WEB` URI of the DID Document controller with the framework being used (e.g. `did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#DCC#mtvkV3qrrDQ=`) 
+
+# Main Data Model
 
 The registry requests/returns entities specified as:
 - `governanceFramework`: [`CRED`, `EUDCC`, `SmartHealthCards`, `ICAO`, `DIVOC`]
@@ -22,29 +47,25 @@ The registry requests/returns entities specified as:
   - `terminated`: voluntary termination by the registered party
   - `revoked`: involuntary termination by the governing authority
 - `statusDetail`: Optional free text that expands on the status parameter. Generally, this is a message to show to the user.
-- `validFromDT`: Indicates that the Identifier status only starts at the indicated time. 
-- `validUntilDT`: Indicates the the Identifier validity ends/ended at this date and time. 
+- `validFromDT`: Indicates that the Identifier status only starts at the indicated time. It should match the date on the certificate
+- `validUntilDT`: Indicates the the Identifier validity ends/ended at this date and time. It should match the date on the certificate 
 - `displayName`: i18n Display Names
 - `displayLogo`: link to the logo in SVG. 
 - `displayURL`: link to the issuers main website
 
-# Formats 
-
-We offer 3 static content formats and 1 dynamic server. Users can simply import the entire database from the JSON or CSV files directly, or load records one by one from the NodeJS app. 
-
-The main registry database is [registry.json](https://github.com/Path-Check/trust-registry/blob/main/registry.json). From there, the system generates a [registry_normalized.json](https://github.com/Path-Check/trust-registry/blob/main/registry_normalized.json) which extracts the public keys of all certificates, simplifying the importation of the keys by clients. [registry_normalized.csv](https://github.com/Path-Check/trust-registry/blob/main/registry_normalized.csv) is a CSV-formmated version of the [registry_normalized.json](https://github.com/Path-Check/trust-registry/blob/main/registry_normalized.json) whose sole goal is to increase the parsing speed of the otherwise large JSON file. 
+# CSV Formats 
 
 The CSV file has the following collumns, formatted accordingly:
 
 ```js
   const FRAMEWORK    = 0 // oneOf[`CRED`, `DCC`, `SHC`, `ICAO`, `DIVOC`]
-  const KID          = 1 
-  const STATUS       = 2 // oneOf[`current`, `expired`, `terminated`, `revoked`, `test`]
+  const KID          = 1 // 
+  const STATUS       = 2 // oneOf[`current`, `expired`, `terminated`, `revoked`]
   const DISPLAY_NAME = 3 // Base64 of the displayName.en UTF-8 string 
   const DISPLAY_LOGO = 4 // Base64 of the displayLogo UTF-8 string
   const VALID_FROM   = 5
   const VALID_UNTIL  = 6
-  const PUBLIC_KEY   = 7 // PEM content without -----BEGIN PUBLIC KEY----- and -----END PUBLIC KEY-----
+  const PUBLIC_KEY   = 7 // PEM content without -----BEGIN PUBLIC KEY----- and -----END PUBLIC KEY----- or a DID:JWK
   const DISPLAY_URL  = 8 // Base64 of the displayURL UTF-8 string
 ```
 
