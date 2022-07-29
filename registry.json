@@ -11780,6 +11780,21 @@
       "validFromDT": "2022-07-25T03:47:38.000Z",
       "validUntilDT": "2024-07-24T03:47:38.000Z",
       "didDocument": "-----BEGIN CERTIFICATE-----\nMIICeDCCAh6gAwIBAgIUOwPuAOz2o22/yuTf5rQ46CcWwUswCgYIKoZIzj0EAwIwXTELMAkGA1UEBhMCU0cxEjAQBgNVBAgMCVNpbmdhcG9yZTEbMBkGA1UECgwSTWluaXN0cnkgT2YgSGVhbHRoMR0wGwYDVQQDDBRjc2NhLm5vdGFyaXNlLmdvdi5zZzAeFw0yMjA3MjUwMzQ3MzhaFw0yNDA3MjQwMzQ3MzhaMFwxCzAJBgNVBAYTAlNHMRIwEAYDVQQIDAlTaW5nYXBvcmUxGzAZBgNVBAoMEk1pbmlzdHJ5IE9mIEhlYWx0aDEcMBoGA1UEAwwTZHNjLm5vdGFyaXNlLmdvdi5zZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABBhJYfzAiFzye99NMdCF9Sa+f/+4FOKKWOLOEldY3eH07eSsjM2aaabGfo7Edk7HJqA3E/gg6NF3Q+2SrHk0K8ajgbwwgbkwDgYDVR0PAQH/BAQDAgeAMB0GA1UdDgQWBBQQ9SOvIPbYch5b2S81abxrrOly4TAfBgNVHSMEGDAWgBQ5NwWzOLn5niMN0cLBsMOzMpcBpTA1BgNVHR8ELjAsMCqgKKAmhiRodHRwczovL3d3dy5ub3RhcmlzZS5nb3Yuc2cvY3NjYS5jcmwwMAYDVR0lBCkwJwYLKwYBBAGON49lAQEGCysGAQQBjjePZQECBgsrBgEEAY43j2UBAzAKBggqhkjOPQQDAgNIADBFAiEAq8hmZGfDFLFHYv1H/sGxmMVctJmDFSr19+a/pgyFYZ8CID+DUdlxDT8r9P8jAJRvVwoUtAN2DgbaIRuAeJ8mXabP\n-----END CERTIFICATE-----"
+    },
+    "Aqi6P40Dbqc=": {
+      "displayName": {
+        "en": "Gov of Monaco"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-07-27T12:32:31.000Z",
+      "validUntilDT": "2024-01-26T12:32:31.000Z",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIIE7DCCAtSgAwIBAgIUANqV7+tmxexOxOjd8j7FTYgkvsYwDQYJKoZIhvcNAQELBQAwZjELMAkGA1UEBhMCTUMxHzAdBgNVBAoMFlByaW5jaXBhbGl0eSBvZiBNb25hY28xITAfBgNVBAsMGEZvcmVpZ24gT2ZmaWNlIG9mIE1vbmFjbzETMBEGA1UEAwwKQ1NDQVBLSV9NQzAeFw0yMjA3MjcxMjMyMzFaFw0yNDAxMjYxMjMyMzFaMHcxCzAJBgNVBAYTAk1DMR8wHQYDVQQKDBZQcmluY2lwYWxpdHkgb2YgTW9uYWNvMS4wLAYDVQQLDCVNaW5pc3RyeSBvZiBIZWFsdGggYW5kIFNvY2lhbCBBZmZhaXJzMRcwFQYDVQQDDA5EU1BLSV9NQ19ER0NfMTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJoLQT7nUa5rP35yFie04o+Ke6s/SJ1SWLsUtdU7dNNUICClqKoJaoyyDoWLej4JdGkMkk5+7dXyWb0xIfyiy+ijggFKMIIBRjAoBgNVHREEITAfggt3d3cuZ291di5tY6QQMA4xDDAKBgNVBAcMA01DTzA1BgNVHRIELjAshhhodHRwczovL2NzY2EtbWNvLmdvdXYubWOkEDAOMQwwCgYDVQQHDANNQ08wDgYDVR0PAQH/BAQDAgeAMDMGA1UdJQQsMCoGDCsGAQQBAI43j2UBAQYMKwYBBAEAjjePZQECBgwrBgEEAQCON49lAQMwKwYDVR0QBCQwIoAPMjAyMjA3MjcwNjUxNDZagQ8yMDIzMDEyNzA2NTE0NlowHQYDVR0OBBYEFL6S58EHNDY3vLNx6Q3ew55uCNDrMB8GA1UdIwQYMBaAFDAynHz+fY8C7cUSWuDrV7/ohYkpMDEGA1UdHwQqMCgwJqAkoCKGIGh0dHBzOi8vY3NjYS1tY28uZ291di5tYy9NQ08uY3JsMA0GCSqGSIb3DQEBCwUAA4ICAQBIaeETdL0QEiuPBKpR4U7tTnUbBvYpr070/Ht3YQm99TsjvUvPk3BgGkHqEnzd/hnbeSjT3zEhCl3a9AcFQYBo+uEgxx9HGh3NYHPDHLUCWTcyxZedDuxnJ7WwkOgvP1MlRfsqP7Oi3A/UUfD9LdKSJRjTF8a+l0j7WEcX7WUbNsXCMkarq8y9S1GvXGtg6edL/u+MQ6bLy9f2EzDVWPICmfG4iOkAYkqFM+5ZU6iTJ3qILiGgOOU89jWmBmpOl0+SstRT8Lo77yzWRawQJSqjiKH/LwJK2phlY9lD+VBDT53Cval+sZPpwKywpOJomZV3dRwQtn28/decHcSSvic9hRYBUaxn/lt4oPz7wcAf1riC6r458AkkN06FTi7VqXuGdr1Bgmunomii5W2J7nmXN3v8SGDRUwVF88XCm6C63HcTrJwXPzC1+S/kcCh0/f+W3z7ON1042XymHT0MwPFo1b7flNDu79bw65ky7BRm2XDMAi52GmSocbNsV9zcuUmVfwk4Gh/h5rkO8l/fCDfGFKGTAOmfCSlx5JPGhXHC3Ft3eBmTBanH5Uy8WcQ4QoyQE0AupqUXSQhvCmlHGBCpk1egTPC01JL9kJW4s3PoCUv6xadeQ+gz+h+tztTtR3uICir45qCtgq63BgSFpIkSj4NBBu3eND3QPnCAuXgE7A==\n-----END CERTIFICATE-----"
     }
   },
   "SmartHealthCards": {
@@ -26066,6 +26081,48 @@
         "x": "lrBei6Cngws2-nxry_X05OchwzsgACklqBg5GbvRmL8",
         "y": "814BG0Nk5cIzqc2rQeIUM-8vjgSlG_6Z84YezNQyAvQ",
         "kid": "zWvWe-FEE5LXNs8BHbL3cMpu9vqvMz5yla9M9rFUjyY",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://prd.pkey.dhdp.ontariohealth.ca#iAs5Ivo09wptLYWttROpTK6hRbmqfrAXVjSadSgl0gQ": {
+      "displayName": {
+        "en": "Government of Ontario"
+      },
+      "displayURL": "https://covid-19.ontario.ca/proof-covid-19-vaccination",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "iAs5Ivo09wptLYWttROpTK6hRbmqfrAXVjSadSgl0gQ",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "JzC8dnUTl0F7QlRnEBqfA9g_zDjJZS_toLpNscd7BbE",
+        "y": "0uanC16hgF5Vgtb1tHjlzbvDboOBvGDfUZE5zJp0rxc"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://lsepprdsoap.lifespan.org/fhirproxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#u5998105SW67sFwRs_iUr5Cu7lg46zySntjpQLEGRyA": {
+      "displayName": {
+        "en": "Lifespan"
+      },
+      "displayURL": "https://www.lifespan.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "sJjjKp47KFc_Rqsa4L5osOesO0ru23e60eVMeeU1qZ4",
+        "y": "gkUqRhQEZR8YO2TIA7fZhbBQs9Htb12Td8a5-4idFu8",
+        "kid": "u5998105SW67sFwRs_iUr5Cu7lg46zySntjpQLEGRyA",
         "use": "sig",
         "kty": "EC",
         "alg": "ES256",

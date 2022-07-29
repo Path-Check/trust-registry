@@ -11778,6 +11778,21 @@
       "validFromDT": "2022-07-25T03:47:38.000Z",
       "validUntilDT": "2024-07-24T03:47:38.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEGElh/MCIXPJ7300x0IX1Jr5//7gU4opY4s4SV1jd4fTt5KyMzZpppsZ+jsR2TscmoDcT+CDo0XdD7ZKseTQrxg=="
+    },
+    "Aqi6P40Dbqc=": {
+      "displayName": {
+        "en": "Gov of Monaco"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-07-27T12:32:31.000Z",
+      "validUntilDT": "2024-01-26T12:32:31.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEmgtBPudRrms/fnIWJ7Tij4p7qz9InVJYuxS11Tt001QgIKWoqglqjLIOhYt6Pgl0aQySTn7t1fJZvTEh/KLL6A=="
     }
   },
   "SHC": {
@@ -20570,6 +20585,32 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAElrBei6Cngws2+nxry/X05OchwzsgACklqBg5GbvRmL/zXgEbQ2TlwjOpzatB4hQz7y+OBKUb/pnzhh7M1DIC9A=="
+    },
+    "https://prd.pkey.dhdp.ontariohealth.ca#iAs5Ivo09wptLYWttROpTK6hRbmqfrAXVjSadSgl0gQ": {
+      "displayName": {
+        "en": "Government of Ontario"
+      },
+      "displayURL": "https://covid-19.ontario.ca/proof-covid-19-vaccination",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEJzC8dnUTl0F7QlRnEBqfA9g/zDjJZS/toLpNscd7BbHS5qcLXqGAXlWC1vW0eOXNu8Nug4G8YN9RkTnMmnSvFw=="
+    },
+    "https://lsepprdsoap.lifespan.org/fhirproxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#u5998105SW67sFwRs_iUr5Cu7lg46zySntjpQLEGRyA": {
+      "displayName": {
+        "en": "Lifespan"
+      },
+      "displayURL": "https://www.lifespan.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEsJjjKp47KFc/Rqsa4L5osOesO0ru23e60eVMeeU1qZ6CRSpGFARlHxg7ZMgDt9mFsFCz0e1vXZN3xrn7iJ0W7w=="
     }
   }
 }
