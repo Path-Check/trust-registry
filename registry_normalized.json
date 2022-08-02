@@ -11838,6 +11838,47 @@
       "validFromDT": "2022-07-29T08:22:00.000Z",
       "validUntilDT": "2024-07-29T08:22:00.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEa+x3Y8uNkD0flp0w7+XquZfuvwFRpl7AgZASGRMj1SwLytfxplfyAmPR3Pi7aKHSNdCilgCq/6yqHldYZk/owQ=="
+    },
+    "1uOlNJPSRNk=": {
+      "displayName": {
+        "en": "Gov of Lebanon"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "v"
+      ],
+      "validFromDT": "2022-08-01T10:39:00.000Z",
+      "validUntilDT": "2023-02-01T11:39:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEUIKkegT0VPAnHO+KwRU6b42Z4mZwdwWoRemvcQbWLoz9w7l8Bq9KwdsxpGC+cCuUT8fRHRSHoffRJmsXq/wedw=="
+    },
+    "armdhu3aEic=": {
+      "displayName": {
+        "en": "Gov of the Faroe Islands"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "r"
+      ],
+      "validFromDT": "2022-07-07T13:09:35.000Z",
+      "validUntilDT": "2024-07-06T13:09:34.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEVUe1sIuI3omvwdUbdgkUCHl+bhZGaGJjY7Q8Iam4wvlWBpPkMy94j8IYJIco6KEVbosTtefDXZh5SJmBASLaMw=="
+    },
+    "nYaexeajHaY=": {
+      "displayName": {
+        "en": "Gov of Philippines"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-06-28T00:59:44.000Z",
+      "validUntilDT": "2024-06-27T00:59:44.000Z",
+      "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0FZeBMI94hwcFrtbmOoS7mYJtf9i3Pou/kQhVfydqGrZf0vrKXva8XpkImQ8EIUzkcmqqMUXb3FbMW0fflUmPdZZ2EkreyVLppTdkLkjbL7zoGrVX5ovf5KMGewKrkn5GBZFYsW6jN7EHHquF4ZWgR0ZaT7hjQmd4fOVKj7twprrBZSr40xlfjFJ9fNfEsYeqTaI2OuTeztcLhLzDu6oR5l9kLXzJAYy/9NGTqQF/gCb8a5LbV9H6cpbNAiENrci4KxVX2SE2qFppxUSoqlmCACMY41j6Au+iTfVFLa0TKlKx0u/d2HD9oXQXcDqHk8P7dTamEp8jt8Xx6BzQ+YBAQIDAQAB"
     }
   },
   "SHC": {
