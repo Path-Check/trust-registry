@@ -22771,9 +22771,9 @@
   ],
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2022-08-04T12:57:45Z",
+    "created": "2022-08-05T12:55:25Z",
     "verificationMethod": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main:signer#WEB",
     "proofPurpose": "assertionMethod",
-    "proofValue": "z4H7eVyhQQNdGqa4xeiJnThs2Ph372BcoQRbQaQiRVGw1pUvKCBPCuamu29eyLBSnYjB9TmcpKzur6QKh5ouAFjFv"
+    "proofValue": "z2nYFsuCitQm3jyLuoVrmNHtGtAPeoDAuMs1xjkevh17uzevTUXD6rZEFRQREz12tC6rwDmCEckfja4KsQHgzYZQH"
   }
 }
