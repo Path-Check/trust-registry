@@ -11632,6 +11632,21 @@
       }
     },
     {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#DCC#OVxhDZ1H5e0=",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "4C_jhAYnRv6PruhU2k-DOpD6Yvz2kXO_w0TU_7ApbRc",
+        "y": "NHR9os6xUQO-qsePG5v6mSzfkrEMOaWS6Zb_gaShgIM",
+        "crv": "P-256",
+        "x5c": [
+          "MIIDezCCAyGgAwIBAgIEYVB0vDAKBggqhkjOPQQDBDB7MQswCQYDVQQGEwJHQjEdMBsGA1UEChMURGVwYXJ0bWVudCBvZiBIZWFsdGgxGTAXBgNVBAgTEE5vcnRoZXJuIElyZWxhbmQxDjAMBgNVBAsTBURIQ05JMSIwIAYDVQQDExlOb3J0aGVybiBJcmVsYW5kIERDQyBDU0NBMB4XDTIyMDYyMjA2NDUzOVoXDTI0MDYyMjA3MTUzOVowdTELMAkGA1UEBhMCR0IxHTAbBgNVBAoTFERlcGFydG1lbnQgb2YgSGVhbHRoMRkwFwYDVQQIExBOb3J0aGVybiBJcmVsYW5kMQ4wDAYDVQQLEwVESENOSTEcMBoGA1UEAwwTRFNDX0RDQ19HQl9OSV9ER0NfMzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABOAv44QGJ0b+j67oVNpPgzqQ+mL89pFzv8NE1P+wKW0XNHR9os6xUQO+qsePG5v6mSzfkrEMOaWS6Zb/gaShgIOjggGXMIIBkzAOBgNVHQ8BAf8EBAMCB4AwMAYDVR0lBCkwJwYLKwYBBAGON49lAQEGCysGAQQBjjePZQECBgsrBgEEAY43j2UBAzB4BgNVHRIEcTBvgQ9wa2lAbmhzeC5uaHMudWuCSmh0dHBzOi8vd3d3Lm5oc3gubmhzLnVrL2tleS10b29scy1hbmQtaW5mby9wdWJsaWMta2V5LWluZnJhc3RydWN0dXJlcy9jc2NhpBAwDjEMMAoGA1UEBwwDR0JSMGgGA1UdHwRhMF8wXaBboFmGJmh0dHA6Ly9wa2kubmhzeC5uaHMudWsvQ1JML05JX0NTQ0EuY3Jshi9odHRwOi8vY292aWQtc3RhdHVzLm5oc3gubmhzLnVrL0NSTC9OSV9DU0NBLmNybDArBgNVHRAEJDAigA8yMDIyMDYyMjA2NDUzOVqBDzIwMjIxMjIyMDExNTM5WjAfBgNVHSMEGDAWgBTB1HvLwX2c8q0ah5ETaI4DdBAR4jAdBgNVHQ4EFgQUU9hs0H45dSTNAH0iT0c6IjRC8McwCgYIKoZIzj0EAwQDSAAwRQIgTOAeKnjZJVFNuA3LUMApE4qmMOda4D7KV12ju6gucXwCIQCyHfbEQhZDAipRFgMX65JEnTJTy7tPrdq1hnvqIw8lVA==",
+          "MIIDyTCCA26gAwIBAgIEYUMWqTAKBggqhkjOPQQDBDA+MQswCQYDVQQGEwJHQjEMMAoGA1UEChMDSE1HMSEwHwYDVQQDExhOYXRpb25hbCBlSGVhbHRoIFJvb3QgQ0EwHhcNMjEwOTI3MDgwMzAzWhcNMjUwOTI3MDgzMzAzWjB7MQswCQYDVQQGEwJHQjEdMBsGA1UEChMURGVwYXJ0bWVudCBvZiBIZWFsdGgxGTAXBgNVBAgTEE5vcnRoZXJuIElyZWxhbmQxDjAMBgNVBAsTBURIQ05JMSIwIAYDVQQDExlOb3J0aGVybiBJcmVsYW5kIERDQyBDU0NBMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAElNC9YXJ72rBssk6xy5CeHY/Gjj2vQDliHEjZnGJfOgbg+xnBDInkzl8VaPj5ieGSEdSlo6ywF9460Y1gJ0Pv1aOCAhswggIXMHgGA1UdEgRxMG+BD3BraUBuaHN4Lm5ocy51a4JKaHR0cHM6Ly93d3cubmhzeC5uaHMudWsva2V5LXRvb2xzLWFuZC1pbmZvL3B1YmxpYy1rZXktaW5mcmFzdHJ1Y3R1cmVzL2NzY2GkEDAOMQwwCgYDVQQHDANHQlIweAYDVR0RBHEwb4EPcGtpQG5oc3gubmhzLnVrgkpodHRwczovL3d3dy5uaHN4Lm5ocy51ay9rZXktdG9vbHMtYW5kLWluZm8vcHVibGljLWtleS1pbmZyYXN0cnVjdHVyZXMvY3NjYaQQMA4xDDAKBgNVBAcMA0dCUjAOBgNVHQ8BAf8EBAMCAQYwEgYDVR0TAQH/BAgwBgEB/wIBADCBjwYDVR0fBIGHMIGEMIGBoH+gfYY0aHR0cDovL3BraS5uaHN4Lm5ocy51ay9DUkwvTmF0aW9uYWxfZUhlYWx0aF9Sb290LmNybIZFaHR0cDovL2NvdmlkLXN0YXR1cy5zZXJ2aWNlLm5oc3gubmhzLnVrL0NSTC9OYXRpb25hbF9lSGVhbHRoX1Jvb3QuY3JsMCsGA1UdEAQkMCKADzIwMjEwOTI3MDgwMzAzWoEPMjAyMjA5MjcxNDMzMDNaMB8GA1UdIwQYMBaAFIBGzZwmoj7HGvcCxfWU8r1u3rxTMB0GA1UdDgQWBBTB1HvLwX2c8q0ah5ETaI4DdBAR4jAKBggqhkjOPQQDBANJADBGAiEAqAtFLGsEkSbjFWSKHPR69jiFpbmNpGwnE9dH1LOoaH0CIQCXOX6eny8R6ILn+EmDeq/nhkXBY1hDae5HWPgJTQ+vqg=="
+        ]
+      }
+    },
+    {
       "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC#https://api.myirmobile.com/issuer#aQ8UtrF8UuWjSv5yQEgsiYyh_wsyRZ8fouggmtB38I8",
       "type": "JsonWebKey2020",
       "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
@@ -22085,6 +22100,7 @@
     "#DCC#1uOlNJPSRNk=",
     "#DCC#armdhu3aEic=",
     "#DCC#nYaexeajHaY=",
+    "#DCC#OVxhDZ1H5e0=",
     "#SHC#https://api.myirmobile.com/issuer#aQ8UtrF8UuWjSv5yQEgsiYyh_wsyRZ8fouggmtB38I8",
     "#SHC#https://healthcardcert.lawallet.com#UOvXbgzZj4zL-lt1uJVS_98NHQrQz48FTdqQyNEdaNE",
     "#SHC#https://www.riteaid.com#vqHxrsBwtWp2-NS2APN4m8aGjnaec8_juc9C4wFw9hI",
@@ -22771,9 +22787,9 @@
   ],
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2022-08-09T13:01:05Z",
+    "created": "2022-08-10T13:02:56Z",
     "verificationMethod": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main:signer#WEB",
     "proofPurpose": "assertionMethod",
-    "proofValue": "z3hsM4CeRkYRicPcFqqaTeQbEGw27QKXHMjkdfRUjNtU73qBbSzGcySUkntcrWhzomiYyuEqDGQccRHpdHHcxNuEh"
+    "proofValue": "z5RoKhgAomArd6xccTA7coSEaMh3abLNRo9dyPK4eCTyezAN2nYe5zokHGvuqRmoBfDHe6RVTMFDserrumNdZq7kw"
   }
 }
