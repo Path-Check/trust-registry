@@ -11879,6 +11879,21 @@
       "validFromDT": "2022-06-28T00:59:44.000Z",
       "validUntilDT": "2024-06-27T00:59:44.000Z",
       "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0FZeBMI94hwcFrtbmOoS7mYJtf9i3Pou/kQhVfydqGrZf0vrKXva8XpkImQ8EIUzkcmqqMUXb3FbMW0fflUmPdZZ2EkreyVLppTdkLkjbL7zoGrVX5ovf5KMGewKrkn5GBZFYsW6jN7EHHquF4ZWgR0ZaT7hjQmd4fOVKj7twprrBZSr40xlfjFJ9fNfEsYeqTaI2OuTeztcLhLzDu6oR5l9kLXzJAYy/9NGTqQF/gCb8a5LbV9H6cpbNAiENrci4KxVX2SE2qFppxUSoqlmCACMY41j6Au+iTfVFLa0TKlKx0u/d2HD9oXQXcDqHk8P7dTamEp8jt8Xx6BzQ+YBAQIDAQAB"
+    },
+    "OVxhDZ1H5e0=": {
+      "displayName": {
+        "en": "Gov of United Kingdom"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-06-22T06:45:39.000Z",
+      "validUntilDT": "2024-06-22T07:15:39.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE4C/jhAYnRv6PruhU2k+DOpD6Yvz2kXO/w0TU/7ApbRc0dH2izrFRA76qx48bm/qZLN+SsQw5pZLplv+BpKGAgw=="
     }
   },
   "SHC": {
