@@ -11894,6 +11894,51 @@
       "validFromDT": "2022-06-22T06:45:39.000Z",
       "validUntilDT": "2024-06-22T07:15:39.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE4C/jhAYnRv6PruhU2k+DOpD6Yvz2kXO/w0TU/7ApbRc0dH2izrFRA76qx48bm/qZLN+SsQw5pZLplv+BpKGAgw=="
+    },
+    "AlGlEHG63/I=": {
+      "displayName": {
+        "en": "Gov of Spain"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-08-08T12:45:00.000Z",
+      "validUntilDT": "2024-08-08T11:45:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEr36Feas+nt1Vmspo02+ZM33oBBJ5kYCpiEsbnge2P+x+neLJ3t8Bea3ou21ct6fCxwNjnKdE1BBuuUSeGIMGgQ=="
+    },
+    "PCt6GMTbV9w=": {
+      "displayName": {
+        "en": "Gov of Spain"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-08-04T10:45:00.000Z",
+      "validUntilDT": "2024-08-04T10:30:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEriRhnq+2aMaGiNGqCOjG0ti4Nzhx+XcPwYROCi3dj+YhxjXhhJy8yopfARhXtCh50Uw9NvDgLuaSJml8IYiuYw=="
+    },
+    "wkKPi6HIm5A=": {
+      "displayName": {
+        "en": "Gov of Albania"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-08-09T17:32:40.000Z",
+      "validUntilDT": "2023-08-09T17:32:40.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEvnjA6h1xZDsyylY1C0vHrbrWAPniW/ksncTiBJOdk39tx8GtSXeqlDt8zBvwF8bP+lMiv+nxatX36pY0NgNczw=="
     }
   },
   "SHC": {
