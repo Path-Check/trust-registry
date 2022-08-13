@@ -11692,6 +11692,21 @@
       }
     },
     {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#DCC#kNv/TWeG+7c=",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "FYI5si93dvujjcJI22r5BbxPiDKTI-WimkwJJBuUTkU",
+        "y": "7jO36M4sgnWX-poolpZetZnC5Xm88gGkSFFNYJv1e8U",
+        "crv": "P-256",
+        "x5c": [
+          "MIIHIDCCBsagAwIBAgIJJDrfWl8HaQurMAoGCCqGSM49BAMCMIGwMT8wPQYDVQQDDDZFQURUcnVzdCBFQ0MgMjU2IFN1YkNBIEZvciBRdWFsaWZpZWQgQ2VydGlmaWNhdGVzIDIwMTkxLzAtBgNVBAoMJkV1cm9wZWFuIEFnZW5jeSBvZiBEaWdpdGFsIFRydXN0LCBTLkwuMQswCQYDVQQGEwJFUzEYMBYGA1UEYQwPVkFURVMtQjg1NjI2MjQwMRUwEwYDVQQLDAxMZWdhbCBQZXJzb24wHhcNMjIwODA5MTIwMDAwWhcNMjQwODA5MTE1OTAwWjCB6DE5MDcGA1UEAwwwSW5zcGVjY2lvbiBHZW5lcmFsIGRlIFNhbmlkYWQgZGUgbGEgRGVmZW5zYSAyMDIyMRIwEAYDVQQFEwlTMjgzMDAwMUoxGjAYBgNVBAsMEVNFTExPIEVMRUNUUk9OSUNPMTQwMgYDVQQLDCtJbnNwZWNjaW9uIEdlbmVyYWwgZGUgU2FuaWRhZCBkZSBsYSBEZWZlbnNhMRgwFgYDVQRhDA9WQVRFUy1TMjgzMDAwMUoxHjAcBgNVBAoMFU1pbmlzdGVyaW8gZGUgRGVmZW5zYTELMAkGA1UEBhMCRVMwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAQVgjmyL3d2+6ONwkjbavkFvE+IMpMj5aKaTAkkG5RORe4zt+jOLIJ1l/qaKJaWXrWZwuV5vPIBpEhRTWCb9XvFo4IEjTCCBIkwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBTTTGw6vTb+cIcjhzruPZDPy5v3ITB5BggrBgEFBQcBAQRtMGswRAYIKwYBBQUHMAKGOGh0dHA6Ly9jYS5lYWR0cnVzdC5ldS9lYWR0cnVzdC1zdWJjYS1lY2MyNTZlYWRscDIwMTkuY3J0MCMGCCsGAQUFBzABhhdodHRwOi8vb2NzcC5lYWR0cnVzdC5ldTBjBgNVHRIEXDBagQ5jYUBlYWR0cnVzdC5ldYYWaHR0cDovL3d3dy5lYWR0cnVzdC5ldYYVaHR0cDovL2NhLmVhZHRydXN0LmV1hhlodHRwOi8vcG9saWN5LmVhZHRydXN0LmV1MH4GA1UdEQR3MHWkczBxMS8wLQYJYIVUAQMFBgIBDCBTRUxMTyBFTEVDVFJPTklDTyBERSBOSVZFTCBNRURJTzEkMCIGCWCFVAEDBQYCAgwVTWluaXN0ZXJpbyBkZSBEZWZlbnNhMRgwFgYJYIVUAQMFBgIDDAlTMjgzMDAwMUowggGYBgNVHSAEggGPMIIBizAKBghghVQBAwUGAjBvBgcEAIvsQAEBMGQwYgYIKwYBBQUHAgIwVgxURXVyb3BlYW4gVGVsZWNvbW11bmljYXRpb25zIFN0YW5kYXJkcyBJbnN0aXR1dGUuIGVJREFTIEV1cm9wZWFuIFJlZ3VsYXRpb24gQ29tcGxpYW50MIIBCgYOKwYBBAGDdQIBAQCCwhEwgfcwJQYIKwYBBQUHAgEWGWh0dHA6Ly9wb2xpY3kuZWFkdHJ1c3QuZXUwgc0GCCsGAQUFBwICMIHADIG9Q2VydGlmaWNhZG8gY3VhbGlmaWNhZG8gZGUgc2VsbG8gZWxlY3Ryw7NuaWNvIGRlIEFkbWluaXN0cmFjacOzbiwgw7NyZ2FubyBvIGVudGlkYWQgZGUgZGVyZWNobyBww7pibGljbywgbml2ZWwgTWVkaW8vU3VzdGFuY2lhbC4gQ29uc3VsdGUgbGFzIGNvbmRpY2lvbmVzIGRlIHVzbyBlbiBodHRwOi8vcG9saWN5LmVhZHRydXN0LmV1MB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCBwQYIKwYBBQUHAQMEgbQwgbEwFQYIKwYBBQUHCwIwCQYHBACL7EkBAjAIBgYEAI5GAQEwCwYGBACORgEDAgEPMBMGBgQAjkYBBjAJBgcEAI5GAQYCMGwGBgQAjkYBBTBiMDAWKmh0dHBzOi8vZWFkdHJ1c3QuZXUvZW4vZG9jdW1lbnRzLWluLWZvcmNlLxMCZW4wLhYoaHR0cHM6Ly9lYWR0cnVzdC5ldS9kb2N1bWVudG9zLXZpZ2VudGVzLxMCZXMwSgYDVR0fBEMwQTA/oD2gO4Y5aHR0cDovL2NybC5lYWR0cnVzdC5ldS9lYWR0cnVzdC1zdWJjYS1lY2MyNTZlYWRscDIwMTkuY3JsMB0GA1UdDgQWBBTa6ft6pnHmzwS08c0YEeih6muE+DAOBgNVHQ8BAf8EBAMCBeAwCgYIKoZIzj0EAwIDSAAwRQIhALYunGRTKo1s6wRBPiOZAouJwyR/kaIaGm9uwXpmxXOoAiBbKUwxYUdm8qIW+LD0OU0F9L1+TBlvlJxzhRMV9+FQog==",
+          "MIIE5jCCBIugAwIBAgIIBJeJkUGCQIMwCgYIKoZIzj0EAwIwgZsxQTA/BgNVBAMMOEVBRFRydXN0IEVDQyAyNTYgUm9vdCBDQSBGb3IgUXVhbGlmaWVkIENlcnRpZmljYXRlcyAyMDE5MS8wLQYDVQQKDCZFdXJvcGVhbiBBZ2VuY3kgb2YgRGlnaXRhbCBUcnVzdCwgUy5MLjELMAkGA1UEBhMCRVMxGDAWBgNVBGEMD1ZBVEVTLUI4NTYyNjI0MDAeFw0xOTA2MDYxMTIzMTJaFw0zNTA2MDIxMTIzMTJaMIGwMT8wPQYDVQQDDDZFQURUcnVzdCBFQ0MgMjU2IFN1YkNBIEZvciBRdWFsaWZpZWQgQ2VydGlmaWNhdGVzIDIwMTkxLzAtBgNVBAoMJkV1cm9wZWFuIEFnZW5jeSBvZiBEaWdpdGFsIFRydXN0LCBTLkwuMQswCQYDVQQGEwJFUzEYMBYGA1UEYQwPVkFURVMtQjg1NjI2MjQwMRUwEwYDVQQLDAxMZWdhbCBQZXJzb24wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAATWuOl18JPJcTxF2ttbytstqBRGYZB6sMGqHRYRpEJommoO6orLRmzV9cGFI8lDjffhfRN0wBYEigucsELa6n0uo4ICoDCCApwwgagGA1UdIASBoDCBnTAGBgRVHSAAMIGSBg0rBgEEAYN1AgEBAYMRMIGAMCUGCCsGAQUFBwIBFhlodHRwOi8vcG9saWN5LmVhZHRydXN0LmV1MFcGCCsGAQUFBwICMEsMSVN1Ym9yZGluYXRlIENlcnRpZmljYXRlIEF1dGhvcml0eS4gRXVyb3BlYW4gQWdlbmN5IG9mIERpZ2l0YWwgVHJ1c3QsIFMuTC4wEgYDVR0TAQH/BAgwBgEB/wIBADAOBgNVHQ8BAf8EBAMCAYYwHQYDVR0OBBYEFNNMbDq9Nv5whyOHOu49kM/Lm/chMGMGA1UdEgRcMFqBDmNhQGVhZHRydXN0LmV1hhZodHRwOi8vd3d3LmVhZHRydXN0LmV1hhVodHRwOi8vY2EuZWFkdHJ1c3QuZXWGGWh0dHA6Ly9wb2xpY3kuZWFkdHJ1c3QuZXUwYwYDVR0RBFwwWoEOY2FAZWFkdHJ1c3QuZXWGFmh0dHA6Ly93d3cuZWFkdHJ1c3QuZXWGFWh0dHA6Ly9jYS5lYWR0cnVzdC5ldYYZaHR0cDovL3BvbGljeS5lYWR0cnVzdC5ldTAfBgNVHSMEGDAWgBQBZ5qExJnGge08WAR0rySj115BDTBIBgNVHR8EQTA/MD2gO6A5hjdodHRwOi8vY3JsLmVhZHRydXN0LmV1L2VhZHRydXN0LXJvb3QtZWNjMjU2ZWFkcTIwMTkuY3JsMHcGCCsGAQUFBwEBBGswaTBCBggrBgEFBQcwAoY2aHR0cDovL2NhLmVhZHRydXN0LmV1L2VhZHRydXN0LXJvb3QtZWNjMjU2ZWFkcTIwMTkuY3J0MCMGCCsGAQUFBzABhhdodHRwOi8vb2NzcC5lYWR0cnVzdC5ldTAKBggqhkjOPQQDAgNJADBGAiEAo3kjVg5x0Nx2Vl5H86QV1mB0g4miZn1xrt7SQV+8ggUCIQCOjpmf3+3shoTYYNZkUlv0aWfjV//5lps4eXGPqoaeaQ=="
+        ]
+      }
+    },
+    {
       "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC#https://api.myirmobile.com/issuer#aQ8UtrF8UuWjSv5yQEgsiYyh_wsyRZ8fouggmtB38I8",
       "type": "JsonWebKey2020",
       "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
@@ -21306,6 +21321,20 @@
         "alg": "ES256",
         "crv": "P-256"
       }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC#https://smarthealthcard.phsa.ca/v1/issuer#DhcL94F0tr5BJuaEBc-ZLgpEYS97_mNOzbAnJuZ4hdE",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "kid": "DhcL94F0tr5BJuaEBc-ZLgpEYS97_mNOzbAnJuZ4hdE",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "JCHLoxs_lFUefjQbFFlCc4Ax6PrcFYbfX5T69c6ZA_4",
+        "y": "dlxcLuDq7BYhZnJ4nHijzK4upOAkvKA_s006aMu-Vx0"
+      }
     }
   ],
   "assertionMethod": [
@@ -22149,6 +22178,7 @@
     "#DCC#AlGlEHG63/I=",
     "#DCC#PCt6GMTbV9w=",
     "#DCC#wkKPi6HIm5A=",
+    "#DCC#kNv/TWeG+7c=",
     "#SHC#https://api.myirmobile.com/issuer#aQ8UtrF8UuWjSv5yQEgsiYyh_wsyRZ8fouggmtB38I8",
     "#SHC#https://healthcardcert.lawallet.com#UOvXbgzZj4zL-lt1uJVS_98NHQrQz48FTdqQyNEdaNE",
     "#SHC#https://www.riteaid.com#vqHxrsBwtWp2-NS2APN4m8aGjnaec8_juc9C4wFw9hI",
@@ -22831,13 +22861,14 @@
     "#SHC#https://rpsouth.catholichealth.net/fhir/api/epic/2021/Security/Open/EcKeys/32001/SHC#DycAtkoQV5M2g9UMtsOC7D07rCaQM91phKbS4FuzAgU",
     "#SHC#https://external.fastmed.com/FHIRproxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#zWvWe-FEE5LXNs8BHbL3cMpu9vqvMz5yla9M9rFUjyY",
     "#SHC#https://prd.pkey.dhdp.ontariohealth.ca#iAs5Ivo09wptLYWttROpTK6hRbmqfrAXVjSadSgl0gQ",
-    "#SHC#https://lsepprdsoap.lifespan.org/fhirproxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#u5998105SW67sFwRs_iUr5Cu7lg46zySntjpQLEGRyA"
+    "#SHC#https://lsepprdsoap.lifespan.org/fhirproxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#u5998105SW67sFwRs_iUr5Cu7lg46zySntjpQLEGRyA",
+    "#SHC#https://smarthealthcard.phsa.ca/v1/issuer#DhcL94F0tr5BJuaEBc-ZLgpEYS97_mNOzbAnJuZ4hdE"
   ],
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2022-08-12T12:52:01Z",
+    "created": "2022-08-13T12:48:57Z",
     "verificationMethod": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main:signer#WEB",
     "proofPurpose": "assertionMethod",
-    "proofValue": "z64hS7j24zrvjx3M8Wenbj37XUTgg6hz2ek5sznTxR5ewhwUeKQbQPEa5kAXVw846ppERP3j36GW7NrZrKAUEsdQ6"
+    "proofValue": "z3cPWg2RT4PPFuRGLJaWVZMTcQqi2Fu1TzdJfBGUDvGyjm19RXFiUznYBatVmQJRW5jGnkj6FJU2geUPPMCvgprVY"
   }
 }
