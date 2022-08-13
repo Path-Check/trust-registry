@@ -11939,6 +11939,21 @@
       "validFromDT": "2022-08-09T17:32:40.000Z",
       "validUntilDT": "2023-08-09T17:32:40.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEvnjA6h1xZDsyylY1C0vHrbrWAPniW/ksncTiBJOdk39tx8GtSXeqlDt8zBvwF8bP+lMiv+nxatX36pY0NgNczw=="
+    },
+    "kNv/TWeG+7c=": {
+      "displayName": {
+        "en": "Gov of Spain"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-08-09T12:00:00.000Z",
+      "validUntilDT": "2024-08-09T11:59:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEFYI5si93dvujjcJI22r5BbxPiDKTI+WimkwJJBuUTkXuM7foziyCdZf6miiWll61mcLlebzyAaRIUU1gm/V7xQ=="
     }
   },
   "SHC": {
@@ -20757,6 +20772,18 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEsJjjKp47KFc/Rqsa4L5osOesO0ru23e60eVMeeU1qZ6CRSpGFARlHxg7ZMgDt9mFsFCz0e1vXZN3xrn7iJ0W7w=="
+    },
+    "https://smarthealthcard.phsa.ca/v1/issuer#DhcL94F0tr5BJuaEBc-ZLgpEYS97_mNOzbAnJuZ4hdE": {
+      "displayName": {
+        "en": ""
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEJCHLoxs/lFUefjQbFFlCc4Ax6PrcFYbfX5T69c6ZA/52XFwu4OrsFiFmcniceKPMri6k4CS8oD+zTTpoy75XHQ=="
     }
   }
 }
