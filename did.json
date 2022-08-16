@@ -11707,6 +11707,22 @@
       }
     },
     {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#DCC#xtZn+Rhnh/k=",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "15XJjx2rb2ifG5RY2sUlNJmXHlbS4GgEdJXm3l5nk2M",
+        "y": "8mPedT6e_bPwdjxzOyFtojQ1hTicaMd7gJpQSArefco",
+        "crv": "P-256",
+        "x5c": [
+          "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"
+        ]
+      }
+    },
+    {
       "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC#https://api.myirmobile.com/issuer#aQ8UtrF8UuWjSv5yQEgsiYyh_wsyRZ8fouggmtB38I8",
       "type": "JsonWebKey2020",
       "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
@@ -22179,6 +22195,7 @@
     "#DCC#PCt6GMTbV9w=",
     "#DCC#wkKPi6HIm5A=",
     "#DCC#kNv/TWeG+7c=",
+    "#DCC#xtZn+Rhnh/k=",
     "#SHC#https://api.myirmobile.com/issuer#aQ8UtrF8UuWjSv5yQEgsiYyh_wsyRZ8fouggmtB38I8",
     "#SHC#https://healthcardcert.lawallet.com#UOvXbgzZj4zL-lt1uJVS_98NHQrQz48FTdqQyNEdaNE",
     "#SHC#https://www.riteaid.com#vqHxrsBwtWp2-NS2APN4m8aGjnaec8_juc9C4wFw9hI",
@@ -22866,9 +22883,9 @@
   ],
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2022-08-15T12:57:48Z",
+    "created": "2022-08-16T12:48:54Z",
     "verificationMethod": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main:signer#WEB",
     "proofPurpose": "assertionMethod",
-    "proofValue": "z3bpyzTZ15JA6PNypVregDzeTstT8uSkc5Um7zQPrykUNdny3fpKiwmMmUC6hseL6zDCQLWyPBVCXoZXNuwt2G127"
+    "proofValue": "z8wVWDGNRwSVrgVjmgiY9e7UwjHdeoVuyHxpz89F6x2oWq829Y7Y8XRGVZ9t2cjspeY6g2wvmiUnJPGc1HExoyBb"
   }
 }
