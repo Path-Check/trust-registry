@@ -11954,6 +11954,21 @@
       "validFromDT": "2022-08-09T12:00:00.000Z",
       "validUntilDT": "2024-08-09T11:59:00.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEFYI5si93dvujjcJI22r5BbxPiDKTI+WimkwJJBuUTkXuM7foziyCdZf6miiWll61mcLlebzyAaRIUU1gm/V7xQ=="
+    },
+    "xtZn+Rhnh/k=": {
+      "displayName": {
+        "en": "Gov of Peru"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-07-08T17:41:44.000Z",
+      "validUntilDT": "2024-07-07T17:41:44.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE15XJjx2rb2ifG5RY2sUlNJmXHlbS4GgEdJXm3l5nk2PyY951Pp79s/B2PHM7IW2iNDWFOJxox3uAmlBICt59yg=="
     }
   },
   "SHC": {
