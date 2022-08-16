@@ -27,7 +27,7 @@ let didDocument = {
 for (let framework in registry) {
   for (let kid in registry[framework]) {
     let v = registry[framework][kid]
-    let didKeyID = framework+"#"+kid;
+    let didKeyID = encodeURIComponent(framework+"#"+kid);
     
     if (v.publicKeyJwk) {
       didDocument.verificationMethod.push({
