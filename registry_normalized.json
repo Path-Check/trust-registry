@@ -11969,6 +11969,81 @@
       "validFromDT": "2022-07-08T17:41:44.000Z",
       "validUntilDT": "2024-07-07T17:41:44.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE15XJjx2rb2ifG5RY2sUlNJmXHlbS4GgEdJXm3l5nk2PyY951Pp79s/B2PHM7IW2iNDWFOJxox3uAmlBICt59yg=="
+    },
+    "FLnZgDWkSoc=": {
+      "displayName": {
+        "en": "Gov of Spain"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-08-10T12:30:00.000Z",
+      "validUntilDT": "2024-08-10T12:29:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEKZ3FkbU5Fsc8+9UMJymOA7MiAzGiSZWezP9FNWfUOajwybICtp6E0YAUndHdXT5LOni824ddcxir7YtkN/lCZg=="
+    },
+    "oB15phYOvPA=": {
+      "displayName": {
+        "en": "Gov of Spain"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-08-04T13:00:00.000Z",
+      "validUntilDT": "2024-08-04T12:59:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEEIsvwZdTfvWT/RbRc/RIDpHXXwtxH1qmFjpemBxSilINh1Zr4DFL76omkOwx4ALia60a9fAPkPooGd5z8NYXCA=="
+    },
+    "4hK1P5cAKXA=": {
+      "displayName": {
+        "en": "Gov of North Macedonia"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-08-16T18:38:16.000Z",
+      "validUntilDT": "2023-08-16T18:38:16.000Z",
+      "publicKey": "MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA5zjO9EHmPkHAn9J17+p0SRttpPbom4/IaIZx4A06pf9B0H/3/80m2CgNmgnB09pLbpUqyw2fdDAQmia9ua+3OeXFTDAATAMYDtwEFOJDmS6Jic36ca/ol9eQQz07J3sH1NSzteSBvxqzKCIXnaSLV1vRLNMjc854V6JEwEUZw7NZZ13SU4OvoUBuoenb1hbZ7ckuHrYp6euvOV5bGp6+LpxNQXLTYGDKibZ8JtkLJZG438bYRJrcWKG0TCRol78VAYpm5wSkY9At3HOElyfnFvJiN12hEbtq2UgySwlAEz1DoxHAgfleyfrHf1FEbOJWvWtEY/1jiCPLDU4cnvEZGrxCYfyoh0Nkrvti2CU9nj4J/I3RDreXOuYLuwzyXnXozmBN80qF7zyV+bzRY4TCxIC5vilELQ2rY0UaUQfN5HnkUbRZdV4ZRrg8DaXoX5ykJoT/BVf2k7rKypeOjnXMwFRfwpOesjNd4PQ+sv+7MkKzPAi3WtfkYERzKb3sH/bXBRbdj+DMzw/A+Jfn9tYQ5p1rSE/nawfO1heUdjSGiHcHJAqQCwaA01twE9Pxtm+JqZDmHmStzd1yNLbfUNzhMTYEN6zTyibqIcqKx3DOQVMRjfv90mw7V+suXjMXrSCzG8m3WUoUb2Vg2rQ5/d5NePZdfS/e+BPM6LAQOAfx2jcCAwEAAQ=="
+    },
+    "9wMJ+Ipb7Mo=": {
+      "displayName": {
+        "en": "Gov of North Macedonia"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-08-16T18:31:55.000Z",
+      "validUntilDT": "2023-08-16T18:31:55.000Z",
+      "publicKey": "MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAtrOd8Ko4mBZbdUrAMm/UQWuju26GbeR0bGVUvcZGV49eqa7PW5RQe0GBR2ZPI1mVy/3xwx0vLuOdVcBDQN4oe9gw7XNyXDTwUMTynfiaEnRRZY+gUqjkVfYkqW97nZEqXYpiI2tyvop9uXHriELCtr7A6xiAugbeZ1sJbKBKUYAUFAfdxGv6RwWX99SR9kS2WfFIoW65QQpS0Mer77qGRk0AeMrRJqPSsSbliRyFO0UcSi24I+IBrbKWieWmPxP3qGSOE4izpymPqMZHAnMfPdHb4FxoHJ5loF3TtuTuzMqPV28BuJlKLMQDx353TI8FfSGzJKvX1EW2jXygPNnOpHA/tMf6Ayo12ySuhTKIumFEFn6iQUueO8S1fPEMu/KrO0we1sMhDBo7z59lXFYMjKnePdDs1nM27a7gJdsg07a0tuB3BVbnDJqztYUdvaaz7LA77znWB0Qnbo4UVBtillMnIXqzzqkTzmYNN/FtR74EwtqY6zsVeKsafAD6IqtwPctIN08i/qAFN4/4ngPHERrZjw2Kci+sIGnksrPsjgwYVwkNgStd0PsaKtwU+tpnplEuVrSuJ/RaUATC/QdT0Q9CyGUQigKCN+0+QBiAqlJ3stf0O0ctkdY7yEDVDuuXFu2A+hYJ4+gFT0fvk0VnOJVO3/GRRYdcFS1d20EJCZ8CAwEAAQ=="
+    },
+    "hOU0N+8Zcss=": {
+      "displayName": {
+        "en": "Gov of North Macedonia"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-08-16T15:10:17.000Z",
+      "validUntilDT": "2023-08-16T15:10:17.000Z",
+      "publicKey": "MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAvKCDvFxgbxW3gZw3Hc9+vD5Th+N5yIS2Hc1i1U6CwP8cJYRkaivoWs3iXTECkt+EoV226k8au9Bv8h2+35KntGnMtgOlRqguE1Oia5qewTlyD0Ujs47k8vms1pKQd27V8TD6F1pU7XdeQcLkuXgi4tr1nTxlAW31kxHQM/0jAD/EWoExo/aAze2rEUDqyhyIZxFHWsavWh3IJFezCu/cm3i7kXIM6nSadKttBbttPDpZierUlkWg5hlvdSfyw4Rkju6g0Rt58FE2eRjY56tj/2d27Lb7bJYEUQ6MUfAekT3oGETPEZU3d2rX2NqIdere0BEG0iOaSPpirlGBvKL8agrYtmtZiz2E1rtg2Lfov5q6qnmIH2ikrreiFFxX7VoYZkfO2vO36ZymUvkPGYLBNBjesM233hB9aMustUBvLkTVbqvy9Wa80PIRpwBEEO98927ISL+IqLEiwwmrD5QG3vCQmTYMgWuuIwEIzs7fiWjXkksgr4fYUCYgTVE6pEo1dtelK2fyOEfoiuudq+Ox+yCTHb/GkTEccVEsP/nM1ouHEh/zd+52pEPBtO3WKl+hDNQudtHG3ZN4DgwE6hKkmlO9aoH5kJORD3TIQS7bapOoGo4yiTBHPOAsLnzYRAyYMow4eh16n2n1vVQl4DOnHIvWmepF32EAF8tyFG2HxYECAwEAAQ=="
     }
   },
   "SHC": {
@@ -20799,6 +20874,32 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEJCHLoxs/lFUefjQbFFlCc4Ax6PrcFYbfX5T69c6ZA/52XFwu4OrsFiFmcniceKPMri6k4CS8oD+zTTpoy75XHQ=="
+    },
+    "https://epicaccess.templehealth.org/FhirProxyPrd/api/epic/2021/Security/Open/EcKeys/32001/SHC#_a-kB8nWodnqIgCflOUDxUORfUD1aoUR6Bey8-mHyek": {
+      "displayName": {
+        "en": "Temple Health"
+      },
+      "displayURL": "https://www.templehealth.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE3JRwTGQ+dTC6LX5ZPQNoi0wQs0d4nqlyat2puErs0GaX+D+OFVWdLKB/yKJGf3f7cQ7yD4yg9JYBmMvKVi/IHg=="
+    },
+    "https://interconnect.azacp.com/interconnect-oauth2-prd/api/epic/2021/Security/Open/EcKeys/32001/SHC#ggBXefAONrttYisHELbcrv6YKWXsSDLZA02rA_6KCMs": {
+      "displayName": {
+        "en": "Arizona Community Physicians"
+      },
+      "displayURL": "https://www.azacp.com/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtlGxes0boWKSjkLEJwzzg9l7uuwQQ6XV6ifdhrms5+T6b1wo4iRqbwZNSex+uiKG2zMwxMgWar+pbymqrCWvcg=="
     }
   }
 }
