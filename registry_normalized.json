@@ -12119,6 +12119,51 @@
       "validFromDT": "2022-08-16T19:18:26.000Z",
       "validUntilDT": "2025-08-16T19:18:26.000Z",
       "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArRq6d4TNaIRhQWHWnmFGyyDVDarzry+wPXIOsP0gyUHyLo2cG/btAyoHQwWcmd+cactYgboEBLvyW04AKlSLQSgELH0jDyd+gZsQFeEWnMxvsii5UFNb+PKkpVqTc+kthf8FsQoPIZPz4t8haEaOwinwPBYrvzxNhhLa73KBieJFWMTVvx/QnP5PtnnLnw+rhmuh21l+xZ+K+/WvI/JFTcq9DmYME1Kuk/7r4xjlFnSw4vOE6Z7Demoa8unjuwZjbilss9LqXHq6jETmOqEilbkxVuYPSeS6qqTVt7H2QL5z24D64VYD5Mh4LuYtfZBFfbxtLiBazVGIYuNE4wQ99wIDAQAB"
+    },
+    "7JiMkpiusvE=": {
+      "displayName": {
+        "en": "Gov of Spain"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-08-12T09:30:00.000Z",
+      "validUntilDT": "2024-08-12T09:29:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEwrJtv/j+zgaKjJxkGhsEognt8UnhwOJndcIWVd1orTO1WwyV5AEVAl9iUkWQSvWYAQ1IqRTvwyOy5aHVoMsqWg=="
+    },
+    "gYKFoHFI9cY=": {
+      "displayName": {
+        "en": "Gov of Spain"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-08-12T09:30:00.000Z",
+      "validUntilDT": "2024-08-12T09:29:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEGEHteEnU/XxOEa1mLuQV3Y8Ek/OZ0aQYS8ETDeJUdq3ab7aUXvv96yjPX8fmYY5+wQYZOCGeqTM5IEWFToUC7A=="
+    },
+    "jSYxfNKNus8=": {
+      "displayName": {
+        "en": "Gov of Oman"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-06-01T11:20:50.000Z",
+      "validUntilDT": "2028-06-01T11:20:50.000Z",
+      "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4/1oXiC05yJF1YRYu+QkiSHbbzuPwm/+i0sHJEv25b2Y/vW1MwDT94LLE+KGVJK+t4DI+NmU3PyFCaBw8rEi9BRt6zfxJgG87PP/82YVQXCt/8Bay/5poeF0wEnV9hFxoSdqwbtbv58uV/TXDf25A6EQeLu8t8zNGI+++xqT6nMsBsFM2xFQxsYggFajPq1JiMLBcKuRprrStxo3Gpa74PIB3yG6OtoCswYN69Iqn/6c2OYb1Xv5BqRU5O1Y7zoQOuEsWsz38pDZyKFA47zu2uerxuXnOwq4oUqxReToVPW0DRH9LqGIeQ2rT+VIeIk89OngWtf6zmrMELetzITeawIDAQAB"
     }
   },
   "SHC": {
