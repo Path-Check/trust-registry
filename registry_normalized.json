@@ -12164,6 +12164,36 @@
       "validFromDT": "2022-06-01T11:20:50.000Z",
       "validUntilDT": "2028-06-01T11:20:50.000Z",
       "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4/1oXiC05yJF1YRYu+QkiSHbbzuPwm/+i0sHJEv25b2Y/vW1MwDT94LLE+KGVJK+t4DI+NmU3PyFCaBw8rEi9BRt6zfxJgG87PP/82YVQXCt/8Bay/5poeF0wEnV9hFxoSdqwbtbv58uV/TXDf25A6EQeLu8t8zNGI+++xqT6nMsBsFM2xFQxsYggFajPq1JiMLBcKuRprrStxo3Gpa74PIB3yG6OtoCswYN69Iqn/6c2OYb1Xv5BqRU5O1Y7zoQOuEsWsz38pDZyKFA47zu2uerxuXnOwq4oUqxReToVPW0DRH9LqGIeQ2rT+VIeIk89OngWtf6zmrMELetzITeawIDAQAB"
+    },
+    "EMjzLcPnhUM=": {
+      "displayName": {
+        "en": "Gov of Singapore"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-08-25T04:11:33.000Z",
+      "validUntilDT": "2024-08-24T04:11:33.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEnPs26Jwmq06LO9vji7EHQe81I4zQHplzJCnZAvfTdru6LZgKi+IaHjxowqQ8wEEKL/lWqrJbQVLRMPnJrodVhQ=="
+    },
+    "p8FESgNz/20=": {
+      "displayName": {
+        "en": "Gov of Spain"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-08-23T12:40:00.000Z",
+      "validUntilDT": "2024-08-23T12:35:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEpOPWy5aVJuZ01W/VGOIYV4tUPU5ZNGMe182jkVRPeMI4ec/mbf8F3WH0HI6EF+WIh/bDjOCV4/bXfrwdquQiew=="
     }
   },
   "SHC": {
