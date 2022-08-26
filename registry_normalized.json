@@ -12194,6 +12194,21 @@
       "validFromDT": "2022-08-23T12:40:00.000Z",
       "validUntilDT": "2024-08-23T12:35:00.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEpOPWy5aVJuZ01W/VGOIYV4tUPU5ZNGMe182jkVRPeMI4ec/mbf8F3WH0HI6EF+WIh/bDjOCV4/bXfrwdquQiew=="
+    },
+    "alyJCgVIcWs=": {
+      "displayName": {
+        "en": "Gov of Andorra"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-08-25T09:50:06.000Z",
+      "validUntilDT": "2024-08-24T09:50:06.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEDLjAUZ2HAkYB3JXJQUXHasuyWY/OXe5qO8miKg5z+aYjpLXC8QIHUl5dLrlGhxSP2zBD1zAb4lVguWDHj/mXeA=="
     }
   },
   "SHC": {
