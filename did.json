@@ -21656,6 +21656,20 @@
         "alg": "ES256",
         "crv": "P-256"
       }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fdvc.mohw.gov.tw%23Zs766xRlFRxm6Id1viKVfbelf3U6MNQxjIL6WtiRAhE",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "crv": "P-256",
+        "use": "sig",
+        "kid": "Zs766xRlFRxm6Id1viKVfbelf3U6MNQxjIL6WtiRAhE",
+        "x": "2pu2TrflEdD5TGZWqgZvE7HI1ZpEs8LrtSuxMyNolrI",
+        "y": "4wQDqb5oiP1ygTfeIxxU-XMIwvZ1tPzAzx7jmPwZzgg",
+        "alg": "ES256"
+      }
     }
   ],
   "assertionMethod": [
@@ -23205,13 +23219,14 @@
     "#SHC%23https%3A%2F%2Fepicaccess.templehealth.org%2FFhirProxyPrd%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23_a-kB8nWodnqIgCflOUDxUORfUD1aoUR6Bey8-mHyek",
     "#SHC%23https%3A%2F%2Finterconnect.azacp.com%2Finterconnect-oauth2-prd%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23ggBXefAONrttYisHELbcrv6YKWXsSDLZA02rA_6KCMs",
     "#SHC%23https%3A%2F%2Fpvc.service.yukon.ca%2Fissuer%23QN9XZf6C--UcWGVuZGS5nbAUv6ZV-rV_ESrtsBhkoKw",
-    "#SHC%23https%3A%2F%2Fsoap.bassett.org%2FFHIR%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23-IgAJf77qAqSQGRHMXqAik9MDgFc2jk3JiLZQpuSQ2A"
+    "#SHC%23https%3A%2F%2Fsoap.bassett.org%2FFHIR%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23-IgAJf77qAqSQGRHMXqAik9MDgFc2jk3JiLZQpuSQ2A",
+    "#SHC%23https%3A%2F%2Fdvc.mohw.gov.tw%23Zs766xRlFRxm6Id1viKVfbelf3U6MNQxjIL6WtiRAhE"
   ],
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2022-08-31T12:59:20Z",
+    "created": "2022-09-01T12:54:32Z",
     "verificationMethod": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main:signer#WEB",
     "proofPurpose": "assertionMethod",
-    "proofValue": "z45UGtAh35e6WVG3Fb9B8iegym3HPwgxm3hETDd3fpFhVTaMxFK4jvAS1fqv89aYCtfnEU6qd8KkEpDaFZZb1Tf2X"
+    "proofValue": "zcQL2FNCs387QPNC5fH7uGLECc1xBinY2brvwJPtemwVi91ssY6LgWrAE4XiPevB56QULt7t6AkYww7TtaUkqdmt"
   }
 }
