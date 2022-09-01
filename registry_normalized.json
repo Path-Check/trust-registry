@@ -21106,6 +21106,19 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEAKnjdo2AHhXvYDqDsUgw1p+O5G5qkOf+a2AatFzOSawg8RtiUqky676ADED1Il33nX1iSA2IqtDWKyTXa7Ab9Q=="
+    },
+    "https://dvc.mohw.gov.tw#Zs766xRlFRxm6Id1viKVfbelf3U6MNQxjIL6WtiRAhE": {
+      "displayName": {
+        "en": "Taiwan"
+      },
+      "displayURL": "https://www.mohw.gov.tw/mp-2.html",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE2pu2TrflEdD5TGZWqgZvE7HI1ZpEs8LrtSuxMyNolrLjBAOpvmiI/XKBN94jHFT5cwjC9nW0/MDPHuOY/BnOCA=="
     }
   }
 }
