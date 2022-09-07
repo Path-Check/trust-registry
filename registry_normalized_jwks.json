@@ -33746,6 +33746,300 @@
         "y": "ElGEeTOc1hFd_27pivyu1HbBSwKTeAZMo2zdnD520Ss",
         "alg": "ES256"
       }
+    },
+    "https://healthy.kaiserpermanente.org/public-keys/shc/v1#wo2_PYrMPiKgdxp1bOZTk_wzwa4DkBFYcQDrZt-muWY": {
+      "displayName": {
+        "en": "Kaiser Permanente"
+      },
+      "displayURL": "https://healthy.kaiserpermanente.org",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKeyJwk": {
+        "x": "-Duk13LMhkweS3miOkKcoJCG3hASyxZx4NgvgibSHGY",
+        "y": "c795QnRw7mDb-kgCEzfAXqizdnAXXZ4a2uCTA3nHdYo",
+        "kid": "wo2_PYrMPiKgdxp1bOZTk_wzwa4DkBFYcQDrZt-muWY",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      }
+    },
+    "https://healthy.kaiserpermanente.org/public-keys/shc/v1#rNXvwaBEYRwtk2L091lX_LKYEmO-MyXKNC85IKO8u9c": {
+      "displayName": {
+        "en": "Kaiser Permanente"
+      },
+      "displayURL": "https://healthy.kaiserpermanente.org",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKeyJwk": {
+        "x": "HCxh5u7aiXMA9r3OqZgsz6U67yKCDgErz4-_QwvgX5w",
+        "y": "Jr65SHSg-9iWqwFtpTGB_OmPfq3f4JqefTpclL8Rjwc",
+        "kid": "rNXvwaBEYRwtk2L091lX_LKYEmO-MyXKNC85IKO8u9c",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      }
+    },
+    "https://healthy.kaiserpermanente.org/public-keys/shc/v1#a8QyErpkVPP7fp9hgy2hCEN4-8Tfj4eIXWGGyyqFjRM": {
+      "displayName": {
+        "en": "Kaiser Permanente"
+      },
+      "displayURL": "https://healthy.kaiserpermanente.org",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKeyJwk": {
+        "x": "g38klFYg39e10YDvhqarToH1mgEirSLSb-rIQRzvRtM",
+        "y": "fEA0z4V51kcmTgOHjPhbgZuNayVm1Xl6oWQOktuSG5o",
+        "kid": "a8QyErpkVPP7fp9hgy2hCEN4-8Tfj4eIXWGGyyqFjRM",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      }
+    },
+    "https://healthy.kaiserpermanente.org/public-keys/shc/v1#__7c-ik-MpZuSZ6_ODZckR_FOOi2cN_2bn0s2FaqkpM": {
+      "displayName": {
+        "en": "Kaiser Permanente"
+      },
+      "displayURL": "https://healthy.kaiserpermanente.org",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKeyJwk": {
+        "x": "I2hL998SDDVB2YlyKRA1xHN8NXYDOlk1d9Tm3WS6Ct4",
+        "y": "ujuD_RomNZqxdVbuP7wEkrOrPZ97a_8JK7gvJt7XKbg",
+        "kid": "__7c-ik-MpZuSZ6_ODZckR_FOOi2cN_2bn0s2FaqkpM",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      }
+    },
+    "https://healthy.kaiserpermanente.org/public-keys/shc/v1#NdTA9DTXn_7fOnQXp0Lpqt_3qZu4W9VChV1FN_h3wH0": {
+      "displayName": {
+        "en": "Kaiser Permanente"
+      },
+      "displayURL": "https://healthy.kaiserpermanente.org",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKeyJwk": {
+        "x": "LkChc1so0MK8KCPWogZUtEoNM1_AIngEl7ZtrF1dDzI",
+        "y": "Ue-nin_tKDl254tDwVwQ7XQWGjZjYHe8dPG9btkjzWs",
+        "kid": "NdTA9DTXn_7fOnQXp0Lpqt_3qZu4W9VChV1FN_h3wH0",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      }
+    },
+    "https://healthy.kaiserpermanente.org/public-keys/shc/v1#uGQkrVuVAZhysB0yD33u-i6xoTlw27F8_ENEjQPqGEw": {
+      "displayName": {
+        "en": "Kaiser Permanente"
+      },
+      "displayURL": "https://healthy.kaiserpermanente.org",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKeyJwk": {
+        "x": "vumVrxYTpivuMafo7PF1slZABEvGb0kXWfcgbeTAC70",
+        "y": "mHJ67S2wyUVA4QK2m1yTsDiIVb78SHyh-0DfapsO_-0",
+        "kid": "uGQkrVuVAZhysB0yD33u-i6xoTlw27F8_ENEjQPqGEw",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      }
+    },
+    "https://healthy.kaiserpermanente.org/public-keys/shc/v1#9DN7I5pt-f_WlVi02Mr2R_1WnF6Dv9Va1ttS3mn56MU": {
+      "displayName": {
+        "en": "Kaiser Permanente"
+      },
+      "displayURL": "https://healthy.kaiserpermanente.org",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKeyJwk": {
+        "x": "6Z1DO-OqxVd-wxK1LnNmEgIIM-9FuZqi6G6KDfWOUz8",
+        "y": "h252cjBI21Bd-VnQihwQRm3YI92wCAA68lVHEPLdRFA",
+        "kid": "9DN7I5pt-f_WlVi02Mr2R_1WnF6Dv9Va1ttS3mn56MU",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      }
+    },
+    "https://healthy.kaiserpermanente.org/public-keys/shc/v1/api/epic/2021/Security/Open/EcKeys/32001/SHC#wo2_PYrMPiKgdxp1bOZTk_wzwa4DkBFYcQDrZt-muWY": {
+      "displayName": {
+        "en": "Kaiser Permanente"
+      },
+      "displayURL": "https://healthy.kaiserpermanente.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKeyJwk": {
+        "x": "-Duk13LMhkweS3miOkKcoJCG3hASyxZx4NgvgibSHGY",
+        "y": "c795QnRw7mDb-kgCEzfAXqizdnAXXZ4a2uCTA3nHdYo",
+        "kid": "wo2_PYrMPiKgdxp1bOZTk_wzwa4DkBFYcQDrZt-muWY",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      }
+    },
+    "https://healthy.kaiserpermanente.org/public-keys/shc/v1/api/epic/2021/Security/Open/EcKeys/32001/SHC#rNXvwaBEYRwtk2L091lX_LKYEmO-MyXKNC85IKO8u9c": {
+      "displayName": {
+        "en": "Kaiser Permanente"
+      },
+      "displayURL": "https://healthy.kaiserpermanente.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKeyJwk": {
+        "x": "HCxh5u7aiXMA9r3OqZgsz6U67yKCDgErz4-_QwvgX5w",
+        "y": "Jr65SHSg-9iWqwFtpTGB_OmPfq3f4JqefTpclL8Rjwc",
+        "kid": "rNXvwaBEYRwtk2L091lX_LKYEmO-MyXKNC85IKO8u9c",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      }
+    },
+    "https://healthy.kaiserpermanente.org/public-keys/shc/v1/api/epic/2021/Security/Open/EcKeys/32001/SHC#a8QyErpkVPP7fp9hgy2hCEN4-8Tfj4eIXWGGyyqFjRM": {
+      "displayName": {
+        "en": "Kaiser Permanente"
+      },
+      "displayURL": "https://healthy.kaiserpermanente.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKeyJwk": {
+        "x": "g38klFYg39e10YDvhqarToH1mgEirSLSb-rIQRzvRtM",
+        "y": "fEA0z4V51kcmTgOHjPhbgZuNayVm1Xl6oWQOktuSG5o",
+        "kid": "a8QyErpkVPP7fp9hgy2hCEN4-8Tfj4eIXWGGyyqFjRM",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      }
+    },
+    "https://healthy.kaiserpermanente.org/public-keys/shc/v1/api/epic/2021/Security/Open/EcKeys/32001/SHC#__7c-ik-MpZuSZ6_ODZckR_FOOi2cN_2bn0s2FaqkpM": {
+      "displayName": {
+        "en": "Kaiser Permanente"
+      },
+      "displayURL": "https://healthy.kaiserpermanente.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKeyJwk": {
+        "x": "I2hL998SDDVB2YlyKRA1xHN8NXYDOlk1d9Tm3WS6Ct4",
+        "y": "ujuD_RomNZqxdVbuP7wEkrOrPZ97a_8JK7gvJt7XKbg",
+        "kid": "__7c-ik-MpZuSZ6_ODZckR_FOOi2cN_2bn0s2FaqkpM",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      }
+    },
+    "https://healthy.kaiserpermanente.org/public-keys/shc/v1/api/epic/2021/Security/Open/EcKeys/32001/SHC#NdTA9DTXn_7fOnQXp0Lpqt_3qZu4W9VChV1FN_h3wH0": {
+      "displayName": {
+        "en": "Kaiser Permanente"
+      },
+      "displayURL": "https://healthy.kaiserpermanente.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKeyJwk": {
+        "x": "LkChc1so0MK8KCPWogZUtEoNM1_AIngEl7ZtrF1dDzI",
+        "y": "Ue-nin_tKDl254tDwVwQ7XQWGjZjYHe8dPG9btkjzWs",
+        "kid": "NdTA9DTXn_7fOnQXp0Lpqt_3qZu4W9VChV1FN_h3wH0",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      }
+    },
+    "https://healthy.kaiserpermanente.org/public-keys/shc/v1/api/epic/2021/Security/Open/EcKeys/32001/SHC#uGQkrVuVAZhysB0yD33u-i6xoTlw27F8_ENEjQPqGEw": {
+      "displayName": {
+        "en": "Kaiser Permanente"
+      },
+      "displayURL": "https://healthy.kaiserpermanente.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKeyJwk": {
+        "x": "vumVrxYTpivuMafo7PF1slZABEvGb0kXWfcgbeTAC70",
+        "y": "mHJ67S2wyUVA4QK2m1yTsDiIVb78SHyh-0DfapsO_-0",
+        "kid": "uGQkrVuVAZhysB0yD33u-i6xoTlw27F8_ENEjQPqGEw",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      }
+    },
+    "https://healthy.kaiserpermanente.org/public-keys/shc/v1/api/epic/2021/Security/Open/EcKeys/32001/SHC#9DN7I5pt-f_WlVi02Mr2R_1WnF6Dv9Va1ttS3mn56MU": {
+      "displayName": {
+        "en": "Kaiser Permanente"
+      },
+      "displayURL": "https://healthy.kaiserpermanente.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKeyJwk": {
+        "x": "6Z1DO-OqxVd-wxK1LnNmEgIIM-9FuZqi6G6KDfWOUz8",
+        "y": "h252cjBI21Bd-VnQihwQRm3YI92wCAA68lVHEPLdRFA",
+        "kid": "9DN7I5pt-f_WlVi02Mr2R_1WnF6Dv9Va1ttS3mn56MU",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      }
     }
   }
 }
