@@ -12252,6 +12252,21 @@
       "validFromDT": "2022-09-01T10:07:03.000Z",
       "validUntilDT": "2024-08-31T10:07:02.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEO6niUgETcAlUOrFpZ3Dz9fMmfHHnxVnka+h24+3E/GYSUYR5M5zWEV3/bumK/K7UdsFLApN4BkyjbN2cPnbRKw=="
+    },
+    "NQPKtaCLigU=": {
+      "displayName": {
+        "en": "Gov of Spain"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-09-07T07:30:00.000Z",
+      "validUntilDT": "2024-09-07T07:29:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEnefT6WehzWhgXEMIOhXX5OQptv/6FlDWYRdfpDE+rQRcrT8BkNktgyRhJ+U0+ZYnC9aH6uPRk0++vIsYIPEZCg=="
     }
   },
   "SHC": {
@@ -21342,6 +21357,44 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE6Z1DO+OqxVd+wxK1LnNmEgIIM+9FuZqi6G6KDfWOUz+HbnZyMEjbUF35WdCKHBBGbdgj3bAIADryVUcQ8t1EUA=="
+    },
+    "https://smarthealthcard.iisregistry.net/arkansas/issuer#t-DzYd2IEWgreyzw2GCdqwo-RzwUfmIwd3oJIsTFklA": {
+      "displayName": {
+        "en": "Arkansas Department of Health"
+      },
+      "displayURL": "https://www.healthy.arkansas.gov//programs-services/topics/novel-coronavirus",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEfNG49T8NfaEpqYxCrp419+lFz6Zr05v1OYCsfplHA6hhMnclFf32LyV08ZXVDq0KKdTykgK3tQ+F83x94HOrIQ=="
+    },
+    "https://fhir.mvhealthsystem.org/FHIRproxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#jemD-Hkw6KSeoIIYx0HyaI_SBmcJ9KNUkdazTevRBaU": {
+      "displayName": {
+        "en": "Mohawk Valley Health System"
+      },
+      "displayURL": "https://mychart.mvhealthsystem.org/MyChart/Authentication/Login?",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEdyMpjy0e3phs5eniPIcwP+H4TYwCbZPG5seZN5TdaIkwA4DmjjC358M0fhUrzaidHvdFYQ+0Lt6JqFJ/kRODww=="
+    },
+    "https://pvc.gov.nu.ca/pvc#DftUSIlFGWXfFr0cm1tYwpQ1rL1wOS7_YtjyAGzRI68": {
+      "displayName": {
+        "en": ""
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEEJ6VuuweW9TXIP+Nr3GdZnMenlrle4mHqdA5TGv8Vsxb6IQRhYRAQX9MpMZOt5PgrHQEpa246gcsKsajsSnxJQ=="
     }
   }
 }

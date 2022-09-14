@@ -19258,6 +19258,30 @@
           "MIICjjCCAjSgAwIBAgIUOCqv4JlpVoBTRevWJxjC4zyLlRQwCgYIKoZIzj0EAwIwgZIxCzAJBgNVBAYTAlRXMRcwFQYDVQQKDA5FeGVjdXRpdmUgWXVhbjEnMCUGA1UECwweTWluaXN0cnkgb2YgSGVhbHRoIGFuZCBXZWxmYXJlMSQwIgYDVQQLDBtDZW50ZXJzIGZvciBEaXNlYXNlIENvbnRyb2wxGzAZBgNVBAMMEkNvdW50cnkgU2lnbmluZyBDQTAeFw0yMTA4MTYxMjI1MjFaFw0yNTA4MTUxMjI1MjBaMIGSMQswCQYDVQQGEwJUVzEXMBUGA1UECgwORXhlY3V0aXZlIFl1YW4xJzAlBgNVBAsMHk1pbmlzdHJ5IG9mIEhlYWx0aCBhbmQgV2VsZmFyZTEkMCIGA1UECwwbQ2VudGVycyBmb3IgRGlzZWFzZSBDb250cm9sMRswGQYDVQQDDBJDb3VudHJ5IFNpZ25pbmcgQ0EwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAQO8UIbGEGDVqbno2aYWNFvWqZCddC9YyDaCo109MlioyhhRgPDu6YTuZQbxp6oOJFgzIG5hzyVi1bRWIwbZb5ao2YwZDASBgNVHRMBAf8ECDAGAQH/AgEAMB8GA1UdIwQYMBaAFAgrtozfIfkfqeNOiBjmyl1V6irlMB0GA1UdDgQWBBQIK7aM3yH5H6njTogY5spdVeoq5TAOBgNVHQ8BAf8EBAMCAQYwCgYIKoZIzj0EAwIDSAAwRQIhAJLP840qOB6Sd0mTuZrZf5imkBW6Uz8YAZ12ozDb+wE+AiAo7EdcUjn+ML0ro5le6elkhChqbbeNW1Tlgd7XkBx0Rg=="
         ]
       }
+    },
+    "NQPKtaCLigU=": {
+      "displayName": {
+        "en": "Gov of Spain"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-09-07T07:30:00.000Z",
+      "validUntilDT": "2024-09-07T07:29:00.000Z",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "nefT6WehzWhgXEMIOhXX5OQptv_6FlDWYRdfpDE-rQQ",
+        "y": "XK0_AZDZLYMkYSflNPmWJwvWh-rj0ZNPvryLGCDxGQo",
+        "crv": "P-256",
+        "x5c": [
+          "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"
+        ]
+      }
     }
   },
   "SHC": {
@@ -34039,6 +34063,68 @@
         "kty": "EC",
         "alg": "ES256",
         "crv": "P-256"
+      }
+    },
+    "https://smarthealthcard.iisregistry.net/arkansas/issuer#t-DzYd2IEWgreyzw2GCdqwo-RzwUfmIwd3oJIsTFklA": {
+      "displayName": {
+        "en": "Arkansas Department of Health"
+      },
+      "displayURL": "https://www.healthy.arkansas.gov//programs-services/topics/novel-coronavirus",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "kid": "t-DzYd2IEWgreyzw2GCdqwo-RzwUfmIwd3oJIsTFklA",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "fNG49T8NfaEpqYxCrp419-lFz6Zr05v1OYCsfplHA6g",
+        "y": "YTJ3JRX99i8ldPGV1Q6tCinU8pICt7UPhfN8feBzqyE"
+      }
+    },
+    "https://fhir.mvhealthsystem.org/FHIRproxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#jemD-Hkw6KSeoIIYx0HyaI_SBmcJ9KNUkdazTevRBaU": {
+      "displayName": {
+        "en": "Mohawk Valley Health System"
+      },
+      "displayURL": "https://mychart.mvhealthsystem.org/MyChart/Authentication/Login?",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKeyJwk": {
+        "x": "dyMpjy0e3phs5eniPIcwP-H4TYwCbZPG5seZN5TdaIk",
+        "y": "MAOA5o4wt-fDNH4VK82onR73RWEPtC7eiahSf5ETg8M",
+        "kid": "jemD-Hkw6KSeoIIYx0HyaI_SBmcJ9KNUkdazTevRBaU",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      }
+    },
+    "https://pvc.gov.nu.ca/pvc#DftUSIlFGWXfFr0cm1tYwpQ1rL1wOS7_YtjyAGzRI68": {
+      "displayName": {
+        "en": ""
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "kid": "DftUSIlFGWXfFr0cm1tYwpQ1rL1wOS7_YtjyAGzRI68",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "EJ6VuuweW9TXIP-Nr3GdZnMenlrle4mHqdA5TGv8Vsw",
+        "y": "W-iEEYWEQEF_TKTGTreT4Kx0BKWtuOoHLCrGo7Ep8SU"
       }
     }
   }
