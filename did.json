@@ -12012,6 +12012,96 @@
       }
     },
     {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#DCC%237Zip6TIArdU%3D",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "v6fGdCXvLjDXOR-Jez9Yhhfi0yurvmVsERhOxLCAoBU",
+        "y": "H7crGANtpU-fC7iYmk05QyohK06U97LVK-cKe8zLEn8",
+        "crv": "P-256",
+        "x5c": [
+          "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"
+        ]
+      }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#DCC%239M4Dyu4ExpU%3D",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "TUdpzEULBmMC4hCX6CjgDFYh2beGv-NZuiG5h4MIbRQ",
+        "y": "KBbeoBQHpACDDq51ojQBFbn0wn-hk2Uk6wg-E3cBHwM",
+        "crv": "P-256",
+        "x5c": [
+          "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"
+        ]
+      }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#DCC%23PayA8oTde54%3D",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "VhrPwWcd85BtDbw4CQErLNEHqq3MuV7iXo-f5fFJrsM",
+        "y": "f6RC8LH4E56T25i4QzAFX54AM5KqdBIpOJNFupP0_A8",
+        "crv": "P-256",
+        "x5c": [
+          "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"
+        ]
+      }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#DCC%23d8Jf4cWFYzk%3D",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "qCfBCcEF8sxu9S6u9BbHV007OERAQOF5I19T0Mkm0j4",
+        "y": "26BvY-v5q8ISoV4XePDtnaBQHp-H8UCHDfxp81Tpz4E",
+        "crv": "P-256",
+        "x5c": [
+          "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"
+        ]
+      }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#DCC%23dXLL6W5mJq0%3D",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "_b4SavivlioQ2saC7ejpw0uhYvX1EfOYKOCAMS6vg9U",
+        "y": "ky1iGpVXN244T56ASemXEWrS7ObRaz57TLR36TwUKtI",
+        "crv": "P-256",
+        "x5c": [
+          "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"
+        ]
+      }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#DCC%23kplKkPEvQx0%3D",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "A2UJnAT6gtgFUkVGnp-1bfCLLpv_TpWOU_YmALVpWxk",
+        "y": "SVot2TVlbSUHH_R9a8y57BztxEoWGTp9ahFe8j2a5uI",
+        "crv": "P-256",
+        "x5c": [
+          "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"
+        ]
+      }
+    },
+    {
       "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fapi.myirmobile.com%2Fissuer%23aQ8UtrF8UuWjSv5yQEgsiYyh_wsyRZ8fouggmtB38I8",
       "type": "JsonWebKey2020",
       "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
@@ -21968,6 +22058,230 @@
         "x": "EJ6VuuweW9TXIP-Nr3GdZnMenlrle4mHqdA5TGv8Vsw",
         "y": "W-iEEYWEQEF_TKTGTreT4Kx0BKWtuOoHLCrGo7Ep8SU"
       }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fsmarthealthcard.iisregistry.net%2Fdelaware%2Fissuer%23Ojnl4SYcPva17V4AV9ztCCTG7bXc02zpS8Qil7yi4ac",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "kid": "Ojnl4SYcPva17V4AV9ztCCTG7bXc02zpS8Qil7yi4ac",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "C67do2nehGhmTV42QGu063SMUY6s1q1DR1DjinwLl-Q",
+        "y": "f_Ehi8dW_yzl65_E4HvItQCKo6AzH8RjZiMqQY3yS-o"
+      }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fsmarthealthcard.iisregistry.net%2Fconnecticut%2Fissuer%23Yins6zdFFla22fnW41GZV6fsPaX46b_MG5rE5X39tMk",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "kid": "Yins6zdFFla22fnW41GZV6fsPaX46b_MG5rE5X39tMk",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "rOlm47Xzp2RpVnHFtgKfH-eMKDIYRFBis--elXCKePU",
+        "y": "A9qROJE5D0scr0YVq-19Eax9d8M3eFEVnVexMyNIFzA"
+      }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fsmarthealthcard.iisregistry.net%2Fnevada%2Fissuer%23-7KwyVSAe4g37WuMgIfw1HD8z1_LVsX8zqcwagZlQBo",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "kid": "-7KwyVSAe4g37WuMgIfw1HD8z1_LVsX8zqcwagZlQBo",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "-HQqmqM-hjaSUSi5-MStJCDBs-eeiOT-t91-bPyPQPI",
+        "y": "GxiOeUQu29da8Nw_GG9NRyu2ZaY5fLAf7PQlpGnpXdM"
+      }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fsmarthealthcard.iisregistry.net%2Fnewmexico%2Fissuer%23vMMsQ-8ob3XdjLMvzLIqHWH8yiE6OM13mim6sHbL7OI",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "kid": "vMMsQ-8ob3XdjLMvzLIqHWH8yiE6OM13mim6sHbL7OI",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "2_ZB_KzLk0iBqffu8BVMf9Tk6qhmB8edFGsMP8PPbVU",
+        "y": "NMQ3WnKtviiC1mxw8TiLHE0Eq-h9YNS2XENqMb-jwcg"
+      }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fsmarthealthcard.iisregistry.net%2Fcnmi%2Fissuer%23zTS48nKWsMcEMYW2qi3aEpb91M8MdDL1OjKpDagIOFY",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "kid": "zTS48nKWsMcEMYW2qi3aEpb91M8MdDL1OjKpDagIOFY",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "Qo8OpR6Caf_oI1C_r8TpGGAO3K4qJGgBQ3wf4-AZ_h8",
+        "y": "tIvrqqDUwrNXquENGthrhY5Nf0Ux8nNvSXtbmzZLYow"
+      }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fsmarthealthcard.iisregistry.net%2Fguam%2Fissuer%23pW7F8zJPBc8uqtTRPBiKyCFDfAS4ZIeFlocSLdxZEe8",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "kid": "pW7F8zJPBc8uqtTRPBiKyCFDfAS4ZIeFlocSLdxZEe8",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "hxrSW9ra19xDv2z1tbtM_jKkr_rZmXySjTUOTSPvj98",
+        "y": "_t7HF6I3RwdxlDhmtm7AiZ5P3I7O52U2MIpvOGfKFfc"
+      }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fsmarthealthcard.iisregistry.net%2Fkentucky%2Fissuer%232IfE2paj2TPh_-pC9nVIMaKKqUqb2hzoMFcRpX2l3Y4",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "kid": "2IfE2paj2TPh_-pC9nVIMaKKqUqb2hzoMFcRpX2l3Y4",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "IoAWT9iGGFOuiuKnt6kxi9VG0b6PGpO4JJ1yUuR9zpc",
+        "y": "ieHd5lPgaoRkIYb_VJsy2vPTyJ8SR71MTkNhZ09U9UU"
+      }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fsmarthealthcard.iisregistry.net%2Fpalau%2Fissuer%23rtVmuCG9DrsEt9qlCsrST2P3n9UV6iGC4PwfijotD38",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "kid": "rtVmuCG9DrsEt9qlCsrST2P3n9UV6iGC4PwfijotD38",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "A2bXFoRfe-EMHhQUHPCexl-Bq5YzW8QRVTW5Ndo1cMM",
+        "y": "t1fx0jQmj2uJjpkf7VgVm84YJXCUDqAPGg8FS1dwiVc"
+      }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fsmarthealthcard.iisregistry.net%2Fcolorado%2Fissuer%23fDpmdl8kXxgfs3Ce8xZkT4p3YZGrTK71Gp0yfTCEPPk",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "kid": "fDpmdl8kXxgfs3Ce8xZkT4p3YZGrTK71Gp0yfTCEPPk",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "0QCUzvKioAjXRAD96gzlRdu1kRbDzo3dIRoexUCtsFg",
+        "y": "0CSKlY4Rv_TXq6pZz1ew6bNUR4rZ8yaFIxap2JivU1Q"
+      }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fsmarthealthcard.iisregistry.net%2Frmi%2Fissuer%23YfjIbmElcMkjwclXAoOVw6tmbsKI90EMXwB2WmJIqHc",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "kid": "YfjIbmElcMkjwclXAoOVw6tmbsKI90EMXwB2WmJIqHc",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "iG6PfXvJ6DOnfcUTc1VsPTLatIKN68miiwkhxWnyapo",
+        "y": "bkBMJ1NiTvfFDNVlbz14UF-9JCnRl_GjOeI7tLJzKVE"
+      }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fsmarthealthcard.iisregistry.net%2Fphiladelphia%2Fissuer%23BS3vs7e2FDY2A5x_2sBgccJR7ULKvOkEedEH5NWYkM0",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "kid": "BS3vs7e2FDY2A5x_2sBgccJR7ULKvOkEedEH5NWYkM0",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "YAJqsPLKoG08GjWiKz96c8AYaESL4QazIqV1giRa0vY",
+        "y": "bLO-W6IbGIsERyh1uwis_9E7oLE8B_aimAx5YXU4ZPc"
+      }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fsmarthealthcard.iisregistry.net%2Famericansamoa%2Fissuer%23zSo8tNBGLuI-uEImCzrErr6udFjZZimOFkqO9pfICj8",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "kid": "zSo8tNBGLuI-uEImCzrErr6udFjZZimOFkqO9pfICj8",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "zUbMXM0HHPYjN7vctb0eQUOx2GPvJRhbl1pNR6byJOE",
+        "y": "cY1gje5wqPM5gznjg1eVZgn-mdBOnHrXobJYzVk-Nes"
+      }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fsmarthealthcard.iisregistry.net%2Ffsm%2Fissuer%23d2Gu5_12Gabur3jC7bZ0ooWh41tq3SW6H4x35FnKRhI",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "kid": "d2Gu5_12Gabur3jC7bZ0ooWh41tq3SW6H4x35FnKRhI",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "j3hMieSbN-VjMGrkMLX7kG8evXI-qlG_vQmeZ5gzMxI",
+        "y": "04YCs1Xsa1nyAmxZeRKuxmo4xqFhJfpVk3IH5bs5YyY"
+      }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fsmarthealthcard.iisregistry.net%2Fsouthcarolina%2Fissuer%234S4NI0l6wC6YBNPSdp8upWraj9XayAdQYUU-ycC6qcw",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "kid": "4S4NI0l6wC6YBNPSdp8upWraj9XayAdQYUU-ycC6qcw",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "-72O5hI170yY4u9H4WHisAP1nSJgq3tcoid1SmiO8PI",
+        "y": "MA53Qmlj7DpMJ7h4yuKkcC7i8WT5OrwkEcNfbi_qH4Y"
+      }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fsmarthealthcard.iisregistry.net%2Farkansas%2Fissuer%23CGDPOMcHM7ZrKqsD4Y73HznEnERaJzxvG_dLwaenSgs",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "kid": "CGDPOMcHM7ZrKqsD4Y73HznEnERaJzxvG_dLwaenSgs",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "Ss_WFsKX36tTTRLQUL0L5zmTdA2am1s4-ifB5oeu5I8",
+        "y": "nkX_Z51n50lvtloQKPq1vFFbrabZZeFI9QtPjLz4OqE"
+      }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fdocket.care%2Fak%23SYM1S7J-oUsFAlWk2Hh_JfDjT8W53HK8DGAAheuctzI",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "alg": "ES256",
+        "crv": "P-256",
+        "kid": "SYM1S7J-oUsFAlWk2Hh_JfDjT8W53HK8DGAAheuctzI",
+        "kty": "EC",
+        "use": "sig",
+        "x": "1qO4uiq70-KEwL5j0nUNnM2gTL3fSe_bLGO09Rdmq6o",
+        "y": "lgb-h4yikpkSnmjnbPc_TsbnvkZo2youZMDJ71h5wT4"
+      }
     }
   ],
   "assertionMethod": [
@@ -22833,6 +23147,12 @@
     "#DCC%23mtvLRfpl58g%3D",
     "#DCC%23%2F23hUqa9yJo%3D",
     "#DCC%23NQPKtaCLigU%3D",
+    "#DCC%237Zip6TIArdU%3D",
+    "#DCC%239M4Dyu4ExpU%3D",
+    "#DCC%23PayA8oTde54%3D",
+    "#DCC%23d8Jf4cWFYzk%3D",
+    "#DCC%23dXLL6W5mJq0%3D",
+    "#DCC%23kplKkPEvQx0%3D",
     "#SHC%23https%3A%2F%2Fapi.myirmobile.com%2Fissuer%23aQ8UtrF8UuWjSv5yQEgsiYyh_wsyRZ8fouggmtB38I8",
     "#SHC%23https%3A%2F%2Fhealthcardcert.lawallet.com%23UOvXbgzZj4zL-lt1uJVS_98NHQrQz48FTdqQyNEdaNE",
     "#SHC%23https%3A%2F%2Fwww.riteaid.com%23vqHxrsBwtWp2-NS2APN4m8aGjnaec8_juc9C4wFw9hI",
@@ -23539,13 +23859,29 @@
     "#SHC%23https%3A%2F%2Fhealthy.kaiserpermanente.org%2Fpublic-keys%2Fshc%2Fv1%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%239DN7I5pt-f_WlVi02Mr2R_1WnF6Dv9Va1ttS3mn56MU",
     "#SHC%23https%3A%2F%2Fsmarthealthcard.iisregistry.net%2Farkansas%2Fissuer%23t-DzYd2IEWgreyzw2GCdqwo-RzwUfmIwd3oJIsTFklA",
     "#SHC%23https%3A%2F%2Ffhir.mvhealthsystem.org%2FFHIRproxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23jemD-Hkw6KSeoIIYx0HyaI_SBmcJ9KNUkdazTevRBaU",
-    "#SHC%23https%3A%2F%2Fpvc.gov.nu.ca%2Fpvc%23DftUSIlFGWXfFr0cm1tYwpQ1rL1wOS7_YtjyAGzRI68"
+    "#SHC%23https%3A%2F%2Fpvc.gov.nu.ca%2Fpvc%23DftUSIlFGWXfFr0cm1tYwpQ1rL1wOS7_YtjyAGzRI68",
+    "#SHC%23https%3A%2F%2Fsmarthealthcard.iisregistry.net%2Fdelaware%2Fissuer%23Ojnl4SYcPva17V4AV9ztCCTG7bXc02zpS8Qil7yi4ac",
+    "#SHC%23https%3A%2F%2Fsmarthealthcard.iisregistry.net%2Fconnecticut%2Fissuer%23Yins6zdFFla22fnW41GZV6fsPaX46b_MG5rE5X39tMk",
+    "#SHC%23https%3A%2F%2Fsmarthealthcard.iisregistry.net%2Fnevada%2Fissuer%23-7KwyVSAe4g37WuMgIfw1HD8z1_LVsX8zqcwagZlQBo",
+    "#SHC%23https%3A%2F%2Fsmarthealthcard.iisregistry.net%2Fnewmexico%2Fissuer%23vMMsQ-8ob3XdjLMvzLIqHWH8yiE6OM13mim6sHbL7OI",
+    "#SHC%23https%3A%2F%2Fsmarthealthcard.iisregistry.net%2Fcnmi%2Fissuer%23zTS48nKWsMcEMYW2qi3aEpb91M8MdDL1OjKpDagIOFY",
+    "#SHC%23https%3A%2F%2Fsmarthealthcard.iisregistry.net%2Fguam%2Fissuer%23pW7F8zJPBc8uqtTRPBiKyCFDfAS4ZIeFlocSLdxZEe8",
+    "#SHC%23https%3A%2F%2Fsmarthealthcard.iisregistry.net%2Fkentucky%2Fissuer%232IfE2paj2TPh_-pC9nVIMaKKqUqb2hzoMFcRpX2l3Y4",
+    "#SHC%23https%3A%2F%2Fsmarthealthcard.iisregistry.net%2Fpalau%2Fissuer%23rtVmuCG9DrsEt9qlCsrST2P3n9UV6iGC4PwfijotD38",
+    "#SHC%23https%3A%2F%2Fsmarthealthcard.iisregistry.net%2Fcolorado%2Fissuer%23fDpmdl8kXxgfs3Ce8xZkT4p3YZGrTK71Gp0yfTCEPPk",
+    "#SHC%23https%3A%2F%2Fsmarthealthcard.iisregistry.net%2Frmi%2Fissuer%23YfjIbmElcMkjwclXAoOVw6tmbsKI90EMXwB2WmJIqHc",
+    "#SHC%23https%3A%2F%2Fsmarthealthcard.iisregistry.net%2Fphiladelphia%2Fissuer%23BS3vs7e2FDY2A5x_2sBgccJR7ULKvOkEedEH5NWYkM0",
+    "#SHC%23https%3A%2F%2Fsmarthealthcard.iisregistry.net%2Famericansamoa%2Fissuer%23zSo8tNBGLuI-uEImCzrErr6udFjZZimOFkqO9pfICj8",
+    "#SHC%23https%3A%2F%2Fsmarthealthcard.iisregistry.net%2Ffsm%2Fissuer%23d2Gu5_12Gabur3jC7bZ0ooWh41tq3SW6H4x35FnKRhI",
+    "#SHC%23https%3A%2F%2Fsmarthealthcard.iisregistry.net%2Fsouthcarolina%2Fissuer%234S4NI0l6wC6YBNPSdp8upWraj9XayAdQYUU-ycC6qcw",
+    "#SHC%23https%3A%2F%2Fsmarthealthcard.iisregistry.net%2Farkansas%2Fissuer%23CGDPOMcHM7ZrKqsD4Y73HznEnERaJzxvG_dLwaenSgs",
+    "#SHC%23https%3A%2F%2Fdocket.care%2Fak%23SYM1S7J-oUsFAlWk2Hh_JfDjT8W53HK8DGAAheuctzI"
   ],
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2022-09-14T13:01:25Z",
+    "created": "2022-09-15T13:02:06Z",
     "verificationMethod": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main:signer#WEB",
     "proofPurpose": "assertionMethod",
-    "proofValue": "z2LR6FAKZPP1ARtwqce2CvrUQYvAGggaX9YorjLJ51TyJJvz9wqKFywTjdvPbfmET7zj4Xi3Bvb2PXJgRf2iD43p8"
+    "proofValue": "z4Bbqaoi2dL98WPqmMf1hPeakAg64PhJ8MuKbtzg3q9pTXSjrgSeEheuu71Ra5AibKQen6NFvNhijUoEBHsp6tcTD"
   }
 }

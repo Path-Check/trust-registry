@@ -12267,6 +12267,96 @@
       "validFromDT": "2022-09-07T07:30:00.000Z",
       "validUntilDT": "2024-09-07T07:29:00.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEnefT6WehzWhgXEMIOhXX5OQptv/6FlDWYRdfpDE+rQRcrT8BkNktgyRhJ+U0+ZYnC9aH6uPRk0++vIsYIPEZCg=="
+    },
+    "7Zip6TIArdU=": {
+      "displayName": {
+        "en": "Gov of United Kingdom"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-09-12T08:51:17.000Z",
+      "validUntilDT": "2024-09-12T09:21:17.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEv6fGdCXvLjDXOR+Jez9Yhhfi0yurvmVsERhOxLCAoBUftysYA22lT58LuJiaTTlDKiErTpT3stUr5wp7zMsSfw=="
+    },
+    "9M4Dyu4ExpU=": {
+      "displayName": {
+        "en": "Gov of United Kingdom"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-09-07T14:28:35.000Z",
+      "validUntilDT": "2024-09-07T14:58:35.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAETUdpzEULBmMC4hCX6CjgDFYh2beGv+NZuiG5h4MIbRQoFt6gFAekAIMOrnWiNAEVufTCf6GTZSTrCD4TdwEfAw=="
+    },
+    "PayA8oTde54=": {
+      "displayName": {
+        "en": "Gov of United Kingdom"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-09-12T08:30:52.000Z",
+      "validUntilDT": "2024-09-12T09:00:52.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEVhrPwWcd85BtDbw4CQErLNEHqq3MuV7iXo+f5fFJrsN/pELwsfgTnpPbmLhDMAVfngAzkqp0Eik4k0W6k/T8Dw=="
+    },
+    "d8Jf4cWFYzk=": {
+      "displayName": {
+        "en": "Gov of United Kingdom"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-09-07T14:20:58.000Z",
+      "validUntilDT": "2024-09-07T14:50:58.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEqCfBCcEF8sxu9S6u9BbHV007OERAQOF5I19T0Mkm0j7boG9j6/mrwhKhXhd48O2doFAen4fxQIcN/GnzVOnPgQ=="
+    },
+    "dXLL6W5mJq0=": {
+      "displayName": {
+        "en": "Gov of United Kingdom"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-09-07T14:18:32.000Z",
+      "validUntilDT": "2024-09-07T14:48:32.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE/b4SavivlioQ2saC7ejpw0uhYvX1EfOYKOCAMS6vg9WTLWIalVc3bjhPnoBJ6ZcRatLs5tFrPntMtHfpPBQq0g=="
+    },
+    "kplKkPEvQx0=": {
+      "displayName": {
+        "en": "Gov of United Kingdom"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-09-08T08:56:18.000Z",
+      "validUntilDT": "2024-09-08T09:26:18.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEA2UJnAT6gtgFUkVGnp+1bfCLLpv/TpWOU/YmALVpWxlJWi3ZNWVtJQcf9H1rzLnsHO3EShYZOn1qEV7yPZrm4g=="
     }
   },
   "SHC": {
@@ -21395,6 +21485,210 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEEJ6VuuweW9TXIP+Nr3GdZnMenlrle4mHqdA5TGv8Vsxb6IQRhYRAQX9MpMZOt5PgrHQEpa246gcsKsajsSnxJQ=="
+    },
+    "https://smarthealthcard.iisregistry.net/delaware/issuer#Ojnl4SYcPva17V4AV9ztCCTG7bXc02zpS8Qil7yi4ac": {
+      "displayName": {
+        "en": "Delaware Immunization Program"
+      },
+      "displayURL": "https://delvax.dhss.delaware.gov/delvax_public/Application/PublicPortal",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEC67do2nehGhmTV42QGu063SMUY6s1q1DR1DjinwLl+R/8SGLx1b/LOXrn8Tge8i1AIqjoDMfxGNmIypBjfJL6g=="
+    },
+    "https://smarthealthcard.iisregistry.net/connecticut/issuer#Yins6zdFFla22fnW41GZV6fsPaX46b_MG5rE5X39tMk": {
+      "displayName": {
+        "en": "CT Department of Public Health"
+      },
+      "displayURL": "https://portal.ct.gov/DPH/Immunizations/CT-WiZ-Access-My-Immunization-Record",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAErOlm47Xzp2RpVnHFtgKfH+eMKDIYRFBis++elXCKePUD2pE4kTkPSxyvRhWr7X0RrH13wzd4URWdV7EzI0gXMA=="
+    },
+    "https://smarthealthcard.iisregistry.net/nevada/issuer#-7KwyVSAe4g37WuMgIfw1HD8z1_LVsX8zqcwagZlQBo": {
+      "displayName": {
+        "en": "State of Nevada"
+      },
+      "displayURL": "https://izrecord.nv.gov/public/Application/PublicPortal",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE+HQqmqM+hjaSUSi5+MStJCDBs+eeiOT+t91+bPyPQPIbGI55RC7b11rw3D8Yb01HK7Zlpjl8sB/s9CWkaeld0w=="
+    },
+    "https://smarthealthcard.iisregistry.net/newmexico/issuer#vMMsQ-8ob3XdjLMvzLIqHWH8yiE6OM13mim6sHbL7OI": {
+      "displayName": {
+        "en": "NM Department of Health"
+      },
+      "displayURL": "http://vaxviewnm.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE2/ZB/KzLk0iBqffu8BVMf9Tk6qhmB8edFGsMP8PPbVU0xDdacq2+KILWbHDxOIscTQSr6H1g1LZcQ2oxv6PByA=="
+    },
+    "https://smarthealthcard.iisregistry.net/cnmi/issuer#zTS48nKWsMcEMYW2qi3aEpb91M8MdDL1OjKpDagIOFY": {
+      "displayName": {
+        "en": "CNMI Immunization Program"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEQo8OpR6Caf/oI1C/r8TpGGAO3K4qJGgBQ3wf4+AZ/h+0i+uqoNTCs1eq4Q0a2GuFjk1/RTHyc29Je1ubNktijA=="
+    },
+    "https://smarthealthcard.iisregistry.net/guam/issuer#pW7F8zJPBc8uqtTRPBiKyCFDfAS4ZIeFlocSLdxZEe8": {
+      "displayName": {
+        "en": "Guam Department of Public Health & Social Services"
+      },
+      "displayURL": "https://dphss.guam.gov/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEhxrSW9ra19xDv2z1tbtM/jKkr/rZmXySjTUOTSPvj9/+3scXojdHB3GUOGa2bsCJnk/cjs7nZTYwim84Z8oV9w=="
+    },
+    "https://smarthealthcard.iisregistry.net/kentucky/issuer#2IfE2paj2TPh_-pC9nVIMaKKqUqb2hzoMFcRpX2l3Y4": {
+      "displayName": {
+        "en": "Kentucky Registry"
+      },
+      "displayURL": "https://kyir.chfs.ky.gov/webiznet_kyir/Login.aspx",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEIoAWT9iGGFOuiuKnt6kxi9VG0b6PGpO4JJ1yUuR9zpeJ4d3mU+BqhGQhhv9UmzLa89PInxJHvUxOQ2FnT1T1RQ=="
+    },
+    "https://smarthealthcard.iisregistry.net/palau/issuer#rtVmuCG9DrsEt9qlCsrST2P3n9UV6iGC4PwfijotD38": {
+      "displayName": {
+        "en": "Palau Registry"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEA2bXFoRfe+EMHhQUHPCexl+Bq5YzW8QRVTW5Ndo1cMO3V/HSNCaPa4mOmR/tWBWbzhglcJQOoA8aDwVLV3CJVw=="
+    },
+    "https://smarthealthcard.iisregistry.net/colorado/issuer#fDpmdl8kXxgfs3Ce8xZkT4p3YZGrTK71Gp0yfTCEPPk": {
+      "displayName": {
+        "en": "State of Colorado"
+      },
+      "displayURL": "https://mycolorado.gov/myvaccine-record",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE0QCUzvKioAjXRAD96gzlRdu1kRbDzo3dIRoexUCtsFjQJIqVjhG/9NerqlnPV7Dps1RHitnzJoUjFqnYmK9TVA=="
+    },
+    "https://smarthealthcard.iisregistry.net/rmi/issuer#YfjIbmElcMkjwclXAoOVw6tmbsKI90EMXwB2WmJIqHc": {
+      "displayName": {
+        "en": "RMI Ministry of Health and Human Services"
+      },
+      "displayURL": "https://webiz.rmihealth.org/webiznet_rmi/Login.aspx",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEiG6PfXvJ6DOnfcUTc1VsPTLatIKN68miiwkhxWnyappuQEwnU2JO98UM1WVvPXhQX70kKdGX8aM54ju0snMpUQ=="
+    },
+    "https://smarthealthcard.iisregistry.net/philadelphia/issuer#BS3vs7e2FDY2A5x_2sBgccJR7ULKvOkEedEH5NWYkM0": {
+      "displayName": {
+        "en": "City of Philadelphia"
+      },
+      "displayURL": "https://vax.phila.gov/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEYAJqsPLKoG08GjWiKz96c8AYaESL4QazIqV1giRa0vZss75bohsYiwRHKHW7CKz/0TugsTwH9qKYDHlhdThk9w=="
+    },
+    "https://smarthealthcard.iisregistry.net/americansamoa/issuer#zSo8tNBGLuI-uEImCzrErr6udFjZZimOFkqO9pfICj8": {
+      "displayName": {
+        "en": "American Samoa"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEzUbMXM0HHPYjN7vctb0eQUOx2GPvJRhbl1pNR6byJOFxjWCN7nCo8zmDOeODV5VmCf6Z0E6cetehsljNWT416w=="
+    },
+    "https://smarthealthcard.iisregistry.net/fsm/issuer#d2Gu5_12Gabur3jC7bZ0ooWh41tq3SW6H4x35FnKRhI": {
+      "displayName": {
+        "en": "FSM Department of Health and Social Affairs"
+      },
+      "displayURL": "https://hsa.gov.fm/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEj3hMieSbN+VjMGrkMLX7kG8evXI+qlG/vQmeZ5gzMxLThgKzVexrWfICbFl5Eq7GajjGoWEl+lWTcgfluzljJg=="
+    },
+    "https://smarthealthcard.iisregistry.net/southcarolina/issuer#4S4NI0l6wC6YBNPSdp8upWraj9XayAdQYUU-ycC6qcw": {
+      "displayName": {
+        "en": "South Carolina Department of Health and Environmental Control"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE+72O5hI170yY4u9H4WHisAP1nSJgq3tcoid1SmiO8PIwDndCaWPsOkwnuHjK4qRwLuLxZPk6vCQRw19uL+ofhg=="
+    },
+    "https://smarthealthcard.iisregistry.net/arkansas/issuer#CGDPOMcHM7ZrKqsD4Y73HznEnERaJzxvG_dLwaenSgs": {
+      "displayName": {
+        "en": "Arkansas Department of Health"
+      },
+      "displayURL": "https://www.healthy.arkansas.gov//programs-services/topics/novel-coronavirus",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAESs/WFsKX36tTTRLQUL0L5zmTdA2am1s4+ifB5oeu5I+eRf9nnWfnSW+2WhAo+rW8UVutptll4Uj1C0+MvPg6oQ=="
+    },
+    "https://docket.care/ak#SYM1S7J-oUsFAlWk2Hh_JfDjT8W53HK8DGAAheuctzI": {
+      "displayName": {
+        "en": "State of Alaska"
+      },
+      "displayURL": "https://health.alaska.gov/dph/Epi/iz/Pages/default.aspx",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE1qO4uiq70+KEwL5j0nUNnM2gTL3fSe/bLGO09Rdmq6qWBv6HjKKSmRKeaOds9z9Oxue+RmjbKi5kwMnvWHnBPg=="
     }
   }
 }
