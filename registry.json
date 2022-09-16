@@ -27186,8 +27186,9 @@
     },
     "https://pvc.gov.nu.ca/pvc#DftUSIlFGWXfFr0cm1tYwpQ1rL1wOS7_YtjyAGzRI68": {
       "displayName": {
-        "en": ""
+        "en": "Department of Health, Government of Nunavut"
       },
+      "displayURL": "https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/vaccines/vaccine-proof/get-canadian.html",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
