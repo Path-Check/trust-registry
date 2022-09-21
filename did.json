@@ -22282,6 +22282,20 @@
         "x": "1qO4uiq70-KEwL5j0nUNnM2gTL3fSe_bLGO09Rdmq6o",
         "y": "lgb-h4yikpkSnmjnbPc_TsbnvkZo2youZMDJ71h5wT4"
       }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fhealth.us.cue.dev%2Fapi%2Fsmart-health-card%2Fproduction%23bF6qcbib9igh0oy3dZ5puupOi4-Lyc5zyrJcAlFPOD0",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "crv": "P-256",
+        "alg": "ES256",
+        "use": "sig",
+        "kty": "EC",
+        "kid": "bF6qcbib9igh0oy3dZ5puupOi4-Lyc5zyrJcAlFPOD0",
+        "x": "hRGQDUemyfPZUyebO19ei9Zu0SRBd2SeEdH9hzSxbZQ",
+        "y": "Hk4XY9igeNG6zwebYW7B9N-szsgFjVTdo1F_YnnMkf0"
+      }
     }
   ],
   "assertionMethod": [
@@ -23875,13 +23889,14 @@
     "#SHC%23https%3A%2F%2Fsmarthealthcard.iisregistry.net%2Ffsm%2Fissuer%23d2Gu5_12Gabur3jC7bZ0ooWh41tq3SW6H4x35FnKRhI",
     "#SHC%23https%3A%2F%2Fsmarthealthcard.iisregistry.net%2Fsouthcarolina%2Fissuer%234S4NI0l6wC6YBNPSdp8upWraj9XayAdQYUU-ycC6qcw",
     "#SHC%23https%3A%2F%2Fsmarthealthcard.iisregistry.net%2Farkansas%2Fissuer%23CGDPOMcHM7ZrKqsD4Y73HznEnERaJzxvG_dLwaenSgs",
-    "#SHC%23https%3A%2F%2Fdocket.care%2Fak%23SYM1S7J-oUsFAlWk2Hh_JfDjT8W53HK8DGAAheuctzI"
+    "#SHC%23https%3A%2F%2Fdocket.care%2Fak%23SYM1S7J-oUsFAlWk2Hh_JfDjT8W53HK8DGAAheuctzI",
+    "#SHC%23https%3A%2F%2Fhealth.us.cue.dev%2Fapi%2Fsmart-health-card%2Fproduction%23bF6qcbib9igh0oy3dZ5puupOi4-Lyc5zyrJcAlFPOD0"
   ],
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2022-09-20T12:58:03Z",
+    "created": "2022-09-21T13:04:33Z",
     "verificationMethod": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main:signer#WEB",
     "proofPurpose": "assertionMethod",
-    "proofValue": "z3EmhUGeep96EqfhEcM4JZ5AyRp28VeXBcbLghdW4sNCgJKYha3REhRkNaXWVpsfiW5RGvh5Vc1Cd3VqihJNdB1pt"
+    "proofValue": "z4RLGqyqtKc8dXEucYL3PYPCquXgzSL2ZXK5JzA3L4JtCautf8iZtZWTvHF1A4kL2tr46xmvijQmaXhhaDhTP764L"
   }
 }
