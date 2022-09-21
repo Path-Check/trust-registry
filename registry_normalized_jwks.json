@@ -34603,6 +34603,27 @@
         "x": "1qO4uiq70-KEwL5j0nUNnM2gTL3fSe_bLGO09Rdmq6o",
         "y": "lgb-h4yikpkSnmjnbPc_TsbnvkZo2youZMDJ71h5wT4"
       }
+    },
+    "https://health.us.cue.dev/api/smart-health-card/production#bF6qcbib9igh0oy3dZ5puupOi4-Lyc5zyrJcAlFPOD0": {
+      "displayName": {
+        "en": "Cue Health"
+      },
+      "displayURL": "https://cuehealth.com/contact/support/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKeyJwk": {
+        "crv": "P-256",
+        "alg": "ES256",
+        "use": "sig",
+        "kty": "EC",
+        "kid": "bF6qcbib9igh0oy3dZ5puupOi4-Lyc5zyrJcAlFPOD0",
+        "x": "hRGQDUemyfPZUyebO19ei9Zu0SRBd2SeEdH9hzSxbZQ",
+        "y": "Hk4XY9igeNG6zwebYW7B9N-szsgFjVTdo1F_YnnMkf0"
+      }
     }
   }
 }
