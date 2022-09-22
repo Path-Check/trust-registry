@@ -12357,6 +12357,21 @@
       "validFromDT": "2022-09-08T08:56:18.000Z",
       "validUntilDT": "2024-09-08T09:26:18.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEA2UJnAT6gtgFUkVGnp+1bfCLLpv/TpWOU/YmALVpWxlJWi3ZNWVtJQcf9H1rzLnsHO3EShYZOn1qEV7yPZrm4g=="
+    },
+    "YvL5+ij4oRI=": {
+      "displayName": {
+        "en": "Gov of Spain"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-08-19T08:00:00.000Z",
+      "validUntilDT": "2024-08-19T07:45:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE7Tneev+53XUDTDnBo1xIXyyHd9UTb7Mra+dm8w1e88hyEMdIrBdJauIiPUTgdQGrTo2VRBaxVquui1GaYrBfXA=="
     }
   },
   "SHC": {
@@ -12958,7 +12973,6 @@
       "displayName": {
         "en": "UC Health (San Diego / Irvine / Riverside) and Affiliates"
       },
-      "displayURL": "https://myucsdchart.ucsd.edu/ucsd",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -21703,6 +21717,19 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEhRGQDUemyfPZUyebO19ei9Zu0SRBd2SeEdH9hzSxbZQeThdj2KB40brPB5thbsH036zOyAWNVN2jUX9iecyR/Q=="
+    },
+    "https://epicproxy.et0502.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#nQM-36EWDZU5kLoCoeOvshvT2P9JUyc8Do6yWRhNokg": {
+      "displayName": {
+        "en": "UC Health (San Diego / Irvine / Riverside) and Affiliates"
+      },
+      "displayURL": "https://myucsdchart.ucsd.edu/ucsd",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAECigbmPsGybDdg/XoKXJ2x6eqHlrYZ4UrqYuqHusAMUD/32ke8BeWBl1wDRiiGYHCjR9J+byxuHHbmoT+XszAKQ=="
     }
   }
 }
