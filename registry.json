@@ -27160,7 +27160,7 @@
       "displayName": {
         "en": "Arkansas Department of Health"
       },
-      "displayURL": "https://www.healthy.arkansas.gov//programs-services/topics/novel-coronavirus",
+      "displayURL": "https://www.healthy.arkansas.gov/programs-services/topics/novel-coronavirus",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -27513,7 +27513,7 @@
       "displayName": {
         "en": "Arkansas Department of Health"
       },
-      "displayURL": "https://www.healthy.arkansas.gov//programs-services/topics/novel-coronavirus",
+      "displayURL": "https://www.healthy.arkansas.gov/programs-services/topics/novel-coronavirus",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -27584,6 +27584,27 @@
         "x": "CigbmPsGybDdg_XoKXJ2x6eqHlrYZ4UrqYuqHusAMUA",
         "y": "_99pHvAXlgZdcA0YohmBwo0fSfm8sbhx25qE_l7MwCk",
         "kid": "nQM-36EWDZU5kLoCoeOvshvT2P9JUyc8Do6yWRhNokg",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epicproxy.et1254.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#zrG9rdtg9G-9zPYBRApxcguLg7v8oPvBOBFydmjfYhQ": {
+      "displayName": {
+        "en": "Aspen Valley Hospital"
+      },
+      "displayURL": "https://www.aspenhospital.org/patients/patient-portal/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "tJRMSso9wEu76FUDVTTtB-haawQM6-N7g8QZDD3aDm8",
+        "y": "BAgG88B4w8DZpX7LKY0Sc2-TNLCE54uJoSq_zkppOmY",
+        "kid": "zrG9rdtg9G-9zPYBRApxcguLg7v8oPvBOBFydmjfYhQ",
         "use": "sig",
         "kty": "EC",
         "alg": "ES256",
