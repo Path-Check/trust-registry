@@ -22325,6 +22325,20 @@
         "alg": "ES256",
         "crv": "P-256"
       }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fepicproxy.et1254.epichosted.com%2FFHIRProxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23zrG9rdtg9G-9zPYBRApxcguLg7v8oPvBOBFydmjfYhQ",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "x": "tJRMSso9wEu76FUDVTTtB-haawQM6-N7g8QZDD3aDm8",
+        "y": "BAgG88B4w8DZpX7LKY0Sc2-TNLCE54uJoSq_zkppOmY",
+        "kid": "zrG9rdtg9G-9zPYBRApxcguLg7v8oPvBOBFydmjfYhQ",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      }
     }
   ],
   "assertionMethod": [
@@ -23921,13 +23935,14 @@
     "#SHC%23https%3A%2F%2Fsmarthealthcard.iisregistry.net%2Farkansas%2Fissuer%23CGDPOMcHM7ZrKqsD4Y73HznEnERaJzxvG_dLwaenSgs",
     "#SHC%23https%3A%2F%2Fdocket.care%2Fak%23SYM1S7J-oUsFAlWk2Hh_JfDjT8W53HK8DGAAheuctzI",
     "#SHC%23https%3A%2F%2Fhealth.us.cue.dev%2Fapi%2Fsmart-health-card%2Fproduction%23bF6qcbib9igh0oy3dZ5puupOi4-Lyc5zyrJcAlFPOD0",
-    "#SHC%23https%3A%2F%2Fepicproxy.et0502.epichosted.com%2FFHIRProxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23nQM-36EWDZU5kLoCoeOvshvT2P9JUyc8Do6yWRhNokg"
+    "#SHC%23https%3A%2F%2Fepicproxy.et0502.epichosted.com%2FFHIRProxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23nQM-36EWDZU5kLoCoeOvshvT2P9JUyc8Do6yWRhNokg",
+    "#SHC%23https%3A%2F%2Fepicproxy.et1254.epichosted.com%2FFHIRProxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23zrG9rdtg9G-9zPYBRApxcguLg7v8oPvBOBFydmjfYhQ"
   ],
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2022-09-23T12:59:36Z",
+    "created": "2022-09-24T12:59:08Z",
     "verificationMethod": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main:signer#WEB",
     "proofPurpose": "assertionMethod",
-    "proofValue": "z5nBYkphiJG2SGnzqcv2RF9CREBejNRE8NR4rTA2sDyCXKdid3cEKKUKn3RAhwXz1M5knGThdiz21KpKvs6Rnoo2L"
+    "proofValue": "z5cSEYoBMNpSKxuTEihetwHk5vSFbuBesvqtH5oiK3LSbLjTR5NC2sTPUWnksWv8XKLeD4PGrLtvMkDwdD9sNwfCx"
   }
 }

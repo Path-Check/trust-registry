@@ -21466,7 +21466,7 @@
       "displayName": {
         "en": "Arkansas Department of Health"
       },
-      "displayURL": "https://www.healthy.arkansas.gov//programs-services/topics/novel-coronavirus",
+      "displayURL": "https://www.healthy.arkansas.gov/programs-services/topics/novel-coronavirus",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -21683,7 +21683,7 @@
       "displayName": {
         "en": "Arkansas Department of Health"
       },
-      "displayURL": "https://www.healthy.arkansas.gov//programs-services/topics/novel-coronavirus",
+      "displayURL": "https://www.healthy.arkansas.gov/programs-services/topics/novel-coronavirus",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -21730,6 +21730,19 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAECigbmPsGybDdg/XoKXJ2x6eqHlrYZ4UrqYuqHusAMUD/32ke8BeWBl1wDRiiGYHCjR9J+byxuHHbmoT+XszAKQ=="
+    },
+    "https://epicproxy.et1254.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#zrG9rdtg9G-9zPYBRApxcguLg7v8oPvBOBFydmjfYhQ": {
+      "displayName": {
+        "en": "Aspen Valley Hospital"
+      },
+      "displayURL": "https://www.aspenhospital.org/patients/patient-portal/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtJRMSso9wEu76FUDVTTtB+haawQM6+N7g8QZDD3aDm8ECAbzwHjDwNmlfsspjRJzb5M0sITni4mhKr/OSmk6Zg=="
     }
   }
 }
