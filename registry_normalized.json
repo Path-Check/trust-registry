@@ -12387,6 +12387,36 @@
       "validFromDT": "2022-09-25T04:09:58.000Z",
       "validUntilDT": "2024-09-24T04:09:58.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEdeGfEEutyGjVPq1j6zTxie4+yC5Ufv3tkcU5l8CH89S8S0Ly1LK+9kO64VZHhqg7+Jr2XIrIO+wcqqJskRxw7A=="
+    },
+    "DvkF3UtZsOU=": {
+      "displayName": {
+        "en": "Gov of Luxembourg"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-09-26T13:32:37.000Z",
+      "validUntilDT": "2024-09-25T13:32:37.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEuhmz15lgJ4o5olM6TpUu/JoV9NmwLKPE/mwU9DVIyTt14dcdk21tG9eRk4bS0IS2TKwDheDJRY9tpQTiIU2EUg=="
+    },
+    "QcwZz6f41TM=": {
+      "displayName": {
+        "en": "Gov of Luxembourg"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-09-26T13:33:38.000Z",
+      "validUntilDT": "2024-09-25T13:33:38.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEjrnJ+IA3jkq7bL3nfxcBr8A9Z0yQEojOrJt4A9xWKC5RAfBYfGHJu5xOhAQYPAie5uH+OLeOYpK3xWpC5zapbQ=="
     }
   },
   "SHC": {
