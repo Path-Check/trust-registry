@@ -12432,6 +12432,21 @@
       "validFromDT": "2022-09-13T11:00:00.000Z",
       "validUntilDT": "2024-09-13T10:59:00.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEpY6LCyPQhp1u7suHyUANe4OTOadVwv5d3PQOiIeAcuTMlLDoX3pVRQ1PO52HMQjmDdtisWUZAE1ZExquEfT8xA=="
+    },
+    "m+oEZYKFl7I=": {
+      "displayName": {
+        "en": "Gov of Spain"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-09-23T10:00:00.000Z",
+      "validUntilDT": "2024-09-23T09:59:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEpGmfNDVquOutOvidgmUzzZQRx5KZveDCNyLWpTJ/J2JPPl3LQ+vqcCIQD0qQEx7SzRxnlfdvQAafcSytbTQang=="
     }
   },
   "SHC": {
@@ -21803,6 +21818,45 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtJRMSso9wEu76FUDVTTtB+haawQM6+N7g8QZDD3aDm8ECAbzwHjDwNmlfsspjRJzb5M0sITni4mhKr/OSmk6Zg=="
+    },
+    "https://proxy.christushealth.org/FHIRPRD/api/epic/2021/Security/Open/EcKeys/32001/SHC#Blu1I2q57VDnWIgc7-X7Y1md8jrFqIvhJiQ_xvQydfA": {
+      "displayName": {
+        "en": "CHRISTUS Health"
+      },
+      "displayURL": "https://www.christushealth.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEbGkiSAXk7ige54g4/ToXtvP9xv4gRnFamocnD7bLhn1uLSfkmweo4sUxqJFNlwWkGsPdTtxYYauBD5gBpRNt6g=="
+    },
+    "https://wpprod.choa.org/FHIR_PRD/api/epic/2021/Security/Open/EcKeys/32001/SHC#Z6ZwpiIh4RokwFr2eaHgahvr335Ph8hGdgzDD4Oaxko": {
+      "displayName": {
+        "en": "Children’s Healthcare of Atlanta"
+      },
+      "displayURL": "https://mychart.choa.org/mychart/Authentication/Login?",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEHoM0ubbQpeZ7ePMP/OKFp1cyZ8XCF97qCacVCMuLY772Yf7PoP1LILf9nBlNdaSyPqs37R3ejYdDm/ZP7jfjHw=="
+    },
+    "https://api.kroger.com/healthwellness/v1/smartcard#kSkuBfLcOxfDGo8ZGzJh0GO3SP3wT6uT8ya62NMuYGk": {
+      "displayName": {
+        "en": "Kroger Health"
+      },
+      "displayURL": "https://www.kroger.com/health/pharmacy/covid-vaccine-testing#COVIDVaccineFAQs",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEcZiXet4QvrYxA7T2RlypK6z477pAGIwyAaSPIZ8YhJ57gU7Z0YF+F+fSuAYB2JbClKuQPf4Bi0L64BylRDIvlw=="
     }
   }
 }
