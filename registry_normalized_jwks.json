@@ -19841,6 +19841,31 @@
           "MIIDGjCCAr+gAwIBAgIUUAyHI4JNrzsK3zXQ7GPV4DMH7p4wCgYIKoZIzj0EAwIwgYYxFzAVBgNVBAMMDkNTQ0EgSGVhbHRoIE5MMQowCAYDVQQFEwExMS0wKwYDVQQLDCRNaW5pc3RyeSBvZiBIZWFsdGggV2VsZmFyZSBhbmQgU3BvcnQxIzAhBgNVBAoMGktpbmdkb20gb2YgdGhlIE5ldGhlcmxhbmRzMQswCQYDVQQGEwJOTDAeFw0yMTA1MjYxMzA1MDNaFw00MTA1MjExMzA1MDNaMIGGMRcwFQYDVQQDDA5DU0NBIEhlYWx0aCBOTDEKMAgGA1UEBRMBMTEtMCsGA1UECwwkTWluaXN0cnkgb2YgSGVhbHRoIFdlbGZhcmUgYW5kIFNwb3J0MSMwIQYDVQQKDBpLaW5nZG9tIG9mIHRoZSBOZXRoZXJsYW5kczELMAkGA1UEBhMCTkwwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARULoH1KIHYRntleqjJH+TV+puflWOvvQOyv5k8rJCqF7CUJKJA3y8GNZjSJICCWXz0g22Wj83i1aryBEYIjz66o4IBBzCCAQMwEgYDVR0TAQH/BAgwBgEB/wIBADAfBgNVHSMEGDAWgBQiTfjDjSlzU4N3hpr3UsEa7KGhHzAbBgNVHRIEFDASpBAwDjEMMAoGA1UEBwwDTkxEMBsGA1UdEQQUMBKkEDAOMQwwCgYDVQQHDANOTEQwNgYDVR0fBC8wLTAroCmgJ4YlaHR0cDovL2NybC5ucGtkLm5sL0NSTHMvTkwtSGVhbHRoLmNybDAdBgNVHQ4EFgQUIk34w40pc1ODd4aa91LBGuyhoR8wKwYDVR0QBCQwIoAPMjAyMTA1MjYxMzA1MDNagQ8yMDI0MDUyNTEzMDUwM1owDgYDVR0PAQH/BAQDAgEGMAoGCCqGSM49BAMCA0kAMEYCIQCfI5Tak8DmB+gqZ8zJrTLpRtzOeA8QPODOLqL+rK3LLwIhAL2bUFtfWhI5uADy6rxsw/JS3OlzIILMk0dQcyfH9Brt"
         ]
       }
+    },
+    "uu5uT16n3b8=": {
+      "displayName": {
+        "en": "Gov of Armenia"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-10-04T14:12:30.000Z",
+      "validUntilDT": "2024-10-06T14:12:30.000Z",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "qb0DurHnDUGyFHBQIEMEsaDSDNCY1kh4aqL5S-txmm8",
+        "y": "v9IRGcTe6Ff2zR50KBtG2KHy4U96LkJEnHc3lKNBlPA",
+        "crv": "P-256",
+        "x5c": [
+          "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"
+        ]
+      }
     }
   },
   "SHC": {
@@ -35142,6 +35167,48 @@
         "x": "cZiXet4QvrYxA7T2RlypK6z477pAGIwyAaSPIZ8YhJ4",
         "y": "e4FO2dGBfhfn0rgGAdiWwpSrkD3-AYtC-uAcpUQyL5c",
         "alg": "ES256"
+      }
+    },
+    "https://covid19.quebec.ca/PreuveVaccinaleApi/issuer#q-jdwRFL7uv9SihJOTHpQUoqUiRecfxfsTuoGQstogU": {
+      "displayName": {
+        "en": "Gouvernement du Québec - Government of Quebec"
+      },
+      "displayURL": "https://www.quebec.ca/vaccinationpassport",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "kid": "q-jdwRFL7uv9SihJOTHpQUoqUiRecfxfsTuoGQstogU",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "TEiuXzrBQfKUutwrkn-9YGhGmW-tBagCKdijK66roNA",
+        "y": "dqNIdN8e9hnOy7KO2QNlBQZgIzPGDMbblAwpXNUPH1Q"
+      }
+    },
+    "https://epicrp-prd.eushc.org/OAUTH2-PRD/api/epic/2021/Security/Open/EcKeys/32001/SHC#2knCJErzIirepPhDkFlIHeLNXyVlh8msd7G-D-kxCmk": {
+      "displayName": {
+        "en": "Emory Healthcare"
+      },
+      "displayURL": "https://www.emoryhealthcare.org",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKeyJwk": {
+        "x": "6EhY9HvHHxqwGibf1ADr12mNR17A6DU25jYbuWWwrnw",
+        "y": "YTFGFfA8A3BcrjfG8dqkuNlSZCw6QLeBGK5usODLJ24",
+        "kid": "2knCJErzIirepPhDkFlIHeLNXyVlh8msd7G-D-kxCmk",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
       }
     }
   }
