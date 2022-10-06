@@ -22058,6 +22058,45 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE6EhY9HvHHxqwGibf1ADr12mNR17A6DU25jYbuWWwrnxhMUYV8DwDcFyuN8bx2qS42VJkLDpAt4EYrm6w4Msnbg=="
+    },
+    "https://docket.care/wy#jwqukbzQbN1RxccBTk5kcDeD6imAxn7EylrmnRw-Xnc": {
+      "displayName": {
+        "en": "State of Wyoming"
+      },
+      "displayURL": "http://www.immunizewyoming.com",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEN463/AWwPWW7cSSVqS5r3/MDrQZRPrcmrJbntiTQ+WnMkrdEQUqhBJlynCwL2nReXtrbe2Ifx4ameWhI3HagfA=="
+    },
+    "https://boomer.cchmc.org/fhir/api/epic/2021/Security/Open/EcKeys/32001/SHC#aBasrtBz-O7X5Bj9MUh8s1jkGr_PzrJgqjdtGERFj50": {
+      "displayName": {
+        "en": "Cincinnati Children's Hospital Medical Center"
+      },
+      "displayURL": "https://mychart.cincinnatichildrens.org/mychart/Authentication/Login",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE1B+BuKnnIZ39TC8U8pf5zQ9HqsPAMCiXDFa/2RtiAvnz0MLuOHq5hEB8dfFbiNa3o00W7UG3rruFhhWpzkCBQQ=="
+    },
+    "https://epicproxy.et1233.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#qsf0gGRL-Qb4Oxim1Pul9L4Tc_U56MG0No7XLd5pHHw": {
+      "displayName": {
+        "en": "NCH Healthcare System"
+      },
+      "displayURL": "https://nchmd.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAETc+vkAKFgt9hGTkgAPDiLT/q/GMOD/g6wZ1XYcj3jcnInCxctVx9AzQY0MQnjoMCE9ZSODvGAeoMNoIC7AI6aw=="
     }
   }
 }

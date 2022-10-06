@@ -22683,6 +22683,48 @@
         "alg": "ES256",
         "crv": "P-256"
       }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fdocket.care%2Fwy%23jwqukbzQbN1RxccBTk5kcDeD6imAxn7EylrmnRw-Xnc",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "alg": "ES256",
+        "crv": "P-256",
+        "kid": "jwqukbzQbN1RxccBTk5kcDeD6imAxn7EylrmnRw-Xnc",
+        "kty": "EC",
+        "use": "sig",
+        "x": "N463_AWwPWW7cSSVqS5r3_MDrQZRPrcmrJbntiTQ-Wk",
+        "y": "zJK3REFKoQSZcpwsC9p0Xl7a23tiH8eGpnloSNx2oHw"
+      }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fboomer.cchmc.org%2Ffhir%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23aBasrtBz-O7X5Bj9MUh8s1jkGr_PzrJgqjdtGERFj50",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "x": "1B-BuKnnIZ39TC8U8pf5zQ9HqsPAMCiXDFa_2RtiAvk",
+        "y": "89DC7jh6uYRAfHXxW4jWt6NNFu1Bt667hYYVqc5AgUE",
+        "kid": "aBasrtBz-O7X5Bj9MUh8s1jkGr_PzrJgqjdtGERFj50",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fepicproxy.et1233.epichosted.com%2FFHIRProxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23qsf0gGRL-Qb4Oxim1Pul9L4Tc_U56MG0No7XLd5pHHw",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "x": "Tc-vkAKFgt9hGTkgAPDiLT_q_GMOD_g6wZ1XYcj3jck",
+        "y": "yJwsXLVcfQM0GNDEJ46DAhPWUjg7xgHqDDaCAuwCOms",
+        "kid": "qsf0gGRL-Qb4Oxim1Pul9L4Tc_U56MG0No7XLd5pHHw",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      }
     }
   ],
   "assertionMethod": [
@@ -24303,13 +24345,16 @@
     "#SHC%23https%3A%2F%2Fwpprod.choa.org%2FFHIR_PRD%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23Z6ZwpiIh4RokwFr2eaHgahvr335Ph8hGdgzDD4Oaxko",
     "#SHC%23https%3A%2F%2Fapi.kroger.com%2Fhealthwellness%2Fv1%2Fsmartcard%23kSkuBfLcOxfDGo8ZGzJh0GO3SP3wT6uT8ya62NMuYGk",
     "#SHC%23https%3A%2F%2Fcovid19.quebec.ca%2FPreuveVaccinaleApi%2Fissuer%23q-jdwRFL7uv9SihJOTHpQUoqUiRecfxfsTuoGQstogU",
-    "#SHC%23https%3A%2F%2Fepicrp-prd.eushc.org%2FOAUTH2-PRD%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%232knCJErzIirepPhDkFlIHeLNXyVlh8msd7G-D-kxCmk"
+    "#SHC%23https%3A%2F%2Fepicrp-prd.eushc.org%2FOAUTH2-PRD%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%232knCJErzIirepPhDkFlIHeLNXyVlh8msd7G-D-kxCmk",
+    "#SHC%23https%3A%2F%2Fdocket.care%2Fwy%23jwqukbzQbN1RxccBTk5kcDeD6imAxn7EylrmnRw-Xnc",
+    "#SHC%23https%3A%2F%2Fboomer.cchmc.org%2Ffhir%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23aBasrtBz-O7X5Bj9MUh8s1jkGr_PzrJgqjdtGERFj50",
+    "#SHC%23https%3A%2F%2Fepicproxy.et1233.epichosted.com%2FFHIRProxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23qsf0gGRL-Qb4Oxim1Pul9L4Tc_U56MG0No7XLd5pHHw"
   ],
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2022-10-05T13:16:19Z",
+    "created": "2022-10-06T13:09:28Z",
     "verificationMethod": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main:signer#WEB",
     "proofPurpose": "assertionMethod",
-    "proofValue": "z22r98rwvr95m17f5DevVFZp6GKecZzWLgDDvmsHvG9T2D4urzjLVf36zezPz5xLTKTxhb9TDPrckSpYv87UGSwfc"
+    "proofValue": "z4S6RaYoUnkXhm5AcmZ8nq6oQamrHtNV5r27gHhrikonzYbZYcynXDJ69TxbcMJ35kBwWaTq6scqqyD9eZE2tjLMz"
   }
 }
