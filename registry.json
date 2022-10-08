@@ -28046,6 +28046,28 @@
       "credentialType": [
         "https://smarthealth.cards#immunization"
       ]
+    },
+    "https://www.hss.gov.nt.ca/covax#AQlUbxO9XumTe_MC4BO5SVlYZFj9NRRBDcNYKyjk7tw": {
+      "displayName": {
+        "en": "Government of the Northwest Territories"
+      },
+      "displayURL": "https://www.hss.gov.nt.ca/en/services/covid-19/request-electronic-proof-vaccination",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "AQlUbxO9XumTe_MC4BO5SVlYZFj9NRRBDcNYKyjk7tw",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "sx1wiNj73XUv9cSFs_kRBqtvxLQJgvRs3Xf7HnoR4NE",
+        "y": "MC4Sa0i8Yn0j5OXbjzKUkLJwXLv7_6SvlHZ1_FjMYTw",
+        "date": 1665153012100
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
     }
   }
 }
