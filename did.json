@@ -22740,6 +22740,21 @@
         "alg": "ES256",
         "crv": "P-256"
       }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fwww.hss.gov.nt.ca%2Fcovax%23AQlUbxO9XumTe_MC4BO5SVlYZFj9NRRBDcNYKyjk7tw",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "kid": "AQlUbxO9XumTe_MC4BO5SVlYZFj9NRRBDcNYKyjk7tw",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "sx1wiNj73XUv9cSFs_kRBqtvxLQJgvRs3Xf7HnoR4NE",
+        "y": "MC4Sa0i8Yn0j5OXbjzKUkLJwXLv7_6SvlHZ1_FjMYTw",
+        "date": 1665153012100
+      }
     }
   ],
   "assertionMethod": [
@@ -24364,13 +24379,14 @@
     "#SHC%23https%3A%2F%2Fepicrp-prd.eushc.org%2FOAUTH2-PRD%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%232knCJErzIirepPhDkFlIHeLNXyVlh8msd7G-D-kxCmk",
     "#SHC%23https%3A%2F%2Fdocket.care%2Fwy%23jwqukbzQbN1RxccBTk5kcDeD6imAxn7EylrmnRw-Xnc",
     "#SHC%23https%3A%2F%2Fboomer.cchmc.org%2Ffhir%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23aBasrtBz-O7X5Bj9MUh8s1jkGr_PzrJgqjdtGERFj50",
-    "#SHC%23https%3A%2F%2Fepicproxy.et1233.epichosted.com%2FFHIRProxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23qsf0gGRL-Qb4Oxim1Pul9L4Tc_U56MG0No7XLd5pHHw"
+    "#SHC%23https%3A%2F%2Fepicproxy.et1233.epichosted.com%2FFHIRProxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23qsf0gGRL-Qb4Oxim1Pul9L4Tc_U56MG0No7XLd5pHHw",
+    "#SHC%23https%3A%2F%2Fwww.hss.gov.nt.ca%2Fcovax%23AQlUbxO9XumTe_MC4BO5SVlYZFj9NRRBDcNYKyjk7tw"
   ],
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2022-10-07T13:09:23Z",
+    "created": "2022-10-08T13:02:40Z",
     "verificationMethod": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main:signer#WEB",
     "proofPurpose": "assertionMethod",
-    "proofValue": "zTeEhmj6uQZ2ksQen5d6w8F7MA2uC98fzhQ53ZEGnoiPuNvpmkAT42HczEXWPw75VyaFyzx8s4toXVFHB6xEgtwQ"
+    "proofValue": "z3MQhrqUQajzTaSyiKDL8Gq2rSHuYxWAJSmZArWeThztH9sS6AhY9K1QguWHudJN5kfDfs1BKAmRCe1dJb9h2P6Dc"
   }
 }
