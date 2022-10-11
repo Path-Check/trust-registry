@@ -22125,6 +22125,19 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEsx1wiNj73XUv9cSFs/kRBqtvxLQJgvRs3Xf7HnoR4NEwLhJrSLxifSPk5duPMpSQsnBcu/v/pK+UdnX8WMxhPA=="
+    },
+    "https://epicarr.aahs.org/fhir/api/epic/2021/Security/Open/EcKeys/32001/SHC#OmrNtWr0mK2ZYUqI8-KBmDBvvmdh5s6xqmX4ABMhbME": {
+      "displayName": {
+        "en": "Luminis Health"
+      },
+      "displayURL": "https://www.aahs.org/en/login",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEDroFYdydFi/gfWL1hPgC4oK1DluvWXMRX0g/rEV5sow4WQuHtO54qw4TL3ngcO++PyiFfv2JXqAbB34M5aBHOA=="
     }
   }
 }
