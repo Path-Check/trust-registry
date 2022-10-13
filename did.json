@@ -12406,6 +12406,21 @@
       }
     },
     {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#DCC%23eCwPvG3TQaU%3D",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "5OtL2NCspDRkS7-W0uDc25_gRM9ivkWT4b_nlFz6XbU",
+        "y": "sC1E05ROX5Wi9XrKbYZcaN1900BULXfYD_GwRdV95GY",
+        "crv": "P-256",
+        "x5c": [
+          "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"
+        ]
+      }
+    },
+    {
       "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fapi.myirmobile.com%2Fissuer%23aQ8UtrF8UuWjSv5yQEgsiYyh_wsyRZ8fouggmtB38I8",
       "type": "JsonWebKey2020",
       "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
@@ -22769,6 +22784,20 @@
         "alg": "ES256",
         "crv": "P-256"
       }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fepicproxy.et1005.epichosted.com%2FFHIRProxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%233QNulnBJO6wZu6HQy5tAS5pGsxnDj2MJMhgLtsmUptA",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "x": "xAfrRBc3EENNIsuxOehLXOdqKrFTzmZw8fa0NIxo60E",
+        "y": "IHFOV85FzS3nGm3gVAyONAHtoqTlFtIuOy-5OHQXoL4",
+        "kid": "3QNulnBJO6wZu6HQy5tAS5pGsxnDj2MJMhgLtsmUptA",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      }
     }
   ],
   "assertionMethod": [
@@ -23660,6 +23689,7 @@
     "#DCC%23vxgc948XZsY%3D",
     "#DCC%23uu5uT16n3b8%3D",
     "#DCC%230C7DPfw0Nag%3D",
+    "#DCC%23eCwPvG3TQaU%3D",
     "#SHC%23https%3A%2F%2Fapi.myirmobile.com%2Fissuer%23aQ8UtrF8UuWjSv5yQEgsiYyh_wsyRZ8fouggmtB38I8",
     "#SHC%23https%3A%2F%2Fhealthcardcert.lawallet.com%23UOvXbgzZj4zL-lt1uJVS_98NHQrQz48FTdqQyNEdaNE",
     "#SHC%23https%3A%2F%2Fwww.riteaid.com%23vqHxrsBwtWp2-NS2APN4m8aGjnaec8_juc9C4wFw9hI",
@@ -24395,13 +24425,14 @@
     "#SHC%23https%3A%2F%2Fboomer.cchmc.org%2Ffhir%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23aBasrtBz-O7X5Bj9MUh8s1jkGr_PzrJgqjdtGERFj50",
     "#SHC%23https%3A%2F%2Fepicproxy.et1233.epichosted.com%2FFHIRProxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23qsf0gGRL-Qb4Oxim1Pul9L4Tc_U56MG0No7XLd5pHHw",
     "#SHC%23https%3A%2F%2Fwww.hss.gov.nt.ca%2Fcovax%23AQlUbxO9XumTe_MC4BO5SVlYZFj9NRRBDcNYKyjk7tw",
-    "#SHC%23https%3A%2F%2Fepicarr.aahs.org%2Ffhir%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23OmrNtWr0mK2ZYUqI8-KBmDBvvmdh5s6xqmX4ABMhbME"
+    "#SHC%23https%3A%2F%2Fepicarr.aahs.org%2Ffhir%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23OmrNtWr0mK2ZYUqI8-KBmDBvvmdh5s6xqmX4ABMhbME",
+    "#SHC%23https%3A%2F%2Fepicproxy.et1005.epichosted.com%2FFHIRProxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%233QNulnBJO6wZu6HQy5tAS5pGsxnDj2MJMhgLtsmUptA"
   ],
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2022-10-12T13:10:55Z",
+    "created": "2022-10-13T13:13:48Z",
     "verificationMethod": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main:signer#WEB",
     "proofPurpose": "assertionMethod",
-    "proofValue": "zfLBcV4ainxEhmRoRKdgKVwQoz3poZJ7PKGfG5Batm2DvmmYp3cWMfafKtun1ruwdD739pjzpMJVZdHVgPPFGHg2"
+    "proofValue": "z2Tb5i5LeEq9MzLGhu6ajtZ7pc6MCk68gUGqgUEKgYaM19gWHNzQwmjnVMj3LKMBZeaXDcmUa6Wr3AS34UBAU3yRN"
   }
 }
