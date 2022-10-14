@@ -22798,6 +22798,20 @@
         "alg": "ES256",
         "crv": "P-256"
       }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fepicproxy.et1206.epichosted.com%2FFHIRProxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23tV-uO7L7Uuinaq3-oJ07sVf7rCClr0hEjfLWMol1V5Y",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "x": "G2BMriJsOYiChFaFTOtD1BxTTPiQyNsdZizRR7MgBqM",
+        "y": "-5ffsfnUWFaDMC1j1cqNNHHoBdsGK4t4qLlSv52Fn4s",
+        "kid": "tV-uO7L7Uuinaq3-oJ07sVf7rCClr0hEjfLWMol1V5Y",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      }
     }
   ],
   "assertionMethod": [
@@ -24426,13 +24440,14 @@
     "#SHC%23https%3A%2F%2Fepicproxy.et1233.epichosted.com%2FFHIRProxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23qsf0gGRL-Qb4Oxim1Pul9L4Tc_U56MG0No7XLd5pHHw",
     "#SHC%23https%3A%2F%2Fwww.hss.gov.nt.ca%2Fcovax%23AQlUbxO9XumTe_MC4BO5SVlYZFj9NRRBDcNYKyjk7tw",
     "#SHC%23https%3A%2F%2Fepicarr.aahs.org%2Ffhir%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23OmrNtWr0mK2ZYUqI8-KBmDBvvmdh5s6xqmX4ABMhbME",
-    "#SHC%23https%3A%2F%2Fepicproxy.et1005.epichosted.com%2FFHIRProxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%233QNulnBJO6wZu6HQy5tAS5pGsxnDj2MJMhgLtsmUptA"
+    "#SHC%23https%3A%2F%2Fepicproxy.et1005.epichosted.com%2FFHIRProxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%233QNulnBJO6wZu6HQy5tAS5pGsxnDj2MJMhgLtsmUptA",
+    "#SHC%23https%3A%2F%2Fepicproxy.et1206.epichosted.com%2FFHIRProxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23tV-uO7L7Uuinaq3-oJ07sVf7rCClr0hEjfLWMol1V5Y"
   ],
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2022-10-13T13:13:48Z",
+    "created": "2022-10-14T13:07:30Z",
     "verificationMethod": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main:signer#WEB",
     "proofPurpose": "assertionMethod",
-    "proofValue": "z2Tb5i5LeEq9MzLGhu6ajtZ7pc6MCk68gUGqgUEKgYaM19gWHNzQwmjnVMj3LKMBZeaXDcmUa6Wr3AS34UBAU3yRN"
+    "proofValue": "z2fKr3qSoznwtdBrKGs6mTEtBfD5cPFQLREfPcQoPiJLXsKJhPvJ1dm19EJNKGLSFn2KNGRgCed9paJ46RSvmAZzF"
   }
 }

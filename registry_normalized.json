@@ -22166,6 +22166,19 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAExAfrRBc3EENNIsuxOehLXOdqKrFTzmZw8fa0NIxo60EgcU5XzkXNLecabeBUDI40Ae2ipOUW0i47L7k4dBegvg=="
+    },
+    "https://epicproxy.et1206.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#tV-uO7L7Uuinaq3-oJ07sVf7rCClr0hEjfLWMol1V5Y": {
+      "displayName": {
+        "en": "Baptist Health – Northeast Florida"
+      },
+      "displayURL": "https://my.baptistchart.com/MyChart/Authentication/Login?",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEG2BMriJsOYiChFaFTOtD1BxTTPiQyNsdZizRR7MgBqP7l9+x+dRYVoMwLWPVyo00cegF2wYri3iouVK/nYWfiw=="
     }
   }
 }
