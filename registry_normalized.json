@@ -22194,6 +22194,19 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEG2BMriJsOYiChFaFTOtD1BxTTPiQyNsdZizRR7MgBqP7l9+x+dRYVoMwLWPVyo00cegF2wYri3iouVK/nYWfiw=="
+    },
+    "https://www.gnb.ca/smarthealth#3ZNKtEt0VLgsXMF-qy9R1QIr3EG_dd0P77Qu9joIyYE": {
+      "displayName": {
+        "en": "Government of New Brunswick"
+      },
+      "displayURL": "https://myhealth.gnb.ca/en",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEYMEEl9W2e7R5bCAkDYywiBmN4o0tM5xRPVInRBZo+0e+QVY2yy87Vl6+M2Xsrpb9aWYn2F2eVU5RcXmgE7drjg=="
     }
   }
 }
