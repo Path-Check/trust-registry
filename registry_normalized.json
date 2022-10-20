@@ -22207,6 +22207,32 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEYMEEl9W2e7R5bCAkDYywiBmN4o0tM5xRPVInRBZo+0e+QVY2yy87Vl6+M2Xsrpb9aWYn2F2eVU5RcXmgE7drjg=="
+    },
+    "https://vc.vrs.digital.go.jp/issuer#5fGcRveDtGxLX2q_CjXLUOITyAR5KuVNsfe9TkjE86k": {
+      "displayName": {
+        "en": "Government of Japan"
+      },
+      "displayURL": "https://www.mhlw.go.jp/stf/covid-19/certificate.html",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEMFzLPQDWyrJgioCAc3Agake1GNt7SPulfbOydJG2I7jTpjzc5c2PVXmYiAFQYGkyuwm+TjSegAC7zorVotXtSg=="
+    },
+    "https://retailepicfhir-uat.cvshealth.com/FhirProxyTST/api/epic/2021/Security/Open/EcKeys/32001/SHC#R6-vROogzwE51ZIHxRl7tp8SSRoAfMcGeOoF_G2VGlo": {
+      "displayName": {
+        "en": "CVS Health"
+      },
+      "displayURL": "https://care.cvs.com/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAERPvq62GN6LEA9lcSjqhYtBDqJl7FFMPN52kCQq7xjfEwTNfqGRNPtJXlR0QyKHITCllL8yDbmE8DvFwp+n0kIg=="
     }
   }
 }
