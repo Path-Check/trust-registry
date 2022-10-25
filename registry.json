@@ -12669,6 +12669,51 @@
       "validFromDT": "2022-09-13T20:50:37.000Z",
       "validUntilDT": "2024-09-12T20:51:37.000Z",
       "didDocument": "-----BEGIN CERTIFICATE-----\nMIICyjCCAnCgAwIBAgIIBPeuc5P10AAwCgYIKoZIzj0EAwIwZTELMAkGA1UEBhMCQlIxHDAaBgNVBAoME01pbmlzdGVyaW8gZGEgU2F1ZGUxEDAOBgNVBAsMB0RBVEFTVVMxJjAkBgNVBAMMHUJSOkNTQ0E6U046MzM5Nzg2ODIyMzUzMDE0Nzg0MB4XDTIyMDkxMzIwNTAzN1oXDTI0MDkxMjIwNTEzN1owfjELMAkGA1UEBhMCQlIxHDAaBgNVBAoME01pbmlzdGVyaW8gZGEgU2F1ZGUxEDAOBgNVBAsMB0RBVEFTVVMxJjAkBgNVBAsMHUJSOkNTQ0E6U046MzM5Nzg2ODIyMzUzMDE0Nzg0MRcwFQYDVQQDDA5CUjpEU0M6MjAyMi0wOTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABMEMfpDE2RsIXCHkFOAdTjWicMzv2JeiYIj21Srzs5mRn03KBKfOFdcJYRz4Gc3XDTmqHgTJUZUtj0CKl/4lJcejgfAwge0wHQYDVR0OBBYEFFuSQB2EmoAm0z5f3esC1g7KZjBjMB8GA1UdIwQYMBaAFK5ZYSPhF6izX+0wBkAC4rCDDKXJMA4GA1UdDwEB/wQEAwIFoDAwBgNVHSUEKTAnBgsrBgEEAY43j2UBAwYLKwYBBAGON49lAQEGCysGAQQBjjePZQECMAwGA1UdEwEB/wQCMAAwWwYDVR0fBFQwUjBQoE6gTIZKaHR0cHM6Ly9zZXJ2aWNvcy5zYXVkZS5nb3YuYnIvY2VydGlmaWNhZG9zY2FiL2NhQ3JsLzMzOTc4NjgyMjM1MzAxNDc4NC9DUkwwCgYIKoZIzj0EAwIDSAAwRQIhANee1W47oy6X/opPO1Diqyc79bYnQMVGB/vWJY2ARwUAAiBn99PdxRM6rA13GWlKwGzpti4x5vkTqQy2vdrk88s4Hg==\n-----END CERTIFICATE-----"
+    },
+    "KeFA6MQS+Ys=": {
+      "displayName": {
+        "en": "Gov of Singapore"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-10-25T04:28:57.000Z",
+      "validUntilDT": "2024-10-24T04:28:57.000Z",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIICeTCCAh6gAwIBAgIUA8o3vrSt5psXtOWojZhPnLB0vvcwCgYIKoZIzj0EAwIwXTELMAkGA1UEBhMCU0cxEjAQBgNVBAgMCVNpbmdhcG9yZTEbMBkGA1UECgwSTWluaXN0cnkgT2YgSGVhbHRoMR0wGwYDVQQDDBRjc2NhLm5vdGFyaXNlLmdvdi5zZzAeFw0yMjEwMjUwNDI4NTdaFw0yNDEwMjQwNDI4NTdaMFwxCzAJBgNVBAYTAlNHMRIwEAYDVQQIDAlTaW5nYXBvcmUxGzAZBgNVBAoMEk1pbmlzdHJ5IE9mIEhlYWx0aDEcMBoGA1UEAwwTZHNjLm5vdGFyaXNlLmdvdi5zZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABOfYZQ5kZxSqzD0hQ2B1pFuINMb/u7zerVaD7axK3JWk398OKOV9OzFfIUPT5gFGq05+hB5kirkOPla4v1YDQT6jgbwwgbkwDgYDVR0PAQH/BAQDAgeAMB0GA1UdDgQWBBT0YCE/6P8JqvEdLBR71ZJja87J0jAfBgNVHSMEGDAWgBQ5NwWzOLn5niMN0cLBsMOzMpcBpTA1BgNVHR8ELjAsMCqgKKAmhiRodHRwczovL3d3dy5ub3RhcmlzZS5nb3Yuc2cvY3NjYS5jcmwwMAYDVR0lBCkwJwYLKwYBBAGON49lAQEGCysGAQQBjjePZQECBgsrBgEEAY43j2UBAzAKBggqhkjOPQQDAgNJADBGAiEA/pYkRvkEOqkc2EKRtShK7wUoN06BmDgGSHnYfuP6gFoCIQCBIH020zSbsihag5oOock7qVa8/mdGTmQ3AOFyFg4S6Q==\n-----END CERTIFICATE-----"
+    },
+    "m5BYY900gFY=": {
+      "displayName": {
+        "en": "Gov of Austria"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-10-24T12:24:25.000Z",
+      "validUntilDT": "2024-10-24T12:24:25.000Z",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIIB8DCCAZagAwIBAgIKAYQJ84eJgyC/TjAKBggqhkjOPQQDAjBEMQswCQYDVQQGEwJBVDEPMA0GA1UECgwGQk1TR1BLMQwwCgYDVQQFEwMwMDIxFjAUBgNVBAMMDUFUIERHQyBDU0NBIDIwHhcNMjIxMDI0MTIyNDI1WhcNMjQxMDI0MTIyNDI1WjBGMQswCQYDVQQGEwJBVDEPMA0GA1UECgwGQk1TR1BLMQ8wDQYDVQQFEwYwMDIwMDUxFTATBgNVBAMMDEFUIERHQyBEU0MgNTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABKbJkAwPXehEVcVuvynmJUcY12VJ5uW+luOfW2DEEPaAjOrM8QtHz/aVDdkyzs7AHp8Zp1sfCayKQwePGwgnSSqjbjBsMA4GA1UdDwEB/wQEAwIHgDAdBgNVHQ4EFgQUF3o38jGg3Sxh2bk4poU3ThPgyfkwHwYDVR0jBBgwFoAUL1kW8Tt7UvR2rYjE76fLA/UcMsEwGgYDVR0QBBMwEYEPMjAyMzA1MDgxMjI0MjVaMAoGCCqGSM49BAMCA0gAMEUCIGmnjM6IlvtVOBt5XGo9gc/WclD0eyioawyhZAyvapmRAiEAjgxXOo/f5ISAQ2WFY8SCslUoDFyx9yHCnDeHUyB6o+A=\n-----END CERTIFICATE-----"
+    },
+    "GfN3kOqkfTM=": {
+      "displayName": {
+        "en": "Gov of Croatia"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-10-23T16:37:24.000Z",
+      "validUntilDT": "2024-10-22T16:37:23.000Z",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIICwDCCAmagAwIBAgIIXAVPuYzLwcwwCgYIKoZIzj0EAwIwPTELMAkGA1UEBhMCSFIxEzARBgNVBAoMCkFLRCBkLm8uby4xGTAXBgNVBAMMEENyb2F0aWEgREdDIENTQ0EwHhcNMjIxMDIzMTYzNzI0WhcNMjQxMDIyMTYzNzIzWjA/MQswCQYDVQQGEwJIUjETMBEGA1UECgwKQUtEIGQuby5vLjEbMBkGA1UEAwwSQ3JvYXRpYSBER0MgRFMgMDA0MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEeNETBDGKOAQL/DZ3gWu+TEQstnEyuX3JPZiLEg5Nt3R63cMSKUhmyC8GZenBbFJBvxy+3d/u2Lgw5a6WrCqBjqOCAUwwggFIMB8GA1UdIwQYMBaAFHHrQcznGXHV1C4RJqIUygltNf7QMC8GA1UdEgQoMCaBEkNyb2F0aWEuREdDQGRnYy5ocqQQMA4xDDAKBgNVBAcMA0hSVjAvBgNVHREEKDAmgRJDcm9hdGlhLkRHQ0BkZ2MuaHKkEDAOMQwwCgYDVQQHDANIUlYwZwYDVR0fBGAwXjAtoCugKYYnaHR0cDovL2RnYzEuZGdjLmhyL2Nyb2F0aWEtZGdjLWNzY2EuY3JsMC2gK6AphidodHRwOi8vZGdjMi5kZ2MuaHIvY3JvYXRpYS1kZ2MtY3NjYS5jcmwwHQYDVR0OBBYEFNYupqlFgg4f0OTVy7Lwqr8z8r5OMCsGA1UdEAQkMCKADzIwMjIxMDIzMTYzNzI0WoEPMjAyMzA0MjExNjM3MjRaMA4GA1UdDwEB/wQEAwIHgDAKBggqhkjOPQQDAgNIADBFAiAuRXF1JBmRY0ROUR8GrlDpEx/QdjSjnXTnlnU+bYaIvgIhAMusIHJXa9Woh+LGuAqjX6ATetxhmgN/i9KNegl27Dy8\n-----END CERTIFICATE-----"
     }
   },
   "SmartHealthCards": {
@@ -28221,6 +28266,27 @@
         "x": "RPvq62GN6LEA9lcSjqhYtBDqJl7FFMPN52kCQq7xjfE",
         "y": "MEzX6hkTT7SV5UdEMihyEwpZS_Mg25hPA7xcKfp9JCI",
         "kid": "R6-vROogzwE51ZIHxRl7tp8SSRoAfMcGeOoF_G2VGlo",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://proxy.healthpartners.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#uR7DqZcpf0Vmamhbr2waOENZZ2bOGV6fUkzcoraFMA0": {
+      "displayName": {
+        "en": "HealthPartners"
+      },
+      "displayURL": "https://www.healthpartners.com/public/login/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "Oz9oCuKWnLtxwz3t8F7KJI0lUkaNz9qNZCrxC44ukB0",
+        "y": "spnB23Ocj2FY8S2xAxdXal7cURxEwJ7bdxJR_YoqKMs",
+        "kid": "uR7DqZcpf0Vmamhbr2waOENZZ2bOGV6fUkzcoraFMA0",
         "use": "sig",
         "kty": "EC",
         "alg": "ES256",

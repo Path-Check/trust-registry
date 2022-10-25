@@ -12667,6 +12667,51 @@
       "validFromDT": "2022-09-13T20:50:37.000Z",
       "validUntilDT": "2024-09-12T20:51:37.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEwQx+kMTZGwhcIeQU4B1ONaJwzO/Yl6JgiPbVKvOzmZGfTcoEp84V1wlhHPgZzdcNOaoeBMlRlS2PQIqX/iUlxw=="
+    },
+    "KeFA6MQS+Ys=": {
+      "displayName": {
+        "en": "Gov of Singapore"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-10-25T04:28:57.000Z",
+      "validUntilDT": "2024-10-24T04:28:57.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE59hlDmRnFKrMPSFDYHWkW4g0xv+7vN6tVoPtrErclaTf3w4o5X07MV8hQ9PmAUarTn6EHmSKuQ4+Vri/VgNBPg=="
+    },
+    "m5BYY900gFY=": {
+      "displayName": {
+        "en": "Gov of Austria"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-10-24T12:24:25.000Z",
+      "validUntilDT": "2024-10-24T12:24:25.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEpsmQDA9d6ERVxW6/KeYlRxjXZUnm5b6W459bYMQQ9oCM6szxC0fP9pUN2TLOzsAenxmnWx8JrIpDB48bCCdJKg=="
+    },
+    "GfN3kOqkfTM=": {
+      "displayName": {
+        "en": "Gov of Croatia"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-10-23T16:37:24.000Z",
+      "validUntilDT": "2024-10-22T16:37:23.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEeNETBDGKOAQL/DZ3gWu+TEQstnEyuX3JPZiLEg5Nt3R63cMSKUhmyC8GZenBbFJBvxy+3d/u2Lgw5a6WrCqBjg=="
     }
   },
   "SHC": {
@@ -22233,6 +22278,19 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAERPvq62GN6LEA9lcSjqhYtBDqJl7FFMPN52kCQq7xjfEwTNfqGRNPtJXlR0QyKHITCllL8yDbmE8DvFwp+n0kIg=="
+    },
+    "https://proxy.healthpartners.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#uR7DqZcpf0Vmamhbr2waOENZZ2bOGV6fUkzcoraFMA0": {
+      "displayName": {
+        "en": "HealthPartners"
+      },
+      "displayURL": "https://www.healthpartners.com/public/login/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEOz9oCuKWnLtxwz3t8F7KJI0lUkaNz9qNZCrxC44ukB2ymcHbc5yPYVjxLbEDF1dqXtxRHETAntt3ElH9iiooyw=="
     }
   }
 }
