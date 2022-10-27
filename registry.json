@@ -28295,6 +28295,87 @@
       "credentialType": [
         "https://smarthealth.cards#immunization"
       ]
+    },
+    "https://memorialhealthfhirprd.app.medcity.net/fhir-proxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#hhenlBjTHf2GM-UDt5jor8HWbWFBt4gM4W1sB22mHwo": {
+      "displayName": {
+        "en": "HCA National"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "6hxACidHBmDy8z79R7VuNbJJn20zuisIBqR18M8GUqA",
+        "y": "P6vf6G5ZjPAn8EDurvYkSr-Ewwitkfa9g9wOglW0G44",
+        "kid": "hhenlBjTHf2GM-UDt5jor8HWbWFBt4gM4W1sB22mHwo",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://stdavidsfhirprd.app.medcity.net/fhir-proxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#VsvOU5i9muXim8MpvCRrCYmVg7xkR6o5lmk-rI-H6iM": {
+      "displayName": {
+        "en": "HCA National"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "jOrytMwiYvFuRuD4Q3Bxp1cvAuchZ6PeGqVUGi-KpEo",
+        "y": "ZUkNpzC_zvUZRlxCdb--OebH4ZzQZuDBiA6vvNN7aj4",
+        "kid": "VsvOU5i9muXim8MpvCRrCYmVg7xkR6o5lmk-rI-H6iM",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://mountainstarhealthfhirprd.app.medcity.net/fhir-proxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#ykrKegqiOHXxxwWxbQZctLATYpcMn1pYT53TJNrxnk0": {
+      "displayName": {
+        "en": "HCA National"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "MorLyyaCRIxBky6vaI0h2p-LC5E1OSZOk5MRuWtf7ZI",
+        "y": "vJVZX8ktBATOc0TCwUofD1wlZPNz63VU67AsUuvLu4c",
+        "kid": "ykrKegqiOHXxxwWxbQZctLATYpcMn1pYT53TJNrxnk0",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://ercd-sproxy.urmc.rochester.edu/mips/api/epic/2021/Security/Open/EcKeys/32001/SHC#mbnuRYF85-Q53yMSuqfbIz7LBMitQQBRHyIEAxGjwzU": {
+      "displayName": {
+        "en": "University of Rochester"
+      },
+      "displayURL": "https://www.urmc.rochester.edu/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "JbssDEiaVN4t4uc0apY2Rji7NKN78xy_DWhNVb6MZFM",
+        "y": "HshuoDQwmwG-fzNk5qGT3_kwVV9OfZpBITYYQ-CXT78",
+        "kid": "mbnuRYF85-Q53yMSuqfbIz7LBMitQQBRHyIEAxGjwzU",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
     }
   }
 }

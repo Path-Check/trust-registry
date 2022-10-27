@@ -22291,6 +22291,55 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEOz9oCuKWnLtxwz3t8F7KJI0lUkaNz9qNZCrxC44ukB2ymcHbc5yPYVjxLbEDF1dqXtxRHETAntt3ElH9iiooyw=="
+    },
+    "https://memorialhealthfhirprd.app.medcity.net/fhir-proxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#hhenlBjTHf2GM-UDt5jor8HWbWFBt4gM4W1sB22mHwo": {
+      "displayName": {
+        "en": "HCA National"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE6hxACidHBmDy8z79R7VuNbJJn20zuisIBqR18M8GUqA/q9/oblmM8CfwQO6u9iRKv4TDCK2R9r2D3A6CVbQbjg=="
+    },
+    "https://stdavidsfhirprd.app.medcity.net/fhir-proxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#VsvOU5i9muXim8MpvCRrCYmVg7xkR6o5lmk-rI-H6iM": {
+      "displayName": {
+        "en": "HCA National"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEjOrytMwiYvFuRuD4Q3Bxp1cvAuchZ6PeGqVUGi+KpEplSQ2nML/O9RlGXEJ1v7455sfhnNBm4MGIDq+803tqPg=="
+    },
+    "https://mountainstarhealthfhirprd.app.medcity.net/fhir-proxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#ykrKegqiOHXxxwWxbQZctLATYpcMn1pYT53TJNrxnk0": {
+      "displayName": {
+        "en": "HCA National"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEMorLyyaCRIxBky6vaI0h2p+LC5E1OSZOk5MRuWtf7ZK8lVlfyS0EBM5zRMLBSh8PXCVk83PrdVTrsCxS68u7hw=="
+    },
+    "https://ercd-sproxy.urmc.rochester.edu/mips/api/epic/2021/Security/Open/EcKeys/32001/SHC#mbnuRYF85-Q53yMSuqfbIz7LBMitQQBRHyIEAxGjwzU": {
+      "displayName": {
+        "en": "University of Rochester"
+      },
+      "displayURL": "https://www.urmc.rochester.edu/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEJbssDEiaVN4t4uc0apY2Rji7NKN78xy/DWhNVb6MZFMeyG6gNDCbAb5/M2TmoZPf+TBVX059mkEhNhhD4JdPvw=="
     }
   }
 }

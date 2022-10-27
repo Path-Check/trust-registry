@@ -22934,6 +22934,62 @@
         "alg": "ES256",
         "crv": "P-256"
       }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fmemorialhealthfhirprd.app.medcity.net%2Ffhir-proxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23hhenlBjTHf2GM-UDt5jor8HWbWFBt4gM4W1sB22mHwo",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "x": "6hxACidHBmDy8z79R7VuNbJJn20zuisIBqR18M8GUqA",
+        "y": "P6vf6G5ZjPAn8EDurvYkSr-Ewwitkfa9g9wOglW0G44",
+        "kid": "hhenlBjTHf2GM-UDt5jor8HWbWFBt4gM4W1sB22mHwo",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fstdavidsfhirprd.app.medcity.net%2Ffhir-proxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23VsvOU5i9muXim8MpvCRrCYmVg7xkR6o5lmk-rI-H6iM",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "x": "jOrytMwiYvFuRuD4Q3Bxp1cvAuchZ6PeGqVUGi-KpEo",
+        "y": "ZUkNpzC_zvUZRlxCdb--OebH4ZzQZuDBiA6vvNN7aj4",
+        "kid": "VsvOU5i9muXim8MpvCRrCYmVg7xkR6o5lmk-rI-H6iM",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fmountainstarhealthfhirprd.app.medcity.net%2Ffhir-proxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23ykrKegqiOHXxxwWxbQZctLATYpcMn1pYT53TJNrxnk0",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "x": "MorLyyaCRIxBky6vaI0h2p-LC5E1OSZOk5MRuWtf7ZI",
+        "y": "vJVZX8ktBATOc0TCwUofD1wlZPNz63VU67AsUuvLu4c",
+        "kid": "ykrKegqiOHXxxwWxbQZctLATYpcMn1pYT53TJNrxnk0",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fercd-sproxy.urmc.rochester.edu%2Fmips%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23mbnuRYF85-Q53yMSuqfbIz7LBMitQQBRHyIEAxGjwzU",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "x": "JbssDEiaVN4t4uc0apY2Rji7NKN78xy_DWhNVb6MZFM",
+        "y": "HshuoDQwmwG-fzNk5qGT3_kwVV9OfZpBITYYQ-CXT78",
+        "kid": "mbnuRYF85-Q53yMSuqfbIz7LBMitQQBRHyIEAxGjwzU",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      }
     }
   ],
   "assertionMethod": [
@@ -24571,13 +24627,17 @@
     "#SHC%23https%3A%2F%2Fwww.gnb.ca%2Fsmarthealth%233ZNKtEt0VLgsXMF-qy9R1QIr3EG_dd0P77Qu9joIyYE",
     "#SHC%23https%3A%2F%2Fvc.vrs.digital.go.jp%2Fissuer%235fGcRveDtGxLX2q_CjXLUOITyAR5KuVNsfe9TkjE86k",
     "#SHC%23https%3A%2F%2Fretailepicfhir-uat.cvshealth.com%2FFhirProxyTST%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23R6-vROogzwE51ZIHxRl7tp8SSRoAfMcGeOoF_G2VGlo",
-    "#SHC%23https%3A%2F%2Fproxy.healthpartners.com%2FFHIRProxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23uR7DqZcpf0Vmamhbr2waOENZZ2bOGV6fUkzcoraFMA0"
+    "#SHC%23https%3A%2F%2Fproxy.healthpartners.com%2FFHIRProxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23uR7DqZcpf0Vmamhbr2waOENZZ2bOGV6fUkzcoraFMA0",
+    "#SHC%23https%3A%2F%2Fmemorialhealthfhirprd.app.medcity.net%2Ffhir-proxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23hhenlBjTHf2GM-UDt5jor8HWbWFBt4gM4W1sB22mHwo",
+    "#SHC%23https%3A%2F%2Fstdavidsfhirprd.app.medcity.net%2Ffhir-proxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23VsvOU5i9muXim8MpvCRrCYmVg7xkR6o5lmk-rI-H6iM",
+    "#SHC%23https%3A%2F%2Fmountainstarhealthfhirprd.app.medcity.net%2Ffhir-proxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23ykrKegqiOHXxxwWxbQZctLATYpcMn1pYT53TJNrxnk0",
+    "#SHC%23https%3A%2F%2Fercd-sproxy.urmc.rochester.edu%2Fmips%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23mbnuRYF85-Q53yMSuqfbIz7LBMitQQBRHyIEAxGjwzU"
   ],
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2022-10-26T13:04:56Z",
+    "created": "2022-10-27T13:03:20Z",
     "verificationMethod": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main:signer#WEB",
     "proofPurpose": "assertionMethod",
-    "proofValue": "z5r2kUCgXSs9Kd1Pi1Tx5AMmZu2idkLLSUuhvsbakeELPTbwXJ8kjdWY4fZpPm7dxPHx31i6DKTnwhXNABvBfTyhn"
+    "proofValue": "zWQEfer4E4XmAnvHkbrprJR6nF7NCFPabDtdQD757q9kNBmHgRfRPTYzrtGg2qsBuFNUMSnX3t6nNS2BNSEtxdL2"
   }
 }
