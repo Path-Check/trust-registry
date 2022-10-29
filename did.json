@@ -22990,6 +22990,34 @@
         "alg": "ES256",
         "crv": "P-256"
       }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fappprd.childrensdayton.org%2Finterconnect-prd-fhir%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23NbIxdaroYhTu23PTcrVJWturNwugXfzFpLywAsugvhY",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "x": "vr8HM170fGWtSfkeehN1bx2kWUMAZrT8jJubX34Wqxo",
+        "y": "dz4YOjue_OXNejwe0amuSS2Z4q_1fjXMeAGBwnY675w",
+        "kid": "NbIxdaroYhTu23PTcrVJWturNwugXfzFpLywAsugvhY",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fepicarr.rochesterregional.org%2FFHIR%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23D_s7dMJ2fJt7q6tGayd31v0yarYgdD8mWb_Euk8PxLQ",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "x": "Kd35hS73CAApp3BtwXPG5sA2s-tJKtC7H693fcQDlpA",
+        "y": "nRqnMhIQ_uwBulw9f-GJlCWxbq4nIvMqfWdMPdF2Jis",
+        "kid": "D_s7dMJ2fJt7q6tGayd31v0yarYgdD8mWb_Euk8PxLQ",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      }
     }
   ],
   "assertionMethod": [
@@ -24631,13 +24659,15 @@
     "#SHC%23https%3A%2F%2Fmemorialhealthfhirprd.app.medcity.net%2Ffhir-proxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23hhenlBjTHf2GM-UDt5jor8HWbWFBt4gM4W1sB22mHwo",
     "#SHC%23https%3A%2F%2Fstdavidsfhirprd.app.medcity.net%2Ffhir-proxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23VsvOU5i9muXim8MpvCRrCYmVg7xkR6o5lmk-rI-H6iM",
     "#SHC%23https%3A%2F%2Fmountainstarhealthfhirprd.app.medcity.net%2Ffhir-proxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23ykrKegqiOHXxxwWxbQZctLATYpcMn1pYT53TJNrxnk0",
-    "#SHC%23https%3A%2F%2Fercd-sproxy.urmc.rochester.edu%2Fmips%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23mbnuRYF85-Q53yMSuqfbIz7LBMitQQBRHyIEAxGjwzU"
+    "#SHC%23https%3A%2F%2Fercd-sproxy.urmc.rochester.edu%2Fmips%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23mbnuRYF85-Q53yMSuqfbIz7LBMitQQBRHyIEAxGjwzU",
+    "#SHC%23https%3A%2F%2Fappprd.childrensdayton.org%2Finterconnect-prd-fhir%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23NbIxdaroYhTu23PTcrVJWturNwugXfzFpLywAsugvhY",
+    "#SHC%23https%3A%2F%2Fepicarr.rochesterregional.org%2FFHIR%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23D_s7dMJ2fJt7q6tGayd31v0yarYgdD8mWb_Euk8PxLQ"
   ],
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2022-10-28T13:08:17Z",
+    "created": "2022-10-29T12:52:48Z",
     "verificationMethod": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main:signer#WEB",
     "proofPurpose": "assertionMethod",
-    "proofValue": "z5pQUbPwKLXmz1F6fiS59g9YzipzDRBPZ8brhX68LVy7hs3D8PD7uWjC95qE37X1addBKjff1ZRFy5xtC5nsR7V66"
+    "proofValue": "z48YaivAiwfEgnhkrHev2GUHEF5pnQPoHNePoHnr3bXiYkZZQsGvAj7LzJLkVhAmfmwrtUPajXNkP4us3guEGH38V"
   }
 }

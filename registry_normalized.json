@@ -22340,6 +22340,32 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEJbssDEiaVN4t4uc0apY2Rji7NKN78xy/DWhNVb6MZFMeyG6gNDCbAb5/M2TmoZPf+TBVX059mkEhNhhD4JdPvw=="
+    },
+    "https://appprd.childrensdayton.org/interconnect-prd-fhir/api/epic/2021/Security/Open/EcKeys/32001/SHC#NbIxdaroYhTu23PTcrVJWturNwugXfzFpLywAsugvhY": {
+      "displayName": {
+        "en": "Dayton Children’s Hospital"
+      },
+      "displayURL": "https://mykidschart.childrensdayton.org/mychart/Authentication/Login?",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEvr8HM170fGWtSfkeehN1bx2kWUMAZrT8jJubX34Wqxp3Phg6O5785c16PB7Rqa5JLZnir/V+Ncx4AYHCdjrvnA=="
+    },
+    "https://epicarr.rochesterregional.org/FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC#D_s7dMJ2fJt7q6tGayd31v0yarYgdD8mWb_Euk8PxLQ": {
+      "displayName": {
+        "en": "Rochester Regional Health"
+      },
+      "displayURL": "https://www.rochesterregional.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEKd35hS73CAApp3BtwXPG5sA2s+tJKtC7H693fcQDlpCdGqcyEhD+7AG6XD1/4YmUJbFurici8yp9Z0w90XYmKw=="
     }
   }
 }
