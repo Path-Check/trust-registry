@@ -35738,6 +35738,27 @@
         "alg": "ES256",
         "crv": "P-256"
       }
+    },
+    "https://epicnsproxy.chop.edu/fhir/api/epic/2021/Security/Open/EcKeys/32001/SHC#Psff9iGNTkbiOD7Ko8S2_24ftrsCl9Qsfn6o6lqRBn8": {
+      "displayName": {
+        "en": "Children's Hospital of Philadelphia"
+      },
+      "displayURL": "https://www.chop.edu/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKeyJwk": {
+        "x": "oH2aoYjyMhBXZPb1NfOSX8DbmRxqHLOaB32rIOVkpkU",
+        "y": "RPsj1jlFSo-Q2nn_piV7IJBkeucNO0ty3lzVxDLTN9Y",
+        "kid": "Psff9iGNTkbiOD7Ko8S2_24ftrsCl9Qsfn6o6lqRBn8",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      }
     }
   }
 }

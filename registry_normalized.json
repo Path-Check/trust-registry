@@ -22379,6 +22379,19 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEKd35hS73CAApp3BtwXPG5sA2s+tJKtC7H693fcQDlpCdGqcyEhD+7AG6XD1/4YmUJbFurici8yp9Z0w90XYmKw=="
+    },
+    "https://epicnsproxy.chop.edu/fhir/api/epic/2021/Security/Open/EcKeys/32001/SHC#Psff9iGNTkbiOD7Ko8S2_24ftrsCl9Qsfn6o6lqRBn8": {
+      "displayName": {
+        "en": "Children's Hospital of Philadelphia"
+      },
+      "displayURL": "https://www.chop.edu/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEoH2aoYjyMhBXZPb1NfOSX8DbmRxqHLOaB32rIOVkpkVE+yPWOUVKj5Daef+mJXsgkGR65w07S3LeXNXEMtM31g=="
     }
   }
 }

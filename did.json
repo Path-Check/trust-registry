@@ -23034,6 +23034,20 @@
         "alg": "ES256",
         "crv": "P-256"
       }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fepicnsproxy.chop.edu%2Ffhir%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23Psff9iGNTkbiOD7Ko8S2_24ftrsCl9Qsfn6o6lqRBn8",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "x": "oH2aoYjyMhBXZPb1NfOSX8DbmRxqHLOaB32rIOVkpkU",
+        "y": "RPsj1jlFSo-Q2nn_piV7IJBkeucNO0ty3lzVxDLTN9Y",
+        "kid": "Psff9iGNTkbiOD7Ko8S2_24ftrsCl9Qsfn6o6lqRBn8",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      }
     }
   ],
   "assertionMethod": [
@@ -24678,13 +24692,14 @@
     "#SHC%23https%3A%2F%2Fmountainstarhealthfhirprd.app.medcity.net%2Ffhir-proxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23ykrKegqiOHXxxwWxbQZctLATYpcMn1pYT53TJNrxnk0",
     "#SHC%23https%3A%2F%2Fercd-sproxy.urmc.rochester.edu%2Fmips%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23mbnuRYF85-Q53yMSuqfbIz7LBMitQQBRHyIEAxGjwzU",
     "#SHC%23https%3A%2F%2Fappprd.childrensdayton.org%2Finterconnect-prd-fhir%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23NbIxdaroYhTu23PTcrVJWturNwugXfzFpLywAsugvhY",
-    "#SHC%23https%3A%2F%2Fepicarr.rochesterregional.org%2FFHIR%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23D_s7dMJ2fJt7q6tGayd31v0yarYgdD8mWb_Euk8PxLQ"
+    "#SHC%23https%3A%2F%2Fepicarr.rochesterregional.org%2FFHIR%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23D_s7dMJ2fJt7q6tGayd31v0yarYgdD8mWb_Euk8PxLQ",
+    "#SHC%23https%3A%2F%2Fepicnsproxy.chop.edu%2Ffhir%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23Psff9iGNTkbiOD7Ko8S2_24ftrsCl9Qsfn6o6lqRBn8"
   ],
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2022-11-06T12:48:13Z",
+    "created": "2022-11-07T12:57:38Z",
     "verificationMethod": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main:signer#WEB",
     "proofPurpose": "assertionMethod",
-    "proofValue": "z5dkg2x2JXuuUPxztk7Kg6m6p7Giy1mZuCxGKibKGbuKgt57tVERgc5W3p5345xPSK7hJqhXq1Gkodqdts2C4DFXM"
+    "proofValue": "z5KFhTe5pEqsDmJJ6agYcHUYorSaoGK3HcVBmcP7fDGKWbd12UTmK1UZz8bNRTbqkkyHnusxuPYcHNays1ZB3MMfS"
   }
 }
