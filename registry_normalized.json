@@ -22392,6 +22392,31 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEoH2aoYjyMhBXZPb1NfOSX8DbmRxqHLOaB32rIOVkpkVE+yPWOUVKj5Daef+mJXsgkGR65w07S3LeXNXEMtM31g=="
+    },
+    "https://fhir.childrenscolorado.org/fhirprd/api/epic/2021/Security/Open/EcKeys/32001/SHC#Y9SciakkvRNFylc7r46l8qtrj0b6BMvEmZaJhJ7A5zA": {
+      "displayName": {
+        "en": "Children’s Hospital Colorado"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEFykAOzjnEs5+TYQexoIxmooWRR/m4l8PSiFx025TV1xD0QuJvwKfFnIe82xLSd8G6rILLiE8fmDO+ENFf4JiNw=="
+    },
+    "https://emed.com#mHbQn6Kr1-R1vqdL8f8qrn-Yp3TL5VUrqsNNd2VTAE4": {
+      "displayName": {
+        "en": "eMed"
+      },
+      "displayURL": "https://www.emed.com/support",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEW2QsSzE5An5Xbaq5FVElecoHtL3WvzyZpwrKh5fV7lFFvIzfmBoR3CpjHwLE6YZFNp2jkLONkisOnPsJqg/L5g=="
     }
   }
 }
