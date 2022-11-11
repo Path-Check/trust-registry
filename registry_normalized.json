@@ -12725,6 +12725,36 @@
       "validFromDT": "2022-11-01T11:38:59.000Z",
       "validUntilDT": "2023-05-01T10:38:59.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEOzVMaZ0WBLAjrZheJ2391txNi9Whb+nRrEjg0IF0GjO1jmA5rxFtuznlyLrOFJnFcv/nITGvRu0Yi5XcMqg32Q=="
+    },
+    "K825LkiBCsU=": {
+      "displayName": {
+        "en": "Gov of Sweden"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-11-10T09:36:44.000Z",
+      "validUntilDT": "2024-11-10T09:56:44.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE5cX9Xp1+V07wOjdxcXBdyTr6OtYvQo3iiX1ZLC70yTZxcBcLrqx68tEcI2vPOoz+bfzi7P+XXPTbFoBDE2EYnQ=="
+    },
+    "Q7Xo2eHz63E=": {
+      "displayName": {
+        "en": "Gov of El Salvador"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-10-31T16:11:38.000Z",
+      "validUntilDT": "2024-10-30T16:11:38.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE8pYlvVYKBSoa4sRdZONLZwasUVA4PMbMuSUocsuMVl6nhTDi5YsIaxuxGIszzOYno8lNqRdUzBue8gtEC7XB1Q=="
     }
   },
   "SHC": {
