@@ -12800,6 +12800,34 @@
       "validFromDT": "2022-11-10T07:05:49.000Z",
       "validUntilDT": "2025-11-10T07:05:49.000Z",
       "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyp5qie3dTLK17co5XXxBg3hR0co3y0yt8c+z7fp36SNA+buBeRW7KkY3RaNmV28k2JlkChqJPolGNssICRFF0IBSo9a+y4M/Fe3NeBB+SUTaLCfL8i2+cviFl6evjjJCiS3VmYCpPvHVhFzdD5CgFrXrlC6g92P1KtRk/r3tCZtS887se64TUIWOxKYtkavjUW9f44149iKMnRgAkpwpqQos0UzpQkAXY3R4nid4zAhTF/6/GRx/JI6cMkkx7ADFZO86KWTw5tWKAg8NLYe4Px86CPK6T/qhhNbQE5l+S15J2mU/AGscN5DWvCdXRa5kgIFV72hyJMikZ4WEMJXksQIDAQAB"
+    },
+    "uHB7bsfKi80=": {
+      "displayName": {
+        "en": "Gov of Spain"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-10-17T13:00:00.000Z",
+      "validUntilDT": "2024-10-17T12:59:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAExQpD/JI2128MIEVwND6VFq3hIKv3ChPshO1CBve7MS6l9Kr30lBzRvnxfbjOLews8T3Bl+3+CGao/654h3m0Ow=="
+    },
+    "ErTfWhIUCvU=": {
+      "displayName": {
+        "en": "Gov of Lebanon"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "v"
+      ],
+      "validFromDT": "2022-10-31T14:58:33.000Z",
+      "validUntilDT": "2023-04-29T14:58:33.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEUJx4FK+Gp25yIBhalKruWn171ciCF/eAMsdOiSCRXJgPkhqfShoQ6waedfYAT+kOMTmQ05su5/bzL9aGcG5XtQ=="
     }
   },
   "SHC": {
