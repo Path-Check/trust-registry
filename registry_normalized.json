@@ -12828,6 +12828,21 @@
       "validFromDT": "2022-10-31T14:58:33.000Z",
       "validUntilDT": "2023-04-29T14:58:33.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEUJx4FK+Gp25yIBhalKruWn171ciCF/eAMsdOiSCRXJgPkhqfShoQ6waedfYAT+kOMTmQ05su5/bzL9aGcG5XtQ=="
+    },
+    "8KU6U7MLoTk=": {
+      "displayName": {
+        "en": "Gov of Georgia"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-11-18T15:43:10.000Z",
+      "validUntilDT": "2024-11-17T15:43:09.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAElDLtklWh70m/ZT898b+ZihfYomNmxRvYVTcWxqeDIAwSfJiIiwf3D1lG+6i0L6nhRcc/PP8nFXu9xD+P7u8x7Q=="
     }
   },
   "SHC": {
