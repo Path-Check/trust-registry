@@ -12843,6 +12843,21 @@
       "validFromDT": "2022-11-18T15:43:10.000Z",
       "validUntilDT": "2024-11-17T15:43:09.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAElDLtklWh70m/ZT898b+ZihfYomNmxRvYVTcWxqeDIAwSfJiIiwf3D1lG+6i0L6nhRcc/PP8nFXu9xD+P7u8x7Q=="
+    },
+    "L5zU+YpqrGo=": {
+      "displayName": {
+        "en": "Gov of Tunisia"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-11-14T09:08:10.000Z",
+      "validUntilDT": "2024-11-13T09:08:10.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEIuCmRJcSs7LPHVDmYojtyzVwwn/oi3EjgW5yTeH9bO7ZCRwEudIp7o+88ISBmf9JadS/kQnDf7iX5t0VL26c4g=="
     }
   },
   "SHC": {
