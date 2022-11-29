@@ -13005,6 +13005,21 @@
       "validFromDT": "2022-11-24T12:59:08.000Z",
       "validUntilDT": "2024-11-23T12:59:07.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEB6SJraVX4IFp1nmIKvTQy6zWkdTWPm1RuhKYE2fwTb2U6CsP+W71DJ8CHEg2Z1SJNjvbBNHsVIVTYZafjDDd2w=="
+    },
+    "+IYY54QHXs0=": {
+      "displayName": {
+        "en": "Gov of Estonia"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-04-15T01:36:06.000Z",
+      "validUntilDT": "2025-10-15T01:36:06.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEsRjUFNSJC5SMy55LUpgvkScEyh6eKwFecSVzkm/1DoqyYegTDr9/kJgDH+bkF+7jiV5mSxO9lUsdmbNEInAUyw=="
     }
   },
   "SHC": {
@@ -22697,6 +22712,44 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEW2QsSzE5An5Xbaq5FVElecoHtL3WvzyZpwrKh5fV7lFFvIzfmBoR3CpjHwLE6YZFNp2jkLONkisOnPsJqg/L5g=="
+    },
+    "https://api.cvshealth.com/public#h0MD1WZcbX37spRMaNkLGt4uzyOqzgU8DtXVLw1YmpI": {
+      "displayName": {
+        "en": "CVS Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAETXWmbGcaaK+VCByK8/ziepSXGcwjjRWOZx0vAPUcErQgPxJSmMWfA5X4f54Ysi/jEJnPDvacIZ5fMttJRcoNCA=="
+    },
+    "https://api.valleyhealth.org/fhirproxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#lmaSyjUOrvO41TN3tUXZRuGv6zlbgnqiWHD53lxgPcs": {
+      "displayName": {
+        "en": "Valley Health Systems, Inc FQHC"
+      },
+      "displayURL": "https://mychart.valleyhealth.org/PRD/Authentication/Login?",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE7oRz/fSNEqKJU8slUyBz02GHBK8QoOfpMdmQ2U6n7uWabc/bWOmnyEutrwFpjMDz4wwTsY/V+bHBvS2QMZCLCQ=="
+    },
+    "https://epicproxy.et1243.epichosted.com/OAuth2-PRD/api/epic/2021/Security/Open/EcKeys/32001/SHC#iRMwmsV-JR-lPftS1SYNMyO_nZZc6zG8TOqZ9jjGlv0": {
+      "displayName": {
+        "en": "West Tennessee Healthcare"
+      },
+      "displayURL": "https://www.wth.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAESo3LGY5mgbiIl0pOpJc0QO9t57meyhrefrwI+PN7SNEEtKpa1/HOPULuAw4zPDqZ+rWIV3+3Jy8455KrvLIMmg=="
     }
   }
 }
