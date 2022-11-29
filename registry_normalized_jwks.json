@@ -20469,6 +20469,30 @@
           "MIICbTCCAhKgAwIBAgIUJvVr7fqSOvQCS9oe1zcPF5M2JykwCgYIKoZIzj0EAwIwVDEvMC0GA1UEAwwmRmFyb2UgSXNsYW5kcyBIZWFsdGggQXV0aG9yaXR5IENTQ0EgdjExFDASBgNVBAoMC0dqYWxkc3RvdmFuMQswCQYDVQQGEwJGTzAeFw0yMTA3MDgxMDAyMTJaFw0yNTA3MDcxMDAyMTJaMFQxLzAtBgNVBAMMJkZhcm9lIElzbGFuZHMgSGVhbHRoIEF1dGhvcml0eSBDU0NBIHYxMRQwEgYDVQQKDAtHamFsZHN0b3ZhbjELMAkGA1UEBhMCRk8wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAR1Fy5CoJYcSNvCUQovd/7OO1fL5rHBUmw4Uc4TwhnJ4/A4ppuuU2U5Br2W1gc9mjDGt5mQehNKt7PT2T7nyKFro4HBMIG+MBIGA1UdEwEB/wQIMAYBAf8CAQAwHwYDVR0jBBgwFoAU7jyBpuYetlF0RODQ9DAz4upqvqEwWAYDVR0gBFEwTzBNBgRVHSAAMEUwQwYIKwYBBQUHAgEWN2h0dHBzOi8vcmVwb3NpdG9yeS5zYW1sZWlraS5mby9sZWdhbC1yZXBvc2l0b3J5L2VoZWFsdGgwHQYDVR0OBBYEFO48gabmHrZRdETg0PQwM+Lqar6hMA4GA1UdDwEB/wQEAwIBBjAKBggqhkjOPQQDAgNJADBGAiEAwnmhQwzMGt4jVetWaB2UMZi/mZI+1GpnFF71mIEC9CYCIQCUIUznr2uE+a9HTYbzPHKCENwt1g9Hx0Zh8mktzCthaA=="
         ]
       }
+    },
+    "+IYY54QHXs0=": {
+      "displayName": {
+        "en": "Gov of Estonia"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-04-15T01:36:06.000Z",
+      "validUntilDT": "2025-10-15T01:36:06.000Z",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "sRjUFNSJC5SMy55LUpgvkScEyh6eKwFecSVzkm_1Doo",
+        "y": "smHoEw6_f5CYAx_m5Bfu44leZksTvZVLHZmzRCJwFMs",
+        "crv": "P-256",
+        "x5c": [
+          "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"
+        ]
+      }
     }
   },
   "SHC": {
@@ -36234,6 +36258,66 @@
         "y": "RbyM35gaEdwqYx8CxOmGRTado5CzjZIrDpz7CaoPy-Y",
         "use": "sig",
         "alg": "ES256"
+      }
+    },
+    "https://api.cvshealth.com/public#h0MD1WZcbX37spRMaNkLGt4uzyOqzgU8DtXVLw1YmpI": {
+      "displayName": {
+        "en": "CVS Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKeyJwk": {
+        "crv": "P-256",
+        "x": "TXWmbGcaaK-VCByK8_ziepSXGcwjjRWOZx0vAPUcErQ",
+        "y": "ID8SUpjFnwOV-H-eGLIv4xCZzw72nCGeXzLbSUXKDQg",
+        "kty": "EC",
+        "kid": "h0MD1WZcbX37spRMaNkLGt4uzyOqzgU8DtXVLw1YmpI"
+      }
+    },
+    "https://api.valleyhealth.org/fhirproxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#lmaSyjUOrvO41TN3tUXZRuGv6zlbgnqiWHD53lxgPcs": {
+      "displayName": {
+        "en": "Valley Health Systems, Inc FQHC"
+      },
+      "displayURL": "https://mychart.valleyhealth.org/PRD/Authentication/Login?",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKeyJwk": {
+        "x": "7oRz_fSNEqKJU8slUyBz02GHBK8QoOfpMdmQ2U6n7uU",
+        "y": "mm3P21jpp8hLra8BaYzA8-MME7GP1fmxwb0tkDGQiwk",
+        "kid": "lmaSyjUOrvO41TN3tUXZRuGv6zlbgnqiWHD53lxgPcs",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      }
+    },
+    "https://epicproxy.et1243.epichosted.com/OAuth2-PRD/api/epic/2021/Security/Open/EcKeys/32001/SHC#iRMwmsV-JR-lPftS1SYNMyO_nZZc6zG8TOqZ9jjGlv0": {
+      "displayName": {
+        "en": "West Tennessee Healthcare"
+      },
+      "displayURL": "https://www.wth.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKeyJwk": {
+        "x": "So3LGY5mgbiIl0pOpJc0QO9t57meyhrefrwI-PN7SNE",
+        "y": "BLSqWtfxzj1C7gMOMzw6mfq1iFd_tycvOOeSq7yyDJo",
+        "kid": "iRMwmsV-JR-lPftS1SYNMyO_nZZc6zG8TOqZ9jjGlv0",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
       }
     }
   }
