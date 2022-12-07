@@ -23422,6 +23422,20 @@
         "alg": "ES256",
         "crv": "P-256"
       }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Ffhir.dchstx.org%2FFHIR-External%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23nCwM-Wnp2Om2Whzqfbenxp67FnraMzPLqmTAzGfYpJM",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "x": "pPRO9Uelik03c2FbPnJ4_1wnVgLq1hXBc8biqF_W5A",
+        "y": "rko4yxzV6AkZ1ZuCxVFPsC6y3jli0LJeu4A56bhAxBk",
+        "kid": "nCwM-Wnp2Om2Whzqfbenxp67FnraMzPLqmTAzGfYpJM",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      }
     }
   ],
   "assertionMethod": [
@@ -25094,13 +25108,14 @@
     "#SHC%23https%3A%2F%2Femed.com%23mHbQn6Kr1-R1vqdL8f8qrn-Yp3TL5VUrqsNNd2VTAE4",
     "#SHC%23https%3A%2F%2Fapi.cvshealth.com%2Fpublic%23h0MD1WZcbX37spRMaNkLGt4uzyOqzgU8DtXVLw1YmpI",
     "#SHC%23https%3A%2F%2Fapi.valleyhealth.org%2Ffhirproxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23lmaSyjUOrvO41TN3tUXZRuGv6zlbgnqiWHD53lxgPcs",
-    "#SHC%23https%3A%2F%2Fepicproxy.et1243.epichosted.com%2FOAuth2-PRD%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23iRMwmsV-JR-lPftS1SYNMyO_nZZc6zG8TOqZ9jjGlv0"
+    "#SHC%23https%3A%2F%2Fepicproxy.et1243.epichosted.com%2FOAuth2-PRD%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23iRMwmsV-JR-lPftS1SYNMyO_nZZc6zG8TOqZ9jjGlv0",
+    "#SHC%23https%3A%2F%2Ffhir.dchstx.org%2FFHIR-External%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23nCwM-Wnp2Om2Whzqfbenxp67FnraMzPLqmTAzGfYpJM"
   ],
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2022-12-06T12:53:16Z",
+    "created": "2022-12-07T12:50:42Z",
     "verificationMethod": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main:signer#WEB",
     "proofPurpose": "assertionMethod",
-    "proofValue": "z4pNhGcdU5K3mTFXZMF1nKUPbJGBKSuRRfe4HSYNU4LDFkJhJn6sqK8dwXExj6fXhhJxyPPBbTvxXCqA7FvAwdkzr"
+    "proofValue": "z4SJsecpW5FZupPd5ah7XnQetmVc1NQhohU2JFBw4bhzsNz3B7np9Rb8jSzkBAmXvkp53286vDviUVWiLbZvDTXJA"
   }
 }

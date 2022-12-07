@@ -21853,7 +21853,7 @@
     },
     "https://smarthealthcard.phsa.ca/v1/issuer#DhcL94F0tr5BJuaEBc-ZLgpEYS97_mNOzbAnJuZ4hdE": {
       "displayName": {
-        "en": ""
+        "en": "Government of British Columbia"
       },
       "entityType": "issuer",
       "status": "current",
@@ -22763,6 +22763,19 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAESo3LGY5mgbiIl0pOpJc0QO9t57meyhrefrwI+PN7SNEEtKpa1/HOPULuAw4zPDqZ+rWIV3+3Jy8455KrvLIMmg=="
+    },
+    "https://fhir.dchstx.org/FHIR-External/api/epic/2021/Security/Open/EcKeys/32001/SHC#nCwM-Wnp2Om2Whzqfbenxp67FnraMzPLqmTAzGfYpJM": {
+      "displayName": {
+        "en": "Driscoll Children’s Hospital"
+      },
+      "displayURL": "https://mychart.dchstx.org/MyChart/Authentication/Login?",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEAKT0TvVHpYpNN3NhWz5yeP9cJ1YC6tYVwXPG4qhf1uSuSjjLHNXoCRnVm4LFUU+wLrLeOWLQsl67gDnpuEDEGQ=="
     }
   }
 }
