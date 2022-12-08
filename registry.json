@@ -13035,6 +13035,75 @@
       "validFromDT": "2022-12-01T11:39:00.000Z",
       "validUntilDT": "2023-06-01T10:39:00.000Z",
       "didDocument": "-----BEGIN CERTIFICATE-----\nMIICgjCCAiegAwIBAgIIFrMwfL4sc9owCgYIKoZIzj0EAwIwgYsxCzAJBgNVBAYTAkxCMQ0wCwYDVQQIDARKbmFoMQ8wDQYDVQQHDAZCZWlydXQxKTAnBgNVBAoMIE1pbmlzdHJ5IG9mIFB1YmxpYyBIZWFsdGggKE1PUEgpMRgwFgYDVQQLDA9TaXJlbiBBbmFseXRpY3MxFzAVBgNVBAMMDkNTQ0FfREdDX0xCXzAxMB4XDTIyMTIwMTExMzkwMFoXDTIzMDYwMTEwMzkwMFowdDEYMBYGA1UECxMPU2lyZW4gQW5hbHl0aWNzMSkwJwYDVQQKEyBNaW5pc3RyeSBvZiBQdWJsaWMgSGVhbHRoIChNT1BIKTEPMA0GA1UECBMGQmVpcnV0MQ8wDQYDVQQHEwZCZWlydXQxCzAJBgNVBAYTAkxCMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtDrNihVTuDyHQg3TNuZRoykSxSi1424o9DEfOXT0q2VSzsspqQlZn2IT+1d/5p3R874YRGwuoHKy41Y80THx6qOBijCBhzAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0OBBYEFKYX4VNKFYjf5BzdT/Uido3WMurtMB8GA1UdIwQYMBaAFPctwjOLZw1/zCvYv1/S87Fav7oqMB0GA1UdHwQWMBQwEqAQoA6GDGh0dHA6Ly9lbXB0eTAWBgNVHSUEDzANBgsrBgEEAY43j2UBAjAKBggqhkjOPQQDAgNJADBGAiEArhI3glUQXrPc18OuDMyTVXzEIQuzWhjngvUi7H58KcYCIQDzROgcQ/vU6k6n63hB5X27vNg1xQxKUkBUsm0g4Qh5Pw==\n-----END CERTIFICATE-----"
+    },
+    "/xaQklEBmbA=": {
+      "displayName": {
+        "en": "Gov of Liechtenstein"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t"
+      ],
+      "validFromDT": "2022-12-02T09:48:00.000Z",
+      "validUntilDT": "2023-12-02T09:48:00.000Z",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIIC0DCCAnegAwIBAgIINy3okqC8zF4wCgYIKoZIzj0EAwIwgZAxCzAJBgNVBAYTAkxJMQ4wDAYDVQQHEwVWYWR1ejEsMCoGA1UEChMjTGllY2h0ZW5zdGVpbmlzY2hlIExhbmRlc3ZlcndhbHR1bmcxIjAgBgNVBAMTGURHQy1OQi1DU0NBLVBST0QtMjAyMTA2MDgxHzAdBgkqhkiG9w0BCQEWEHdlYm1hc3RlckBsbHYubGkwHhcNMjIxMjAyMDk0ODAwWhcNMjMxMjAyMDk0ODAwWjCBkjELMAkGA1UEBhMCTEkxDjAMBgNVBAcTBVZhZHV6MSwwKgYDVQQKEyNMaWVjaHRlbnN0ZWluaXNjaGUgTGFuZGVzdmVyd2FsdHVuZzEkMCIGA1UEAxMbREdDLU5CLURTQy1URVNULVBST0QtMjAyMjEyMR8wHQYJKoZIhvcNAQkBFhB3ZWJtYXN0ZXJAbGx2LmxpMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE+PAheq1FiejDPBdxeBtQcPW7bBto4GgtPxPRCPbS5tESLG86xuCxSJ/RAqYlI+8Y52slXGsFyUX0WCYrfFsK3KOBtjCBszAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBTHFAorh7Y+wsDJL3tmevQ37Azx5TAOBgNVHQ8BAf8EBAMCB4AwPAYDVR0fBDUwMzAxoC+gLYYraHR0cDovL2NybC5sbHYubGkvREdDLU5CLUNTQ0EtUFJPRC0yMDIxMDYwODAWBgNVHSUEDzANBgsrBgEEAY43j2UBATAeBglghkgBhvhCAQ0EERYPeGNhIGNlcnRpZmljYXRlMAoGCCqGSM49BAMCA0cAMEQCIGzY/AodWeuOKqk950B8j4xdJY8LZ4l5+17vh2GmCVJlAiAJqwvby3k9ZMAq3fHsK9rE7BTVoVlmGGXchB/PTSh0hw==\n-----END CERTIFICATE-----"
+    },
+    "2okfks4C/Hk=": {
+      "displayName": {
+        "en": "Gov of Liechtenstein"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "v"
+      ],
+      "validFromDT": "2022-12-02T09:48:00.000Z",
+      "validUntilDT": "2023-12-02T09:48:00.000Z",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIIC1zCCAn6gAwIBAgIIb9yKAGwKjWwwCgYIKoZIzj0EAwIwgZAxCzAJBgNVBAYTAkxJMQ4wDAYDVQQHEwVWYWR1ejEsMCoGA1UEChMjTGllY2h0ZW5zdGVpbmlzY2hlIExhbmRlc3ZlcndhbHR1bmcxIjAgBgNVBAMTGURHQy1OQi1DU0NBLVBST0QtMjAyMTA2MDgxHzAdBgkqhkiG9w0BCQEWEHdlYm1hc3RlckBsbHYubGkwHhcNMjIxMjAyMDk0ODAwWhcNMjMxMjAyMDk0ODAwWjCBmTELMAkGA1UEBhMCTEkxDjAMBgNVBAcTBVZhZHV6MSwwKgYDVQQKEyNMaWVjaHRlbnN0ZWluaXNjaGUgTGFuZGVzdmVyd2FsdHVuZzErMCkGA1UEAxMiREdDLU5CLURTQy1WQUNDSU5BVElPTi1QUk9ELTIwMjIxMjEfMB0GCSqGSIb3DQEJARYQd2VibWFzdGVyQGxsdi5saTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABLRcAEWp6TA89QVxchagVlyopTs+oM/dsVvueGYR02dOzw8QcgcN+yK11GGh5zFrmsZiA89npPP5gVCi5pLVhkujgbYwgbMwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUCZwUJLfeJTK7PUWVdjRsseWhsdkwDgYDVR0PAQH/BAQDAgeAMDwGA1UdHwQ1MDMwMaAvoC2GK2h0dHA6Ly9jcmwubGx2LmxpL0RHQy1OQi1DU0NBLVBST0QtMjAyMTA2MDgwFgYDVR0lBA8wDQYLKwYBBAGON49lAQIwHgYJYIZIAYb4QgENBBEWD3hjYSBjZXJ0aWZpY2F0ZTAKBggqhkjOPQQDAgNHADBEAiA6Rs+B+0+GsT9vm9YkGjluhdkxbn6FlB+80xVxUxE0QQIgcDSPYeCSQ5DIYq89JmpA5AuNniYYkGSda6BtE+PIB58=\n-----END CERTIFICATE-----"
+    },
+    "TlI0C/O+4RI=": {
+      "displayName": {
+        "en": "Gov of Liechtenstein"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "r"
+      ],
+      "validFromDT": "2022-12-02T09:48:00.000Z",
+      "validUntilDT": "2024-12-02T09:48:00.000Z",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIIC1DCCAnugAwIBAgIIJYFxNSmCpjcwCgYIKoZIzj0EAwIwgZAxCzAJBgNVBAYTAkxJMQ4wDAYDVQQHEwVWYWR1ejEsMCoGA1UEChMjTGllY2h0ZW5zdGVpbmlzY2hlIExhbmRlc3ZlcndhbHR1bmcxIjAgBgNVBAMTGURHQy1OQi1DU0NBLVBST0QtMjAyMTA2MDgxHzAdBgkqhkiG9w0BCQEWEHdlYm1hc3RlckBsbHYubGkwHhcNMjIxMjAyMDk0ODAwWhcNMjQxMjAyMDk0ODAwWjCBljELMAkGA1UEBhMCTEkxDjAMBgNVBAcTBVZhZHV6MSwwKgYDVQQKEyNMaWVjaHRlbnN0ZWluaXNjaGUgTGFuZGVzdmVyd2FsdHVuZzEoMCYGA1UEAxMfREdDLU5CLURTQy1SRUNPVkVSWS1QUk9ELTIwMjIxMjEfMB0GCSqGSIb3DQEJARYQd2VibWFzdGVyQGxsdi5saTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABGZmqfAkp5jVIeK0KzK6MRVIpb8Lq9H15TN5MOIL6ulc97JGOK/rC8T1NNdyF6Uso6e9ldH+qvKmBNfDbh05GYmjgbYwgbMwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUuRo7UKfz3WpeBg6UCnE+uqmQtecwDgYDVR0PAQH/BAQDAgeAMB4GCWCGSAGG+EIBDQQRFg94Y2EgY2VydGlmaWNhdGUwPAYDVR0fBDUwMzAxoC+gLYYraHR0cDovL2NybC5sbHYubGkvREdDLU5CLUNTQ0EtUFJPRC0yMDIxMDYwODAWBgNVHSUEDzANBgsrBgEEAY43j2UBAzAKBggqhkjOPQQDAgNHADBEAiBjnowAEhpErBuD3yToA0RCuv6ou0VKv6ghtolvy5eRDwIgSAiVIXTOXdt0lfFePWzlLle4eGPpy5qMofWrlkUov4U=\n-----END CERTIFICATE-----"
+    },
+    "AAVQPX3O1fo=": {
+      "displayName": {
+        "en": "Gov of Italy"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-12-01T15:48:14.000Z",
+      "validUntilDT": "2024-11-30T15:48:13.000Z",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIIEDzCCAfegAwIBAgIUAsEGN/BzP5m7lbROlODlVMm/QtcwDQYJKoZIhvcNAQELBQAwSTELMAkGA1UEBhMCSVQxHzAdBgNVBAoMFk1pbmlzdGVybyBkZWxsYSBTYWx1dGUxGTAXBgNVBAMMEEl0YWx5IERHQyBDU0NBIDEwHhcNMjIxMjAxMTU0ODE0WhcNMjQxMTMwMTU0ODEzWjBIMQswCQYDVQQGEwJJVDEfMB0GA1UECgwWTWluaXN0ZXJvIGRlbGxhIFNhbHV0ZTEYMBYGA1UEAwwPSXRhbHkgREdDIERTQyA4MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEVpPKSGX5lWvNy7B3JyqtyyBTR4NsbI2kZX0D0vvI1YvReXgnOZqZVlnpN4QGX1ipfnKrbhX6pHy5Yw4VX5jE76OBujCBtzAfBgNVHSMEGDAWgBS+VOVpXmeSQImXYEEAB/pLRVCw/zBlBgNVHR8EXjBcMFqgWKBWhlRsZGFwOi8vY2Fkcy5kZ2MuZ292Lml0L0NOPUl0YWx5JTIwREdDJTIwQ1NDQSUyMHhcMSxPPU1pbmlzdGVybyUyMGRlbGxhJTIwU2FsdXRlLEM9SVQwHQYDVR0OBBYEFC7DMJ40ViV4HophJqXFQwajqtFvMA4GA1UdDwEB/wQEAwIHgDANBgkqhkiG9w0BAQsFAAOCAgEAA1ioO8GpbyeXLNMfQTdida7wRsEQGU77gbEc1PqUbuHTd/wF9p5drsk6h/g/VWisNwP/gkY1yIOJQdzfjgbh3WkCGhTPjexFqDYHxd3nFSbsxgynedN1eADkg/GknoFvTmzAeFwA3HbZPg4L+4NqZt6CYEGARxaDahTartNrnIcetTPYEH/Q5e1PPIwGAtZuYP04z2kkWX3sPq3yeh9K2m1MVgCUWTTY6gL1Gfhu1Wn5RiklyMSxyVbd7iAED/gVDU2xnaAwOFYeuDzT2qfzXzFUY7AZXoVhW6YN06SgtCxhqiSmqsR+byrn+UPc0VhKFRHCaurVVjdSBcqEz7rMc3RtG/TovXb1+8h6hZ0v54/qsi6UdahZjTEGLJNkvvFdZNGqJolSwmgqqfqqQZCgNQ/DctlK8bmgIRafLjBTDcfr1WMVuGlUDrpfwqch46kmoNu7yIUr+gCnNzvWc585bqUQiLZbKVI6FNuKMGwNuGLWkVqx9Xz/aJfGT5UJxLnkQMSIhbcYJerOKxcpRJphloul5cDgXZs7K9Ii8ZU4gGqSkhu5KFpe91uN5HTMpNZfoB5Kg1eclrxRpf/vKbtPTBWlr+yxvADi9CnozyEyq9Z8lBkn8BD8HFi6ibEX8AHX32XL3I4m2rQvFjD0t3BQoJ8AmlmcnelF71+tXI35DGw=\n-----END CERTIFICATE-----"
+    },
+    "I4c+aZxYx2s=": {
+      "displayName": {
+        "en": "Gov of Italy"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-12-01T15:57:15.000Z",
+      "validUntilDT": "2024-11-30T15:57:14.000Z",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIIEDzCCAfegAwIBAgIUaPA9E+qOKXrIhfq4AyaI3XOndOowDQYJKoZIhvcNAQELBQAwSTELMAkGA1UEBhMCSVQxHzAdBgNVBAoMFk1pbmlzdGVybyBkZWxsYSBTYWx1dGUxGTAXBgNVBAMMEEl0YWx5IERHQyBDU0NBIDEwHhcNMjIxMjAxMTU1NzE1WhcNMjQxMTMwMTU1NzE0WjBIMQswCQYDVQQGEwJJVDEfMB0GA1UECgwWTWluaXN0ZXJvIGRlbGxhIFNhbHV0ZTEYMBYGA1UEAwwPSXRhbHkgREdDIERTQyA5MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEh8XoK2xbO/fydoj4eRnedjlszGH3ukDL9Y00vCxVWKR1jt3NgmHUQ+hJMD1gcH7dAeLM3JX0DJTJeyrCRqvvyKOBujCBtzAfBgNVHSMEGDAWgBS+VOVpXmeSQImXYEEAB/pLRVCw/zBlBgNVHR8EXjBcMFqgWKBWhlRsZGFwOi8vY2Fkcy5kZ2MuZ292Lml0L0NOPUl0YWx5JTIwREdDJTIwQ1NDQSUyMHhcMSxPPU1pbmlzdGVybyUyMGRlbGxhJTIwU2FsdXRlLEM9SVQwHQYDVR0OBBYEFNXVicIHjpIC82mqV+Ub4opm5MRhMA4GA1UdDwEB/wQEAwIHgDANBgkqhkiG9w0BAQsFAAOCAgEAJhYVKcOCVl74349os6LgIMhvSIttNruW79yqOZoUATbYh1HALFhFFdkNn+nbKZbvpOg4G3dIRTNVKAJ5vx6ndVRYG0X58nMiZU5hQTU3DjBVsqjkb+QYTh7n3orxnzd+T7Pa2FJlZm/9LtquwrA+1azr1ab0mGO6VKdkfg+K6EZ97sWh8J/QVzRG6LnZGgdk1u94RmQNFNnxCsehushUt6Lhd+C+2p+SxG7sOTrZ/KVkh6+nb65ue8qwDgtumuYcKRaPxkR3Ng6gw4LRTAnAnB5mcZPB4e7WpW4yVuEfndXA4oeXHv2CSTkYcMm0jg2HBy/OLThfSVprDo9UDAYdOasZRVTb1TM71sidfsLumkmGi6yNT87Lku44OyClSfXRlyFIbF1Cyqi1Ou4wLfA8P01piLDKx5niCNGmfbUH1DBhI+OKDXrTrGtd4PMm5GAiuFqHUgj1xbPdU1+7UZcaxwlLDlW0fVAHXmzZs/3lmzGXAfgapDx94SjvBqhfMo163loWhVK8Kajnf7gcv3x6H7SO50kJ8HqstPfDWm4FqRGF1NdrqTtgkwv5iyxxhhsGVQ1yfASC90Wk1rKOvE5TRIxODIJa5wjTgPUE7ElNtXVdXZetC/A8EZoI38ek58uAL+eqMXUcfT5XXbH6sGBng18W4CTHEIwST0wsxPjV28E=\n-----END CERTIFICATE-----"
     }
   },
   "SmartHealthCards": {
@@ -28874,6 +28943,48 @@
         "x": "pPRO9Uelik03c2FbPnJ4_1wnVgLq1hXBc8biqF_W5A",
         "y": "rko4yxzV6AkZ1ZuCxVFPsC6y3jli0LJeu4A56bhAxBk",
         "kid": "nCwM-Wnp2Om2Whzqfbenxp67FnraMzPLqmTAzGfYpJM",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://mepic.hmhn.org/fhir/api/epic/2021/Security/Open/EcKeys/32001/SHC#UnJc4EJjfzPmT-KuCfmrPgTTJP5NRZhQ0CfDeYd933k": {
+      "displayName": {
+        "en": "Hackensack Meridian Health"
+      },
+      "displayURL": "https://mychart.hmhn.org/mychart/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "NP4p-Hi8__nW0dcDLLHZ8ZT2caU6mvSrwPsJp9VecdE",
+        "y": "4iqSBE3808c65cjvbK44s0WQpTB_qA3pii4lilGDHkA",
+        "kid": "UnJc4EJjfzPmT-KuCfmrPgTTJP5NRZhQ0CfDeYd933k",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epicproxy.et1267.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#lX0xpb5rm7y4oJNVQs8OSVJcMpiiPpy-XpmhoCaw64o": {
+      "displayName": {
+        "en": "McLeod Health"
+      },
+      "displayURL": "https://www.mcleodhealth.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "XF5QL7MdKn8iMzgHxVRQKXFrbU41QbNWcETMDg102so",
+        "y": "fW-myZ-BIEl3Q9v0Plb3fXGjV_FxlnHwDjIyK560dTY",
+        "kid": "lX0xpb5rm7y4oJNVQs8OSVJcMpiiPpy-XpmhoCaw64o",
         "use": "sig",
         "kty": "EC",
         "alg": "ES256",
