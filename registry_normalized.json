@@ -13033,6 +13033,75 @@
       "validFromDT": "2022-12-01T11:39:00.000Z",
       "validUntilDT": "2023-06-01T10:39:00.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtDrNihVTuDyHQg3TNuZRoykSxSi1424o9DEfOXT0q2VSzsspqQlZn2IT+1d/5p3R874YRGwuoHKy41Y80THx6g=="
+    },
+    "/xaQklEBmbA=": {
+      "displayName": {
+        "en": "Gov of Liechtenstein"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t"
+      ],
+      "validFromDT": "2022-12-02T09:48:00.000Z",
+      "validUntilDT": "2023-12-02T09:48:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE+PAheq1FiejDPBdxeBtQcPW7bBto4GgtPxPRCPbS5tESLG86xuCxSJ/RAqYlI+8Y52slXGsFyUX0WCYrfFsK3A=="
+    },
+    "2okfks4C/Hk=": {
+      "displayName": {
+        "en": "Gov of Liechtenstein"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "v"
+      ],
+      "validFromDT": "2022-12-02T09:48:00.000Z",
+      "validUntilDT": "2023-12-02T09:48:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtFwARanpMDz1BXFyFqBWXKilOz6gz92xW+54ZhHTZ07PDxByBw37IrXUYaHnMWuaxmIDz2ek8/mBUKLmktWGSw=="
+    },
+    "TlI0C/O+4RI=": {
+      "displayName": {
+        "en": "Gov of Liechtenstein"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "r"
+      ],
+      "validFromDT": "2022-12-02T09:48:00.000Z",
+      "validUntilDT": "2024-12-02T09:48:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEZmap8CSnmNUh4rQrMroxFUilvwur0fXlM3kw4gvq6Vz3skY4r+sLxPU013IXpSyjp72V0f6q8qYE18NuHTkZiQ=="
+    },
+    "AAVQPX3O1fo=": {
+      "displayName": {
+        "en": "Gov of Italy"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-12-01T15:48:14.000Z",
+      "validUntilDT": "2024-11-30T15:48:13.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEVpPKSGX5lWvNy7B3JyqtyyBTR4NsbI2kZX0D0vvI1YvReXgnOZqZVlnpN4QGX1ipfnKrbhX6pHy5Yw4VX5jE7w=="
+    },
+    "I4c+aZxYx2s=": {
+      "displayName": {
+        "en": "Gov of Italy"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-12-01T15:57:15.000Z",
+      "validUntilDT": "2024-11-30T15:57:14.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEh8XoK2xbO/fydoj4eRnedjlszGH3ukDL9Y00vCxVWKR1jt3NgmHUQ+hJMD1gcH7dAeLM3JX0DJTJeyrCRqvvyA=="
     }
   },
   "SHC": {
@@ -22776,6 +22845,32 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEAKT0TvVHpYpNN3NhWz5yeP9cJ1YC6tYVwXPG4qhf1uSuSjjLHNXoCRnVm4LFUU+wLrLeOWLQsl67gDnpuEDEGQ=="
+    },
+    "https://mepic.hmhn.org/fhir/api/epic/2021/Security/Open/EcKeys/32001/SHC#UnJc4EJjfzPmT-KuCfmrPgTTJP5NRZhQ0CfDeYd933k": {
+      "displayName": {
+        "en": "Hackensack Meridian Health"
+      },
+      "displayURL": "https://mychart.hmhn.org/mychart/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAENP4p+Hi8//nW0dcDLLHZ8ZT2caU6mvSrwPsJp9VecdHiKpIETfzTxzrlyO9srjizRZClMH+oDemKLiWKUYMeQA=="
+    },
+    "https://epicproxy.et1267.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#lX0xpb5rm7y4oJNVQs8OSVJcMpiiPpy-XpmhoCaw64o": {
+      "displayName": {
+        "en": "McLeod Health"
+      },
+      "displayURL": "https://www.mcleodhealth.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEXF5QL7MdKn8iMzgHxVRQKXFrbU41QbNWcETMDg102sp9b6bJn4EgSXdD2/Q+Vvd9caNX8XGWcfAOMjIrnrR1Ng=="
     }
   }
 }
