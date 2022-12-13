@@ -16064,9 +16064,8 @@
     },
     "https://fhirprd.edward.org/fhirprd/api/epic/2021/Security/Open/EcKeys/32001/SHC#ZvPXhRNWGOraLDWrTFJC68JFclcWj8zdT-XE32CpomY": {
       "displayName": {
-        "en": "DuPage Medical Group and Edward-Elmhurst Health"
+        "en": "Edward-Elmhurst Health"
       },
-      "displayURL": "https://mychart.dupagemedicalgroup.com/mychart",
       "entityType": "issuer",
       "status": "current",
       "validFromDT": "2021-01-01T01:00:00.000Z",
@@ -22931,6 +22930,19 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEXF5QL7MdKn8iMzgHxVRQKXFrbU41QbNWcETMDg102sp9b6bJn4EgSXdD2/Q+Vvd9caNX8XGWcfAOMjIrnrR1Ng=="
+    },
+    "https://w1soap.wakehealth.edu/fhirproxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#WL1tYZCG8qwq2tS5U4UTOCBCGABLHfNMAO_NdjUJh3k": {
+      "displayName": {
+        "en": "Atrium Health Wake Forest Baptist"
+      },
+      "displayURL": "https://www.mywakehealth.org/mychart/Authentication/Login?",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEzfvgqQhRCjZxl7zxx7DgMyZ1B+zehCDsnfFEn+rub8Iml14JBGwOTJfI5Q1QWgaHOgCuFSwsj0t9XxrnVofKKw=="
     }
   }
 }
