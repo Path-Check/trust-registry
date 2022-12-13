@@ -23599,6 +23599,20 @@
         "alg": "ES256",
         "crv": "P-256"
       }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fw1soap.wakehealth.edu%2Ffhirproxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23WL1tYZCG8qwq2tS5U4UTOCBCGABLHfNMAO_NdjUJh3k",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "x": "zfvgqQhRCjZxl7zxx7DgMyZ1B-zehCDsnfFEn-rub8I",
+        "y": "JpdeCQRsDkyXyOUNUFoGhzoArhUsLI9LfV8a51aHyis",
+        "kid": "WL1tYZCG8qwq2tS5U4UTOCBCGABLHfNMAO_NdjUJh3k",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      }
     }
   ],
   "assertionMethod": [
@@ -25283,13 +25297,14 @@
     "#SHC%23https%3A%2F%2Fepicproxy.et1243.epichosted.com%2FOAuth2-PRD%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23iRMwmsV-JR-lPftS1SYNMyO_nZZc6zG8TOqZ9jjGlv0",
     "#SHC%23https%3A%2F%2Ffhir.dchstx.org%2FFHIR-External%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23nCwM-Wnp2Om2Whzqfbenxp67FnraMzPLqmTAzGfYpJM",
     "#SHC%23https%3A%2F%2Fmepic.hmhn.org%2Ffhir%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23UnJc4EJjfzPmT-KuCfmrPgTTJP5NRZhQ0CfDeYd933k",
-    "#SHC%23https%3A%2F%2Fepicproxy.et1267.epichosted.com%2FFHIRProxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23lX0xpb5rm7y4oJNVQs8OSVJcMpiiPpy-XpmhoCaw64o"
+    "#SHC%23https%3A%2F%2Fepicproxy.et1267.epichosted.com%2FFHIRProxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23lX0xpb5rm7y4oJNVQs8OSVJcMpiiPpy-XpmhoCaw64o",
+    "#SHC%23https%3A%2F%2Fw1soap.wakehealth.edu%2Ffhirproxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23WL1tYZCG8qwq2tS5U4UTOCBCGABLHfNMAO_NdjUJh3k"
   ],
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2022-12-12T12:48:41Z",
+    "created": "2022-12-13T12:46:18Z",
     "verificationMethod": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main:signer#WEB",
     "proofPurpose": "assertionMethod",
-    "proofValue": "z5DDbt4CAAvTUuk8Jg3LZ8CqqT8tx2oYmkGpWwVHk3bXieW3XDJwyxN5vw7uUTmcrbz833SCDxheX7uzAa1zKGbjg"
+    "proofValue": "z21sq4aXHNLvao2VtSF5kGf1vAK7ZRtJSZeWWpk8PJN6mp5sLA3MhVhyWK4XyLRP4toyv71pYPBzZeCwLG5m1tSoS"
   }
 }
