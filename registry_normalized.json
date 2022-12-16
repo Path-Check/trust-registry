@@ -13267,6 +13267,21 @@
       "validFromDT": "2023-04-14T22:00:00.000Z",
       "validUntilDT": "2025-04-14T22:00:00.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEoVL/TBk6fG+nhiOfFg3YbNFt2mvOZxM2GXL7BoDn5gVUahPPEaVPwlBHHKQrlT+6zGWeozaPCC1p09aS6lLBIQ=="
+    },
+    "fRPR8UB/yPw=": {
+      "displayName": {
+        "en": "Gov of Monaco"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-12-15T14:29:00.000Z",
+      "validUntilDT": "2024-06-15T14:29:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE5PD8trDdV62NiENkrHD+KwBPcEs8KErCnfTyTnd6UJTqiLBDXtX4TsOSo0ISo+R1tb6RRGZiY/tCkuUKCAAmAA=="
     }
   },
   "SHC": {
