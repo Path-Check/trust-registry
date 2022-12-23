@@ -13297,6 +13297,123 @@
       "validFromDT": "2021-06-10T10:39:16.000Z",
       "validUntilDT": "2025-06-10T10:39:16.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEsObqoV61GGoCjER+VyvmUxsJjPfoBKwAqhVuGmPvnALpdrVyDogTgq2FBgixqG8H4xSJtcCV9apwD4AHo6/yWw=="
+    },
+    "+7gPaASOAJY=": {
+      "displayName": {
+        "en": "Gov of the Netherlands"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "r"
+      ],
+      "validFromDT": "2022-12-21T14:32:00.000Z",
+      "validUntilDT": "2033-12-18T14:32:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEYx+cFKuYNN5tvKme19QrBameqJiby3NhGLsdGF3tTw3UbxsmCQYlsWEqTV4rI3gT973vxZgHCOzAuV17N1UOQw=="
+    },
+    "E10brDCMTHw=": {
+      "displayName": {
+        "en": "Gov of the Netherlands"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t"
+      ],
+      "validFromDT": "2022-12-21T14:34:40.000Z",
+      "validUntilDT": "2033-12-18T14:34:40.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE1u85ZDvMI22r+oFyBj98ajDZPag3mI92EenBJBGiHYQbPzjQDl1UpSpSeT75JTNjz3O9wPa2sB3yhbMfbaP97A=="
+    },
+    "Ky32aXoDbeU=": {
+      "displayName": {
+        "en": "Gov of the Netherlands"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "v"
+      ],
+      "validFromDT": "2022-12-21T14:40:37.000Z",
+      "validUntilDT": "2033-12-18T14:40:37.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAElt1CDFRy9fI2q3c1dy2Q49evzf9q6w9Ol1wo9Mqp9aSVpSz4mAwVnV3njaC3tPuWurdJSjpf8aKIhvhDqOO7gg=="
+    },
+    "LlN9bD+8dRY=": {
+      "displayName": {
+        "en": "Gov of the Netherlands"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t"
+      ],
+      "validFromDT": "2022-12-21T14:35:20.000Z",
+      "validUntilDT": "2033-12-18T14:35:20.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEQ0cMT3DgXBgsCDVln1tIRfCLPMX4Y6lZ6l7MhtB9lyji61sBKYpX4IFAz8IQ/CdVLGLMsvwgPJJyyyFlvVcU/Q=="
+    },
+    "YgarkFcEiHg=": {
+      "displayName": {
+        "en": "Gov of the Netherlands"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "r"
+      ],
+      "validFromDT": "2022-12-21T14:31:04.000Z",
+      "validUntilDT": "2033-12-18T14:31:04.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEPsPFqlbqPZ2K3+Nz+zjIXgcn0rppCIk14hOloOn5nX5jWGCTzo+ixxl4IoiNL0cp0SOeiJKg+vJT+Odn5fkEFQ=="
+    },
+    "gfmq6hSfvlM=": {
+      "displayName": {
+        "en": "Gov of the Netherlands"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "r"
+      ],
+      "validFromDT": "2022-12-21T14:29:43.000Z",
+      "validUntilDT": "2033-12-18T14:29:43.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE4o1IT3yg1qCVAQYoi5OQCGbG2Fy1EWN1ZKpj+ULbz9MkqeqGklfon/VgyHHzfG1Ydj20hwWCc6RaaR8CwWmY2A=="
+    },
+    "mFE6QS0jouk=": {
+      "displayName": {
+        "en": "Gov of the Netherlands"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t"
+      ],
+      "validFromDT": "2022-12-21T14:35:52.000Z",
+      "validUntilDT": "2033-12-18T14:35:52.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEYIneb1Kg3j/TzJxeI2DPCwp/7ZZg9XB3gXiVwh2vBp18Pp6Mok56P05k1VQCc62KMd92ueGLNEA46JKu+7aRnA=="
+    },
+    "rE3BweKHtuM=": {
+      "displayName": {
+        "en": "Gov of the Netherlands"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "v"
+      ],
+      "validFromDT": "2022-12-21T14:38:56.000Z",
+      "validUntilDT": "2033-12-18T14:38:56.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEmAmATrBuCyKh7OD7agwhYOxix8fAWtxJ88rNrW1EdRWCx8WK34kdcriebm2GaP/NlMS8RrCnp7/5SqE7G9UUGw=="
+    },
+    "t0vCuOURD2g=": {
+      "displayName": {
+        "en": "Gov of the Netherlands"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "v"
+      ],
+      "validFromDT": "2022-12-21T14:40:11.000Z",
+      "validUntilDT": "2033-12-18T14:40:11.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE+QODms2oH6IcJbkX6RMGTUJgL0aChkTvrSWV/zHRHWM57bUf2iLMITnLq98tBMWiZI2OcMB+GTBSGXG9tWV9lw=="
     }
   },
   "SHC": {
