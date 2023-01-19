@@ -13712,6 +13712,36 @@
       "validFromDT": "2022-11-23T20:34:13.000Z",
       "validUntilDT": "2033-03-20T20:34:12.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE2tGUySEcEqlMs3eVozviP1aAjLf0N1rAVx6moSyHaqGlao6a1JzOhyesgSoXqKZCPbDEyDGWlFfoqI2XSdwucA=="
+    },
+    "fAncaxEkTPE=": {
+      "displayName": {
+        "en": "Gov of Spain"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-01-09T06:50:00.000Z",
+      "validUntilDT": "2025-01-09T06:49:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEsjb2bGFhM1AlsI65ub7Mh+h+T02Bu/0Bqh5QvLAqUD6VRm+NVnx4/oMONgoPhysfbNNT1BGoFms/x79UdSixmA=="
+    },
+    "S7Q4uyMX7Vo=": {
+      "displayName": {
+        "en": "Gov of Georgia"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-11-21T10:34:30.000Z",
+      "validUntilDT": "2024-11-20T10:34:29.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEuxiIyvEemOCXUuMlWapSsF6uKgFVCAe+nMdhwqUR3yGy6ibZXqX6sW7UAK+wMPsN4LItVgN7qhwqnAHr8La8Ag=="
     }
   },
   "SHC": {
