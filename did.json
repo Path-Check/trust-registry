@@ -24244,6 +24244,62 @@
         "alg": "ES256",
         "crv": "P-256"
       }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fepicprisfd.ahn.org%2FPRD-FHIR%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23v2A122qeK7tarodVrceri3tUMZBDKzYQ3vCMU7WCJjo",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "x": "k5-s0SlFEx3zP2XIEP78L7YZBl4avustcccmbvtKW2E",
+        "y": "t79WGXpn7nR0l4VIvheCIo8g6AlbUd5thj_K4kCzRTE",
+        "kid": "v2A122qeK7tarodVrceri3tUMZBDKzYQ3vCMU7WCJjo",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fepicmobile.challiance.org%2FInterconnect-OAuth2%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23AiB-cTlmIM07DDNjfdXghP_qAns0Y8eaXZ7CA1m7pW0",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "x": "ITRnn-k5s81gLGFrF4ReJ4XS5XM1CYHRtkoj2lv0DZQ",
+        "y": "cZ9Hs5250EKPN9lgF2c_B_RtZJKuu7K5RmSee1BrbU0",
+        "kid": "AiB-cTlmIM07DDNjfdXghP_qAns0Y8eaXZ7CA1m7pW0",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fepicmobile.challiance.org%2FInterconnect-OAuth2%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23zKbXKVoQpThDLFSiQPQVcljHkFIlPR3ZcVVJntSyk80",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "x": "HJ0sm7kvK5pnW_tb5_1addp5GVM7Ykj_RbxoPq1Nmok",
+        "y": "pa-ppFbSmQ-33ICl4CWZ5COza7tSOTodddSoQG3rhbY",
+        "kid": "zKbXKVoQpThDLFSiQPQVcljHkFIlPR3ZcVVJntSyk80",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fepicmobile.challiance.org%2FInterconnect-OAuth2%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23HFh-_XqH7cgzvyA2pEGnlYSix9BvlrSOaD2aCSbmzYc",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "x": "Hz0sDDjNTlPBemkUKRXWv1OWf0q5m_f1VDS8mA2aVXM",
+        "y": "4X_Ct7olHTRLtxrTLNl-RtXJ9mk4d3tiDizzr_xfJow",
+        "kid": "HFh-_XqH7cgzvyA2pEGnlYSix9BvlrSOaD2aCSbmzYc",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      }
     }
   ],
   "assertionMethod": [
@@ -25971,13 +26027,17 @@
     "#SHC%23https%3A%2F%2Ffhir.dchstx.org%2FFHIR-External%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23nCwM-Wnp2Om2Whzqfbenxp67FnraMzPLqmTAzGfYpJM",
     "#SHC%23https%3A%2F%2Fmepic.hmhn.org%2Ffhir%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23UnJc4EJjfzPmT-KuCfmrPgTTJP5NRZhQ0CfDeYd933k",
     "#SHC%23https%3A%2F%2Fepicproxy.et1267.epichosted.com%2FFHIRProxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23lX0xpb5rm7y4oJNVQs8OSVJcMpiiPpy-XpmhoCaw64o",
-    "#SHC%23https%3A%2F%2Fw1soap.wakehealth.edu%2Ffhirproxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23WL1tYZCG8qwq2tS5U4UTOCBCGABLHfNMAO_NdjUJh3k"
+    "#SHC%23https%3A%2F%2Fw1soap.wakehealth.edu%2Ffhirproxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23WL1tYZCG8qwq2tS5U4UTOCBCGABLHfNMAO_NdjUJh3k",
+    "#SHC%23https%3A%2F%2Fepicprisfd.ahn.org%2FPRD-FHIR%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23v2A122qeK7tarodVrceri3tUMZBDKzYQ3vCMU7WCJjo",
+    "#SHC%23https%3A%2F%2Fepicmobile.challiance.org%2FInterconnect-OAuth2%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23AiB-cTlmIM07DDNjfdXghP_qAns0Y8eaXZ7CA1m7pW0",
+    "#SHC%23https%3A%2F%2Fepicmobile.challiance.org%2FInterconnect-OAuth2%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23zKbXKVoQpThDLFSiQPQVcljHkFIlPR3ZcVVJntSyk80",
+    "#SHC%23https%3A%2F%2Fepicmobile.challiance.org%2FInterconnect-OAuth2%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23HFh-_XqH7cgzvyA2pEGnlYSix9BvlrSOaD2aCSbmzYc"
   ],
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2023-01-26T12:47:20Z",
+    "created": "2023-01-27T12:42:27Z",
     "verificationMethod": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main:signer#WEB",
     "proofPurpose": "assertionMethod",
-    "proofValue": "z4ztSp2rF8CQkprWYeFjVAzLYx4tygpSs6CPsJ83LgrcATVnyu6WPcyjbX1dDRwA3Ku39m6yxu9MqBhKfwGRTMFoY"
+    "proofValue": "z2tHiNMGe24M5ZsNPpQQmDbiNa7iC7fWAfYRzL9Y11kqvR76CEbjjqVv7Cnh3mTJeagN9f9wyXkfr3V6hHLqpK2Zh"
   }
 }

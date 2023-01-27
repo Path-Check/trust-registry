@@ -37624,6 +37624,90 @@
         "alg": "ES256",
         "crv": "P-256"
       }
+    },
+    "https://epicprisfd.ahn.org/PRD-FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC#v2A122qeK7tarodVrceri3tUMZBDKzYQ3vCMU7WCJjo": {
+      "displayName": {
+        "en": "Allegheny Health Network"
+      },
+      "displayURL": "https://mychart.ahn.org/MyChart",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKeyJwk": {
+        "x": "k5-s0SlFEx3zP2XIEP78L7YZBl4avustcccmbvtKW2E",
+        "y": "t79WGXpn7nR0l4VIvheCIo8g6AlbUd5thj_K4kCzRTE",
+        "kid": "v2A122qeK7tarodVrceri3tUMZBDKzYQ3vCMU7WCJjo",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      }
+    },
+    "https://epicmobile.challiance.org/Interconnect-OAuth2/api/epic/2021/Security/Open/EcKeys/32001/SHC#AiB-cTlmIM07DDNjfdXghP_qAns0Y8eaXZ7CA1m7pW0": {
+      "displayName": {
+        "en": "Cambridge Health Alliance"
+      },
+      "displayURL": "https://mychart.challiance.org/mychart",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKeyJwk": {
+        "x": "ITRnn-k5s81gLGFrF4ReJ4XS5XM1CYHRtkoj2lv0DZQ",
+        "y": "cZ9Hs5250EKPN9lgF2c_B_RtZJKuu7K5RmSee1BrbU0",
+        "kid": "AiB-cTlmIM07DDNjfdXghP_qAns0Y8eaXZ7CA1m7pW0",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      }
+    },
+    "https://epicmobile.challiance.org/Interconnect-OAuth2/api/epic/2021/Security/Open/EcKeys/32001/SHC#zKbXKVoQpThDLFSiQPQVcljHkFIlPR3ZcVVJntSyk80": {
+      "displayName": {
+        "en": "Cambridge Health Alliance"
+      },
+      "displayURL": "https://mychart.challiance.org/mychart",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKeyJwk": {
+        "x": "HJ0sm7kvK5pnW_tb5_1addp5GVM7Ykj_RbxoPq1Nmok",
+        "y": "pa-ppFbSmQ-33ICl4CWZ5COza7tSOTodddSoQG3rhbY",
+        "kid": "zKbXKVoQpThDLFSiQPQVcljHkFIlPR3ZcVVJntSyk80",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      }
+    },
+    "https://epicmobile.challiance.org/Interconnect-OAuth2/api/epic/2021/Security/Open/EcKeys/32001/SHC#HFh-_XqH7cgzvyA2pEGnlYSix9BvlrSOaD2aCSbmzYc": {
+      "displayName": {
+        "en": "Cambridge Health Alliance"
+      },
+      "displayURL": "https://mychart.challiance.org/mychart",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKeyJwk": {
+        "x": "Hz0sDDjNTlPBemkUKRXWv1OWf0q5m_f1VDS8mA2aVXM",
+        "y": "4X_Ct7olHTRLtxrTLNl-RtXJ9mk4d3tiDizzr_xfJow",
+        "kid": "HFh-_XqH7cgzvyA2pEGnlYSix9BvlrSOaD2aCSbmzYc",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      }
     }
   }
 }
