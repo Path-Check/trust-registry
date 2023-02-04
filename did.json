@@ -13601,6 +13601,21 @@
       }
     },
     {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#DCC%239f6QkHHzg8U%3D",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "A_MWXwcXu2MuFsLj27vIREee5Jbol9bLM1Utzd_4csY",
+        "y": "kdDy5TPx3gOelV2nX-W-_xrah1ldq8yrHMkgVSUSyR4",
+        "crv": "P-256",
+        "x5c": [
+          "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"
+        ]
+      }
+    },
+    {
       "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fapi.myirmobile.com%2Fissuer%23aQ8UtrF8UuWjSv5yQEgsiYyh_wsyRZ8fouggmtB38I8",
       "type": "JsonWebKey2020",
       "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
@@ -25303,6 +25318,7 @@
     "#DCC%23BlbCwB%2FYgIo%3D",
     "#DCC%232SBPFvnLaD4%3D",
     "#DCC%23cribuMeukFw%3D",
+    "#DCC%239f6QkHHzg8U%3D",
     "#SHC%23https%3A%2F%2Fapi.myirmobile.com%2Fissuer%23aQ8UtrF8UuWjSv5yQEgsiYyh_wsyRZ8fouggmtB38I8",
     "#SHC%23https%3A%2F%2Fhealthcardcert.lawallet.com%23UOvXbgzZj4zL-lt1uJVS_98NHQrQz48FTdqQyNEdaNE",
     "#SHC%23https%3A%2F%2Fwww.riteaid.com%23vqHxrsBwtWp2-NS2APN4m8aGjnaec8_juc9C4wFw9hI",
@@ -26068,9 +26084,9 @@
   ],
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2023-02-03T12:42:53Z",
+    "created": "2023-02-04T12:45:31Z",
     "verificationMethod": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main:signer#WEB",
     "proofPurpose": "assertionMethod",
-    "proofValue": "z2z6foW5BWUZAgbmWYVdGsp29caGM9u7w7kiz76kjq3JL2TVjNv2z2ZCAsParZ1BFbaXunbeF1KBDw8TKdsWFZauU"
+    "proofValue": "zpxShvm73DbwY39nKa16iLYThL6Dg5hLdaYZCtvpRifvZ6Pvs4uZpzXsFkm7cA4YWGjRYNapvPK1jhAAegiD5Eud"
   }
 }
