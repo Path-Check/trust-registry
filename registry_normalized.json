@@ -13815,6 +13815,21 @@
       "validFromDT": "2023-02-02T17:17:25.000Z",
       "validUntilDT": "2025-02-01T17:17:24.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEA/MWXwcXu2MuFsLj27vIREee5Jbol9bLM1Utzd/4csaR0PLlM/HeA56VXadf5b7/GtqHWV2rzKscySBVJRLJHg=="
+    },
+    "BJY+jzmss+0=": {
+      "displayName": {
+        "en": "Gov of Albania"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-02-03T15:59:56.000Z",
+      "validUntilDT": "2024-02-03T15:59:56.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEs1cwe4sDIQ+3BwQn3FgDQcq89FLfGU5LLKSjTslC5P41V1PxGwm7upBfJSEnz4dhgalQdHcVE3hGkEEdxjWFfg=="
     }
   },
   "SHC": {
