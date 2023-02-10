@@ -29825,6 +29825,27 @@
       "credentialType": [
         "https://smarthealth.cards#immunization"
       ]
+    },
+    "https://epicproxy.et1157.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#07gMGu-bZ8Oq0hva4Me2OdV28NNZ7LJ6UspgEyncUfg": {
+      "displayName": {
+        "en": "RWJBarnabas Health"
+      },
+      "displayURL": "https://mychart.rwjbh.org/MyChart/Authentication/Login?",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "NGlEoOomOVnR1kLhP8kX3kXWDH-VzDBcyd0reVjFvvk",
+        "y": "ENDAXzBpn7az-5uHyHfIY1oDnZvtyD0TVyiNl5FdQLA",
+        "kid": "07gMGu-bZ8Oq0hva4Me2OdV28NNZ7LJ6UspgEyncUfg",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
     }
   }
 }

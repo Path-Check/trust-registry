@@ -24361,6 +24361,20 @@
         "alg": "ES256",
         "crv": "P-256"
       }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fepicproxy.et1157.epichosted.com%2FFHIRProxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%2307gMGu-bZ8Oq0hva4Me2OdV28NNZ7LJ6UspgEyncUfg",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "x": "NGlEoOomOVnR1kLhP8kX3kXWDH-VzDBcyd0reVjFvvk",
+        "y": "ENDAXzBpn7az-5uHyHfIY1oDnZvtyD0TVyiNl5FdQLA",
+        "kid": "07gMGu-bZ8Oq0hva4Me2OdV28NNZ7LJ6UspgEyncUfg",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      }
     }
   ],
   "assertionMethod": [
@@ -26096,13 +26110,14 @@
     "#SHC%23https%3A%2F%2Fepicprisfd.ahn.org%2FPRD-FHIR%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23v2A122qeK7tarodVrceri3tUMZBDKzYQ3vCMU7WCJjo",
     "#SHC%23https%3A%2F%2Fepicmobile.challiance.org%2FInterconnect-OAuth2%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23AiB-cTlmIM07DDNjfdXghP_qAns0Y8eaXZ7CA1m7pW0",
     "#SHC%23https%3A%2F%2Fepicmobile.challiance.org%2FInterconnect-OAuth2%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23zKbXKVoQpThDLFSiQPQVcljHkFIlPR3ZcVVJntSyk80",
-    "#SHC%23https%3A%2F%2Fepicmobile.challiance.org%2FInterconnect-OAuth2%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23HFh-_XqH7cgzvyA2pEGnlYSix9BvlrSOaD2aCSbmzYc"
+    "#SHC%23https%3A%2F%2Fepicmobile.challiance.org%2FInterconnect-OAuth2%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23HFh-_XqH7cgzvyA2pEGnlYSix9BvlrSOaD2aCSbmzYc",
+    "#SHC%23https%3A%2F%2Fepicproxy.et1157.epichosted.com%2FFHIRProxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%2307gMGu-bZ8Oq0hva4Me2OdV28NNZ7LJ6UspgEyncUfg"
   ],
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2023-02-09T12:46:40Z",
+    "created": "2023-02-10T12:44:44Z",
     "verificationMethod": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main:signer#WEB",
     "proofPurpose": "assertionMethod",
-    "proofValue": "z3j9AitYvJqtjzN6cErHBh4XNYGtQeF5jV2kDF4tVxnBd5uaXGQyDSR7ZtcT67H6W7btwFp6ouBk97GzQP1hftkMN"
+    "proofValue": "z52rQd23zFLwfZTreJ7XN2SpoK5QzDGLrrRTJ3CjewdNaU9Ssx2LEcbmoMCNpkkGsZs5jNy12nZ9PH44yqxe9mNDV"
   }
 }
