@@ -23663,6 +23663,19 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEHz0sDDjNTlPBemkUKRXWv1OWf0q5m/f1VDS8mA2aVXPhf8K3uiUdNEu3GtMs2X5G1cn2aTh3e2IOLPOv/F8mjA=="
+    },
+    "https://epicproxy.et1157.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#07gMGu-bZ8Oq0hva4Me2OdV28NNZ7LJ6UspgEyncUfg": {
+      "displayName": {
+        "en": "RWJBarnabas Health"
+      },
+      "displayURL": "https://mychart.rwjbh.org/MyChart/Authentication/Login?",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAENGlEoOomOVnR1kLhP8kX3kXWDH+VzDBcyd0reVjFvvkQ0MBfMGmftrP7m4fId8hjWgOdm+3IPRNXKI2XkV1AsA=="
     }
   }
 }
