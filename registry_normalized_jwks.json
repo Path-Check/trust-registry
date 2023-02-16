@@ -9534,7 +9534,7 @@
         "en": "Gov of Ireland"
       },
       "entityType": "issuer",
-      "status": "current",
+      "status": "terminated",
       "validFromDT": "2021-07-07T09:31:21.000Z",
       "validUntilDT": "2023-06-27T09:31:21.000Z",
       "credentialType": [
@@ -9559,7 +9559,7 @@
         "en": "Gov of Ireland"
       },
       "entityType": "issuer",
-      "status": "current",
+      "status": "terminated",
       "validFromDT": "2021-06-30T13:38:55.000Z",
       "validUntilDT": "2023-06-30T13:38:55.000Z",
       "credentialType": [
