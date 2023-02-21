@@ -13830,6 +13830,21 @@
       "validFromDT": "2023-02-03T15:59:56.000Z",
       "validUntilDT": "2024-02-03T15:59:56.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEs1cwe4sDIQ+3BwQn3FgDQcq89FLfGU5LLKSjTslC5P41V1PxGwm7upBfJSEnz4dhgalQdHcVE3hGkEEdxjWFfg=="
+    },
+    "NLzh4TMDhMw=": {
+      "displayName": {
+        "en": "Gov of San Marino"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-02-20T16:03:04.000Z",
+      "validUntilDT": "2025-02-19T16:03:04.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEfcpvaiBORvT/HS7h+TsXckEpKDJ1T1LQ9jdA4f0A4I/zACPH0EgwTPjbrSGHd7wm8SihF1+Pdfif44lrtwm7PQ=="
     }
   },
   "SHC": {
