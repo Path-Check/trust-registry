@@ -13845,6 +13845,36 @@
       "validFromDT": "2023-02-20T16:03:04.000Z",
       "validUntilDT": "2025-02-19T16:03:04.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEfcpvaiBORvT/HS7h+TsXckEpKDJ1T1LQ9jdA4f0A4I/zACPH0EgwTPjbrSGHd7wm8SihF1+Pdfif44lrtwm7PQ=="
+    },
+    "pJabbimpi88=": {
+      "displayName": {
+        "en": "Gov of Hong Kong"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2022-12-22T07:04:54.000Z",
+      "validUntilDT": "2024-12-21T07:04:54.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEBRdVi6fhDF3/30szA0xYE/sQITnJW3Zel/TgIYnVvNusRo2S3/lbvyH+6aGgCITcNIFYuFn90cy7KARC4/HP8Q=="
+    },
+    "uze2D2dL99E=": {
+      "displayName": {
+        "en": "Gov of Azerbaijan"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-01-25T10:51:23.000Z",
+      "validUntilDT": "2025-01-24T10:51:23.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEiFxAP1YYhkgj4zLS5zbVNn65gabaP5J/7eTqE84WEq3D77suE/HfzsHRyv8mJdgsglDeOdmPy/Lerr2t++WLEg=="
     }
   },
   "SHC": {
