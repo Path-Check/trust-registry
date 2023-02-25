@@ -13875,6 +13875,21 @@
       "validFromDT": "2023-01-25T10:51:23.000Z",
       "validUntilDT": "2025-01-24T10:51:23.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEiFxAP1YYhkgj4zLS5zbVNn65gabaP5J/7eTqE84WEq3D77suE/HfzsHRyv8mJdgsglDeOdmPy/Lerr2t++WLEg=="
+    },
+    "Gw7GWokDFOA=": {
+      "displayName": {
+        "en": "Gov of Singapore"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-02-25T02:50:01.000Z",
+      "validUntilDT": "2025-02-24T02:50:01.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEo2HGQ2NjRg1O23mQ0sSRNw7sHqNcNMPs/hm7wYfpoMOlg0VTd79voODdGcpWN7rNVxMahURuLN1rv+7r3ITIWw=="
     }
   },
   "SHC": {
@@ -23721,6 +23736,19 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAENGlEoOomOVnR1kLhP8kX3kXWDH+VzDBcyd0reVjFvvkQ0MBfMGmftrP7m4fId8hjWgOdm+3IPRNXKI2XkV1AsA=="
+    },
+    "https://arrprd.mhhcc.org/OAuth2/api/epic/2021/Security/Open/EcKeys/32001/SHC#HBk1a-I_6M9bUeGkJxffwgrwJaynPikaQCHD1I3qPj4": {
+      "displayName": {
+        "en": "Memorial Hospital and Health Care Center"
+      },
+      "displayURL": "https://mychart.mhhcc.org/MyChartPRD/Authentication/Login?",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEge0xzpw6FdufORkHDVS1FnbnSq8BT3/0eBnkMpY+lu/4TPjcwMG+eX6VrGx3Y+EUWVbZ/hhZ9vlwl+f8VCgf9g=="
     }
   }
 }
