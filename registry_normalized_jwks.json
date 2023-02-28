@@ -37945,6 +37945,27 @@
         "alg": "ES256",
         "crv": "P-256"
       }
+    },
+    "https://www.mypruitthealth.com/api/api/Vaccination/shc#35iLwiFy_yB7mTxH2IpdSA94Z0mbo2PB5xqoo02BFhU": {
+      "displayName": {
+        "en": "PruittHealth"
+      },
+      "displayURL": "https://www.pruitthealth.com/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKeyJwk": {
+        "kty": "EC",
+        "kid": "35iLwiFy_yB7mTxH2IpdSA94Z0mbo2PB5xqoo02BFhU",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "6vZdLi5mX2BE4kzIb24o20g8OU1PXjspUcxOqR7RNS0",
+        "y": "e9gPEpmg8H26r-VNxzMXOP4iLaNpsFFvRGs-KIRuxVc"
+      }
     }
   }
 }

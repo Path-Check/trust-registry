@@ -24453,6 +24453,20 @@
         "alg": "ES256",
         "crv": "P-256"
       }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fwww.mypruitthealth.com%2Fapi%2Fapi%2FVaccination%2Fshc%2335iLwiFy_yB7mTxH2IpdSA94Z0mbo2PB5xqoo02BFhU",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "kid": "35iLwiFy_yB7mTxH2IpdSA94Z0mbo2PB5xqoo02BFhU",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "6vZdLi5mX2BE4kzIb24o20g8OU1PXjspUcxOqR7RNS0",
+        "y": "e9gPEpmg8H26r-VNxzMXOP4iLaNpsFFvRGs-KIRuxVc"
+      }
     }
   ],
   "assertionMethod": [
@@ -26194,13 +26208,14 @@
     "#SHC%23https%3A%2F%2Fepicmobile.challiance.org%2FInterconnect-OAuth2%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23zKbXKVoQpThDLFSiQPQVcljHkFIlPR3ZcVVJntSyk80",
     "#SHC%23https%3A%2F%2Fepicmobile.challiance.org%2FInterconnect-OAuth2%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23HFh-_XqH7cgzvyA2pEGnlYSix9BvlrSOaD2aCSbmzYc",
     "#SHC%23https%3A%2F%2Fepicproxy.et1157.epichosted.com%2FFHIRProxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%2307gMGu-bZ8Oq0hva4Me2OdV28NNZ7LJ6UspgEyncUfg",
-    "#SHC%23https%3A%2F%2Farrprd.mhhcc.org%2FOAuth2%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23HBk1a-I_6M9bUeGkJxffwgrwJaynPikaQCHD1I3qPj4"
+    "#SHC%23https%3A%2F%2Farrprd.mhhcc.org%2FOAuth2%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23HBk1a-I_6M9bUeGkJxffwgrwJaynPikaQCHD1I3qPj4",
+    "#SHC%23https%3A%2F%2Fwww.mypruitthealth.com%2Fapi%2Fapi%2FVaccination%2Fshc%2335iLwiFy_yB7mTxH2IpdSA94Z0mbo2PB5xqoo02BFhU"
   ],
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2023-02-27T12:56:21Z",
+    "created": "2023-02-28T12:52:32Z",
     "verificationMethod": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main:signer#WEB",
     "proofPurpose": "assertionMethod",
-    "proofValue": "z4MZvnXq3UjAwZdCrAcWMYCAdRNqmFrsSLwesQSYfVvuFiMCoRwJ6Cht7xghUy6kMHHsKDEGNbxF1ZyQQcnVT5b4D"
+    "proofValue": "za79CL7LcLDwTgPzEzx9AuUUuwZLV88nEodrh34Lccq1uvL3cAypi2N34xA4u6Z337negADUmQAimDXGH9yKYdE9"
   }
 }
