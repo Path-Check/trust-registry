@@ -13903,6 +13903,111 @@
       "validFromDT": "2023-03-01T11:38:59.000Z",
       "validUntilDT": "2023-09-01T10:38:59.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEP2nLT/VvdrjXrZ1X4Tr3yJbWJ3194JVtkNPGlWGrDANuvEHl4CBt3IKwt67dvGSg+FAcz7L8bekdIpYnDiwZcg=="
+    },
+    "BKJiGHWtLVc=": {
+      "displayName": {
+        "en": "Gov of United Kingdom"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-03-02T12:33:49.000Z",
+      "validUntilDT": "2025-03-02T13:03:49.000Z",
+      "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAz2qV0MY/2by3H52DquwHVxIlKzxzX7WPtljpuG6rGsauT9lVugi434BKGtRkor/+lX56MhDEWqdaxvhIt8J4Y2yKnbS9mqwPgTPW0m56Nni15/eikSeuBybSsQ1QlbwUt60WHO7hgr6CRgSf2bveYifGW1Kj1wNp9x347goc83tXP8FtDjunXsFz3HtXmDB4/zayuKPK/T2EU3sqTkqAmFasq87+WQInkotBvw+Rtz85mJka5nMTST9p4cWMnL4jjKBjrGpZuAxZ3iAbr3g6cf7+Wdpg7L9lZ9YAThUQNahTjc0GoHGLKb1jYb+wSL1rJkWUZIRlBj0wBa4dc4q+HQIDAQAB"
+    },
+    "Ewe+1TpV9q4=": {
+      "displayName": {
+        "en": "Gov of United Kingdom"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-03-02T11:38:23.000Z",
+      "validUntilDT": "2025-03-02T12:08:23.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEEWseqv4gmyanWe47QNCEP1YjyX876paA6Tbf6fNIIUa9ufnwGRNcFzHlpjhttG66IdLW/028F3fpONEF092lBA=="
+    },
+    "Vlldx7CG5+g=": {
+      "displayName": {
+        "en": "Gov of United Kingdom"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-03-02T11:33:33.000Z",
+      "validUntilDT": "2025-03-02T12:03:33.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE3XKdSL1p2ykZrVOrh9o1cZMTOdhOGs9aNx6/5rSIbZFk8/HcrSQtkDdQl4r5RwAmw0YYmRi10ToGoYbWc3FRnA=="
+    },
+    "YhnwRKhmcgQ=": {
+      "displayName": {
+        "en": "Gov of United Kingdom"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-03-02T11:53:20.000Z",
+      "validUntilDT": "2025-03-02T12:23:20.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEYlra8O0uxsI/g+9450gOaLL2wdDtrO+AOYu6/Ac5W2BkIVRc1EZWtGi1OzG4QO8Lhhl14giQSniDqdHGdgARew=="
+    },
+    "ZDIl2QSCcCc=": {
+      "displayName": {
+        "en": "Gov of United Kingdom"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-03-02T11:36:46.000Z",
+      "validUntilDT": "2025-03-02T12:06:46.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEVXPr++xKwpAivHvP+Gg3TcCsbAKqpXdpTASWqjhIotOrqOxWDLZOOJCqyQh4bplTShLoEtHo5piMCLj1tNalvw=="
+    },
+    "tOpFS+KJBfI=": {
+      "displayName": {
+        "en": "Gov of United Kingdom"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-03-02T11:34:28.000Z",
+      "validUntilDT": "2025-03-02T12:04:28.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAECxah7KjfP/PLj9VqPbqWP+ufwoheY+F+p2SZNqbMExnijD86DJCayP60dhhMiJoJqRGGL/P1/08y/R+ClRHTkA=="
+    },
+    "xZnYdBT9Pzc=": {
+      "displayName": {
+        "en": "Gov of United Kingdom"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-03-02T11:37:42.000Z",
+      "validUntilDT": "2025-03-02T12:07:42.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE+kNcmv1YdXsPrtFdRpNR0bNTpi45bxSQS7j9EeMoBwL0oECnKdDPk73rkEwHFTRNl8KFFIVNH/vbF2cLvzOG4Q=="
     }
   },
   "SHC": {
