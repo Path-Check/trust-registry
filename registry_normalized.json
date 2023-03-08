@@ -14008,6 +14008,36 @@
       "validFromDT": "2023-03-02T11:37:42.000Z",
       "validUntilDT": "2025-03-02T12:07:42.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE+kNcmv1YdXsPrtFdRpNR0bNTpi45bxSQS7j9EeMoBwL0oECnKdDPk73rkEwHFTRNl8KFFIVNH/vbF2cLvzOG4Q=="
+    },
+    "umFDVUdIS8Y=": {
+      "displayName": {
+        "en": "Gov of Indonesia"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-02-15T18:11:42.000Z",
+      "validUntilDT": "2025-02-14T18:11:42.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEZURZd9lrtOvbVxg4zpGa+D/mlQSVzWwTlbrdnI3hzHZF5pGgeVT4InxNdaU1th1UhBuHmoSsnE4kfgEEYtH6ag=="
+    },
+    "nKJyBN8USUs=": {
+      "displayName": {
+        "en": "Gov of United Kingdom"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-03-07T11:52:02.000Z",
+      "validUntilDT": "2025-03-07T12:22:02.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEY5OP2EvFENqMqZ45MFhNF/ZOVle1wa8uqybP9Z8aanUxZ7cIMGW+7dgsLeUAVRvRL4RHyFU3ZJWxRozn9/xguw=="
     }
   },
   "SHC": {
