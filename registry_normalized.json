@@ -13939,7 +13939,7 @@
         "en": "Gov of United Kingdom"
       },
       "entityType": "issuer",
-      "status": "current",
+      "status": "terminated",
       "credentialType": [
         "t",
         "v",
@@ -14038,6 +14038,36 @@
       "validFromDT": "2023-03-07T11:52:02.000Z",
       "validUntilDT": "2025-03-07T12:22:02.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEY5OP2EvFENqMqZ45MFhNF/ZOVle1wa8uqybP9Z8aanUxZ7cIMGW+7dgsLeUAVRvRL4RHyFU3ZJWxRozn9/xguw=="
+    },
+    "IF7OWhUiYYk=": {
+      "displayName": {
+        "en": "Gov of France"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-06-09T22:00:00.000Z",
+      "validUntilDT": "2025-06-09T22:00:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEukDt11Uv1EbFBKN4UHabjpMgEXyrCCZfT0mUXIgO9RQSbKdAxdPCms3KdY9+VTyrKu2tLeeR9zShlLKNlYI98Q=="
+    },
+    "m5gZzjeaEz0=": {
+      "displayName": {
+        "en": "Gov of France"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-06-09T22:00:00.000Z",
+      "validUntilDT": "2025-06-09T22:00:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEhhjGvqM8JzP5ysxIWoOhADh9HApdXjEypRMV3YhIPkngFCT2w+xgmVDByxJTr6dzU5cgIDvjF1U8+kwHjXYebA=="
     }
   },
   "SHC": {
