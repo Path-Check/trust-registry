@@ -24648,6 +24648,17 @@
         "x": "6vZdLi5mX2BE4kzIb24o20g8OU1PXjspUcxOqR7RNS0",
         "y": "e9gPEpmg8H26r-VNxzMXOP4iLaNpsFFvRGs-KIRuxVc"
       }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fapi.cvshealth.com%2Fpublic%23IF-c2JJkgxlK8fO6eTkw7MZlpBREFXyl4Q_tK2N2OIw",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "kty": "RSA",
+        "e": "AQAB",
+        "kid": "IF-c2JJkgxlK8fO6eTkw7MZlpBREFXyl4Q_tK2N2OIw",
+        "n": "zE11bsOG_2jru_rH6_9VAmteWLIg5aT5OjdGseytiFGlnAMzstE-L3lq65v9gHsqkna8wKdUIBQt1ai-6qFU6uD1cWjCtEFhHBjEjZud_ZLYsSIFy_hcXuEevyp6a1cJ1beCrCBIlC7qTZGsvNWI1JFEKDoRKCYPz8ykhOTlrFUra68dmBZZYw1QkZh2c_iaJZKnPxOKLkxp_EOzOivMOBJxpMXk87A5L7T-OoI47CxMGSGCi-LYzPVjW-oySVEGuqrrAkrGOMRbdexYysL50-SVFgoHzWpIaM-euYO0ka2iobQWIPpZP8TsT6JhfeZXTc2QNQEy6ULbq3rMAYtS8w"
+      }
     }
   ],
   "assertionMethod": [
@@ -26402,13 +26413,14 @@
     "#SHC%23https%3A%2F%2Fepicmobile.challiance.org%2FInterconnect-OAuth2%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23HFh-_XqH7cgzvyA2pEGnlYSix9BvlrSOaD2aCSbmzYc",
     "#SHC%23https%3A%2F%2Fepicproxy.et1157.epichosted.com%2FFHIRProxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%2307gMGu-bZ8Oq0hva4Me2OdV28NNZ7LJ6UspgEyncUfg",
     "#SHC%23https%3A%2F%2Farrprd.mhhcc.org%2FOAuth2%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23HBk1a-I_6M9bUeGkJxffwgrwJaynPikaQCHD1I3qPj4",
-    "#SHC%23https%3A%2F%2Fwww.mypruitthealth.com%2Fapi%2Fapi%2FVaccination%2Fshc%2335iLwiFy_yB7mTxH2IpdSA94Z0mbo2PB5xqoo02BFhU"
+    "#SHC%23https%3A%2F%2Fwww.mypruitthealth.com%2Fapi%2Fapi%2FVaccination%2Fshc%2335iLwiFy_yB7mTxH2IpdSA94Z0mbo2PB5xqoo02BFhU",
+    "#SHC%23https%3A%2F%2Fapi.cvshealth.com%2Fpublic%23IF-c2JJkgxlK8fO6eTkw7MZlpBREFXyl4Q_tK2N2OIw"
   ],
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2023-03-13T12:46:37Z",
+    "created": "2023-03-14T12:57:20Z",
     "verificationMethod": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main:signer#WEB",
     "proofPurpose": "assertionMethod",
-    "proofValue": "z2zWnm399Km8Lsw2hd32tkVNucbmQfD9pGNGjpTBFh4fHsnvzrroKrP1bh7DXCh7KybZU6eVdfvfkC86knXXp95en"
+    "proofValue": "zhnLCFx1Urcexd7dmrTH9Q3cEtcsxbHAbf5nmuaSMeZDBtV4AGrnYohFu3KiYqSEKptMBxnwygvLAUis12EZx5Lu"
   }
 }
