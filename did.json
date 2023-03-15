@@ -24659,6 +24659,20 @@
         "kid": "IF-c2JJkgxlK8fO6eTkw7MZlpBREFXyl4Q_tK2N2OIw",
         "n": "zE11bsOG_2jru_rH6_9VAmteWLIg5aT5OjdGseytiFGlnAMzstE-L3lq65v9gHsqkna8wKdUIBQt1ai-6qFU6uD1cWjCtEFhHBjEjZud_ZLYsSIFy_hcXuEevyp6a1cJ1beCrCBIlC7qTZGsvNWI1JFEKDoRKCYPz8ykhOTlrFUra68dmBZZYw1QkZh2c_iaJZKnPxOKLkxp_EOzOivMOBJxpMXk87A5L7T-OoI47CxMGSGCi-LYzPVjW-oySVEGuqrrAkrGOMRbdexYysL50-SVFgoHzWpIaM-euYO0ka2iobQWIPpZP8TsT6JhfeZXTc2QNQEy6ULbq3rMAYtS8w"
       }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fepicarrprod.uhnj.org%2FFHIR-Proxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23B3Wf0XsR9zdEy2vMUWO_x2_DkRaYz_LDnUg3k08hQb4",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "x": "_gIr_QP3RTN9F4aLA1JIzfUdRr7mYpDhJc3Ml9iTTMY",
+        "y": "m2XidTRVzQWgY2NoU7rZptZ2qIpEQYdpXuTuJJzVcCs",
+        "kid": "B3Wf0XsR9zdEy2vMUWO_x2_DkRaYz_LDnUg3k08hQb4",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      }
     }
   ],
   "assertionMethod": [
@@ -26414,13 +26428,14 @@
     "#SHC%23https%3A%2F%2Fepicproxy.et1157.epichosted.com%2FFHIRProxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%2307gMGu-bZ8Oq0hva4Me2OdV28NNZ7LJ6UspgEyncUfg",
     "#SHC%23https%3A%2F%2Farrprd.mhhcc.org%2FOAuth2%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23HBk1a-I_6M9bUeGkJxffwgrwJaynPikaQCHD1I3qPj4",
     "#SHC%23https%3A%2F%2Fwww.mypruitthealth.com%2Fapi%2Fapi%2FVaccination%2Fshc%2335iLwiFy_yB7mTxH2IpdSA94Z0mbo2PB5xqoo02BFhU",
-    "#SHC%23https%3A%2F%2Fapi.cvshealth.com%2Fpublic%23IF-c2JJkgxlK8fO6eTkw7MZlpBREFXyl4Q_tK2N2OIw"
+    "#SHC%23https%3A%2F%2Fapi.cvshealth.com%2Fpublic%23IF-c2JJkgxlK8fO6eTkw7MZlpBREFXyl4Q_tK2N2OIw",
+    "#SHC%23https%3A%2F%2Fepicarrprod.uhnj.org%2FFHIR-Proxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23B3Wf0XsR9zdEy2vMUWO_x2_DkRaYz_LDnUg3k08hQb4"
   ],
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2023-03-14T12:57:20Z",
+    "created": "2023-03-15T12:48:26Z",
     "verificationMethod": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main:signer#WEB",
     "proofPurpose": "assertionMethod",
-    "proofValue": "zhnLCFx1Urcexd7dmrTH9Q3cEtcsxbHAbf5nmuaSMeZDBtV4AGrnYohFu3KiYqSEKptMBxnwygvLAUis12EZx5Lu"
+    "proofValue": "z3pYy9Q7MjQ7usSnJjaCx7PidAv7vK8ds73CmxeJCdPfZpmKVmD6oGvHHbDNx9EsEKV1y59pHGUJ4xAiU88xj6Rxk"
   }
 }
