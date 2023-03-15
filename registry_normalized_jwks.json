@@ -38270,6 +38270,27 @@
         "kid": "IF-c2JJkgxlK8fO6eTkw7MZlpBREFXyl4Q_tK2N2OIw",
         "n": "zE11bsOG_2jru_rH6_9VAmteWLIg5aT5OjdGseytiFGlnAMzstE-L3lq65v9gHsqkna8wKdUIBQt1ai-6qFU6uD1cWjCtEFhHBjEjZud_ZLYsSIFy_hcXuEevyp6a1cJ1beCrCBIlC7qTZGsvNWI1JFEKDoRKCYPz8ykhOTlrFUra68dmBZZYw1QkZh2c_iaJZKnPxOKLkxp_EOzOivMOBJxpMXk87A5L7T-OoI47CxMGSGCi-LYzPVjW-oySVEGuqrrAkrGOMRbdexYysL50-SVFgoHzWpIaM-euYO0ka2iobQWIPpZP8TsT6JhfeZXTc2QNQEy6ULbq3rMAYtS8w"
       }
+    },
+    "https://epicarrprod.uhnj.org/FHIR-Proxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#B3Wf0XsR9zdEy2vMUWO_x2_DkRaYz_LDnUg3k08hQb4": {
+      "displayName": {
+        "en": "University Hospital"
+      },
+      "displayURL": "https://mychart.uhnj.org/MyChart-PRD/Authentication/Login?",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKeyJwk": {
+        "x": "_gIr_QP3RTN9F4aLA1JIzfUdRr7mYpDhJc3Ml9iTTMY",
+        "y": "m2XidTRVzQWgY2NoU7rZptZ2qIpEQYdpXuTuJJzVcCs",
+        "kid": "B3Wf0XsR9zdEy2vMUWO_x2_DkRaYz_LDnUg3k08hQb4",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      }
     }
   }
 }
