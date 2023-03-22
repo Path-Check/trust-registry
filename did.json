@@ -24703,6 +24703,34 @@
         "alg": "ES256",
         "crv": "P-256"
       }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fepicproxy.et0316.epichosted.com%2FFHIRProxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23k1KgH1uFX92OrEYgyKHlrfBvdUNt8uaiXSUuCex_W1M",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "x": "DlTnJfItaCxBgXMrtdVmW9O9vhS44fsrgz-4X3m9L9Q",
+        "y": "Yb0ABPCZDdDl22VZxLND4OcnxpPsah1xTH_yJSHEpc8",
+        "kid": "k1KgH1uFX92OrEYgyKHlrfBvdUNt8uaiXSUuCex_W1M",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fepicproxy.et0582.epichosted.com%2FFHIRProxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%230jzWwbsnyP2wrDPYMCe96n0DztcJBVZLNwAq0VghGG4",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "x": "Cc2HY0MEHwGpZJKhLL4_vUpXQhSB2W7_i_-vi2xBvPU",
+        "y": "RBqkWEyBcQPvXNDYBGCbSjzfgf5F_ulvPFhF09ZTcCA",
+        "kid": "0jzWwbsnyP2wrDPYMCe96n0DztcJBVZLNwAq0VghGG4",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      }
     }
   ],
   "assertionMethod": [
@@ -26461,13 +26489,15 @@
     "#SHC%23https%3A%2F%2Farrprd.mhhcc.org%2FOAuth2%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23HBk1a-I_6M9bUeGkJxffwgrwJaynPikaQCHD1I3qPj4",
     "#SHC%23https%3A%2F%2Fwww.mypruitthealth.com%2Fapi%2Fapi%2FVaccination%2Fshc%2335iLwiFy_yB7mTxH2IpdSA94Z0mbo2PB5xqoo02BFhU",
     "#SHC%23https%3A%2F%2Fapi.cvshealth.com%2Fpublic%23IF-c2JJkgxlK8fO6eTkw7MZlpBREFXyl4Q_tK2N2OIw",
-    "#SHC%23https%3A%2F%2Fepicarrprod.uhnj.org%2FFHIR-Proxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23B3Wf0XsR9zdEy2vMUWO_x2_DkRaYz_LDnUg3k08hQb4"
+    "#SHC%23https%3A%2F%2Fepicarrprod.uhnj.org%2FFHIR-Proxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23B3Wf0XsR9zdEy2vMUWO_x2_DkRaYz_LDnUg3k08hQb4",
+    "#SHC%23https%3A%2F%2Fepicproxy.et0316.epichosted.com%2FFHIRProxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23k1KgH1uFX92OrEYgyKHlrfBvdUNt8uaiXSUuCex_W1M",
+    "#SHC%23https%3A%2F%2Fepicproxy.et0582.epichosted.com%2FFHIRProxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%230jzWwbsnyP2wrDPYMCe96n0DztcJBVZLNwAq0VghGG4"
   ],
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2023-03-21T12:50:22Z",
+    "created": "2023-03-22T12:44:35Z",
     "verificationMethod": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main:signer#WEB",
     "proofPurpose": "assertionMethod",
-    "proofValue": "zCTqQcituCeUtHLEBYnxivDc4vp1DULCVHoXDjBbgSep5VXKrqptk741fK65wVWo21v5rMmdbvKia8xZAd2UTwW5"
+    "proofValue": "z2QAyUfrK2jyhJt3gQRp2DL1Q8gEd5gMY5RNgwiBdjKm1JVAzCpjxyuEydbp19xm2caDjTw68SaXSnJSEyKJSkst8"
   }
 }
