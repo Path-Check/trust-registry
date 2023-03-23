@@ -14098,6 +14098,21 @@
       "validFromDT": "2023-03-16T09:59:57.000Z",
       "validUntilDT": "2025-03-15T09:59:57.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEWTYxRY5nNLtf3ckj6NuCn/O/ZLzmkm6ehiT/YtpB+RDy7WpMYYlpMyqVAZFk1XsdT97iF4nSFzJ7fhJYHIaL8A=="
+    },
+    "Jh0MKFnVMAw=": {
+      "displayName": {
+        "en": "Gov of Georgia"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-03-22T08:05:10.000Z",
+      "validUntilDT": "2025-03-21T08:05:09.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEJOz8HQVIBwhbnHKEBv6o5+2M5DsQL8BWdPK2iue+1OaZkr8e0o5eu3DxbhOuH0CzlHflqF5Gwd9gIDHFuiKYCw=="
     }
   },
   "SHC": {
