@@ -14113,6 +14113,36 @@
       "validFromDT": "2023-03-22T08:05:10.000Z",
       "validUntilDT": "2025-03-21T08:05:09.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEJOz8HQVIBwhbnHKEBv6o5+2M5DsQL8BWdPK2iue+1OaZkr8e0o5eu3DxbhOuH0CzlHflqF5Gwd9gIDHFuiKYCw=="
+    },
+    "1GQI095TexU=": {
+      "displayName": {
+        "en": "Gov of Singapore"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-03-27T07:15:44.000Z",
+      "validUntilDT": "2025-03-26T07:15:44.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAETmuBDd+HIZdejlyWwAJQb5kst85fDnuNJwyBXwDCe7IwzJauEopycw9N0urZFdvbzbXoPMVRX/uZw9YDHOjIcQ=="
+    },
+    "Ukiw87ZBLQM=": {
+      "displayName": {
+        "en": "Gov of Singapore"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-03-27T07:21:07.000Z",
+      "validUntilDT": "2025-03-26T07:21:07.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEcPIHBO/4CS6wpjdYBaRVCeTJsAkfoJz/Nk/kE4VH9XsHqEYZRcD6FiHh+CEcLwt7/ybeB38fOafRUlYfYNfzkQ=="
     }
   },
   "SHC": {
