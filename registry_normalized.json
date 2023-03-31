@@ -24066,6 +24066,19 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAECc2HY0MEHwGpZJKhLL4/vUpXQhSB2W7/i/+vi2xBvPVEGqRYTIFxA+9c0NgEYJtKPN+B/kX+6W88WEXT1lNwIA=="
+    },
+    "https://s3.us-east-2.amazonaws.com/shc.vaccine.cookcountyil.gov#YwCqpnQduymRrY9cvCVY9JR2AUS3WvvDOo0iWLRdwO8": {
+      "displayName": {
+        "en": "Cook County Community Vaccination Program"
+      },
+      "displayURL": "https://vaccine.cookcountyil.gov",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEWbZy8RpBe/B4BN7rE/ihOc3GjeN5L8QIjzGb3JElwxXot7+zPTPd0+2ZaLi0NTdzz8d0lRcfIxibubiFW9kttw=="
     }
   }
 }

@@ -24778,6 +24778,20 @@
         "alg": "ES256",
         "crv": "P-256"
       }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Fs3.us-east-2.amazonaws.com%2Fshc.vaccine.cookcountyil.gov%23YwCqpnQduymRrY9cvCVY9JR2AUS3WvvDOo0iWLRdwO8",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "kid": "YwCqpnQduymRrY9cvCVY9JR2AUS3WvvDOo0iWLRdwO8",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "WbZy8RpBe_B4BN7rE_ihOc3GjeN5L8QIjzGb3JElwxU",
+        "y": "6Le_sz0z3dPtmWi4tDU3c8_HdJUXHyMYm7m4hVvZLbc"
+      }
     }
   ],
   "assertionMethod": [
@@ -26541,13 +26555,14 @@
     "#SHC%23https%3A%2F%2Fapi.cvshealth.com%2Fpublic%23IF-c2JJkgxlK8fO6eTkw7MZlpBREFXyl4Q_tK2N2OIw",
     "#SHC%23https%3A%2F%2Fepicarrprod.uhnj.org%2FFHIR-Proxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23B3Wf0XsR9zdEy2vMUWO_x2_DkRaYz_LDnUg3k08hQb4",
     "#SHC%23https%3A%2F%2Fepicproxy.et0316.epichosted.com%2FFHIRProxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23k1KgH1uFX92OrEYgyKHlrfBvdUNt8uaiXSUuCex_W1M",
-    "#SHC%23https%3A%2F%2Fepicproxy.et0582.epichosted.com%2FFHIRProxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%230jzWwbsnyP2wrDPYMCe96n0DztcJBVZLNwAq0VghGG4"
+    "#SHC%23https%3A%2F%2Fepicproxy.et0582.epichosted.com%2FFHIRProxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%230jzWwbsnyP2wrDPYMCe96n0DztcJBVZLNwAq0VghGG4",
+    "#SHC%23https%3A%2F%2Fs3.us-east-2.amazonaws.com%2Fshc.vaccine.cookcountyil.gov%23YwCqpnQduymRrY9cvCVY9JR2AUS3WvvDOo0iWLRdwO8"
   ],
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2023-03-30T13:03:21Z",
+    "created": "2023-03-31T12:44:59Z",
     "verificationMethod": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main:signer#WEB",
     "proofPurpose": "assertionMethod",
-    "proofValue": "z4zU12TryYqgwMk6244xQp4bYeTc2WowJgB41AFLdXYaDSNqRETveGyN47Hg1pmv9pmveiXGkmfZoFQ4TbbbGAgic"
+    "proofValue": "zCc2FQuDc8ivnE5McGDtvTNe6Fm8mdFu8bjQfhRRo22dgpqmVmViK2xMyi2k1RV2pV6TrR2MUc1B4PaVaQR1jFn8"
   }
 }
