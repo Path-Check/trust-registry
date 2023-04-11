@@ -24843,6 +24843,20 @@
         "y": "UQyFCktr1Ec9-YhuSeaLX0jHaBgw61k8U5gV4UXHXCc",
         "ctr": 1
       }
+    },
+    {
+      "id": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main#SHC%23https%3A%2F%2Faccusense.health%23b-Qi4HoCM8n_zR_lUJwnfqaYhsO5OptvQqwS5d74CZs",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main",
+      "publicKeyJwk": {
+        "alg": "ES256",
+        "crv": "P-256",
+        "kty": "EC",
+        "use": "sig",
+        "x": "xuMliF6-Fg2z9UArySyujpwaPJjW3CaDP0LnSejz9xM",
+        "y": "Ivzr29WCUekUKbWa_02aFsJax9ElsYzlchYzgVgKqqU",
+        "kid": "b-Qi4HoCM8n_zR_lUJwnfqaYhsO5OptvQqwS5d74CZs"
+      }
     }
   ],
   "assertionMethod": [
@@ -26610,13 +26624,14 @@
     "#SHC%23https%3A%2F%2Fepicproxy.et0316.epichosted.com%2FFHIRProxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%23k1KgH1uFX92OrEYgyKHlrfBvdUNt8uaiXSUuCex_W1M",
     "#SHC%23https%3A%2F%2Fepicproxy.et0582.epichosted.com%2FFHIRProxy%2Fapi%2Fepic%2F2021%2FSecurity%2FOpen%2FEcKeys%2F32001%2FSHC%230jzWwbsnyP2wrDPYMCe96n0DztcJBVZLNwAq0VghGG4",
     "#SHC%23https%3A%2F%2Fs3.us-east-2.amazonaws.com%2Fshc.vaccine.cookcountyil.gov%23YwCqpnQduymRrY9cvCVY9JR2AUS3WvvDOo0iWLRdwO8",
-    "#SHC%23https%3A%2F%2Fpvc.service.yukon.ca%2Fissuer%23LF4I5vj9mSzx7W7XlbCaEs8UuY0USX3lVUXHY3b8tRg"
+    "#SHC%23https%3A%2F%2Fpvc.service.yukon.ca%2Fissuer%23LF4I5vj9mSzx7W7XlbCaEs8UuY0USX3lVUXHY3b8tRg",
+    "#SHC%23https%3A%2F%2Faccusense.health%23b-Qi4HoCM8n_zR_lUJwnfqaYhsO5OptvQqwS5d74CZs"
   ],
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2023-04-10T12:46:55Z",
+    "created": "2023-04-11T12:45:09Z",
     "verificationMethod": "did:web:raw.githubusercontent.com:Path-Check:trust-registry:main:signer#WEB",
     "proofPurpose": "assertionMethod",
-    "proofValue": "zXeundSCErRYhAbXKwCXDcPK55ofHZvEFP9Rq2PwAdrRdTsD7sVBFF1wSbDghtRj55EwDyyXyaHRpW7vJDmmzJzK"
+    "proofValue": "zQB98DqsZqCwpaM62ABiLzC14h1V8x6gfeMccyJm2veg5VqkM8oehBuvVbtyoFbSnYWaGmceuU2xBQJej2kskW9t"
   }
 }

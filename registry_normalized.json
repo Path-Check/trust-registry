@@ -24120,6 +24120,18 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE8XG+rsNRpXUOF1MbfkhyavOsGtT26Op7x5hU8pfxLdNRDIUKS2vURz35iG5J5otfSMdoGDDrWTxTmBXhRcdcJw=="
+    },
+    "https://accusense.health#b-Qi4HoCM8n_zR_lUJwnfqaYhsO5OptvQqwS5d74CZs": {
+      "displayName": {
+        "en": "AccuSense Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAExuMliF6+Fg2z9UArySyujpwaPJjW3CaDP0LnSejz9xMi/Ovb1YJR6RQptZr/TZoWwlrH0SWxjOVyFjOBWAqqpQ=="
     }
   }
 }
