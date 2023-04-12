@@ -14171,6 +14171,36 @@
       "validFromDT": "2023-03-02T10:01:22.000Z",
       "validUntilDT": "2024-08-31T10:01:22.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE4Ml6ZEtYKSmwCZEKoSeKlAD2r8VCmVgxIHTBo1cm5kgDk43nXlNpLZRyYA2h2Pubt7Y6yjE/sgC80ktrXkqMTg=="
+    },
+    "9yIRbTb0aYI=": {
+      "displayName": {
+        "en": "Gov of Iceland"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-04-11T15:18:22.000Z",
+      "validUntilDT": "2025-04-10T15:18:22.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEWFK4cn2YOy0gLtR0C+F9lelwEZjWKIpSh6e0JBhLSQyp+qlOZQtu+OP89/IPGnLcr1UEQAQu9Ml53sY/BZdBKA=="
+    },
+    "t8xpbk81r/E=": {
+      "displayName": {
+        "en": "Gov of Iceland"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-04-11T15:19:59.000Z",
+      "validUntilDT": "2025-04-10T15:19:59.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAExtg+vIBsHlWCpwLhwpdWR/uXgNyNt7F+tJVYzHSKloRtFwESr/7ejx4UFdB6GCoYwFtdXgtQEPKgzF1k0NVUEg=="
     }
   },
   "SHC": {
