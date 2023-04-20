@@ -15178,6 +15178,45 @@
       "validFromDT": "2023-04-05T20:06:47.000Z",
       "validUntilDT": "2025-04-04T20:06:46.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAED7OpzTWaFvkIc3+uxRNmHmxUnuRhIe2ZJlXc3gq0hfsfkLP3P6WvQlG3uLjxv3Fv7Lt2BxnCjywbxSUn03xovw=="
+    },
+    "TL1/HDUPQX8=": {
+      "displayName": {
+        "en": "Gov of Poland"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "v"
+      ],
+      "validFromDT": "2023-04-14T08:04:25.000Z",
+      "validUntilDT": "2025-04-13T08:04:24.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEBHeHxOXkQw6LxkfNi3M7pbQ77/8bZhFkSpdgU/rwVrmA+zFz2DZ4csjnRnpouNU4zNW/OgoCbCRxRFPVZfLIYg=="
+    },
+    "ViMa4BIRCAw=": {
+      "displayName": {
+        "en": "Gov of Poland"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t"
+      ],
+      "validFromDT": "2023-04-14T08:03:02.000Z",
+      "validUntilDT": "2025-04-13T08:03:01.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEyGf2KH+LUEuYHMPHg+3LsserH9fZNOfll7AtJ7V6FR9OsTGHDLWvOLhIV8RznvCDd3cnKueWApxXHHEWuxMQjg=="
+    },
+    "l1qPmiHu4uM=": {
+      "displayName": {
+        "en": "Gov of Poland"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "r"
+      ],
+      "validFromDT": "2023-04-14T08:00:54.000Z",
+      "validUntilDT": "2025-04-13T08:00:53.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEGbWDpQ/1o9KjkX3QkfwEjPzLt8N1jHRjbBCtpX2i5Z2oQLxoc8sFVpoBaN+5m+VruruytPBnKdLEK7SNwRz+Bg=="
     }
   },
   "SHC": {
