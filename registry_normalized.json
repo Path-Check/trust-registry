@@ -15217,6 +15217,36 @@
       "validFromDT": "2023-04-14T08:00:54.000Z",
       "validUntilDT": "2025-04-13T08:00:53.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEGbWDpQ/1o9KjkX3QkfwEjPzLt8N1jHRjbBCtpX2i5Z2oQLxoc8sFVpoBaN+5m+VruruytPBnKdLEK7SNwRz+Bg=="
+    },
+    "djYcr89uEaU=": {
+      "displayName": {
+        "en": "Gov of Singapore"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-04-25T02:33:21.000Z",
+      "validUntilDT": "2025-04-24T02:33:21.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEN+x535oN970PFQwm0fxdE3iEH/uV5QMtXAyj1uB4pcK6/a5xfKjsi35uGYSI3Z60mewf1/8PVF0XDK2wowpnMw=="
+    },
+    "v4zkm2UjauM=": {
+      "displayName": {
+        "en": "Gov of Slovenia"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-04-19T12:19:18.000Z",
+      "validUntilDT": "2025-04-18T12:19:18.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE/JLE6RJ9O/+hM++WOyp+Ux+CCWdObPbp/DurxyI3OcMLWEx0MCz0QOHPk6cRUXOa8k192yyx8vdkCGfRruwY9A=="
     }
   },
   "SHC": {
