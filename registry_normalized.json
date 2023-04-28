@@ -15247,6 +15247,21 @@
       "validFromDT": "2023-04-19T12:19:18.000Z",
       "validUntilDT": "2025-04-18T12:19:18.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE/JLE6RJ9O/+hM++WOyp+Ux+CCWdObPbp/DurxyI3OcMLWEx0MCz0QOHPk6cRUXOa8k192yyx8vdkCGfRruwY9A=="
+    },
+    "aAA93EmTwno=": {
+      "displayName": {
+        "en": "Gov of Georgia"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-04-26T17:08:32.000Z",
+      "validUntilDT": "2025-04-25T17:08:31.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE/vzxQ5c26RPWVgse0TzrctJnlpvrub8ljUSaOtJ+9zT6gI7hQMe7RYiGgz01/QOJm9gr7x7ylmteCisXAUc6tQ=="
     }
   },
   "SHC": {
@@ -25208,6 +25223,19 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAExuMliF6+Fg2z9UArySyujpwaPJjW3CaDP0LnSejz9xMi/Ovb1YJR6RQptZr/TZoWwlrH0SWxjOVyFjOBWAqqpQ=="
+    },
+    "https://healthcardcert.lawallet.com#9UUNq1iGOg5gdVIhcaXd4WzTKhlj7HdmtzUJYIeSEaQ": {
+      "displayName": {
+        "en": "State of Louisiana"
+      },
+      "displayURL": "https://lawallet.com/covid-19/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAESWvgsg3Ql/OdXgTl8ZfvKXm6hu6jZH0jes9dYLTmLGJgiITiCFvbkacVbbLTWoGRLK6ShO2kWEzSU1JulkXWEw=="
     }
   }
 }
