@@ -15249,6 +15249,21 @@
       "validFromDT": "2023-04-19T12:19:18.000Z",
       "validUntilDT": "2025-04-18T12:19:18.000Z",
       "didDocument": "-----BEGIN CERTIFICATE-----\nMIIC9TCCApqgAwIBAgIUW/Q8jkd+fdBJqDwZkNLSuIjS7aowCgYIKoZIzj0EAwIwgZwxCzAJBgNVBAYTAlNJMT4wPAYDVQQKDDVOSUpaLCBOYXRpb25hbCBJbnN0aXR1dGUgb2YgUHVibGljIEhlYWx0aCBvZiBTbG92ZW5pYTEVMBMGA1UECwwMTklKWiBlSGVhbHRoMTYwNAYDVQQDDC1TbG92ZW5pYW4gRGlnaXRhbCBDb3ZpZCBDZXJ0aWZpY2F0ZSBDU0NBIDIwMjMwHhcNMjMwNDE5MTIxOTE4WhcNMjUwNDE4MTIxOTE4WjCBnjELMAkGA1UEBhMCU0kxPjA8BgNVBAoMNU5JSlosIE5hdGlvbmFsIEluc3RpdHV0ZSBvZiBQdWJsaWMgSGVhbHRoIG9mIFNsb3ZlbmlhMRUwEwYDVQQLDAxOSUpaIGVIZWFsdGgxODA2BgNVBAMML1Nsb3ZlbmlhbiBEaWdpdGFsIENvdmlkIENlcnRpZmljYXRlIFNpZ25lciAyMDIzMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE/JLE6RJ9O/+hM++WOyp+Ux+CCWdObPbp/DurxyI3OcMLWEx0MCz0QOHPk6cRUXOa8k192yyx8vdkCGfRruwY9KOBtTCBsjAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0OBBYEFD1U9xDHZ2WCGTvYTCBI2rTPmqKTMB8GA1UdIwQYMBaAFMWzTnIxszc8taaTRGjiU13Qq870MDMGA1UdJQQsMCoGDCsGAQQBAI43j2UBAQYMKwYBBAEAjjePZQECBgwrBgEEAQCON49lAQMwKwYDVR0QBCQwIoAPMjAyMzA0MTkwOTAwMDBagQ8yMDI0MDQxOTA5MDAwMFowCgYIKoZIzj0EAwIDSQAwRgIhAOAAq7h4m3g57JZ8dFlav77wQT7aAuBjg/aEA609MtM1AiEAzf8gPufMvxqZqnp5itrcNTTTNoQA8/6rcIZ9KhgVRVI=\n-----END CERTIFICATE-----"
+    },
+    "aAA93EmTwno=": {
+      "displayName": {
+        "en": "Gov of Georgia"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-04-26T17:08:32.000Z",
+      "validUntilDT": "2025-04-25T17:08:31.000Z",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIIDLTCCAtKgAwIBAgIUWpQkU+UJHQy9aHWDjiJJRrhy7HEwCgYIKoZIzj0EAwIwgYMxHzAdBgNVBAMMFkRHQyBDb3VudHJ5IFNpZ25pbmcgQ0ExKjAoBgNVBAsMIVB1YmxpYyBTZXJ2aWNlIERldmVsb3BtZW50IEFnZW5jeTEnMCUGA1UECgweTWluaXN0cnkgb2YgSnVzdGljZSBvZiBHZW9yZ2lhMQswCQYDVQQGEwJHRTAeFw0yMzA0MjYxNzA4MzJaFw0yNTA0MjUxNzA4MzFaMIHVMRgwFgYDVQQDDA9ER0MgRFMgU2lnbmVyIDIxLTArBgNVBAsMJExFUEwgSW5mb3JtYXRpb24gVGVjaG5vbG9naWVzIEFnZW5jeTF9MHsGA1UECgx0TWluaXN0cnkgb2YgSW50ZXJuYWxseSBEaXNwbGFjZWQgUGVyc29ucyBGcm9tIHRoZSBPY2N1cGllZCBUZXJyaXRvcmllcywgTGFib3VyLCBIZWFsdGggYW5kIFNvY2lhbCBBZmZhaXJzIG9mIEdlb3JnaWExCzAJBgNVBAYTAkdFMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE/vzxQ5c26RPWVgse0TzrctJnlpvrub8ljUSaOtJ+9zT6gI7hQMe7RYiGgz01/QOJm9gr7x7ylmteCisXAUc6taOBzzCBzDAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFGdNMng/by4nCNGrYeB79TXd3c2wMDAGA1UdJQQpMCcGCysGAQQBjjePZQEDBgsrBgEEAY43j2UBAQYLKwYBBAGON49lAQIwOgYDVR0fBDMwMTAvoC2gK4YpaHR0cDovL2NybC5jcmEuZ2UvZGdjY291bnRyeXNpZ25pbmdjYS5jcmwwHQYDVR0OBBYEFDdkaNbzToVtz80nFgSrifjx3w/3MA4GA1UdDwEB/wQEAwIHgDAKBggqhkjOPQQDAgNJADBGAiEAkU5/IoKuWcuC/EvOTj/OxZiEihOQzq8TbmL0qdRmesQCIQDxpmpCk5Ij26AhCdxfW9RKYAn83pEuZLdglPtzPPJGcg==\n-----END CERTIFICATE-----"
     }
   },
   "SmartHealthCards": {
@@ -31449,6 +31464,27 @@
         "x": "xuMliF6-Fg2z9UArySyujpwaPJjW3CaDP0LnSejz9xM",
         "y": "Ivzr29WCUekUKbWa_02aFsJax9ElsYzlchYzgVgKqqU",
         "kid": "b-Qi4HoCM8n_zR_lUJwnfqaYhsO5OptvQqwS5d74CZs"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://healthcardcert.lawallet.com#9UUNq1iGOg5gdVIhcaXd4WzTKhlj7HdmtzUJYIeSEaQ": {
+      "displayName": {
+        "en": "State of Louisiana"
+      },
+      "displayURL": "https://lawallet.com/covid-19/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "9UUNq1iGOg5gdVIhcaXd4WzTKhlj7HdmtzUJYIeSEaQ",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "SWvgsg3Ql_OdXgTl8ZfvKXm6hu6jZH0jes9dYLTmLGI",
+        "y": "YIiE4ghb25GnFW2y01qBkSyukoTtpFhM0lNSbpZF1hM"
       },
       "credentialType": [
         "https://smarthealth.cards#immunization"
