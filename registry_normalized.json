@@ -15353,6 +15353,21 @@
       "validFromDT": "2023-05-12T00:00:00.000Z",
       "validUntilDT": "2025-05-12T23:59:59.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAELfO+EinEAoadfHd+Lsag9vY7F6dWVP2v0tbIyWEsqFBwphTgzmzRyC6IQk8RoFwDdTu8QCo+QByOrjt2V6Eqag=="
+    },
+    "AP+S5kgjYKY=": {
+      "displayName": {
+        "en": "Gov of Portugal"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-04-14T11:36:23.000Z",
+      "validUntilDT": "2025-04-13T11:36:22.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEaP9wEfue2wVlnQXFtPDFHlAo4ERmR/Z2H1tZi3El2xQWZA2S5iGHwebNsuNI0sJ4aGW5bdeDaBOTgGUOgTyMFg=="
     }
   },
   "SHC": {
