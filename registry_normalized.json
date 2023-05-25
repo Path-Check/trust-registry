@@ -15368,6 +15368,51 @@
       "validFromDT": "2023-04-14T11:36:23.000Z",
       "validUntilDT": "2025-04-13T11:36:22.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEaP9wEfue2wVlnQXFtPDFHlAo4ERmR/Z2H1tZi3El2xQWZA2S5iGHwebNsuNI0sJ4aGW5bdeDaBOTgGUOgTyMFg=="
+    },
+    "ya/lxjKQAy4=": {
+      "displayName": {
+        "en": "Gov of Singapore"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-05-25T03:40:47.000Z",
+      "validUntilDT": "2025-05-24T03:40:47.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAENTvzxKfcjZ2fIiQhOEiIqY1QDTT43ISiUNbfT9JrmK9/e9bFm+c7vClIkd2ND4yx0S1xHynJC8WKPyQWvxNaaA=="
+    },
+    "sLI/P/ogXPg=": {
+      "displayName": {
+        "en": "Gov of Monaco"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-05-24T07:48:19.000Z",
+      "validUntilDT": "2024-11-22T07:48:19.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEBQXjHeqCg7x3jwsIjd/id8dZQSE0tGaQYMcwcIRViVwssJvdALD8v9jptvjkhhrgPISQnYYh/Rli/9eMAywfyA=="
+    },
+    "kSc7+0QCSDw=": {
+      "displayName": {
+        "en": "Gov of Czech Republic"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-04-26T17:27:41.000Z",
+      "validUntilDT": "2025-04-25T17:27:41.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE3pTcvb/PYaNrhbexWmkgIP/CPkr7bF8xKoTrBcjRu+li/RM4YoNPrLpDLTjGpuuv6Mm7QzeaFBWYNKfOrg9ZYw=="
     }
   },
   "SHC": {
