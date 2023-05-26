@@ -15413,6 +15413,21 @@
       "validFromDT": "2023-04-26T17:27:41.000Z",
       "validUntilDT": "2025-04-25T17:27:41.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE3pTcvb/PYaNrhbexWmkgIP/CPkr7bF8xKoTrBcjRu+li/RM4YoNPrLpDLTjGpuuv6Mm7QzeaFBWYNKfOrg9ZYw=="
+    },
+    "H5vPbJsm4g8=": {
+      "displayName": {
+        "en": "Gov of Greece"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-05-24T12:30:37.000Z",
+      "validUntilDT": "2025-05-23T12:30:37.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEL7wDPdmJP1daIrNucS/88VdYBgOuVTBvJFJhXQEAigtjAo4X6s9Mr5kZeEAn4CD8xjMipqwG6Cxb8t+vZ4Q2Ow=="
     }
   },
   "SHC": {
