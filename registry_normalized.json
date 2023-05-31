@@ -15428,6 +15428,21 @@
       "validFromDT": "2023-05-24T12:30:37.000Z",
       "validUntilDT": "2025-05-23T12:30:37.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEL7wDPdmJP1daIrNucS/88VdYBgOuVTBvJFJhXQEAigtjAo4X6s9Mr5kZeEAn4CD8xjMipqwG6Cxb8t+vZ4Q2Ow=="
+    },
+    "Ad1F5v1W2j4=": {
+      "displayName": {
+        "en": "Gov of Norway"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-05-30T12:14:34.000Z",
+      "validUntilDT": "2025-05-30T12:24:34.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE22eB/zMSNdZQJ3h91HsAO7Bw1V/h3G3YYY+kbjhq6OE7WcGW2sbr8auNUOa7nQh+A16OdJlHoGH1MC7b6xR+4A=="
     }
   },
   "SHC": {
