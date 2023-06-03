@@ -15471,6 +15471,21 @@
       "validFromDT": "2023-06-01T10:39:00.000Z",
       "validUntilDT": "2023-12-01T11:39:00.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEpxBU2GPzUvIZ1G6IfQUMJ67f7sGVH2JGxADPVjVdsQEU9QwBwm4Qw2UVxM60ifOTgkRHwosshUWOwyzkwsp6Zg=="
+    },
+    "xJRTrq1SpL4=": {
+      "displayName": {
+        "en": "Gov of Austria"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-03-27T08:51:36.000Z",
+      "validUntilDT": "2025-03-27T08:51:36.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAER6TH9dbsy91D348QgR79y/ZewRQ/fAkQwyqxrj2PNkU8iBvUuRI4nIN6Y1vyIIoRoK18p9gdnMFJpEXexf3z1g=="
     }
   },
   "SHC": {
