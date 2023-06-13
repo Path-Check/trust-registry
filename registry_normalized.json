@@ -6322,7 +6322,7 @@
         "en": "Gov of Sweden"
       },
       "entityType": "issuer",
-      "status": "current",
+      "status": "terminated",
       "validFromDT": "2021-06-21T06:07:31.000Z",
       "validUntilDT": "2023-06-21T06:27:31.000Z",
       "credentialType": [
@@ -7471,7 +7471,7 @@
         "en": "Gov of Sweden"
       },
       "entityType": "issuer",
-      "status": "current",
+      "status": "terminated",
       "credentialType": [
         "t",
         "v",
@@ -12731,7 +12731,7 @@
         "en": "Gov of Sweden"
       },
       "entityType": "issuer",
-      "status": "current",
+      "status": "terminated",
       "credentialType": [
         "t",
         "v",
@@ -15486,6 +15486,125 @@
       "validFromDT": "2023-03-27T08:51:36.000Z",
       "validUntilDT": "2025-03-27T08:51:36.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAER6TH9dbsy91D348QgR79y/ZewRQ/fAkQwyqxrj2PNkU8iBvUuRI4nIN6Y1vyIIoRoK18p9gdnMFJpEXexf3z1g=="
+    },
+    "2rlddViK8UI=": {
+      "displayName": {
+        "en": "Gov of New Zealand"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-05-24T01:03:28.000Z",
+      "validUntilDT": "2033-09-18T01:03:27.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEwv6E2rHSEBYcZvY/WILfmqSmFi4HWbflRZLJZtNpm9v6WUrxQjEvF5OoZMZKyE8wN4C92Q2ht6DnGehi15l1zg=="
+    },
+    "8Fi1J0yeTL8=": {
+      "displayName": {
+        "en": "Gov of New Zealand"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-05-24T00:49:19.000Z",
+      "validUntilDT": "2033-09-18T00:49:18.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEBr7SLCxhOouYDxFYHBmeyHWsQA3zAEGjNdFM/q/5wMQunb79WUbKFFJKM3TU5PruHs9vBaPhG4+AJYo31xPbzA=="
+    },
+    "Xs6h36a/yLo=": {
+      "displayName": {
+        "en": "Gov of New Zealand"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-05-24T01:33:13.000Z",
+      "validUntilDT": "2033-09-18T01:33:12.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEy3zthXyO/RLfBw/ggFua/0rdTtpeDG9hq97Ujz0SLeunfyz7kLK8L9+1RklIVCndvZMvGSUkG342ueNgBFZjkw=="
+    },
+    "lm9P2vlExI4=": {
+      "displayName": {
+        "en": "Gov of New Zealand"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-05-24T01:28:52.000Z",
+      "validUntilDT": "2033-09-18T01:28:51.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEIun4PyaFyPBbZ/duaqwdcWb+Hf3+26NH4ASHLrU/DF73zb/eAh+iub/qHK+Opvv9aPdxkKTL26mbRxFwMEdOdw=="
+    },
+    "n10wECU3YC0=": {
+      "displayName": {
+        "en": "Gov of New Zealand"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-05-24T00:58:14.000Z",
+      "validUntilDT": "2033-09-18T00:58:13.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEE5/08F92IxSi07+gX68BKOWplzm1UQi4QlLrsXl5lRvdIO1LdXY2PMtrXQYigd8WaJi9t9BEAivrRNk6itWBZA=="
+    },
+    "sSD9MuSWwRA=": {
+      "displayName": {
+        "en": "Gov of New Zealand"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-05-24T01:08:55.000Z",
+      "validUntilDT": "2033-09-18T01:08:54.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE26Kr8raAYUirfZ1eHuVIo+6dAAEEFEwsHDizc9sq58F0SA55R68N+yjCpyTgIlFcMF35Y5WTrpXau/RTsPMuCQ=="
+    },
+    "xbgEaPHREuY=": {
+      "displayName": {
+        "en": "Gov of New Zealand"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-05-24T01:18:58.000Z",
+      "validUntilDT": "2033-09-18T01:18:57.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEXRmq3N1CcmWVr7KB0S746HVtW6ifQgxfkVdX4kG1btD/apeF5K4t7waNgcDgYEkfp4G8qqe0q4IHLOf4mnzYFQ=="
+    },
+    "J0kKbKR7vZw=": {
+      "displayName": {
+        "en": "Gov of Sweden"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-06-12T05:53:26.000Z",
+      "validUntilDT": "2025-06-12T06:13:26.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEksqHj//kcWUWa7WhXNZx0P8MqiW9rJomEzXJ1Z2M9uye1PWSYMubpoRtvfeW6ixt7uBBDOg3AqTHxJqqkj1HXw=="
     }
   },
   "SHC": {
