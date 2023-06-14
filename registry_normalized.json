@@ -15597,7 +15597,7 @@
         "en": "Gov of Sweden"
       },
       "entityType": "issuer",
-      "status": "current",
+      "status": "terminated",
       "credentialType": [
         "v",
         "r"
@@ -15605,6 +15605,126 @@
       "validFromDT": "2023-06-12T05:53:26.000Z",
       "validUntilDT": "2025-06-12T06:13:26.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEksqHj//kcWUWa7WhXNZx0P8MqiW9rJomEzXJ1Z2M9uye1PWSYMubpoRtvfeW6ixt7uBBDOg3AqTHxJqqkj1HXw=="
+    },
+    "3FRbob2lWPg=": {
+      "displayName": {
+        "en": "Gov of France"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-06-14T22:00:00.000Z",
+      "validUntilDT": "2025-06-14T22:00:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEkC6LZiJYBsZWikuF/8SEb3Nj/EKTdXBE+wafJHHLq2Eg+62kSklTY0D+WWM9mTPDn206f5KWLQ3PN21316UMTQ=="
+    },
+    "4eDfthJK3rQ=": {
+      "displayName": {
+        "en": "Gov of France"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-09-14T22:00:00.000Z",
+      "validUntilDT": "2025-09-14T22:00:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEWQ61P0SUx/ESByhI4PLKbmQAeN7Dr7XmGbpSk9AUe1WtNbcylo7s3jHj8VErBS9VhfRf7A13mO2zeXR99BLNYw=="
+    },
+    "BaOAtVE/Bk4=": {
+      "displayName": {
+        "en": "Gov of France"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-10-14T22:00:00.000Z",
+      "validUntilDT": "2025-10-14T22:00:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEZ3RO9lEHN/S3h8drHwdaCCtY9khAouUEicCHZXfzM4/jgzAv+a6irAKdGJRsGKku4wYOXKvGl2HCcd1Tw6CJ8w=="
+    },
+    "b4oR8uJd00A=": {
+      "displayName": {
+        "en": "Gov of France"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-06-14T22:00:00.000Z",
+      "validUntilDT": "2025-06-14T22:00:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEc2JfEoN6apnjOId/ZpsFNnFQ4Ww2WGq/Ft8LsbVZq4bD02Rer7C67/qCO0fufJzckZdTiLz9qNoJjCaAQSKttA=="
+    },
+    "hoYOqPOA2fk=": {
+      "displayName": {
+        "en": "Gov of France"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-11-14T23:00:00.000Z",
+      "validUntilDT": "2025-11-14T23:00:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEAhL8PQX9juROazzTEdnM+siTzVGFO6eunP207RZ8VzCAIpG2c64yxrHOC9+6P9tmUIEGs+rAzIT3DNe6dU7v7Q=="
+    },
+    "oWRDuh1EuNs=": {
+      "displayName": {
+        "en": "Gov of France"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-07-14T22:00:00.000Z",
+      "validUntilDT": "2025-07-14T22:00:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEuWK/mq1+dlGAyZW5lATt1y7rya2IzS0BO8fHDQVafNRnGZpc+IrFFO9ULKhYK1gu5KVmQn5MPonSd+2Ld8CWSA=="
+    },
+    "ufPWtUtCTos=": {
+      "displayName": {
+        "en": "Gov of France"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-08-14T22:00:00.000Z",
+      "validUntilDT": "2025-08-14T22:00:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEywD9UBT2p8pxGOCiDQUSEDs98RGR4LReNvLS+72UbChoGdkQEnQd4zehGLRpZYFxLWqx6SAjS7xTLuUHNsq2yQ=="
+    },
+    "DwpbrRj1i6E=": {
+      "displayName": {
+        "en": "Gov of Hungary"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-06-13T09:27:46.000Z",
+      "validUntilDT": "2025-06-12T09:27:46.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE64UwV6V9oxx8C981Vy0tRAjHw2dr6ncSYKhB2coRu+X3RnEWE4e5hs5W60K9GmJUE3sdUijdEBdFRlb9eQRtQQ=="
     }
   },
   "SHC": {
