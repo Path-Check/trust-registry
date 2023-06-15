@@ -15725,6 +15725,21 @@
       "validFromDT": "2023-06-13T09:27:46.000Z",
       "validUntilDT": "2025-06-12T09:27:46.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE64UwV6V9oxx8C981Vy0tRAjHw2dr6ncSYKhB2coRu+X3RnEWE4e5hs5W60K9GmJUE3sdUijdEBdFRlb9eQRtQQ=="
+    },
+    "qqpAg5MBuOw=": {
+      "displayName": {
+        "en": "Gov of Denmark"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-06-08T06:55:43.000Z",
+      "validUntilDT": "2025-06-08T06:55:43.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE3B13BiJQAz3msiM6Lsaj8na3uYks3kP/VwyJUGgjH+6OmgnK6i4D9PPVB0CpkXrun+XwI5moL8dE9+Zrajk8Sw=="
     }
   },
   "SHC": {
