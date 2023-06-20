@@ -15740,6 +15740,21 @@
       "validFromDT": "2023-06-08T06:55:43.000Z",
       "validUntilDT": "2025-06-08T06:55:43.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE3B13BiJQAz3msiM6Lsaj8na3uYks3kP/VwyJUGgjH+6OmgnK6i4D9PPVB0CpkXrun+XwI5moL8dE9+Zrajk8Sw=="
+    },
+    "CrVPng8jV2w=": {
+      "displayName": {
+        "en": "Gov of Hong Kong"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-06-16T08:23:23.000Z",
+      "validUntilDT": "2025-06-15T08:23:23.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE1wzN4meJ8zHQDIbELrB8dGQZMZSiKdeLUrPZ+JNzb2chCe9h1twETp0DaYVlk3y5iStnk5aubhhKkeBOyVQHqA=="
     }
   },
   "SHC": {
