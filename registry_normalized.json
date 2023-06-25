@@ -15785,6 +15785,21 @@
       "validFromDT": "2023-06-22T13:37:05.000Z",
       "validUntilDT": "2028-06-20T13:37:05.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE2b3kFkanPTipBqNW4PObt4Anrfi1gFOiTUrEFPvLVOyLPD9gtOGqi2pzfMhIw/CVKJPLlSI0hLzm/n/sekubug=="
+    },
+    "vZOflBOZgTo=": {
+      "displayName": {
+        "en": "Gov of Singapore"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-06-25T03:12:13.000Z",
+      "validUntilDT": "2025-06-24T03:12:13.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAESk7uah6VWFrkyS/f3uHIE/A2tAuvaayT2275/z3SlV97wE1CGsL9izX4geOP/v7YuOhnr57v4HV3jIi0EzekWw=="
     }
   },
   "SHC": {
