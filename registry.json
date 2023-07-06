@@ -32123,6 +32123,27 @@
       "credentialType": [
         "https://smarthealth.cards#immunization"
       ]
+    },
+    "https://api.kroger.com/healthwellness/v1/smartcard#6D-6sCTvV2W7km7l-QOr-y5nj_me_ftIpclsxHBmvDE": {
+      "displayName": {
+        "en": "Kroger Health"
+      },
+      "displayURL": "https://www.kroger.com/health/pharmacy/covid-vaccine-testing#COVIDVaccineFAQs",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "use": "sig",
+        "crv": "P-256",
+        "kid": "6D-6sCTvV2W7km7l-QOr-y5nj_me_ftIpclsxHBmvDE",
+        "x": "u7c6KC_eACMFzBBtEKyZEPrQGS3-xnk-ojkcDygqO4k",
+        "y": "jR2mnsbtShbLEaB0YIVZspQUA4rUdH0Dx8SU0ykYlPQ",
+        "alg": "ES256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
     }
   }
 }
