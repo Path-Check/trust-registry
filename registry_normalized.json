@@ -15871,6 +15871,36 @@
       "validFromDT": "2023-07-18T17:53:40.000Z",
       "validUntilDT": "2025-07-17T17:53:39.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEq0VJacu0onO8FthRP12ZWl/38gvH4YTeIUN8qABhxs8U5PcXamIdzb5QB6a2lIiJqUo9VvEbozwzp0EHehWR3Q=="
+    },
+    "qKPwgbdM4Ps=": {
+      "displayName": {
+        "en": "Gov of Singapore"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-07-25T02:46:30.000Z",
+      "validUntilDT": "2025-07-24T02:46:30.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEpFpQnVyxeN7miVipa61slb/YnLnGe3InRTiMzcfCLNX6nesCAxSmRP4/B+Fs0uA+j06sRo1pTkPs3DxiCvrvAA=="
+    },
+    "YUyRblWhrrM=": {
+      "displayName": {
+        "en": "Gov of Turkey"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-07-24T14:21:17.000Z",
+      "validUntilDT": "2025-07-23T14:21:17.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEWxpXVH1mK+wBSCm3dp55MSnNgQa+kR3N0Zefk17t1ISeFw5TFevtCOedFbrWKpVf5CWtbwuxPfF5qmW6nNhEZg=="
     }
   },
   "SHC": {
