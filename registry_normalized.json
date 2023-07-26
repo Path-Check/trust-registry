@@ -25913,6 +25913,18 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEu7c6KC/eACMFzBBtEKyZEPrQGS3+xnk+ojkcDygqO4mNHaaexu1KFssRoHRghVmylBQDitR0fQPHxJTTKRiU9A=="
+    },
+    "https://api.cvshealth.com/public#v-2hdxy8ys47SFsQT4wqSqrN88fw2M5I9SHzTxHs0rA": {
+      "displayName": {
+        "en": "CVS Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2TjnI7A9EZMBUO24Q2P3G5G69EI3w5eaejFU8/K3z5swYNJcUxHDSyjLR3D/J+i/V9JXQ8WCgE+D2mWTWX0D0mBSwQ0z0ELr2PoGDPtkR2UGUg6G19osCGsP4PWiduCPHxvWONRZLKsyZ6r96hzZ1JMH5eaeGzhk9gID1IYcKKaV5J2LiQQTjBSMy+WMcsGWfxB76Gl8JULZ7cHUmMcOSS4fVVwQLbogb4N+OlmD4+2jnBS4tAv6QqstSbFsgqAeN1be6Gr0K+RLdnB50YrnGUL+XD3IK4gxiT6jojUa15qdddi8YxIzDbpId93i7B13d9D6b2F4MGGC87nM4i4OaQIDAQAB"
     }
   }
 }
