@@ -15901,6 +15901,19 @@
       "validFromDT": "2023-07-24T14:21:17.000Z",
       "validUntilDT": "2025-07-23T14:21:17.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEWxpXVH1mK+wBSCm3dp55MSnNgQa+kR3N0Zefk17t1ISeFw5TFevtCOedFbrWKpVf5CWtbwuxPfF5qmW6nNhEZg=="
+    },
+    "V1RaVW+otvQ=": {
+      "displayName": {
+        "en": "Gov of Lebanon"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "v"
+      ],
+      "validFromDT": "2023-08-01T10:39:00.000Z",
+      "validUntilDT": "2024-02-01T11:39:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE1mf6qLdVCWX0TzAjHsFW9iJRw9LUYI3iHfw2FJVVxf+aNLFFoYhumFA4KMOPaOa1ibZk7DMTfoRreFS1+gtCrQ=="
     }
   },
   "SHC": {
@@ -25925,6 +25938,30 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2TjnI7A9EZMBUO24Q2P3G5G69EI3w5eaejFU8/K3z5swYNJcUxHDSyjLR3D/J+i/V9JXQ8WCgE+D2mWTWX0D0mBSwQ0z0ELr2PoGDPtkR2UGUg6G19osCGsP4PWiduCPHxvWONRZLKsyZ6r96hzZ1JMH5eaeGzhk9gID1IYcKKaV5J2LiQQTjBSMy+WMcsGWfxB76Gl8JULZ7cHUmMcOSS4fVVwQLbogb4N+OlmD4+2jnBS4tAv6QqstSbFsgqAeN1be6Gr0K+RLdnB50YrnGUL+XD3IK4gxiT6jojUa15qdddi8YxIzDbpId93i7B13d9D6b2F4MGGC87nM4i4OaQIDAQAB"
+    },
+    "https://api.cvshealth.com/public#aea1bb72-98a1-40d6-a39b-bf7a7e49e6bb": {
+      "displayName": {
+        "en": "CVS Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmWLKwoPHIj5i9cuibGiGfRw1uj9yn5LQF0TmeaZ+cduZ2OWCcpWgY4KwgkQ0gqR8AwtTWRUlqvfJwPXkOnbcqmxsPBZTU+NRZ9NAXUi3F+9M5sHEbXg12DPJOvHH7UPBO2LFbd/z/9il42wfLhKHWvcKNuF2ij5HV3tXwnf6ddypUyEoLeIhO2Da6QWYJVT4JXtPEd48FZuc6dnExPst6I/0/tZ5qrMibFZaC3ZO963s4FNngjXfJRh9Bfy+yfrNd7Bn77HbTTONTZUvVL0eDNZn8cn3IdxtJwrMgHHedvVbYL5azEKVSMivip/z1YpY9f8OaKmwdBSulZgzFsBBpwIDAQAB"
+    },
+    "https://api.cvshealth.com/public#85a29fcf-7189-4b0a-bb58-64e1bcc47d56": {
+      "displayName": {
+        "en": "CVS Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA49DyH0SrJyhakPSLQcC0mpCcVvjo6OWjRcJekA2Gz6V9dRSggWAiVdeeNBzSd6Wys/R64zO80j7cpAeT4g3IQvJhkwGEQUIB3ynaU8Y0Jml1+DR5ZDSmQQnkg1tUY2ZTRi6AHR86JwKz1Yr2YZV5kaRVFOA5gyJyx1lRDa7uvlIO9GuAXP1ZivcfX0M6FvY1EYlYem3NPPEtAWcHA/xUTxbo3zU2o6UId03BPg8CMuqo1NxBAn1AN5L7go62VWy91jq9S3Dw7rdm8oJKALZiZtZIUY+cGV7PaUHUa+BmPQDwYD4ZRPmmaKMzVEa20akDFvFl7Mdrs2jwaO33SiOBKQIDAQAB"
     }
   }
 }

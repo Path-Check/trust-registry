@@ -15903,6 +15903,19 @@
       "validFromDT": "2023-07-24T14:21:17.000Z",
       "validUntilDT": "2025-07-23T14:21:17.000Z",
       "didDocument": "-----BEGIN CERTIFICATE-----\nMIIDYjCCAwigAwIBAgIJAKh1+Khc/oXxMAoGCCqGSM49BAMCMIHSMQswCQYDVQQGEwJUUjEPMA0GA1UECAwGQU5LQVJBMRMwEQYDVQQHDArDg8KHQU5LQVlBMSQwIgYDVQQKDBtULkMuIFNBw4TCnkxJSyBCQUtBTkxJw4TCnkkxTjBMBgNVBAsMRVNBw4TCnkxJSyBCw4TCsExHw4TCsCBTw4TCsFNURU1MRVLDhMKwIEdFTkVMIE3Dg8KcRMODwpxSTMODwpzDhMKew4PCnDEnMCUGA1UEAwweaGVhbHRocGFzc2d3cHJvZC5zYWdsaWsuZ292LnRyMB4XDTIzMDcyNDE0MjExN1oXDTI1MDcyMzE0MjExN1owgc4xCzAJBgNVBAYTAlRSMQ8wDQYDVQQIDAZBTktBUkExEzARBgNVBAcMCsODwodBTktBWUExJDAiBgNVBAoMG1QuQy4gU0HDhMKeTElLIEJBS0FOTEnDhMKeSTFOMEwGA1UECwxFU0HDhMKeTElLIELDhMKwTEfDhMKwIFPDhMKwU1RFTUxFUsOEwrAgR0VORUwgTcODwpxEw4PCnFJMw4PCnMOEwp7Dg8KcMSMwIQYDVQQDDBpoZWFsdGhwYXNzZ3cuc2FnbGlrLmdvdi50cjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABFsaV1R9ZivsAUgpt3aeeTEpzYEGvpEdzdGXn5Ne7dSEnhcOUxXr7QjnnRW61iqVX+QlrW8LsT3xeaplupzYRGajgcgwgcUwDgYDVR0PAQH/BAQDAgeAMB0GA1UdDgQWBBSGtWHWmFaFwOflyrQa28fv6kY71zAfBgNVHSMEGDAWgBT23p1DxGdSmBgmS8iuP58wiVc/mzA+BgNVHR8ENzA1MDOgMaAvhi1odHRwOi8vY3JsLmV4YW1wbGVkb21haW4uZXhhbXBsZS9DUkwvQ1NDQS5jcmwwMwYDVR0lBCwwKgYMKwYBBAEAjjePZQEBBgwrBgEEAQCON49lAQIGDCsGAQQBAI43j2UBAzAKBggqhkjOPQQDAgNIADBFAiEA+7hsIqMS1g6GOf0hhWmZ3orVgTSEyLVlNC5LAZ1Q7+QCIEwNop5bimNGAS3po6S+EMKSWF+vAIbyq81kOCA0sF4p\n-----END CERTIFICATE-----"
+    },
+    "V1RaVW+otvQ=": {
+      "displayName": {
+        "en": "Gov of Lebanon"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "v"
+      ],
+      "validFromDT": "2023-08-01T10:39:00.000Z",
+      "validUntilDT": "2024-02-01T11:39:00.000Z",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIICgTCCAiegAwIBAgIIb/hl/oKgzvUwCgYIKoZIzj0EAwIwgYsxCzAJBgNVBAYTAkxCMQ0wCwYDVQQIDARKbmFoMQ8wDQYDVQQHDAZCZWlydXQxKTAnBgNVBAoMIE1pbmlzdHJ5IG9mIFB1YmxpYyBIZWFsdGggKE1PUEgpMRgwFgYDVQQLDA9TaXJlbiBBbmFseXRpY3MxFzAVBgNVBAMMDkNTQ0FfREdDX0xCXzAxMB4XDTIzMDgwMTEwMzkwMFoXDTI0MDIwMTExMzkwMFowdDEYMBYGA1UECxMPU2lyZW4gQW5hbHl0aWNzMSkwJwYDVQQKEyBNaW5pc3RyeSBvZiBQdWJsaWMgSGVhbHRoIChNT1BIKTEPMA0GA1UECBMGQmVpcnV0MQ8wDQYDVQQHEwZCZWlydXQxCzAJBgNVBAYTAkxCMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE1mf6qLdVCWX0TzAjHsFW9iJRw9LUYI3iHfw2FJVVxf+aNLFFoYhumFA4KMOPaOa1ibZk7DMTfoRreFS1+gtCraOBijCBhzAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0OBBYEFF9r7I8apXY60LhWE0a2Q1f7btjZMB8GA1UdIwQYMBaAFPctwjOLZw1/zCvYv1/S87Fav7oqMB0GA1UdHwQWMBQwEqAQoA6GDGh0dHA6Ly9lbXB0eTAWBgNVHSUEDzANBgsrBgEEAY43j2UBAjAKBggqhkjOPQQDAgNIADBFAiA1sAztVczV1adKSr/LmQlTvFQafOcDPLpX3msFYp099AIhAN5hc+wo5/eBcJqiTbJy0Z2ro1o+469gCTGigBXlnL/a\n-----END CERTIFICATE-----"
     }
   },
   "SmartHealthCards": {
@@ -32204,6 +32217,41 @@
         "sig": "sig",
         "kid": "v-2hdxy8ys47SFsQT4wqSqrN88fw2M5I9SHzTxHs0rA",
         "n": "2TjnI7A9EZMBUO24Q2P3G5G69EI3w5eaejFU8_K3z5swYNJcUxHDSyjLR3D_J-i_V9JXQ8WCgE-D2mWTWX0D0mBSwQ0z0ELr2PoGDPtkR2UGUg6G19osCGsP4PWiduCPHxvWONRZLKsyZ6r96hzZ1JMH5eaeGzhk9gID1IYcKKaV5J2LiQQTjBSMy-WMcsGWfxB76Gl8JULZ7cHUmMcOSS4fVVwQLbogb4N-OlmD4-2jnBS4tAv6QqstSbFsgqAeN1be6Gr0K-RLdnB50YrnGUL-XD3IK4gxiT6jojUa15qdddi8YxIzDbpId93i7B13d9D6b2F4MGGC87nM4i4OaQ"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://api.cvshealth.com/public#aea1bb72-98a1-40d6-a39b-bf7a7e49e6bb": {
+      "displayName": {
+        "en": "CVS Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "RSA",
+        "e": "AQAB",
+        "use": "sig",
+        "kid": "aea1bb72-98a1-40d6-a39b-bf7a7e49e6bb",
+        "n": "mWLKwoPHIj5i9cuibGiGfRw1uj9yn5LQF0TmeaZ-cduZ2OWCcpWgY4KwgkQ0gqR8AwtTWRUlqvfJwPXkOnbcqmxsPBZTU-NRZ9NAXUi3F-9M5sHEbXg12DPJOvHH7UPBO2LFbd_z_9il42wfLhKHWvcKNuF2ij5HV3tXwnf6ddypUyEoLeIhO2Da6QWYJVT4JXtPEd48FZuc6dnExPst6I_0_tZ5qrMibFZaC3ZO963s4FNngjXfJRh9Bfy-yfrNd7Bn77HbTTONTZUvVL0eDNZn8cn3IdxtJwrMgHHedvVbYL5azEKVSMivip_z1YpY9f8OaKmwdBSulZgzFsBBpw"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://api.cvshealth.com/public#85a29fcf-7189-4b0a-bb58-64e1bcc47d56": {
+      "displayName": {
+        "en": "CVS Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "RSA",
+        "e": "AQAB",
+        "kid": "85a29fcf-7189-4b0a-bb58-64e1bcc47d56",
+        "n": "49DyH0SrJyhakPSLQcC0mpCcVvjo6OWjRcJekA2Gz6V9dRSggWAiVdeeNBzSd6Wys_R64zO80j7cpAeT4g3IQvJhkwGEQUIB3ynaU8Y0Jml1-DR5ZDSmQQnkg1tUY2ZTRi6AHR86JwKz1Yr2YZV5kaRVFOA5gyJyx1lRDa7uvlIO9GuAXP1ZivcfX0M6FvY1EYlYem3NPPEtAWcHA_xUTxbo3zU2o6UId03BPg8CMuqo1NxBAn1AN5L7go62VWy91jq9S3Dw7rdm8oJKALZiZtZIUY-cGV7PaUHUa-BmPQDwYD4ZRPmmaKMzVEa20akDFvFl7Mdrs2jwaO33SiOBKQ"
       },
       "credentialType": [
         "https://smarthealth.cards#immunization"
