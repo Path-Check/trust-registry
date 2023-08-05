@@ -15916,6 +15916,21 @@
       "validFromDT": "2023-08-01T10:39:00.000Z",
       "validUntilDT": "2024-02-01T11:39:00.000Z",
       "didDocument": "-----BEGIN CERTIFICATE-----\nMIICgTCCAiegAwIBAgIIb/hl/oKgzvUwCgYIKoZIzj0EAwIwgYsxCzAJBgNVBAYTAkxCMQ0wCwYDVQQIDARKbmFoMQ8wDQYDVQQHDAZCZWlydXQxKTAnBgNVBAoMIE1pbmlzdHJ5IG9mIFB1YmxpYyBIZWFsdGggKE1PUEgpMRgwFgYDVQQLDA9TaXJlbiBBbmFseXRpY3MxFzAVBgNVBAMMDkNTQ0FfREdDX0xCXzAxMB4XDTIzMDgwMTEwMzkwMFoXDTI0MDIwMTExMzkwMFowdDEYMBYGA1UECxMPU2lyZW4gQW5hbHl0aWNzMSkwJwYDVQQKEyBNaW5pc3RyeSBvZiBQdWJsaWMgSGVhbHRoIChNT1BIKTEPMA0GA1UECBMGQmVpcnV0MQ8wDQYDVQQHEwZCZWlydXQxCzAJBgNVBAYTAkxCMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE1mf6qLdVCWX0TzAjHsFW9iJRw9LUYI3iHfw2FJVVxf+aNLFFoYhumFA4KMOPaOa1ibZk7DMTfoRreFS1+gtCraOBijCBhzAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0OBBYEFF9r7I8apXY60LhWE0a2Q1f7btjZMB8GA1UdIwQYMBaAFPctwjOLZw1/zCvYv1/S87Fav7oqMB0GA1UdHwQWMBQwEqAQoA6GDGh0dHA6Ly9lbXB0eTAWBgNVHSUEDzANBgsrBgEEAY43j2UBAjAKBggqhkjOPQQDAgNIADBFAiA1sAztVczV1adKSr/LmQlTvFQafOcDPLpX3msFYp099AIhAN5hc+wo5/eBcJqiTbJy0Z2ro1o+469gCTGigBXlnL/a\n-----END CERTIFICATE-----"
+    },
+    "KEx/xo7UBFU=": {
+      "displayName": {
+        "en": "Gov of Albania"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-07-26T16:45:21.000Z",
+      "validUntilDT": "2024-07-26T16:45:21.000Z",
+      "didDocument": "-----BEGIN CERTIFICATE-----\nMIIEUDCCAzigAwIBAgIMQwQonN9WYAtg8boWMA0GCSqGSIb3DQEBCwUAMEsxCzAJBgNVBAYTAkFMMQ0wCwYDVQQKEwROQUlTMS0wKwYDVQQDEyROQUlTIENsYXNzIDMgQ2VydGlmaWNhdGlvbiBBdXRob3JpdHkwHhcNMjMwNzI2MTY0NTIxWhcNMjQwNzI2MTY0NTIxWjCBlDELMAkGA1UEBhMCQUwxNzA1BgNVBAoMLk1pbmlzdHJpYSBlIFNoZW5kZXRlc2lzZSBkaGUgTWJyb2p0amVzIFNvY2lhbGUxEzARBgNVBAsMClByb2R1Y3Rpb24xNzA1BgNVBAMMLk1pbmlzdHJpYSBlIFNoZW5kZXRlc2lzZSBkaGUgTWJyb2p0amVzIFNvY2lhbGUwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASRYEwEuSKfLIimY6HXLeihLw1bysPV16UCJReo1NWQVu3kmrJdBFMc7DUP4+01XVoXcqhGcQyHBbky2wWTE6qoo4IBszCCAa8wZgYIKwYBBQUHAQEEWjBYMCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5ha3NoaS5nb3YuYWwwMAYIKwYBBQUHMAKGJGh0dHA6Ly9jZXJ0cy5ha3NoaS5nb3YuYWwvY2xhc3MzLmNydDAOBgNVHQ8BAf8EBAMCBsAwHwYDVR0jBBgwFoAUhyao+9srUZs50JjW9MYzVkdc2AUwHQYDVR0OBBYEFDYnIK2R51lRMaDPtGN1c0e4VksjMEsGA1UdIAREMEIwQAYMKwYBBAGCsWwKAQEDMDAwLgYIKwYBBQUHAgEWImh0dHA6Ly93d3cuYWtzaGkuZ292LmFsL3JlcG9zaXRvcnkwgacGA1UdHwSBnzCBnDCBmaCBlqCBk4YiaHR0cDovL2NybC5ha3NoaS5nb3YuYWwvY2xhc3MzLmNybIZtbGRhcDovL2xkYXAuYWtzaGkuZ292LmFsL0NOPU5BSVMgQ2xhc3MgMyBDZXJ0aWZpY2F0aW9uIEF1dGhvcml0eSxPPU5BSVMsQz1BTD9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0O2JpbmFyeTANBgkqhkiG9w0BAQsFAAOCAQEAPQrXr4FGterw8EeOQwQ0oOECu6cRe9E6PIaTXZhuonP4CH0//aHNI+DZlcvejEeiNBtHsi5m6MBcN0UiE3NI+POKOVhH4MpVVRoYcOJkowACs34e2KRP06DwXxe4Pq+rSOuUJBcbtZ9uf0NdOg0Io08x0m7REtcmOq3YY0pv1ikiqD5ZX7tZ+DH+YkUtLLm/B9kT8aHYQz5MsxnMTnCm27J4KGPU6H5EvpSKb/z2WeKgeiNUkcLq+HMXglSdv2/n7a26XSyowYsiYcczg4PTQU+hU1lBV+yckk3o6tksdtgKU96ftV6qwudHkAkjiPU6aFuDXrhl1mq3j93xaS8gWA==\n-----END CERTIFICATE-----"
     }
   },
   "SmartHealthCards": {
@@ -32252,6 +32267,27 @@
         "e": "AQAB",
         "kid": "85a29fcf-7189-4b0a-bb58-64e1bcc47d56",
         "n": "49DyH0SrJyhakPSLQcC0mpCcVvjo6OWjRcJekA2Gz6V9dRSggWAiVdeeNBzSd6Wys_R64zO80j7cpAeT4g3IQvJhkwGEQUIB3ynaU8Y0Jml1-DR5ZDSmQQnkg1tUY2ZTRi6AHR86JwKz1Yr2YZV5kaRVFOA5gyJyx1lRDa7uvlIO9GuAXP1ZivcfX0M6FvY1EYlYem3NPPEtAWcHA_xUTxbo3zU2o6UId03BPg8CMuqo1NxBAn1AN5L7go62VWy91jq9S3Dw7rdm8oJKALZiZtZIUY-cGV7PaUHUa-BmPQDwYD4ZRPmmaKMzVEa20akDFvFl7Mdrs2jwaO33SiOBKQ"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://immunize.nyc/shc/mvr#gNbWIX0XIlp8ucum_CkAdNeLqVvVuVmqYWUcYPE3m0A": {
+      "displayName": {
+        "en": "New York City Citywide Immunization Registry (CIR)"
+      },
+      "displayURL": "https://myvaccinerecord.cityofnewyork.us/prod/myrecord-react/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "gNbWIX0XIlp8ucum_CkAdNeLqVvVuVmqYWUcYPE3m0A",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "8QVQ5tOfhCjnRIF78J04EtiV27iWCeLjPBDBJRQGct8",
+        "y": "F2ZEDx2s6OsTUeW6M7-l8aEmrB0be43HXOfwpL1zVU0"
       },
       "credentialType": [
         "https://smarthealth.cards#immunization"
