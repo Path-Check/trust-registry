@@ -6467,7 +6467,7 @@
         "en": "Gov of Albania"
       },
       "entityType": "issuer",
-      "status": "current",
+      "status": "terminated",
       "validFromDT": "2021-09-09T12:54:27.000Z",
       "validUntilDT": "2022-09-09T12:54:27.000Z",
       "credentialType": [
@@ -6931,7 +6931,7 @@
         "en": "Gov of Albania"
       },
       "entityType": "issuer",
-      "status": "current",
+      "status": "terminated",
       "credentialType": [
         "t",
         "v",
@@ -11930,7 +11930,7 @@
         "en": "Gov of Albania"
       },
       "entityType": "issuer",
-      "status": "current",
+      "status": "terminated",
       "credentialType": [
         "t",
         "v",
@@ -13821,7 +13821,7 @@
         "en": "Gov of Albania"
       },
       "entityType": "issuer",
-      "status": "current",
+      "status": "terminated",
       "credentialType": [
         "t",
         "v",
