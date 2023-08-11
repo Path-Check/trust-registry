@@ -15944,6 +15944,21 @@
       "validFromDT": "2023-06-29T18:00:37.000Z",
       "validUntilDT": "2025-06-28T18:00:37.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAETPE5ItolrGzLQLPqYxOT+orVmYJusLDsPWLwrK+bbJKBBtXBsrD2Py/osWYr9LF5ffORpzxmBUQmzp7K4uPiIw=="
+    },
+    "z2hOvO8Lm98=": {
+      "displayName": {
+        "en": "Gov of Ireland"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-08-10T15:40:49.000Z",
+      "validUntilDT": "2025-08-09T15:40:49.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEhixh9swbeY/AfwzwotUgyip03z5tujwIAbUCHZktBIf5BRuzut2Age3kLy88LPflpZg1to495y2j+GDHNnbVjg=="
     }
   },
   "SHC": {
