@@ -26020,6 +26020,197 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE8QVQ5tOfhCjnRIF78J04EtiV27iWCeLjPBDBJRQGct8XZkQPHazo6xNR5bozv6XxoSasHRt7jcdc5/CkvXNVTQ=="
+    },
+    "https://smarthealthcard.iisregistry.net/delaware/issuer#W67NuzZplOkH4pLpgm7jz-sOI9Sav3zN1eK8oaml5KU": {
+      "displayName": {
+        "en": "Delaware Immunization Program"
+      },
+      "displayURL": "https://delvax.dhss.delaware.gov/delvax_public/Application/PublicPortal",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEgNyT6eKndU+kHe1ATNRxKKV7sr+ZxEb44LwAHtbiK5egJbjJvGuVILUeTSllYNm5EnWXl2QMRi1qJmkYvd2Q/g=="
+    },
+    "https://smarthealthcard.iisregistry.net/connecticut/issuer#L8Kii7MSeCRyF0t0SAnV_zqgR6i9g7D7dbbqvgwNtck": {
+      "displayName": {
+        "en": "CT Department of Public Health"
+      },
+      "displayURL": "https://portal.ct.gov/DPH/Immunizations/CT-WiZ-Access-My-Immunization-Record",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAESsabHrLka4RmDRWbI1oc+wgebDRWJEiBuGaOKmCTux3hCDar2UxBvllGQroE29jTjTqtxbr2vXTY3JL/o+LY3A=="
+    },
+    "https://smarthealthcard.iisregistry.net/nevada/issuer#tc3ffdtkNuTa1kqnSkoh_aBKdDiXLfnQAnmLVmRum3g": {
+      "displayName": {
+        "en": "State of Nevada"
+      },
+      "displayURL": "https://izrecord.nv.gov/public/Application/PublicPortal",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEGRxaxAucIeYhDXY2Yd+RVEr7oXYRtrJtbMnRdwtnuzsfjHnWVemAEpm23ZWSTnvfypxqRhTLJnIiYfnkrf5s8A=="
+    },
+    "https://smarthealthcard.iisregistry.net/newmexico/issuer#S7GOxM5DQsP-o6tbwJ-xQRWqTOsRABfZMD2N3Wc5-Hc": {
+      "displayName": {
+        "en": "NM Department of Health"
+      },
+      "displayURL": "http://vaxviewnm.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEiryLwv2+1qIGb/pGEb4wiCYFTpjW6ZeNI6T/YGexWeZWHOryRT9fGB+tM0INyO2IdGOAPukxIp25URhuK9XbyQ=="
+    },
+    "https://smarthealthcard.iisregistry.net/cnmi/issuer#3c7B_9lJp1tpByY1jBxnKpef7hNngBtujma1sa1BAdU": {
+      "displayName": {
+        "en": "CNMI Immunization Program"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE/3kkDisXHMQ4DnGOXmiUglshkJqKtv+AW7Gzmgnxt81jYLxQf+3l9GISqbPb3pZaF6mhUMcCa9C/TfynbQB2Ww=="
+    },
+    "https://smarthealthcard.iisregistry.net/guam/issuer#cr2Qyf3BnOqQCdIBIz3gzMryOTNjmybIDF7N59JJGSY": {
+      "displayName": {
+        "en": "Guam Department of Public Health & Social Services"
+      },
+      "displayURL": "https://dphss.guam.gov/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAETQJwlQ5xclSK1PGNNPcb3kEmqyKbD36yfWq3Y2nDKQvggSUNiWwp8RmucTKANT53zrDGohYrPdYYHn0j6qSvQg=="
+    },
+    "https://smarthealthcard.iisregistry.net/kentucky/issuer#KpvqpmEOig00AbPJ9PEla4mXfDLR1krwfFFN9j1Eeew": {
+      "displayName": {
+        "en": "Kentucky Registry"
+      },
+      "displayURL": "https://kyir.chfs.ky.gov/webiznet_kyir/Login.aspx",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEr8B+9ooPzWAUwFF4BkSQ27Ezee+hTbGHxWsF/SW1rCOVeQRkLXsML2xOdUy+DV0GuYs24/xWQZwJPhVuTf+8fw=="
+    },
+    "https://smarthealthcard.iisregistry.net/palau/issuer#91muGrbsWIODhKyYFvOacGujZIJrHEky5D5gI56lRak": {
+      "displayName": {
+        "en": "Palau Registry"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE84yFL987pcw2QLDhbd4FlW5kOkbjvHiJi7jDN5Jbka++/FG4hlWXVPeqLKJ6Q/eR4hUkIHLS5K3hY1bt5lSyRw=="
+    },
+    "https://smarthealthcard.iisregistry.net/colorado/issuer#_ct4HzuM-5nNMJcSyNMyp_rdMrQ__I66RVR4V4_EIy0": {
+      "displayName": {
+        "en": "State of Colorado"
+      },
+      "displayURL": "https://mycolorado.gov/myvaccine-record",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEvujlxJ7XCd6KERb8yfuYudCLwanYRX83Zi5BlwPfADZ3BN7qAEN4mauKGWjFgo1d1sHpmL8O/wLlm1X9lU/t/w=="
+    },
+    "https://smarthealthcard.iisregistry.net/rmi/issuer#CJS6fWZn_TAj28mkQj23aFEfp-qDrxDM8VY9O6huGpA": {
+      "displayName": {
+        "en": "RMI Ministry of Health and Human Services"
+      },
+      "displayURL": "https://webiz.rmihealth.org/webiznet_rmi/Login.aspx",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEgJdEnz/Pu9gfw4aZ6L3OpfdfWW4/FU/1UYgSIbQWucgHTompqNTl0FnDfuZ0CvuDnevO0q5WWnSO5cxHnGbAcA=="
+    },
+    "https://smarthealthcard.iisregistry.net/philadelphia/issuer#aXVmKxzAGg5Jv1pLzaEDDI90bKboryfrDnwiC6Qw6dw": {
+      "displayName": {
+        "en": "City of Philadelphia"
+      },
+      "displayURL": "https://vax.phila.gov/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEF6ticOSjHJlGQPrHj3RIJTCuM4HJvuEiK4yUXhkXrqGq2WkmSCD50dH/MsAPciZYQVCHMeHCVNEjGZQG4NKW+Q=="
+    },
+    "https://smarthealthcard.iisregistry.net/americansamoa/issuer#4m_Ud0LmhbJ9fXJaqbmni7tCAz_iFpwKYiUuG1FRUO8": {
+      "displayName": {
+        "en": "American Samoa"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEmoz+OUgx6SLGXVswJuAktWiWiVJuvkyrj5SODryIsKkRywaG1lkj5kKxNc+qwYeBVoxMEdqk10KuPpdYGgyofA=="
+    },
+    "https://smarthealthcard.iisregistry.net/fsm/issuer#4ySM1Xd79w8fFYwFdwD1vViBRl9nNWDhMAsFpmHImSQ": {
+      "displayName": {
+        "en": "FSM Department of Health and Social Affairs"
+      },
+      "displayURL": "https://hsa.gov.fm/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEOYg1E1gawVKsd2uzjt1vBnMUMqdGZ5aiCIHpvj/mtt6Kfr2hq59LSZjba9itY+iCIaAmq+/TavpgisB5GFHuww=="
+    },
+    "https://smarthealthcard.iisregistry.net/southcarolina/issuer#cjlJGwaFkzEElIUQP9G8DeG9N4pUcnc7CKD3Rsg6XkE": {
+      "displayName": {
+        "en": "South Carolina Department of Health and Environmental Control"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAET1g1ruvpwd8+GYo52R0Z9vCLCEM4NaZLMRArJzlp1J9FbbQy7gene02ZUyj+ALpVn9m+VQb7JHJRflRDRyWE8A=="
+    },
+    "https://smarthealthcard.iisregistry.net/arkansas/issuer#Pvsx8C-BTJ81HdK-1RZxkFc8xEIvy0V6xyGYauhdqCI": {
+      "displayName": {
+        "en": "Arkansas Department of Health"
+      },
+      "displayURL": "https://www.healthy.arkansas.gov/programs-services/topics/novel-coronavirus",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEG3I81Knqx+Ks+J1ZdoFwan1TYrzoOrMEcEGMN4bTKAImBhVCTt19JHEkSDyJxxSV+6tSX4nvcDaA3rWyUhG08A=="
     }
   }
 }
