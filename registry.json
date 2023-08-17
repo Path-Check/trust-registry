@@ -32633,6 +32633,47 @@
       "credentialType": [
         "https://smarthealth.cards#immunization"
       ]
+    },
+    "https://smarthealthcard.phsa.ca/v1/issuer#K4d6GFBAxvHUSFOU5MGaBbG4RSLlbwAQANUktxWBC0Q": {
+      "displayName": {
+        "en": "Government of British Columbia"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "K4d6GFBAxvHUSFOU5MGaBbG4RSLlbwAQANUktxWBC0Q",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "9dIUb8rfv6fHJwdCjfSHuZexXdOO0Zr6xOIOyRvbvOg",
+        "y": "9GvnfxfGZsTrXSgyeaOcmGGLQ5kd7oZon7SEjiv_5RY"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
+    },
+    "https://epicproxy.et1075.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#q6LZfDT70lWv0Mgysj0hgKlRBMi1cQ7_IGfEfOcRRkA": {
+      "displayName": {
+        "en": "Alameda Health System"
+      },
+      "displayURL": "https://www.my-ahs.org/MyChart/Authentication/Login?",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "42WLwMdWOGccfWM9QHFqhwWbd96eaDMXlQFrJ4kBKrI",
+        "y": "AgJu7scRiSxhlMeVIH8R_9UPShHNZjpmoSo7vCY-rrw",
+        "kid": "q6LZfDT70lWv0Mgysj0hgKlRBMi1cQ7_IGfEfOcRRkA",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
     }
   }
 }
