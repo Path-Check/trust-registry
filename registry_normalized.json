@@ -26251,6 +26251,19 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE42WLwMdWOGccfWM9QHFqhwWbd96eaDMXlQFrJ4kBKrICAm7uxxGJLGGUx5UgfxH/1Q9KEc1mOmahKju8Jj6uvA=="
+    },
+    "https://pvc.service.yukon.ca/issuer#oUamA58kt4bF2XQx0BSXcgwGWt3oWC66WFheXDJX4XM": {
+      "displayName": {
+        "en": "Government of Yukon"
+      },
+      "displayURL": "https://yukon.ca/en/vaccine-proof",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE+kbHP5JsAF/B5v/44jD3vHqFIP3DHnMIJa3zlMTTlSwg5X2FKb8AJuFRlcebjq9bdi9DUoUOjAbT0k1/V9UTxw=="
     }
   }
 }
