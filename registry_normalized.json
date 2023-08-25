@@ -15974,6 +15974,126 @@
       "validFromDT": "2023-08-17T21:00:00.000Z",
       "validUntilDT": "2025-08-17T20:59:59.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEE2RU+nhRA791ix8/f1KIPbadprQl7/OlTcm7iv1pxMJl1V7B4xxzZ07MFKdJWRWTtOs8vnLNrnMA+VeDHTrhkQ=="
+    },
+    "Ghtg5XgMj5I=": {
+      "displayName": {
+        "en": "Gov of Singapore"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-08-25T02:21:32.000Z",
+      "validUntilDT": "2025-08-24T02:21:32.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE6ifeGR9aQN6N/Ci6F3KMNGpCUov6CZXddDF3YEYRSI17rlb0JEEAZaOR2u81kvNEyn5rcADCn0rnEc3p1zUZIA=="
+    },
+    "2MaQkBq/xaw=": {
+      "displayName": {
+        "en": "Gov of United Kingdom"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-08-23T10:12:36.000Z",
+      "validUntilDT": "2025-08-23T10:42:36.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEJvNeHrQUMnGSMDg7HtXZAs1gMwFkLmiXmiuwT01KTeEbqqOLRWjSzWT1ljwn2s7/w5h65rkP5Jv5W0rUilMP/A=="
+    },
+    "8RWRuyf6bqw=": {
+      "displayName": {
+        "en": "Gov of United Kingdom"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-08-23T09:57:32.000Z",
+      "validUntilDT": "2025-08-23T10:27:32.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE1lzj53YL6aP0ntE97L0GSny1zputaWoRD3VS4UbwxGl84KSySzgTRY6PhOcX/d1cUNI6qgtm4WGO4BSJ7jFbeQ=="
+    },
+    "YzXjs8kCvEo=": {
+      "displayName": {
+        "en": "Gov of United Kingdom"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-08-23T09:52:07.000Z",
+      "validUntilDT": "2025-08-23T10:22:07.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE9GISDTF2cgLfEryEo2yyG+D77k9nm1xY3vYLjVdj5+Es31WZL/9q+sNmHwleDidBN0HtbTt31+T+SWM7VS5kwQ=="
+    },
+    "j8s3/3sthL8=": {
+      "displayName": {
+        "en": "Gov of United Kingdom"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-08-23T10:14:27.000Z",
+      "validUntilDT": "2025-08-23T10:44:27.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEZ7xoNu+Fnjfs50M83Cw1CMCpCCWCoi5BNBQv+TI9rep7gX+6PnL5gx8VxluBeURecnXT1yp6SaqrYUkwZameeQ=="
+    },
+    "nZJ5Lx+szLc=": {
+      "displayName": {
+        "en": "Gov of United Kingdom"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-08-23T09:53:37.000Z",
+      "validUntilDT": "2025-08-23T10:23:37.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE8DW+OxPUimg9usEZbSC1175G0NCk9DWmjVXRD5+ALLBjE1gNzh+qkv7V5gATBNGn8l0c0vkZacBgRfXlBIf0Gw=="
+    },
+    "qAT63iVBvAQ=": {
+      "displayName": {
+        "en": "Gov of United Kingdom"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-08-23T09:56:46.000Z",
+      "validUntilDT": "2025-08-23T10:26:46.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAELW708tHJr2YUDCx6N3Rmi34kb37jW+3ZgEsp4Fhd+fHHPyX5Qsa+iXzTRQE74pdTxIJxfUL6b/v+rAa0LiYAwA=="
+    },
+    "wQFKr9j/JjI=": {
+      "displayName": {
+        "en": "Gov of United Kingdom"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-08-23T09:52:50.000Z",
+      "validUntilDT": "2025-08-23T10:22:50.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE6eHs/u1ko3WlzWgVUikHG2m/Y8g8Uqk0VpkW7sbYbp4YPyLTRweQEtlkfqU6eATXHsj65bHFncKjoPgvPPShAA=="
     }
   },
   "SHC": {
