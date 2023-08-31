@@ -26384,6 +26384,2089 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE+kbHP5JsAF/B5v/44jD3vHqFIP3DHnMIJa3zlMTTlSwg5X2FKb8AJuFRlcebjq9bdi9DUoUOjAbT0k1/V9UTxw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/11e960ca-465e-403d-a8ac-dfa9be65dd83#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "University of Alabama Hospital"
+      },
+      "displayURL": "https://www.uabmedicine.org/me?_ga=2.246174851.649315599.1649955640-1679145760.1649955640",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/Vo3nb7XNL_9G2kQXBPPW3-r0QcpkrCy7#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "University of Missouri Health Care"
+      },
+      "displayURL": "https://www.muhealth.org/patient-login",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/7517efed-1048-4d65-8b97-98e147342cf5#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Baptist Health South Florida"
+      },
+      "displayURL": "https://baptisthealth.net/patient-resources/mybaptisthealth-patient-portal",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/MgfJfJ70Dbsm4ZMgvz93Y8Q5rmD9yGq5#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Memorial Hermann"
+      },
+      "displayURL": "https://accounts.everydaywell.memorialhermann.org/saml2/sso/login?authenticationRequestId=51436c78-ab1f-4145-aed2-ed0c81146139",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/29a5ccea-f4ab-4447-a191-56b20695970f#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Adventist Health"
+      },
+      "displayURL": "https://accounts.myadventisthealthportal.org/saml2/sso/login?authenticationRequestId=6b261b37-fe1b-4850-a35e-4650156f720a",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/a1b70c2c-780f-4d21-a690-3d71302d3d4f#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "CoxHealth"
+      },
+      "displayURL": "https://www.coxhealth.com/portals/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/fdqklJrzTg5-JsHjn6gcvJbZmmigMGfd#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Dignity Health"
+      },
+      "displayURL": "https://login.dignityhealth.org/#/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/c93f0ebd-007a-4296-b842-6ac2a4658eb9#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Lafayette General Medical Center"
+      },
+      "displayURL": "https://ochsnerlg.org/myhealth",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/Y62ncCuwN85GGa7s0iz44XRnQoc9qr60#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Banner Health"
+      },
+      "displayURL": "https://mybanner.bannerhealth.com/portal-login?_ga=2.211224533.1966852915.1649957132-1501833769.1649957132",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/0qElfuk7cvLgJndB7hTiCVck6NR0D5uM#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Dignity Health"
+      },
+      "displayURL": "https://login.dignityhealth.org/#/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/83090b64-9cdb-4df9-93d3-bb2473dfa7f3#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Georgia Regents Health System"
+      },
+      "displayURL": "https://www.augustahealth.org/patient-family-info/vip",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/31d3d17c-a50c-4d78-bc5b-e9716826315e#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Mission Health"
+      },
+      "displayURL": "https://missionhealth.org/patient-portal/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/208486af-ceea-4a7d-b4d7-95c884a327df#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Los Angeles County Department of Health Services"
+      },
+      "displayURL": "https://dhs.lacounty.gov/lahealthportal/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/072ee25e-9ba2-4626-bd4b-17ff1ccdc763#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "My VCU Health"
+      },
+      "displayURL": "https://www.vcuhealth.org/my-vcu-health/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/-yJKGL5-49LdGDJaxmfdb85K2Njr-hkB#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Alaska Tribal Health System"
+      },
+      "displayURL": "https://anmc.org/patients-visitors/myhealth/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/CZXZx6LxE-L3UYv_vYuZuKXOvALyMhgz#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Einstein Healthcare Network"
+      },
+      "displayURL": "https://www.einstein.edu/myhealth",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/4a2476ac-8e51-4591-af31-2fc7fcc3fc0d#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Memorial Hospital"
+      },
+      "displayURL": "https://www.mhchester.com/patient-portal",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/4nwOwRkG2bMG2PY-W1zZZrlh0VQphgtr#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "University of New Mexico"
+      },
+      "displayURL": "https://cernerhealth.com/oauth/authenticate?redirect_uri=https%3A%2F%2Fcernerhealth.com%2Fsaml%2Fsso%2Fresponse%3Fmessage_id%3D_b4db8cd8-de36-453d-9c73-46a1a8b0d1d8%26issuer%3Dhttps%253A%252F%252Fmyhealthunm.iqhealth.com%252Fsession-api%252Fprotocol%252Fsaml2%252Fmetadata&sign_in_only=on&client_id=62bd791fa5c44b1d9cc8f8b9e48b210d",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/MtxVU3dbzZwHcvfCb2vTAE2_Nwhai9Oq#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "North Kansas City Hospital and Meritas Health"
+      },
+      "displayURL": "https://www.nkch.org/meritas/for-patients/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/993df7f9-6163-4b2c-9388-9d472c4ef3f9#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Moffitt Cancer Center"
+      },
+      "displayURL": "https://my.moffitt.org/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/136fea15-c667-40bc-9ed2-b1115d62123b#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "LifeBridge Health"
+      },
+      "displayURL": "https://www.lifebridgehealth.org/Uploads/Public/enewsletters/patientportal/PatientPortal.htm",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/4ec99ef7-2f74-4efb-9ab9-a702c7c570f4#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Broward Health"
+      },
+      "displayURL": "https://www.browardhealth.org/pages/patient-portal",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/2ae7d625-833b-4a4d-a216-8fc7be3f9894#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Methodist Health System"
+      },
+      "displayURL": "https://nmhs.consumeridp.us-1.healtheintent.com/saml2/sso/login?authenticationRequestId=0ebcd58f-1f6d-459c-973e-750f1c17ba16",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/6f2341d3-c614-4a71-9cef-bdca1a222d48#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "St. Joseph's Health"
+      },
+      "displayURL": "https://www.stjosephshealth.org/portal",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/gF4lFO34tdbrCuznA3JTeuZ_9C_vRKZf#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Truman Medical Centers"
+      },
+      "displayURL": "https://www.universityhealthkc.org/patients-visitors/myuhealth/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/fjycTxieSBez9BFs-LP0YIikqnvefkZc#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Children's Hospital Los Angeles"
+      },
+      "displayURL": "https://www.chla.org/mychildrensla-patient-portal",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/929sni9vNtBT8k3NbtgAnVZlZv_TYNXC#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Stony Brook Medicine"
+      },
+      "displayURL": "https://www.stonybrookmedicine.edu/patient-portal",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/3c2e5608-7636-4d74-9aae-b044a991c609#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Barnabas Health"
+      },
+      "displayURL": "https://www.rwjbh.org/patients-visitors/patient-portal/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/8d8e2b72-238a-4f00-88a3-8ba1a0a2d561#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Cook County Health"
+      },
+      "displayURL": "https://cookcountyhealth.org/patients-visitors/mycookcountyhealth/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/9997a5fc-aad4-42a6-b005-45276937bbd0#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Olathe Health"
+      },
+      "displayURL": "https://www.olathehealth.org/patients-and-visitors/patient-portal/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/l0sV4kAP8XYUeDPWgsblj-f2yztSg0Ya#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Borgess Health Alliance Inc."
+      },
+      "displayURL": "https://healthcare.ascension.org/Patient-Resources",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/Dbsl25a-uo0gf9Q0PnfwA_QlUbZ5qTHL#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Torrance Memorial"
+      },
+      "displayURL": "https://www.torrancememorial.org/patients-visitors/portal/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/3c4a889f-c0c4-4f50-90d1-60f6a5ad9e7d#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Covenant Health"
+      },
+      "displayURL": "https://www.covenanthealth.com/mycovenanthealth/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/d88010de-d791-42d4-b72d-513f9afc5ed1#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Northside Hospital"
+      },
+      "displayURL": "https://www.northside.com/patient-portal",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/479d1758-f967-4c2c-8306-7960101dd8ca#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "University of Tennessee Medical Center"
+      },
+      "displayURL": "https://www.utmedicalcenter.org/patients-visitors/portal/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/idzZ7Xu4K4e6cf6O6PqH5zcqaSD8_vYU#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Columbia St. Mary's"
+      },
+      "displayURL": "https://healthcare.ascension.org/locations/wisconsin/wimil/milwaukee-ascension-columbia-st-marys-hospital-milwaukee/my-patient-resources",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/5d5c0d2d-0eb7-48af-8536-161bb1a08f58#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Community HealthCare System"
+      },
+      "displayURL": "https://mychart.comhs.org/MyChart/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/5ce1dfad-1169-4dc3-a793-3ed399b70e67#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Health Quest"
+      },
+      "displayURL": "https://www.nuvancehealth.org/patients-and-visitors/patient-portals",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/53c0399e-61c8-4d87-b605-11883089184d#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "My Health Kaweah Health"
+      },
+      "displayURL": "https://www.kaweahhealth.org/patients-visitors/for-patients/myhealth-kaweah-health/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/763a86fd-c545-483a-9179-bb60864b329a#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Maury Regional Health"
+      },
+      "displayURL": "https://www.mauryregional.com/patient-and-visitor-information/patient-portal",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/d63001e8-2b2d-46b2-9b8b-4bc37428b829#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Munson Healthcare"
+      },
+      "displayURL": "https://www.munsonhealthcare.org/new-patient-portals/patient-portals-home-new",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/c1a92d40-9e4c-42a9-a69d-27d782800e16#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "St. John's Health"
+      },
+      "displayURL": "https://www.stjohns.health/patients-visitors/patient-portals/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/db9c2801-7026-47b6-a85f-5d485070d969#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Western Connecticut Health Network"
+      },
+      "displayURL": "https://www.nuvancehealth.org/patients-and-visitors/patient-portals",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/a03a0cab-f0e8-4c09-b504-1f5b4ebcf684#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Ascension"
+      },
+      "displayURL": "https://healthcare.ascension.org/Patient-Resources",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/1co7TB-AnE4kKYvBDzXBJf-MlYrYrEnf#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Crittenton Hospital Medical Center"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/UMZ-Uxn6V9x08sH5gCnG-5yPg9ZX7et6#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "NorthBay Healthcare"
+      },
+      "displayURL": "https://www.northbay.org/mynorthbaydoc/index.cfm",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/mP6IHJrv4n0_mPZFBm5GcbTX3TNMQJqa#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Aultman"
+      },
+      "displayURL": "https://aultman.org/home/patients-and-visitors/patient-support/patient-portal",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/d04f75c7-2a62-4686-b520-7bf0635f38f0#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Lowell General Hospital"
+      },
+      "displayURL": "https://www.lowellgeneral.org/patients-and-visitors/for-patients/mytuftsmed",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/c5cd8f23-ae54-4fcb-84cc-92eea9354e2b#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "MIT Medical"
+      },
+      "displayURL": "https://medical.mit.edu/make-appointment/about-healthelife",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/2ee676c7-a169-4238-a242-e953ca559f22#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Tenet Healthcare Corporation"
+      },
+      "displayURL": "https://www.tenethealth.com/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/4a0f2b1c-3433-4080-963d-5ef416dec69b#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "SoutheastHEALTH"
+      },
+      "displayURL": "https://www.sehealth.org/patients-visitors/patient-portal/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/dcf3b1c6-3971-4673-962e-8b2cce0ff827#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Wyoming Medical Center"
+      },
+      "displayURL": "https://wyomingmedicalcenter.org/patients-visitors/patient-portal",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/5b3de6b7-e81f-4297-bc82-78ac9e1083cc#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Roper St. Francis Healthcare"
+      },
+      "displayURL": "https://www.rsfh.com/myhealth/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/0e5efebe-b60c-458e-971a-ee39e08a2178#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Westchester Medical Center Health Network"
+      },
+      "displayURL": "https://cernerhealth.com/oauth/authenticate?redirect_uri=https%3A%2F%2Fcernerhealth.com%2Fsaml%2Fsso%2Fresponse%3Fmessage_id%3D_47ebb130-d6b0-4029-9f56-43ff111d9888%26issuer%3Dhttps%253A%252F%252Fmycare.wmchealth.org%252Fsession-api%252Fprotocol%252Fsaml2%252Fmetadata&sign_in_only=on&client_id=4e6edfdd19dc425fa968f4266d62adbe",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/70091b8b-c363-42f8-b4d5-3b99f0fb60f1#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Clara Barton Hospital"
+      },
+      "displayURL": "https://www.clarabartonhospital.com/patient-portal-how-to",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/5bb47b8f-8587-42a0-80df-8d4eecf69db3#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Capital Health"
+      },
+      "displayURL": "https://www.capitalhealth.org/myportal",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/86c11601-5c46-46d5-a746-706bd2e9f00b#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "East Jefferson General Hospital"
+      },
+      "displayURL": "https://mylcmchealth.org/MyChart/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/iNB6hL-tYJggf7je2gx1HftngxiOxAQ3#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Lawrence Memorial Hospital"
+      },
+      "displayURL": "https://www.lmh.org/my-patient-portal/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/rbydrzVcVSCNsdQAe12aQKnP6ZixR1Uf#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "MyNCH Health Portal"
+      },
+      "displayURL": "https://nchmd.org/patients-and-visitors/health-portal/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/2RN95TVx9sVNwZUXvBjAMhoPj5vjnRtA#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "University Medical Center"
+      },
+      "displayURL": "https://www.nextmd.com/ud2/Login/Login.aspx",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/8d555f5f-2441-4690-bfdd-d2697379c3d6#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "University of South Alabama Medical Center"
+      },
+      "displayURL": "https://cernerhealth.com/oauth/authenticate?redirect_uri=https%3A%2F%2Fcernerhealth.com%2Fsaml%2Fsso%2Fresponse%3Fmessage_id%3D_0f1fe98f-2df2-4961-a115-db4d5cce0908%26issuer%3Dhttps%253A%252F%252Fmyusahealth.iqhealth.com%252Fsession-api%252Fprotocol%252Fsaml2%252Fmetadata&sign_in_only=on&client_id=427a49fe62c843b0b5222b2d44568fbd",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/4517c430-03bf-4e32-b324-1387cc4e73f3#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Central Maine Healthcare"
+      },
+      "displayURL": "https://www.cmhc.org/patients-visitors/patient-portal/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/R0BnjtS1Cg4P990d7iegvoMVqlnOQ9OI#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Billings Clinic"
+      },
+      "displayURL": "https://www.billingsclinic.com/patientconnect/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/fca878a1-6c97-4ecb-b6e7-eb5d7cde15ab#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Huntsville Hospital Health System"
+      },
+      "displayURL": "https://www.huntsvillehospital.org/patient-portal",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/46286911-5e07-45f3-b3ed-613a98a13430#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Logansport Memorial Hospital"
+      },
+      "displayURL": "https://www.logansportmemorial.org/patient-portal/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/e4a5b337-4c87-45bf-ab09-077b7fc19e84#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Monongalia General Hospital"
+      },
+      "displayURL": "https://cernerhealth.com/oauth/re-authenticate?client_id=174937a2c69b4010beba117baab5e205&redirect_uri=https://mymongen.iqhealth.com/login/cerner-health/authenticated&locale=en-us&sign_in_only=on",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/a1e8a0f5-46c8-471e-b8cc-601e5d91f41a#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Tenet HealthSystem Medical Inc."
+      },
+      "displayURL": "https://www.tenethealth.com/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/977e949f-0f0b-4a36-bf59-4f0819b90ab8#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Kaleida Health"
+      },
+      "displayURL": "https://www.kaleidahealth.org/MyKaleida/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/1ea8551e-0fb1-4703-8c98-94d25868feac#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Emory Healthcare GOLD Patient Portal"
+      },
+      "displayURL": "https://www.emoryhealthcare.org/patient-portal/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/1031a3cd-9903-4995-baa5-734895a3e2a2#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Indiana Regional Medical Center"
+      },
+      "displayURL": "https://www.irmc.org/patients-and-visitors/patient-portal/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/19553296-f85a-48c6-9c93-313791e9f18b#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Magruder Hospital"
+      },
+      "displayURL": "https://www.magruderhospital.com/patient-portal",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/AhjJMjQtLMWypw5HhAKlG2VQs9XvM676#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Methodist Le Bonheur Healthcare"
+      },
+      "displayURL": "https://www.methodisthealth.org/My-Account/Patient-Portal-Access/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/6f43d0e7-6ff2-489b-abdc-44e8a5e0ca0a#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Rutland Regional Medical Center"
+      },
+      "displayURL": "https://cernerhealth.com/oauth/re-authenticate?client_id=3c2a2cf5e54942a7acf7b071755d8127&redirect_uri=https://myrrmchealthsite.iqhealth.com/login/cerner-health/authenticated&locale=en-us&sign_in_only=on",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/049ba866-b2ee-406b-80ed-16b97b5d67e5#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Tenet HealthSystem Medical Inc."
+      },
+      "displayURL": "https://www.tenethealth.com/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/6f63686c-7a35-4489-8caf-615a181cb733#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Tenet HealthSystem Medical Inc."
+      },
+      "displayURL": "https://www.tenethealth.com/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/325e1759-f94c-41b9-87e4-ef568789898b#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Yavapai Regional Medical Center"
+      },
+      "displayURL": "https://www.yrmc.org/health-information-management/yrmc-careconnect",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/0affe579-9d95-4ec1-b178-1df7328cc0a1#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Blanchard Valley Health System"
+      },
+      "displayURL": "https://www.bvhealthsystem.org/im-a-patient/patient-portal/myhealth-patient-portal/myhealth-patient-portal",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/3N1pCmlUG0710nvlzCuO977VaU0tztwr#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Cabell Huntington Hospital and Marshall Health"
+      },
+      "displayURL": "https://cabellhuntington.org/patients-and-visitors/my-health-file/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/ab208292-75a1-4788-9fc7-1e9a40a7eee3#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Centra Health"
+      },
+      "displayURL": "https://www.centrahealth.com/HealthyU",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/TtBa6m0CO2ykz03C9oGIAfs1lSi1ZBkp#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Riverside Medical Group"
+      },
+      "displayURL": "https://www.riversidemedgroup.com/myhealth-at-riverside/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/ynC9J_dODQE9MboiEOzSXwBNhdrTWHFe#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Detroit Medical Center"
+      },
+      "displayURL": "https://www.dmc.org/portal",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/Frl5JaixaVfSFyjwSToZ4YMYtvsBctDq#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Lakeland Regional Health"
+      },
+      "displayURL": "https://www.mylrh.org/patient-portal/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/5ad9a857-21fb-4664-ba2a-5c537d9921b6#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Medical Associates Clinic"
+      },
+      "displayURL": "https://www.mahealthcare.com/patient-care-health-info/patient-station",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/0d93d980-a159-4c3e-9a19-131175682196#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Margaret Mary Health"
+      },
+      "displayURL": "https://www.mmhealth.org/for-patients/patient-portal/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/7771e67c-eed3-4c07-8b39-4ee1de7dfb76#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Pagosa Springs Medical Center"
+      },
+      "displayURL": "https://pagosaspringsmedicalcenter.org/patients-families/healthelife/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/b60a46b6-a3df-4cb6-983c-dfcc9a0589e1#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Sarah Bush Lincoln Health Center"
+      },
+      "displayURL": "https://www.sarahbush.org/patient-portal/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/11ea0cbd-06f9-4ba7-9e47-64230780fa06#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Silver Cross Hospital"
+      },
+      "displayURL": "https://www.silvercross.org/mysilvercross/mysilvercross-faqs/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/4ff3b259-e48d-4066-8b35-a6a051f2802a#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "My Ascension Seton"
+      },
+      "displayURL": "https://www.seton.net/mysetonhealth/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/0857bd9d-3fb8-4b0a-9180-f75d160828c9#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Charleston Area Medical Center"
+      },
+      "displayURL": "https://www.camc.org/patients-and-visitors/patient-information/patientlink",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/d5d04c85-2e0a-49b7-a0e9-5d5feaebb4a4#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Conway Medical Center"
+      },
+      "displayURL": "https://www.conwaymedicalcenter.com/patients-visitors/patient-portal/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/d0607508-3922-4bbc-924a-d608b5ffe3b7#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "United Medical Physicians"
+      },
+      "displayURL": "https://tvddc.mygportal.com/PP72/Account/LogOn",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/3fe59471-3589-4f65-b447-b92822bfc057#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Doctors Hospital at Renaissance"
+      },
+      "displayURL": "https://cernerhealth.com/oauth/authenticate?redirect_uri=https%3A%2F%2Fcernerhealth.com%2Fsaml%2Fsso%2Fresponse%3Fmessage_id%3D_df595312-aad7-4327-9ea6-77eb1ee048d2%26issuer%3Dhttps%253A%252F%252Fmydhr.iqhealth.com%252Fsession-api%252Fprotocol%252Fsaml2%252Fmetadata&sign_in_only=on&client_id=525f51c3d7254f3fbd9227400dd2c70b",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/caa256dd-47f1-49dc-8288-dfc601f2ffbb#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Midwest Medical Center"
+      },
+      "displayURL": "https://midwestmedicalcenter.consumeridp.us-1.healtheintent.com/saml2/sso/login?authenticationRequestId=9435c209-8ded-446f-b9cb-e7b835598b63",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/f1bb4645-ebf5-4d16-800a-fd209b7f9cb1#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Henry Community Health"
+      },
+      "displayURL": "https://www.hchcares.org/about/myhealthelife/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/52bd19c6-70df-487b-85b8-29be7abf17a1#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Pomona Valley Hospital Medical Center"
+      },
+      "displayURL": "https://www.pvhmc.org/patient-portal/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/ab796338-ac9c-40c5-863d-ce75caaa302c#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Regional Medical Center"
+      },
+      "displayURL": "https://www.trmchealth.org/patients-visitors/my-patient-record/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/2c98a2ec-4d1e-465a-85ea-978418d9b03d#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "South Central Regional Medical Center"
+      },
+      "displayURL": "https://scrmc.com/patient-portal/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/dfb1cd74-983a-49dc-aede-abe989223110#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Tenet HealthSystem Medical Inc."
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/a1e03df3-d2c1-4196-a5dc-f9fb4460babe#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Doctors Care"
+      },
+      "displayURL": "https://doctorscare.com/patientportal/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/42a1ed53-a9ac-42b2-918f-be592f726951#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Hudson Physicians, S.C"
+      },
+      "displayURL": "https://hudsonphysicians.com/iqhealth-patient-portal/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/18f5d65c-83f0-435a-868c-70ce5a6de90a#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Urology Partners of North Texas"
+      },
+      "displayURL": "https://cernerhealth.com/oauth/authenticate?redirect_uri=https%3A%2F%2Fcernerhealth.com%2Fsaml%2Fsso%2Fresponse%3Fmessage_id%3D_0c20fd87-f766-4248-93d0-9d0c74f34305%26issuer%3Dhttps%253A%252F%252F100864.iqhealth.com%252Fsession-api%252Fprotocol%252Fsaml2%252Fmetadata&sign_in_only=on&client_id=621f5d0ff53c43bba807b8c29f048657",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/44449a6c-e014-4a84-b9a2-5f63676d31de#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Ellis Medicine"
+      },
+      "displayURL": "http://www.ellismedicine.org/portal/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/64706c27-8401-4242-8ca4-f0b7c493efc2#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Fairfield Memorial Hospital"
+      },
+      "displayURL": "https://www.yourcareeverywhere.com/account/fairfield-memorial-hospital.html",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/30ec54bc-d6f1-41e4-8f29-88104e9b8ee6#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "San Juan Regional Medical Center"
+      },
+      "displayURL": "https://www.sanjuanregional.com/patientportal",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/AdmVvrbHriE7AWDLGoyfeuamNXOy9O_a#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Trinity Health North Dakota"
+      },
+      "displayURL": "https://www.trinityhealth.org/patients-visitors/patient-portal/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/870ba945-f258-4fb9-a3f5-2c79586392b9#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "UHS of Delaware, Inc - Central"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/xYxhuXIFsLg59PaSNJv_x-piAtPKX3W8#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Barnabas Health"
+      },
+      "displayURL": "https://www.rwjbh.org/patients-visitors/patient-portal/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/QvKCOrGcsj2hJ6sASbt18oYJYaBlOEXZ#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Children's National Hospital"
+      },
+      "displayURL": "https://childrensnational.org/specialty-care-patients/manage-your-care/patient-portals",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/4680ff74-0924-406e-b918-8a3dc5ea07ee#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Boca Raton Regional Hospital"
+      },
+      "displayURL": "https://www.brrh.com/Patient-Connect.aspx",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/969307fb-b249-4208-b0b4-56a6e3889e8c#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Columbus Regional Healthcare System"
+      },
+      "displayURL": "https://www.crhealthcare.org/mycolumbushealth/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/00bf2f08-38fe-4c4c-8207-96dbe42a9302#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "CarolinaEast Medical Center"
+      },
+      "displayURL": "https://www.carolinaeasthealth.com/patients-and-visitors/patient-portal/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/xGC8us00w6i72tkLoWiE0pdWD5WWsJe5#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Marcus Daly Memorial Hospital"
+      },
+      "displayURL": "https://www.bitterroothealth.org/patients-and-visitors/patient-portal/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/2e044b81-e4a1-4dfe-8ce3-5d982e938db0#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "First Choice Community HealthCare"
+      },
+      "displayURL": "https://www.fcch.com/index.php?page=patient-portal",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/175c9c17-1687-46b3-a9fa-8603ef5296b5#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Hamilton Health Care System"
+      },
+      "displayURL": "https://www.hamiltonhealth.com/patients-visitors/patient-portal-portal-el-paciente/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/b7350dfb-b26c-45d0-a644-be758c7d66ad#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Holland Hospital"
+      },
+      "displayURL": "https://www.hollandhospital.org/hh/holland-hospital-patient-portal.aspx",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/43b952fe-d2a5-473b-b04a-92c422b758a3#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Katherine Shaw Bethea Hospital"
+      },
+      "displayURL": "https://www.ksbhospital.com/patient-portal/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/80babf0e-2f7d-4b87-9cc1-ea74c9b22a40#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Missouri Delta Medical Center"
+      },
+      "displayURL": "https://www.missouridelta.com/patient-portal/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/cFBfzd-nLQ_NltNZvtkZioY0NCqOE2kf#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "NewYork-Presbyterian Brooklyn Methodist Hospital"
+      },
+      "displayURL": "https://weillcornell.org/weill-cornell-connect",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/d09b5303-02b3-4cca-b4b2-ddf355d54e88#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Plumas District Hospital"
+      },
+      "displayURL": "https://www.pdh.org/patients/healthelife",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/624a554a-fb79-4703-86d3-5d635620055e#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Stony Brook Business Ventures, LLC"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/3518be8a-ee50-46dd-887a-a3e6e4fc9294#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Sturdy Memorial Hospital and Sturdy Memorial Associates"
+      },
+      "displayURL": "https://www.sturdymemorial.org/patient-portal/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/Jst2t4B3tQ_LvMKd5zgnH8scFXxFjMAP#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Children's Mercy Hospital"
+      },
+      "displayURL": "https://www.childrensmercy.org/your-visit/patient-portal/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/94fb32bd-11fc-46c8-aef4-90035a0718bb#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "LifePoint Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/792eb4ff-2422-4781-8cdc-7969fda08ada#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Asquam Community Health Collaborative"
+      },
+      "displayURL": "https://spearehospital.com/patientportal/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/h-wugRRmXDZkm9_GMtf9rhlhb3aHTbV5#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Winona Health Services"
+      },
+      "displayURL": "https://www.winonahealth.org/patient-information/my-winona-health/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/37f6d032-7bca-45b8-891c-69b79d7f4de8#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Mineola District Hospital"
+      },
+      "displayURL": "https://minneolahealth.consumeridp.us-1.healtheintent.com/saml2/sso/login?authenticationRequestId=28186ce5-6a57-49b5-a2bb-8e4a829b6aa3",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/487b1ee3-44e2-439f-85f0-68e5e235e27a#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "University Medical Center of El Paso"
+      },
+      "displayURL": "https://cernerhealth.com/oauth/authenticate?redirect_uri=https%3A%2F%2Fcernerhealth.com%2Fsaml%2Fsso%2Fresponse%3Fmessage_id%3D_8dff90a9-ed61-426c-a68d-5ba86c83a7eb%26issuer%3Dhttps%253A%252F%252Fmyhealthep.iqhealth.com%252Fsession-api%252Fprotocol%252Fsaml2%252Fmetadata&sign_in_only=on&client_id=308ae31baf564559ab04f60a45b3a730",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/12e6e189-04bb-431f-917c-32d5c1bc83d5#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Surgery Partners - Nashville"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/d1e1772a-df16-459e-9e9d-ac11507ad967#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Fisher-Titus Medical Center"
+      },
+      "displayURL": "https://www.fishertitus.org/patients-guests/patient-portal/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/101c0869-4f3e-4fdb-af79-02ba9f712e30#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Chinese Hospital"
+      },
+      "displayURL": "https://chinesehospital-sf.org/patient-portal/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/1014839d-07f9-4c12-a617-3f1d8afea267#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "San Joaquin General Hospital"
+      },
+      "displayURL": "https://www.sanjoaquingeneral.org/portals-patient",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/8bbd570d-db8f-4e0a-abe5-48b447c735fb#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Union General Hospital"
+      },
+      "displayURL": "https://www.uniongeneralhealthsystem.com/patients/patient-portal/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/66620725-6ef3-4a7f-a15f-88b48c4af7dd#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Penn State Health St. Joseph"
+      },
+      "displayURL": "https://cernerhealth.com/oauth/authenticate?redirect_uri=https%3A%2F%2Fcernerhealth.com%2Fsaml%2Fsso%2Fresponse%3Fmessage_id%3D_e5152f71-2f8e-46d1-bfc3-b48d59c0fd54%26issuer%3Dhttps%253A%252F%252Fmypennstatehershey.iqhealth.com%252Fsession-api%252Fprotocol%252Fsaml2%252Fmetadata&sign_in_only=on&client_id=7a5c43bd406a47e0977750f9fc35cee9",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/m6q718FZg_-IH-imjhHk1P9jJGSwQzGK#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Wood County Hospital"
+      },
+      "displayURL": "https://www.woodcountyhospital.org/patients-visitors/my-health-records-information/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/b673e6c7-c87b-498f-86b2-99b24c52c924#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "West Tennessee Healthcare"
+      },
+      "displayURL": "https://www.wth.org/patient-portal/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/bef96e27-b3e6-4b62-ab3e-78a9a16c8040#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Baptist Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/WKlSSS89qvhKmD7tJUsOt0whh7EBmDD-#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "San Antonio Regional Hospital"
+      },
+      "displayURL": "https://cernerhealth.com/oauth/authenticate?redirect_uri=https%3A%2F%2Fcernerhealth.com%2Fsaml%2Fsso%2Fresponse%3Fmessage_id%3D_a8c17ce8-2847-4ab7-8465-a339755d9814%26issuer%3Dhttps%253A%252F%252F4myhealth.iqhealth.com%252Fsession-api%252Fprotocol%252Fsaml2%252Fmetadata&sign_in_only=on&client_id=3b12fc8a734b4c36b2ad8bf307180e3a",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/e6f9b4bf-142e-47be-8246-33cebe5229b6#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Keck Medicine of USC"
+      },
+      "displayURL": "https://www.keckmedicine.org/my-usc-chart/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/c2a9aaad-29f4-4d5d-87b0-388c13a9b433#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "MedStar Health"
+      },
+      "displayURL": "https://www.medstarhealth.org/mymedstar-patient-portal",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/82392e44-ab37-416a-9704-84edeee58386#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Emory BLUE Patient Portal"
+      },
+      "displayURL": "https://www.emoryhealthcare.org/patient-portal/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/c32cb33f-ec61-4f25-9140-0b9b174fe4db#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Atrium Health"
+      },
+      "displayURL": "https://my.atriumhealth.org/MyAtriumHealth",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/rii-5tqZIeHcg01uWOcN3lATP151-1Q9#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Northern Light Health"
+      },
+      "displayURL": "https://northernlighthealth.org/myNorthernLightHealth",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/5c5c3b5c-6128-40bc-b71b-102ccb82d7e7#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Coquille Valley Hospital"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/5c7467fb-60f9-4172-add4-57667a5dfcfa#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "ChristianaCare"
+      },
+      "displayURL": "https://christianacare.org/patients/myhealth/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/9NRYwNOTpYhpe-Vh6-aSWRYPlx02SAgP#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Jackson Health System"
+      },
+      "displayURL": "https://jacksonhealth.org/patient-tools/myjacksonhealth/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/QGFlV8qKdgYu-vPpMAoQW5U4Jb7riiI2#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Cayman Islands Health Services Authority"
+      },
+      "displayURL": "https://www.hsa.ky/our-services/patient-portal-info/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/TGXOUQhhs7VZuyPcDzWX45Uza-YlRb29#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Penn State Health"
+      },
+      "displayURL": "https://www.pennstatehealth.org/patients-visitors/billing-medical-records/my-health-patient-portal",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/U23aYKs_PV7Hmhkg4hb3eaygsqW71fRD#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Cerner Clinic"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-ehr.cerner.com/r4/18c2ddf7-cb55-4622-a2b3-eb9aad8f5a43#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Boston Children's Hospital Employees"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/ce02d798-0df3-49b1-b868-83babab6d7e6#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "St. Luke's Hospital"
+      },
+      "displayURL": "https://www.mystlukeschart.org/MyStLukesChart",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/Hq9lMFKIau9MlCiBN698ZPzTKNvsMrCb#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Genesis Healthcare System"
+      },
+      "displayURL": "https://genesishealth.consumeridp.us-1.healtheintent.com/saml2/sso/login?authenticationRequestId=e510d561-bef4-4e4a-8d86-e2e0c7d8bed8",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/9d2c8ef0-9a25-45b4-b53b-3738c3eda603#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "MyHealthHome"
+      },
+      "displayURL": "https://cernerhealth.com/oauth/authenticate?redirect_uri=https%3A%2F%2Fcernerhealth.com%2Fsaml%2Fsso%2Fresponse%3Fmessage_id%3D_9898b7b1-37cc-4660-950b-2f6f0c912eb4%26issuer%3Dhttps%253A%252F%252Fmyhealthhome.iqhealth.com%252Fsession-api%252Fprotocol%252Fsaml2%252Fmetadata&sign_in_only=on&client_id=ff0b09db809a42a8b121deb8b9ec7903",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/082fe843-d2e4-4f68-96c9-531186c7d48d#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "MyHealthHome"
+      },
+      "displayURL": "https://cernerhealth.com/oauth/authenticate?redirect_uri=https%3A%2F%2Fcernerhealth.com%2Fsaml%2Fsso%2Fresponse%3Fmessage_id%3D_9898b7b1-37cc-4660-950b-2f6f0c912eb4%26issuer%3Dhttps%253A%252F%252Fmyhealthhome.iqhealth.com%252Fsession-api%252Fprotocol%252Fsaml2%252Fmetadata&sign_in_only=on&client_id=ff0b09db809a42a8b121deb8b9ec7903",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/b92996e8-6deb-4500-b78a-e05435af1db3#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "MyHealthHome"
+      },
+      "displayURL": "https://cernerhealth.com/oauth/authenticate?redirect_uri=https%3A%2F%2Fcernerhealth.com%2Fsaml%2Fsso%2Fresponse%3Fmessage_id%3D_9898b7b1-37cc-4660-950b-2f6f0c912eb4%26issuer%3Dhttps%253A%252F%252Fmyhealthhome.iqhealth.com%252Fsession-api%252Fprotocol%252Fsaml2%252Fmetadata&sign_in_only=on&client_id=ff0b09db809a42a8b121deb8b9ec7903",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/9366dc53-07b6-47b5-8809-6f7b8a082b2d#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "MyHealthHome"
+      },
+      "displayURL": "https://cernerhealth.com/oauth/authenticate?redirect_uri=https%3A%2F%2Fcernerhealth.com%2Fsaml%2Fsso%2Fresponse%3Fmessage_id%3D_9898b7b1-37cc-4660-950b-2f6f0c912eb4%26issuer%3Dhttps%253A%252F%252Fmyhealthhome.iqhealth.com%252Fsession-api%252Fprotocol%252Fsaml2%252Fmetadata&sign_in_only=on&client_id=ff0b09db809a42a8b121deb8b9ec7903",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/62f3918e-1f4f-42f1-a374-2667f4059c19#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Lutheran Health Network MyHealthHome"
+      },
+      "displayURL": "https://cernerhealth.com/oauth/authenticate?redirect_uri=https%3A%2F%2Fcernerhealth.com%2Fsaml%2Fsso%2Fresponse%3Fmessage_id%3D_f52a5b97-cf66-4fd1-9586-bb373a6704c7%26issuer%3Dhttps%253A%252F%252Flutheranhealth.patientportal.us-1.healtheintent.com%252Fsession-api%252Fprotocol%252Fsaml2%252Fmetadata&sign_in_only=on&client_id=aea0e1256ae6446ca3044b73a000324d",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/16386a34-20a6-42d6-bf13-226b287a42a5#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Concord Hospital"
+      },
+      "displayURL": "https://www.concordhospital.org/patients-visitors/my-patient-connect/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/zRBZsbKdoME7HivKpjAL4ZEb8JQBD9Cn#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Genesis Health System"
+      },
+      "displayURL": "https://www.genesishealth.com/mygenesis-home/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/67ff075a-8289-4f2d-a8eb-5dc1f0d954ab#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Marshfield Clinic Health System"
+      },
+      "displayURL": "https://login.cattailsservices.com/Account/SignIn",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/7e89f9ba-2516-4eb3-98da-9f8cb196a8d0#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Southwest General Health Center"
+      },
+      "displayURL": "https://www.swgeneral.com/patients-visitors/healthelife/",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://fhir-myrecord.cerner.com/r4/4ek42qnrCibOKYPH3Swwzqc3pT1bonJw#MhFC5Nju-gakQX0lGUbkOrPzkeWSNb-iW0pHNiYERio": {
+      "displayName": {
+        "en": "Indiana University Health"
+      },
+      "displayURL": "https://myiuhealth.org/?_ga=2.30318335.1930817085.1505420414-161027848.1490886421",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
     }
   }
 }
