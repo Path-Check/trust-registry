@@ -16107,6 +16107,21 @@
       "validFromDT": "2023-09-01T10:39:00.000Z",
       "validUntilDT": "2024-03-01T11:39:00.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEWIHue7l15mrts7gmYAKNRVTM8NywBSKZP6fVBtghc0bfk8c6/5h6XaSymRQnZjTFkxqL9Ss8xchXhuBAapYkOg=="
+    },
+    "RaLXzxQ+uAI=": {
+      "displayName": {
+        "en": "Gov of Israel"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-08-21T14:13:01.000Z",
+      "validUntilDT": "2025-08-20T14:13:01.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEXTdLql8/YXqWte5Y8yEq18WVkDKA80r9BurTuhzfr7DrIw5jEudEDwb3IG0wcADfYpwVB7FT8sgG1dthkIuKuA=="
     }
   },
   "SHC": {
