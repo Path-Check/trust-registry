@@ -16122,6 +16122,36 @@
       "validFromDT": "2023-08-21T14:13:01.000Z",
       "validUntilDT": "2025-08-20T14:13:01.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEXTdLql8/YXqWte5Y8yEq18WVkDKA80r9BurTuhzfr7DrIw5jEudEDwb3IG0wcADfYpwVB7FT8sgG1dthkIuKuA=="
+    },
+    "/FnuOdYQ1tw=": {
+      "displayName": {
+        "en": "Gov of Luxembourg"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-09-05T08:37:07.000Z",
+      "validUntilDT": "2025-09-04T08:37:07.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEXLI5I2ep99APWQPEEqU4W7G381dqxFnfCmWHfI+0WkRoT+zTMyM93G56TvhXENh+dxGBAHdte4GJ+9mAOOXxRA=="
+    },
+    "KW3d5Yaibao=": {
+      "displayName": {
+        "en": "Gov of Luxembourg"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-09-05T08:36:23.000Z",
+      "validUntilDT": "2025-09-04T08:36:23.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEvKbtXjRApcRbj80jRVHAKSH9e5yzRn/OERJZUpXtaLdgD8pSGB1RsDh29uyRKjxa7tebWqXuEXhYYR+Yq+y7gA=="
     }
   },
   "SHC": {
@@ -28495,6 +28525,30 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtaEzG0kA8FVo3PTlhoh0hNLMXFNqOrQaRfbEgyfZVKL2W/md404sL1+K01a779pEVEdy9AlXa6kIGOUnUWn5kw=="
+    },
+    "https://api.cvshealth.com/public#e50JV1lD47lP__Y1gULMu4e0jLQ-DMgpbbSDKV_0KTg": {
+      "displayName": {
+        "en": "CVS Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3D35sTHWvHw6reOg7i2mUIp9jDPZStOAKlzzAcEZGbir3O93kGtGExD15WC2GVId3nFlpRUavDo5zusIFzUrODMV2mCJCbzKq5ROBFAWsPiI0RnM2MlHHwOtXXShVSIwSe6Id998d85uPQC6vnDWYtw5D+pQxkhAbN67ZNyKE3gNGSSyTOH5onY1EoboHRvLon3mEsfcVP9vdnrqmoU3rI/w7AK9FUEsyOvH28D6vhkNIQpUDQdqENvgSg8tIGmwofqjgZVi5BYOkIjrh1dgvsGUYD+l+y7G1AcV4NcAS6nua4JR+0OXEyyfovbqgJSLPgbu1W2qobcBD2lkzLqB3QIDAQAB"
+    },
+    "https://api.cvshealth.com/public#ZxkxsYTHkfH2sjvw4E527bPUJxmw-fMuT8N188cHHbE": {
+      "displayName": {
+        "en": "CVS Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAw0MPG0vsqfFZhRtTwnJYOM4igg1CwmNrGZGkan6KzTVI6j3Bd07BYxlrIZJlzupX6rdAFIYP9I6HR1hgyvMK9btYPR8krunX2jel7l6QKHBJvgfiag948wuOGzegM4+fSYCpagGp96xgWwm3pxVaZMCecHa0G1vuJk/pMoszHNr8j/eUs5OIopMCst5aRWsPZmrrWZTXK4SGHYVrARL2cx0rtbXhL6vJDlXy8Jh/MU7kLx9NFCk7L0v8MvHMyONBNt2ZydZ6whO+cPfHLwBCYYR93Lw7zjfgiSwTYKsgEPipaeZNZUS5LCXurVaxecssNw2/UYkqu/NOQQbTbW+KPbxHUqVxNvRZYHk7AYGZmhGlOmB/JuViw1Gqmu+K+4JbFwpKhIEk8CbdamoMOtPAWrOAp06o4q53SdYEtIPBfXMB612z/GZVmz+9ezBQf/cue9eotidwsJWfQuvHI3DtlzW5IgX9omuYYA0oI+4dBfD3xfcitYUIjEW6O8zZqONxCm2AWwqxnkGmXbzuLFqBC2l3oPE+p4ckeK+LSSCw5iDnUed3Kb4EyGFWU4Is59TnTlEAD7pkKav6zjFN5dKolKrh7z6Faf/k5RLxrTSH+uH2W+NV+MKyxmY/8l2r2LjD70+f6Pl6VxZYyzOd+d2R8wG1CHbC3wD3GZDaQNuf7pUCAwEAAQ=="
     }
   }
 }
