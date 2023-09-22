@@ -36299,6 +36299,27 @@
       "credentialType": [
         "https://smarthealth.cards#immunization"
       ]
+    },
+    "https://covid19.quebec.ca/PreuveVaccinaleApi/issuer#TjqsZNIpXve9Q5qoQ6OvEXIRYhBfR_8JsMAQYYTW0Xk": {
+      "displayName": {
+        "en": "Gouvernement du Québec - Government of Quebec"
+      },
+      "displayURL": "https://www.quebec.ca/vaccinationpassport",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "TjqsZNIpXve9Q5qoQ6OvEXIRYhBfR_8JsMAQYYTW0Xk",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "gtRLS4Bn8WgMdHCM2hzeFJzvztH5q9yJD99Qs1iT5zQ",
+        "y": "460QC-Lk3-rPLmUE4lEdsagHRNacnlFfEC7rkllfS88"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
     }
   }
 }
