@@ -28549,6 +28549,19 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAw0MPG0vsqfFZhRtTwnJYOM4igg1CwmNrGZGkan6KzTVI6j3Bd07BYxlrIZJlzupX6rdAFIYP9I6HR1hgyvMK9btYPR8krunX2jel7l6QKHBJvgfiag948wuOGzegM4+fSYCpagGp96xgWwm3pxVaZMCecHa0G1vuJk/pMoszHNr8j/eUs5OIopMCst5aRWsPZmrrWZTXK4SGHYVrARL2cx0rtbXhL6vJDlXy8Jh/MU7kLx9NFCk7L0v8MvHMyONBNt2ZydZ6whO+cPfHLwBCYYR93Lw7zjfgiSwTYKsgEPipaeZNZUS5LCXurVaxecssNw2/UYkqu/NOQQbTbW+KPbxHUqVxNvRZYHk7AYGZmhGlOmB/JuViw1Gqmu+K+4JbFwpKhIEk8CbdamoMOtPAWrOAp06o4q53SdYEtIPBfXMB612z/GZVmz+9ezBQf/cue9eotidwsJWfQuvHI3DtlzW5IgX9omuYYA0oI+4dBfD3xfcitYUIjEW6O8zZqONxCm2AWwqxnkGmXbzuLFqBC2l3oPE+p4ckeK+LSSCw5iDnUed3Kb4EyGFWU4Is59TnTlEAD7pkKav6zjFN5dKolKrh7z6Faf/k5RLxrTSH+uH2W+NV+MKyxmY/8l2r2LjD70+f6Pl6VxZYyzOd+d2R8wG1CHbC3wD3GZDaQNuf7pUCAwEAAQ=="
+    },
+    "https://covid19.quebec.ca/PreuveVaccinaleApi/issuer#TjqsZNIpXve9Q5qoQ6OvEXIRYhBfR_8JsMAQYYTW0Xk": {
+      "displayName": {
+        "en": "Gouvernement du Québec - Government of Quebec"
+      },
+      "displayURL": "https://www.quebec.ca/vaccinationpassport",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEgtRLS4Bn8WgMdHCM2hzeFJzvztH5q9yJD99Qs1iT5zTjrRAL4uTf6s8uZQTiUR2xqAdE1pyeUV8QLuuSWV9Lzw=="
     }
   }
 }
