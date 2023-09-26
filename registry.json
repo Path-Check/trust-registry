@@ -36320,6 +36320,27 @@
       "credentialType": [
         "https://smarthealth.cards#immunization"
       ]
+    },
+    "https://rp-prd.copcp.com/fhirProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC#eBGefdOXaJ3BzXhnAyfSVwyT1v60OFjupCF-eIpCXko": {
+      "displayName": {
+        "en": "Central Ohio Primary Care Physicians"
+      },
+      "displayURL": "https://mychart.copcp.com/mychart/Authentication/Login?",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "x": "fQQcU9LgNfCQxArxx4zPgk-hQAZ3iPVrSRVCwpP9wiI",
+        "y": "6XHh_yL14ju73tKHlfxFxqidnSXm966ou9F8iWGJBDY",
+        "kid": "eBGefdOXaJ3BzXhnAyfSVwyT1v60OFjupCF-eIpCXko",
+        "use": "sig",
+        "kty": "EC",
+        "alg": "ES256",
+        "crv": "P-256"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
     }
   }
 }
