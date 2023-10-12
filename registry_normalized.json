@@ -16180,6 +16180,21 @@
       "validFromDT": "2023-09-07T07:30:00.000Z",
       "validUntilDT": "2025-09-07T07:00:00.000Z",
       "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqJKfSglJW9euk2L8R1ZnR1Ty9VY2qlzNnZ9abulVGLZHGCL/Jk8I3OKFYSDSe5ISMw/MrTmkOk25DY0gU+dNdjdbeEcigeokhnlYkKhtllEsvPf/f2vqQoCdknmJOSEItdoHErbBI44iaGXCVrNsN54HktlAh3jmTGDom9m2n9xaXsp0W/qjqB1st0elFNwK11+/Iz0QTOzfMtclwrT+awT557xhg82X7I3gimQ49u4e3Y0VxPEDwO4HPBPYNQ0AVBdO9lpNsqmAFT3q8watWmqFn0PJpcDLcWIzLh4Ch4wUKfqPWWIEEOEvHtH9OqLu3u8tx37TlQKiRZC4E30iWQIDAQAB"
+    },
+    "k9q209dyDrg=": {
+      "displayName": {
+        "en": "Gov of Armenia"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-10-09T07:41:40.000Z",
+      "validUntilDT": "2025-10-06T07:41:40.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEDYXKSZ3WIFcuS3yEkSGhLbtwvMhycYAJVfM1r23q0tf4BqVUy/Fhv0NzzZl/RGkBdYwCRxtdjQkqEeHhr5QuqQ=="
     }
   },
   "SHC": {
