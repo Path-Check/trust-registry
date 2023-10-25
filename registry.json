@@ -36405,6 +36405,26 @@
       "credentialType": [
         "https://smarthealth.cards#immunization"
       ]
+    },
+    "https://healthpass.doh.hawaii.gov/issuer#omK3t4WoU35GO9-hPZOVA0EI-bC59m4qUxvpp3vwcDs": {
+      "displayName": {
+        "en": "Hawaii Department of Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "omK3t4WoU35GO9-hPZOVA0EI-bC59m4qUxvpp3vwcDs",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "vR-VgEjQONPXhzV1CaLdsYC3Z8QsWpsjJ3oGhArgHmM",
+        "y": "Fb8PJpjK7bpi7bNW_57Dm-C1eT4Qgtj9sw8a5vH9Pnc"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
     }
   }
 }
