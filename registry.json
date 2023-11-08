@@ -31988,6 +31988,8 @@
         "x": "TXWmbGcaaK-VCByK8_ziepSXGcwjjRWOZx0vAPUcErQ",
         "y": "ID8SUpjFnwOV-H-eGLIv4xCZzw72nCGeXzLbSUXKDQg",
         "kty": "EC",
+        "use": "sig",
+        "alg": "ES256",
         "kid": "h0MD1WZcbX37spRMaNkLGt4uzyOqzgU8DtXVLw1YmpI"
       },
       "credentialType": [
