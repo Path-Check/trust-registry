@@ -28847,6 +28847,19 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEwflad/5/Dn5mAZfjoD6tltkygP6+VVccqIY724ghyR9Q4FYkUEUNx4WfaY4e+hDHNDniqW+rgHvr99+jruzOAg=="
+    },
+    "https://vc.vrs.digital.go.jp/issuer#zAa3HKmmj-gAlTasE5Wc_7PAvY9hR_8La5XVr60E41w": {
+      "displayName": {
+        "en": "Government of Japan"
+      },
+      "displayURL": "https://www.mhlw.go.jp/stf/covid-19/certificate.html",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEdRi8CdaGq2Yn9CrHJzJgv59grO2thSOBFaMeLMYnWM4Gz7PNrNjgx8pNY78PjF/3eU2LEl6rNvlEuLJv5iYRVw=="
     }
   }
 }
