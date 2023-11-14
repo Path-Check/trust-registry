@@ -16286,6 +16286,21 @@
       "validFromDT": "2023-11-07T00:00:00.000Z",
       "validUntilDT": "2025-11-07T23:59:59.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEEaiQYCuUQ9F+SFY+GfIRKZ/ccpqgIFOF4LWzW8uM/DxO6aLLD77y6j6TClcM6o7MoZlL9XhXlhYrDgL1qxEl0Q=="
+    },
+    "N+V7PvDfvWM=": {
+      "displayName": {
+        "en": "Gov of Thailand"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-11-10T10:52:03.000Z",
+      "validUntilDT": "2025-11-10T10:52:03.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE0MoM4dYAZqIIl6+UuQIX38pmR8GImw3MyP+FJPajuBu2EbKiOHcHE0FAViuJ50UxscCYT/M5T75tZ/GMKbJsBw=="
     }
   },
   "SHC": {
