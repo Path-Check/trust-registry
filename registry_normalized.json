@@ -16301,6 +16301,21 @@
       "validFromDT": "2023-11-10T10:52:03.000Z",
       "validUntilDT": "2025-11-10T10:52:03.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE0MoM4dYAZqIIl6+UuQIX38pmR8GImw3MyP+FJPajuBu2EbKiOHcHE0FAViuJ50UxscCYT/M5T75tZ/GMKbJsBw=="
+    },
+    "DqkuHa2QZjY=": {
+      "displayName": {
+        "en": "Gov of Belgium"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-10-27T08:11:06.000Z",
+      "validUntilDT": "2025-10-27T08:11:06.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEmqeku+VXVWpGEzEBBhusmgjdB2UixUH/onBIfC2l0Nlgidtw72ZlYSFIjRSgvLDbBh91pTSXplAKppNkqmRZ3w=="
     }
   },
   "SHC": {
