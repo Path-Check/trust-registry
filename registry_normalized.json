@@ -16316,6 +16316,36 @@
       "validFromDT": "2023-10-27T08:11:06.000Z",
       "validUntilDT": "2025-10-27T08:11:06.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEmqeku+VXVWpGEzEBBhusmgjdB2UixUH/onBIfC2l0Nlgidtw72ZlYSFIjRSgvLDbBh91pTSXplAKppNkqmRZ3w=="
+    },
+    "q7HlS/YEiOI=": {
+      "displayName": {
+        "en": "Gov of Estonia"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-11-21T13:56:12.000Z",
+      "validUntilDT": "2026-05-21T13:56:12.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE79djypFIQA5db9Lke/ipmMv+ShRyYtcQ4ZUB82ieeubBYkOUQwilyFToe3/yt9WWGMc8mz07dqi9XQMKD9eCFg=="
+    },
+    "rtl7crZ9e/k=": {
+      "displayName": {
+        "en": "Gov of Estonia"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2024-05-12T01:03:34.000Z",
+      "validUntilDT": "2026-11-12T01:03:34.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEl/TTvzZqe2o/s750RDQ0JZZ5MmyGtMNVvNisZr0RU07d5eq7VkCqAe1rkBwliMgGQOySmTCP7OPOAjmHa30XfQ=="
     }
   },
   "SHC": {
@@ -28981,6 +29011,18 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEaTg+ssF2ozg+UnyoXtNhG3U8RdqVv/yv+O35uufTI5OjhtCnxn0maSqrTj+cC4IjeI34+IoLd+Dzjm+Wah9Ofw=="
+    },
+    "https://api.cvshealth.com/public#AgzEklnUEXmPjkUHPoF-yc5hdazk9pjxgBYFErhSw7U": {
+      "displayName": {
+        "en": "CVS Health"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEeB/Rhm93Aw6TSysqmc4CXz3wvvvkdB/16kuRk9DHotzwxMc4vYgEtMNVosJX3Ifxc5ToB30aXswt3OOwx+OzlQ=="
     }
   }
 }
