@@ -16346,6 +16346,19 @@
       "validFromDT": "2024-05-12T01:03:34.000Z",
       "validUntilDT": "2026-11-12T01:03:34.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEl/TTvzZqe2o/s750RDQ0JZZ5MmyGtMNVvNisZr0RU07d5eq7VkCqAe1rkBwliMgGQOySmTCP7OPOAjmHa30XfQ=="
+    },
+    "hDDXFbIM3ek=": {
+      "displayName": {
+        "en": "Gov of Lebanon"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "v"
+      ],
+      "validFromDT": "2023-12-01T11:39:00.000Z",
+      "validUntilDT": "2024-06-01T10:39:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEKr7p2UUdIOBlNizpQ+2uhemx0IIyFqg7rnF72ZGG52CTaHEayFuUDn1J3pnK/XxvoEdTQa6lUj2onkk1ryrJ3Q=="
     }
   },
   "SHC": {
