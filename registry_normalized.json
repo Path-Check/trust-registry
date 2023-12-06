@@ -29036,6 +29036,19 @@
         "https://smarthealth.cards#immunization"
       ],
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEeB/Rhm93Aw6TSysqmc4CXz3wvvvkdB/16kuRk9DHotzwxMc4vYgEtMNVosJX3Ifxc5ToB30aXswt3OOwx+OzlQ=="
+    },
+    "https://pvc.novascotia.ca/issuer#EOuSM6gyUtDNy-CnNnyrXiFG8ova46uu7gCzAPuSSx8": {
+      "displayName": {
+        "en": "Government of Nova Scotia"
+      },
+      "displayURL": "https://novascotia.ca/proof",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ],
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEEAnfQ/uTw/aEamvwpGpPb1pyRA0DePrERgSS948sJUnYhjWBHYPDrxf2vXmHROax/Gb128EVgi2NuxHLaa2EmA=="
     }
   }
 }

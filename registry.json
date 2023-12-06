@@ -36970,6 +36970,27 @@
       "credentialType": [
         "https://smarthealth.cards#immunization"
       ]
+    },
+    "https://pvc.novascotia.ca/issuer#EOuSM6gyUtDNy-CnNnyrXiFG8ova46uu7gCzAPuSSx8": {
+      "displayName": {
+        "en": "Government of Nova Scotia"
+      },
+      "displayURL": "https://novascotia.ca/proof",
+      "entityType": "issuer",
+      "status": "current",
+      "validFromDT": "2021-01-01T01:00:00.000Z",
+      "didDocument": {
+        "kty": "EC",
+        "kid": "EOuSM6gyUtDNy-CnNnyrXiFG8ova46uu7gCzAPuSSx8",
+        "use": "sig",
+        "alg": "ES256",
+        "crv": "P-256",
+        "x": "EAnfQ_uTw_aEamvwpGpPb1pyRA0DePrERgSS948sJUk",
+        "y": "2IY1gR2Dw68X9r15h0Tmsfxm9dvBFYItjbsRy2mthJg"
+      },
+      "credentialType": [
+        "https://smarthealth.cards#immunization"
+      ]
     }
   }
 }
