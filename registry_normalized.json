@@ -6482,7 +6482,7 @@
         "en": "Gov of Andorra"
       },
       "entityType": "issuer",
-      "status": "current",
+      "status": "terminated",
       "validFromDT": "2021-09-05T11:57:22.000Z",
       "validUntilDT": "2023-09-05T11:57:22.000Z",
       "credentialType": [
@@ -12200,7 +12200,7 @@
         "en": "Gov of Andorra"
       },
       "entityType": "issuer",
-      "status": "current",
+      "status": "terminated",
       "credentialType": [
         "t",
         "v",
