@@ -16359,6 +16359,21 @@
       "validFromDT": "2023-12-01T11:39:00.000Z",
       "validUntilDT": "2024-06-01T10:39:00.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEKr7p2UUdIOBlNizpQ+2uhemx0IIyFqg7rnF72ZGG52CTaHEayFuUDn1J3pnK/XxvoEdTQa6lUj2onkk1ryrJ3Q=="
+    },
+    "nHVlbyUFoXs=": {
+      "displayName": {
+        "en": "Gov of the Holy See (Vatican City State)"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-12-19T08:19:00.000Z",
+      "validUntilDT": "2025-06-22T07:32:00.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEkzjoV9zFJbALcW/tdnwNk2i/xNn13/omxXAMgF+ngK1eO9hJlkDlBvUs7yNLw5Nm837PqjCyhusPiq+vibndrw=="
     }
   },
   "SHC": {
