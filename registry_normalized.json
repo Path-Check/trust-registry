@@ -16389,6 +16389,21 @@
       "validFromDT": "2022-09-26T11:30:00.000Z",
       "validUntilDT": "2024-09-26T11:29:00.000Z",
       "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE4DSFHyGk/ZJW/UTHTVg8P33l2MCUCv/zWIYxmALjFd43egsoRTXbcWrrpAdQivYm6bXGtO5Kyh+v+o4tsJotdg=="
+    },
+    "DLKkMq7LMy8=": {
+      "displayName": {
+        "en": "Gov of Singapore"
+      },
+      "entityType": "issuer",
+      "status": "current",
+      "credentialType": [
+        "t",
+        "v",
+        "r"
+      ],
+      "validFromDT": "2023-12-26T02:39:22.000Z",
+      "validUntilDT": "2025-12-25T02:39:22.000Z",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEULrFToCk6X5y4yt+6jY/p8bR0du2CFLS0yCKVWDjkqiv3Tt5xTwDeeANhDWPRiI2q1nUVaCe/txco0emBJBpRg=="
     }
   },
   "SHC": {
