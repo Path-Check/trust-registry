@@ -1,8 +1,14 @@
 name: Daily Update of the Registry
 
+# on:
+#   schedule:
+#     - cron: "0 12 * * *"
+
 on:
-  schedule:
-    - cron: "0 12 * * *"
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
 
 jobs:
   update-registry:
